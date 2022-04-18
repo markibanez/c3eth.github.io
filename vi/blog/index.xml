@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tòa thị chính Catalyst Eastern – Trang cá nhân Docsy</title><link>/vi/blog/</link><description>Recent content in Trang cá nhân Docsy on Tòa thị chính Catalyst Eastern</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/vi/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Buổi họp Thị trấn Đông bán cầu thứ 8</title><link>/vi/blog/2021/09/18/bu%E1%BB%95i-h%E1%BB%8Dp-th%E1%BB%8B-tr%E1%BA%A5n-%C4%91%C3%B4ng-b%C3%A1n-c%E1%BA%A7u-th%E1%BB%A9-8/</link><pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate><guid>/vi/blog/2021/09/18/bu%E1%BB%95i-h%E1%BB%8Dp-th%E1%BB%8B-tr%E1%BA%A5n-%C4%91%C3%B4ng-b%C3%A1n-c%E1%BA%A7u-th%E1%BB%A9-8/</guid><description>
+&lt;img src="/vi/blog/2021/09/18/bu%E1%BB%95i-h%E1%BB%8Dp-th%E1%BB%8B-tr%E1%BA%A5n-%C4%91%C3%B4ng-b%C3%A1n-c%E1%BA%A7u-th%E1%BB%A9-8/featured-sunset-get_hu5f299b5f3d0d701c1ef5afe858e66b6a_91467_640x0_resize_q75_catmullrom.jpg" width="640" height="253"/>
+&lt;p>Một buổi gặp mặt tuyệt vời, nơi chúng tôi bắt đầu nói về Ideafest, Cardano Summit và Hackathons sắp tới. Rất nhiều gương mặt quen thuộc đã tham gia vào một cuộc thảo luận sâu sắc về Lừa đảo và phát hiện Lừa đảo. Dẫn đầu bởi Peter Bùi. Chúng tôi cũng thảo luận về bot giao dịch, các ứng dụng Xã hội và Môi trường và đề cập đến Đồng ổn định.&lt;/p>
+&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
+&lt;img class="card-img-top" src="/vi/blog/2021/09/18/bu%E1%BB%95i-h%E1%BB%8Dp-th%E1%BB%8B-tr%E1%BA%A5n-%C4%91%C3%B4ng-b%C3%A1n-c%E1%BA%A7u-th%E1%BB%A9-8/featured-sunset-get_hu5f299b5f3d0d701c1ef5afe858e66b6a_91467_600x300_fill_q75_catmullrom_smart1.jpg" width="600" height="300">
+&lt;div class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text"> Tìm nạp và chia tỷ lệ hình ảnh trong Hugo 0.43 sắp tới. &lt;small class="text-muted">&lt;br/>Photo: Eastern Hemisphere Townhall / CC-BY-CA&lt;/small>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;p>Vấn đề đầu tiên của bài đăng này chỉ định các thuộc tính được gán cho tất cả các tài nguyên hình ảnh:&lt;/p>
+&lt;pre tabindex="0">&lt;code>resources:
+- src: &amp;#34;**.{png,jpg}&amp;#34;
+title: &amp;#34;Image #:counter&amp;#34;
+params:
+byline: &amp;#34;Photo: Riona MacNamara / CC-BY-CA&amp;#34;
+&lt;/code>&lt;/pre>&lt;p>Để đưa hình ảnh vào một trang, hãy chỉ định các chi tiết của nó như sau:&lt;/p>
+&lt;pre tabindex="0">&lt;code>
+&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
+&lt;img class="card-img-top" src="/vi/blog/2021/09/18/bu%E1%BB%95i-h%E1%BB%8Dp-th%E1%BB%8B-tr%E1%BA%A5n-%C4%91%C3%B4ng-b%C3%A1n-c%E1%BA%A7u-th%E1%BB%A9-8/featured-sunset-get_hu5f299b5f3d0d701c1ef5afe858e66b6a_91467_600x300_fill_q75_catmullrom_smart1.jpg" width="600" height="300">
+&lt;div class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+Fetch and scale an image in the upcoming Hugo 0.43.
+&lt;small class="text-muted">&lt;br/>Photo: Eastern Hemisphere Townhall / CC-BY-CA&lt;/small>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/code>&lt;/pre>&lt;p>Hình ảnh sẽ được hiển thị ở kích thước và từng dòng được chỉ định trong vấn đề phía trước.&lt;/p></description></item></channel></rss>

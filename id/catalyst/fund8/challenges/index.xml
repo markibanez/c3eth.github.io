@@ -1,0 +1,923 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Catalyst Eastern Town Hall – Fund 8 Challenges</title><link>/id/catalyst/fund8/challenges/</link><description>Recent content in Fund 8 Challenges on Catalyst Eastern Town Hall</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/id/catalyst/fund8/challenges/index.xml" rel="self" type="application/rss+xml"/><item><title>Catalyst: DApps dan Integrasi</title><link>/id/catalyst/fund8/challenges/dapps-and-integrations/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/dapps-and-integrations/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$2.500.000 dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383335">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Aplikasi apa yang akan paling bernilai bagi pengguna pada tahun 2022?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Dapps dan integrasi berkualitas akan meningkatkan utilitas dan adopsi Cardano. Tantangan pendanaan yang luas seperti ini akan mendorong lebih banyak proposal.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Aplikasi baru yang layak dibangun pada Cardano menarik pengguna. Dan integrasi berhasil menarik lebih banyak penggunaan.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;p>Untuk menilai tantangan, kami akan bertanya pada diri sendiri: Apakah upaya kami telah berhasil menarik pengguna ke platform? Apakah upaya kami telah menghasilkan aplikasi baru yang layak dibangun dalam Cardano?&lt;/p>
+&lt;p>Membiarkan &amp;ldquo;keluaran aplikasi&amp;rdquo; dan &amp;ldquo;transaksi aplikasi&amp;rdquo; menjadi keluaran dan transaksi yang menggunakan alamat skrip pada aplikasi, dan &amp;ldquo;token aplikasi&amp;rdquo; menjadi token yang dikeluarkan oleh aplikasi.&lt;/p>
+&lt;h3 id="penggunaan-aplikasi-yang-dikembangkan-selama-tantangan">Penggunaan aplikasi yang dikembangkan selama tantangan:&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah/pertumbuhan keluaran aplikasi&lt;/li>
+&lt;li>Jumlah/pertumbuhan transaksi aplikasi&lt;/li>
+&lt;li>Total volume ADA yang terlibat dalam transaksi aplikasi&lt;/li>
+&lt;li>Total/pertumbuhan penggunaan sumber daya oleh aplikasi&lt;/li>
+&lt;li>Jumlah/pertumbuhan alamat berbeda yang disebutkan dalam transaksi aplikasi&lt;/li>
+&lt;/ul>
+&lt;h3 id="jika-aplikasi-menggunakan-token">Jika aplikasi menggunakan token:&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah/pertumbuhan token aplikasi&lt;/li>
+&lt;li>Jumlah/pertumbuhan alamat berbeda yang menyimpan token aplikasi&lt;/li>
+&lt;li>Kelangsungan aplikasi yang dikembangkan selama tantangan:&lt;/li>
+&lt;li>Berapa banyak aplikasi yang masih dikembangkan pada akhir tahun 2022?&lt;/li>
+&lt;li>Berapa banyak aplikasi yang menghasilkan keuntungan bagi pembuatnya?&lt;/li>
+&lt;li>Berapa banyak tim yang membuat aplikasi tumbuh selama tahun 2022?&lt;/li>
+&lt;li>Berapa banyak tim yang membangun aplikasi yang membangun (atau berencana membangun) aplikasi lain?&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Cardano adalah ekosistem yang memiliki ciri khas dengan melalui penelitian yang ketat dan berusaha untuk melakukan sesuatu dengan benar. Kami berharap semua proyek dApp yang mengajukan permohonan pendanaan untuk mencapai tingkat sertifikasi setinggi mungkin. Untuk memahami apa yang dimaksud dalam praktiknya, silakan tonton video Charles Hoskinson tentang topik ini: &amp;ldquo;Sertifikasi DApp dan Kurasi Komunitas&amp;rdquo;.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Y7zcYSQarI0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Tantangan ini cocok untuk perusahaan teknologi atau blockchain yang tergabung dan proyek lebih besar dengan tim kompeten yang telah menerapkan MVP. Idealnya, ini adalah proyek teruji yang telah memiliki basis pengguna. Proyek yang memenuhi kriteria tersebut dipersilakan untuk mengajukan lebih dari $100.000 jika itu dapat dipertanggungjawabkan dan dianggarkan dengan jelas.&lt;/p>
+&lt;p>Untuk tim yang lebih kecil (4-5 orang) dengan kompetensi yang telah teruji, pengalaman yang relevan, dan keterampilan teknis dengan sketsa/&lt;i>whitepaper&lt;/i> yang merinci bagaimana mereka akan meluncurkan proposalnya, anggaran biasanya berkisar antara $40.000-$80.000.&lt;/p>
+&lt;p>Untuk orang-orang dengan latar belakang yang relevan tetapi tanpa tim lengkap atau laporan lengkap yang merinci solusinya, proyek harus dianggap sebagai proyek tahap penelitian dan anggaran harus kurang dari $10.000.&lt;/p>
+&lt;h3 id="pertanyaan-panduan">Pertanyaan panduan&lt;/h3>
+&lt;ul>
+&lt;li>Apa saja aplikasi utama yang menopang ekosistem aplikasi di platform lain?&lt;/li>
+&lt;li>Apa aplikasi yang paling menguntungkan atau paling banyak digunakan di ekosistem lain?&lt;/li>
+&lt;li>Kebutuhan apa yang dibutuhkan pengguna Cardano yang dapat diselesaikan dengan aplikasi baru?&lt;/li>
+&lt;li>Aplikasi apa yang memberikan nilai tertinggi dengan kecanggihan teknis paling sedikit?&lt;/li>
+&lt;/ul>
+&lt;h3 id="potensi-tujuan">Potensi Tujuan&lt;/h3>
+&lt;ul>
+&lt;li>&lt;i>Swap&lt;/i>, baik varian sederhana maupun mewah (multi-partai, dll.)&lt;/li>
+&lt;li>&lt;i>Escrow&lt;/i>, baik varian sederhana maupun mewah&lt;/li>
+&lt;li>Integrasi dengan produk yang ada&lt;/li>
+&lt;li>Pasar atau fasilitator NFT&lt;/li>
+&lt;li>Solusi memanfaatkan kekuatan &lt;i>smart contract&lt;/i>&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Dapps Pembangun Negara</title><link>/id/catalyst/fund8/challenges/nation-buidling-daaps/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/nation-buidling-daaps/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" class="">
+&lt;p>Ukuran Dana: &lt;strong>800.000 USD dibayarkan di Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383828">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Solusi inti Dapp Pembangun Negara apa yang dapat disediakan untuk memperoleh banyak pengguna di negara berkembang?&lt;/p>
+&lt;h3 id="mengapa-ini-penting">Mengapa ini penting?&lt;/h3>
+&lt;p>Untuk negara-negara miskin yang tidak memiliki fondasi dasar, solusi Dapp Pembangunan Negara akan menjadi fondasi yang memungkinkan kemakmuran berkelanjutan.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Meningkatkan penggunaan Dapp di negara berkembang, bekerja sama dengan Pusat Komunitas Lokal Cardano dan Kemitraan Internasional untuk melayani masyarakatnya&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah proposal&lt;/li>
+&lt;li>Proposal peringkat CA&lt;/li>
+&lt;li>Keragaman kasus penggunaan Dapp&lt;/li>
+&lt;li>Pendekatan komersial dari proposer (pengusul proposal) dan strategi negosiasi dengan pemerintah-pemerintah yang berbeda&lt;/li>
+&lt;li>Partisipasi Pusat Komunitas Lokal Cardano&lt;/li>
+&lt;li>Partisipasi dan/atau kemitraan dengan organisasi internasional lainnya&lt;/li>
+&lt;li>Jumlah negara yang dicakup, kontrak ditandatangani&lt;/li>
+&lt;li>Jumlah pengguna Dapp, akun registri, volume transaksi&lt;/li>
+&lt;li>Tenggang waktu Proposer dalam penelitian lapangan, pengembangan dan implementasi Dapp&lt;/li>
+&lt;li>Dapps berdampak pada inklusi sosial/keuangan&lt;/li>
+&lt;li>Dapps berdampak pada pembangunan ekonomi&lt;/li>
+&lt;/ul>
+&lt;h2 id="ringkasan-tantangan">Ringkasan Tantangan&lt;/h2>
+&lt;p>Bagi negara-negara miskin yang tidak memiliki fondasi untuk berdiri, solusi Dapp Pembangunan Negara akan menjadi blok-blok bangunan yang memungkinkan kemakmuran berkelanjutan. Laporan Findex 2017 menunjukkan bahwa sekitar seperempat orang dewasa yang tidak memiliki rekening bank termasuk dalam 20 persen rumah tangga termiskin di negara mereka. Proposal di Dapps Pembangunan Negara akan dapat membantu memberikan identitas digital kepada orang-orang ini dan membantu mereka keluar dari kemiskinan. Kami ingin mendorong solusi blockchain Cardano yang akan dapat memberi negara-negara dengan solusi terdesentralisasi untuk infrastruktur mereka dengan menghilangkan satu titik kegagalan, melindungi data, properti, dan aset nasional, perusahaan, dan individu.&lt;/p>
+&lt;p>&lt;a href="https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf">https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf&lt;/a>&lt;/p>
+&lt;p>Proposal Dapp harus mencakup solusi Registry dasar, yaitu:&lt;/p>
+&lt;p>ID Nasional Catatan Sipil, Pendaftaran Properti, Riwayat Medis Vaksinasi, Sensus Pendidikan, Layanan Pendapatan, Melayani Bisnis, Pemungutan Suara, Pengawasan Bea Cukai Perbatasan, Catatan Kriminal, Sensus Ketenagakerjaan, Pendaftaran Kendaraan, Perizinan Sertifikasi.&lt;/p>
+&lt;p>Sebelum mengumpulkan, Proposer perlu meninjau solusi Atala Prism IOHK/ EMURGO dengan referensi penggunaan kasus pada aplikasi sistem registri terintegrasi yang saat ini diterapkan di negara-negara kaya.&lt;/p>
+&lt;p>Selanjutnya proposer disarankan untuk memperoleh basis pengetahuan atas penelitian yang dilakukan dalam tiga dekade terakhir mengungkap penyebab &amp;ldquo;misterius&amp;rdquo; dari kemiskinan di negara-negara dunia ketiga oleh ekonom Hernando de Soto. Buku terlampir, &amp;ldquo;The Mystery of Capital,&amp;rdquo; adalah referensi yang bagus untuk masuk ke konteks bagi siapa saja yang terlibat dalam mengembangkan proposal untuk tantangan ini.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Catatan:&lt;/strong>&lt;/em> Anggaplah pemerintah dari rakyat, untuk rakyat dan oleh rakyat.&lt;/p>
+&lt;h4 id="video-perkenalan">Video Perkenalan&lt;/h4>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/WaDP0n4pV84" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Catalyst: Ekosistem Pengembang</title><link>/id/catalyst/fund8/challenges/developer-ecosystem/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/developer-ecosystem/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$1.000.000 dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/384822">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kami dapat menciptakan pengalaman positif bagi developer yang membantu developer fokus dalam membangun aplikasi sukses?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Menciptakan pengalaman luar biasa yang mendorong developer, akan mengarah pada peningkatan adopsi, produktivitas, dan kreativitas developer.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Cardano memiliki ekosistem developer yang luas, developer dapat meningkatkan skala bisnis mereka dengan memonetisasi layanan yang mereka berikan.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;p>Tolak ukur utama&lt;/p>
+&lt;p>Di akhir tantangan ini, kami akan bertanya pada diri sendiri: Apakah kami berhasil mempermudah developer untuk membangun di atas Cardano?&lt;/p>
+&lt;ul>
+&lt;li>Mengisi celah yang teridentifikasi dalam tahap eksplorasi&lt;/li>
+&lt;li>Jumlah developer yang secara aktif membangun di dalam Cardano&lt;/li>
+&lt;li>Jumlah repo di Github menggunakan &lt;i>tooling&lt;/i>. (Peningkatan bulanan)&lt;/li>
+&lt;li>Kurangi waktu tunggu komunikasi tak terjawab dengan developer menjadi 24 jam&lt;/li>
+&lt;li>Rasa kebersamaan dan percakapan. Memiliki orang-orang di sekitar untuk diajak bicara&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;h4 id="pertanyaan-panduan">Pertanyaan Panduan&lt;/h4>
+&lt;ul>
+&lt;li>Alat apa yang perlu kita prioritaskan terlebih dahulu&lt;/li>
+&lt;li>Bagaimana kami menarik developer dari luar komunitas kami untuk berpartisipasi di Catalyst saat ini?&lt;/li>
+&lt;li>Apa yang diinginkan developer, dan bagaimana mereka mendapatkannya dari ekosistem developer Cardano?&lt;/li>
+&lt;li>Apa yang membuat developer termotivasi untuk mengerjakan dokumen dan kode, bagaimanapun sulitnya membuat aplikasi?&lt;/li>
+&lt;li>Apa yang dicari oleh manajer developer dalam perusahaan agar dapat membangun proyek perusahaan - baik internal maupun komersial?&lt;/li>
+&lt;/ul>
+&lt;h4 id="potensi-tujuan">Potensi Tujuan&lt;/h4>
+&lt;ul>
+&lt;li>Produktivitas developer: IDE, skrip untuk pengotomasian&lt;/li>
+&lt;li>Basis pengetahuan Dokumentasi&lt;/li>
+&lt;li>Kerangka kerja penerapan, pengujian, dan pemantauan&lt;/li>
+&lt;li>Contoh, resep, dan pola&lt;/li>
+&lt;li>Hackathon&lt;/li>
+&lt;li>DEFI dan tokenisasi&lt;/li>
+&lt;li>Dasbor&lt;/li>
+&lt;li>API, dan oracle.&lt;/li>
+&lt;li>Struktur pendukung&lt;/li>
+&lt;li>Struktur insentif&lt;/li>
+&lt;/ul>
+&lt;h3 id="bagaimana-hal-ini-dibandingkan-dengan-tantangan-ekosistem-pengembangan-iopen-sourcei">Bagaimana hal ini dibandingkan dengan tantangan Ekosistem Pengembangan &lt;i>Open Source&lt;/i>?&lt;/h3>
+&lt;p>Bedanya ada di judul. Meskipun kami mendukung &lt;i>open source&lt;/i>, kami menyadari bahwa tidak semua tim berada pada titik di mana mereka merasa nyaman atau mampu untuk terbuka dalam solusi mereka. Beberapa API mungkin merupakan &lt;i>closed source&lt;/i> selamanya, tetapi tetap memberikan nilai positif secara keseluruhan untuk ekosistem Cardano. Jika Anda sepenuhnya menggunakan &lt;i>open source&lt;/i> sejak hari pertama, pastikan untuk mengikuti tantangan Ekosistem Pengembangan &lt;i>Open Source&lt;/i> (jika merupakan pilihan). Kami mendukung Anda. Kami percaya, bagaimanapun, ada ruang untuk keduanya saat ini.&lt;/p>
+&lt;p>&lt;i>Town Hall Catalyst&lt;/i> mulai 1 Desember 2021 memiliki ruang pertemuan yang didedikasikan untuk mendiskusikan hal ini. Setelah tersedia, hal ini harus dilampirkan sebagai komentar.&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088">https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088&lt;/a>&lt;/p></description></item><item><title>Catalyst: Ekosistem Pengembangan Open-Source</title><link>/id/catalyst/fund8/challenges/open-source-development-ecosystem/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/open-source-development-ecosystem/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" class="">
+&lt;p>Ukuran Dana: &lt;strong>1,200,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382213">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26434/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita dapat memastikan bahwa ekosistem Cardano dibangun di atas kerangka kerja yang dimiliki oleh komunitas dan dapat diakses secara merata oleh semua orang?&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Kami perlu menumbuhkan seluruh ekosistem para ahli untuk membangun dan memelihara fondasi Cardano/Catalyst bersama dengan tim IOG saat ini&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Semakin banyak para ahli yang bergabung untuk membangun secara kolaboratif infrastruktur, peralatan, standar, &amp;ldquo;libraries&amp;rdquo;, dan dokumen milik komunitas&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>meningkatkan jumlah dan kualitas proyek Open-Source Cardano&lt;/li>
+&lt;li>menambah jumlah kontributor&lt;/li>
+&lt;li>peningkatan alat dan kerangka kerja open-source dari komunitas untuk komunitas (dog-fooding)&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Pada iterasi pertama, Catalyst dimulai sebagai Tantangan yang diajukan oleh tim Catalyst. Awalnya, sebagian besar anggarannya ditujukan untuk Ekosistem Pengembang. Misalnya, di &amp;ldquo;Fund 6&amp;rdquo;, Ekosistem Pengembang diberi 1 juta USD, yaitu 25% dari total 4 juta yang tersedia untuk &amp;ldquo;Fund&amp;rdquo;.&lt;/p>
+&lt;p>Di &amp;ldquo;Fund 7&amp;rdquo;, Catalyst melepaskan kontrol anggaran kepada komunitas, yang dapat memilih tujuan pendanaan melalui pemungutan suara. Sayangnya, tantangan Ekosistem Pengembang yang diajukan untuk F7 ditolak karena tidak mendapat cukup suara. Hal ini menyebabkan kurangnya aliran sumber daya penting yang dapat digunakan untuk pengembangan teknologi Cardano.&lt;/p>
+&lt;h3 id="tantangan-ekosistem-pengembang-open-source-tepos">Tantangan Ekosistem Pengembang Open-Source (TEPOS)&lt;/h3>
+&lt;p>Tantangan TEPOS bertujuan untuk menyediakan aliran sumber daya kepada tim yang ingin mengembangkan proyek mereka dan berkontribusi kembali ke komunitas dengan berbagi bagian dari upaya mereka dalam hal proyek open-source, kerangka kerja open-source, dan pengetahuan yang dapat diakses.&lt;/p>
+&lt;p>Ide utamanya adalah bahwa proyek yang didanai oleh komunitas dapat menghasilkan nilai bisnis yang dipertahankan oleh tim, dan pada saat yang sama berkontribusi kembali kepada komunitas dengan meningkatkan ekosistem itu sendiri.&lt;/p>
+&lt;p>Misalnya, sebuah tim dapat didanai untuk mengembangkan sebuah proyek; menghasilkan nilai bisnis dengan memanfaatkan ide yang menguntungkan, dan berbagi bagian non-bisnis inti dari pekerjaan mereka dalam hal pengetahuan bersama atau dalam hal membangun kerangka kerja atau proyek dengan tim lain - sedemikian rupa sehingga memungkinkan untuk memecahkan masalah kompleks dengan menggabungkan pikiran dan membagi upaya di tim yang berbeda.&lt;/p>
+&lt;h3 id="motivasi">Motivasi&lt;/h3>
+&lt;p>Catalyst ada untuk secara bertahap bekerja menuju tahap akhir dari peta jalan Cardano: Voltaire. Kami sedang membangun perangkat untuk mendukung bentuk tata kelola dan kolaborasi baru, di atas teknologi yang masih dikembangkan. Pengembangan teknologi ini sendiri, pada akhirnya, harus menjadi bagian dari proses yang sama juga. Tugas yang kompleks dan menakutkan seperti itu membutuhkan para ahli dari berbagai disiplin ilmu untuk bekerja sama dengan tujuan yang sama.&lt;/p>
+&lt;h4 id="pertanyaan-panduan">Pertanyaan panduan&lt;/h4>
+&lt;ul>
+&lt;li>Bagaimana kita dapat memastikan upaya masa depan mendapat manfaat dari pekerjaan yang didanai hari ini?&lt;/li>
+&lt;li>Bagaimana kita menyelaraskan antara upaya komunitas open-source yang berbeda?&lt;/li>
+&lt;li>Apa langkah selanjutnya untuk memadukan pengembangan IOG dengan komunitas?&lt;/li>
+&lt;li>Bagaimana kita dapat mendorong para ahli untuk berkolaborasi dan berbagi pengetahuan dan pekerjaan mereka?&lt;/li>
+&lt;li>Bagaimana kita dapat mengembangkan ekosistem yang berkelanjutan sambil berbagi pengetahuan dan upaya?&lt;/li>
+&lt;/ul>
+&lt;h4 id="kemungkinan-arah">Kemungkinan arah&lt;/h4>
+&lt;ul>
+&lt;li>Pendidikan untuk pengembangan di ekosistem Cardano Catalyst&lt;/li>
+&lt;li>Mengembangkan perangkat umum, kerangka kerja, infrastruktur inti, atau bukti konsep&lt;/li>
+&lt;li>Sistem insentif untuk pengembangan hosting&lt;/li>
+&lt;li>Repositori umum yang diaudit tinjauan umum dari solusi yang ada&lt;/li>
+&lt;li>Menyelenggarakan acara untuk menyatukan ekosistem pengembang&lt;/li>
+&lt;li>Kolaborasi untuk meningkatkan interoperabilitas dalam ekosistem&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Gamers On-Chained</title><link>/id/catalyst/fund8/challenges/gamers-on-chained/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/gamers-on-chained/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>500,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381329">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26440/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Aplikasi game Blockchain apa yang harus dikembangkan untuk mencapai adopsi massal Cardano?&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Gamer siap memasuki crypto. Mereka hanya membutuhkan blockchain yang jelas dengan aplikasi yang menyenangkan untuk digunakan.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Cardano menjadi blockchain pilihan untuk mengembangkan aplikasi game karena peralatannya berkualitas dan basis pengguna yang luas yang berpusat pada gamer.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;p>Metrik Utama untuk diukur&lt;/p>
+&lt;ul>
+&lt;li>Total pengguna aplikasi berbasis game yang dibangun di Cardano&lt;/li>
+&lt;li>Jumlah aplikasi berbasis game yang dibangun/dibangun di Cardano&lt;/li>
+&lt;li>Jumlah nilai yang dibuat oleh gamer dalam aplikasi play-to-earn&lt;/li>
+&lt;li>Jumlah CNFT yang dibuat khusus untuk bermain game&lt;/li>
+&lt;li>Jumlah fungible token yang dibuat khusus untuk bermain game&lt;/li>
+&lt;li>Jumlah konten kreator berbasis game yang datang ke Cardano&lt;/li>
+&lt;li>Jumlah turnamen game yang diselenggarakan untuk aset asli Cardano&lt;/li>
+&lt;li>Jumlah proposal yang diajukan untuk tantangan ini&lt;/li>
+&lt;li>Jumlah komentar dan pujian yang diberikan untuk proposal yang diajukan&lt;/li>
+&lt;li>Jumlah ADA yang memilih proposal dalam tantangan ini&lt;/li>
+&lt;li>Jumlah Dompet yang dipilih untuk proposal dalam tantangan ini&lt;/li>
+&lt;li>Jumlah dan evolusi token dan dompet berbasis game&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Kami perlu meningkatkan kesadaran merek Catalyst di antara komunitas pengusaha game dan mengusulkan cara bagi para gamer untuk bergabung ke dalam ekosistem Cardano melalui hal yang mereka sukai, game. Proposal ini dapat berupa pembuatan game berbasis Cardano, alat pengembang atau SDK untuk pengembangan game berbasis Cardano, layer blockchain yang terintegrasi dengan game yang ada, atau apa pun yang memprioritaskan gamer atau pengembang game sebagai pengguna akhirnya.&lt;/p>
+&lt;p>Ada 2,5 miliar gamer di luar sana. Para gamer ini mencari rute mereka ke dunia crypto dengan cara yang menyenangkan dan bermanfaat. Mari sediakan mereka perpustakaan permainan dan integrasi untuk dipilih, memperkuat Cardano sebagai jalan menuju blockchain untuk bermain game.&lt;/p>
+&lt;p>Mari kita hubungkan para gamer ini.&lt;/p></description></item><item><title>Catalyst: Identitas Berdaulat</title><link>/id/catalyst/fund8/challenges/self-sovereign-identity/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/self-sovereign-identity/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$400.000 dibayarkan dalam bentuk ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/380986">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26451/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita dapat mengambil langkah lanjutan dalam mendukung prinsip-prinsip identitas berdaulat?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Kami memiliki potensi untuk menjadi pemimpin dalam ekosistem SSI, memastikan kepercayaan dan memberikan setiap individu kendali atas identitas digital mereka.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Menerima proyek berkualitas tinggi; meningkatnya partisipasi dalam diskusi SSI; bermitra dengan ekosistem, tata kelola, dan kelompok kerja&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah proposal yang secara langsung menangani SSI dengan cara yang terukur&lt;/li>
+&lt;li>Kualitas proposal diukur dari minat dan keterlibatan masyarakat&lt;/li>
+&lt;li>Kesadaran akan Cardano di dalam komunitas SSI, kelompok kerja, dan entitas tata kelola&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Proyek Catalyst menginjak Dana 6 dan Dana 7 telah mempromosikan proyek yang mendorong adopsi Identitas Terdesentralisasi dan Atala Prism SDK. Selain itu, kelompok pertama adalah bagian dari Program Perintis Atala PRISM dan yang kedua telah siap untuk dimulai.&lt;/p>
+&lt;p>Jumlah dan kualitas proyek yang diajukan sejauh ini dan keterlibatan komunitas dalam masalah Identitas Terdesentralisasi adalah indikator yang jelas bahwa &lt;strong>Cardano siap untuk membuat langkah besar untuk mengatasi semua aspek ekosistem Identitas Berdaulat.&lt;/strong>&lt;/p>
+&lt;p>Tantangan ini mencari proyek yang membantu memposisikan Cardano sebagai salah satu pemimpin di ruang SSI. Dengan cakupan yang lebih luas daripada tantangan sebelumnya, kami berharap tantangan ini dapat mengatasi semua lapisan yang ditentukan oleh &lt;i>Trust over IP Foundation&lt;/i>.&lt;/p>
+&lt;h4 id="beberapa-arahan-yang-dapat-diambil-oleh-proyek-adalah">Beberapa arahan yang dapat diambil oleh proyek adalah:&lt;/h4>
+&lt;ul>
+&lt;li>Pertumbuhan partisipasi dan adopsi&lt;/li>
+&lt;li>Portabilitas&lt;/li>
+&lt;li>Kegunaan dan aksesibilitas&lt;/li>
+&lt;li>Kerangka kerja pemerintahan&lt;/li>
+&lt;li>Interoperabilitas&lt;/li>
+&lt;li>Privasi dan pengungkapan secara minimal (&lt;i>Zero Knowledge Proofs&lt;/i>)&lt;/li>
+&lt;li>Keamanan&lt;/li>
+&lt;li>Peraturan&lt;/li>
+&lt;li>Model bisnis&lt;/li>
+&lt;li>Integrasi NFT dan Kontrak Cerdas&lt;/li>
+&lt;li>Kepercayaan pendaftar&lt;/li>
+&lt;li>Ekuitas dan inklusi&lt;/li>
+&lt;li>Implikasi filosofis&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Kolaborasi Lintas Rantai</title><link>/id/catalyst/fund8/challenges/cross-chain-collaboration/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/cross-chain-collaboration/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$400.000 dibayarkan dalam bentuk ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381705">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita bisa membuat koneksi dan kolaborasi antara Cardano dan blockchain lainnya dalam enam bulan ke depan?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Interoperabilitas blockchain dan kesadaran terhadap &lt;i>multi-chain&lt;/i> menjamin keberhasilan ekonomi kripto bersama secara keseluruhan.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Penciptaan nilai kolaboratif antara proyek Catalyst dan komunitas lain. Baik inisiatif teknis maupun non-teknis dipersilakan.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;p>Sasaran objektif dalam mengukur keberhasilan:&lt;/p>
+&lt;ul>
+&lt;li>Pertumbuhan volume transaksi mainnet dan testnet&lt;/li>
+&lt;li>Jumlah proposal termasuk peserta dari komunitas blockchain lainnya&lt;/li>
+&lt;li>Jumlah implementasi teknis yang menghubungkan Cardano ke blockchain lain&lt;/li>
+&lt;li>Ide dari rantai lain yang diterapkan oleh Catalyst&lt;/li>
+&lt;li>Proyek dan dApps dari rantai lain yang diimplementasikan di Cardano&lt;/li>
+&lt;li>Solusi yang dibuat oleh Catalyst yang diadopsi oleh rantai/komunitas lain&lt;/li>
+&lt;li>Jumlah acara / lokakarya / sesi yang diatur dengan komunitas lain&lt;/li>
+&lt;li>Jumlah inisiatif permanen dengan tim lintas rantai (anggota dari komunitas blockchain yang berbeda secara bersama-sama)&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Keberhasilan Bitcoin melahirkan banyak cabang eksperimen dan kedatangan Ethereum meningkatkan tribalisme. Seiring bertambahnya jumlah altcoin, &amp;ldquo;maksimalisme&amp;rdquo; yang tidak sehat muncul. Namun multi-rantai adalah masa depan, dan ekonomi kripto berkembang pesat ketika interoperabilitas dan kolaborasi lintas-rantai dihargai dan didorong.&lt;/p>
+&lt;p>Ada beberapa blockchain generasi berikutnya dengan kader pendukung yang bersemangat, pengembang yang sangat terampil, dan teknologi inovatif yang dapat dipelajari oleh Cardano dan Project Catalyst. Dan, sebaliknya, kami dapat membantu jaringan lain berkembang dengan menawarkan praktik yang dikembangkan di Catalyst. IOG baru-baru ini membentuk aliansi UTXO dan memulai kolaborasi dengan banyak mitra seperti COTI dan SingularityNET. Ini adalah awal yang baik namun diperlukan lebih banyak untuk mengatasi kurangnya komunikasi, koordinasi, dan kolaborasi antara komunitas blockchain. Hilangnya kesadaran akan perbuatan satu sama lain memaksa kita untuk menduplikasi usaha kita. Ketika kita terpisah, kita tidak dapat belajar dari pencapaian atau kegagalan satu sama lain.&lt;/p>
+&lt;p>Cardano memiliki komunitas yang kuat, terbuka, dan inklusif, mari jadikan ini kekuatan super yang nyata dan mari menjadi yang pertama menjalin ikatan yang kuat. Mari kita ciptakan lingkungan yang memperkaya, terbuka, dan aman, di mana orang-orang dari komunitas yang berbeda dapat menemukan kesamaan dan berbagi pengetahuan, sumber daya, keterampilan, ide, dan visi satu sama lain. Ayo pergi ke sana, hilangkan silo dan bangun jembatan dan kehadiran di antara kita.&lt;/p>
+&lt;p>&lt;strong>Berikut adalah beberapa contoh entitas, komunitas, dan proyek DLT/Blockchain yang potensial untuk dijelajahi dan dikolaborasikan:&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Cosmos&lt;/strong> , menjuluki dirinya sebagai Internet untuk Blockchains, memudahkan blockchain lain untuk terhubung melalui protokol Komunikasi Inter-Blockchain (IBC) mereka. Proyek besar seperti Binance Smart Chain, Terra, Thorchain, dan Oasis Network dibangun di atas Cosmos SDK.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://tendermint.com/sdk/">TenderMint&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://v1.cosmos.network/intro">Cosmos Intro&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cosmos.network/ecosystem/apps">Cosmos Network&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://wiki.polkadot.network/docs/learn-video-tutorials">Polkadot&lt;/a> (dan jaringan canary-nya &lt;strong>Kusama&lt;/strong> ) adalah desain yang ringan dan dapat diperbarui dengan cepat di mana &lt;i>Relay Chain&lt;/i> menawarkan keamanan bersama dan komunikasi lintas-rantai, memungkinkan Parachains yang terhubung untuk fokus pada penyebaran layanan yang cepat. Mekanisme pinjaman yang unik mengundang komunitas pemegang token untuk menyuarakan proyek mana yang harus diimplementasikan terlebih dahulu. Jaringan Proof of Stake yang dinominasikan juga menawarkan mekanisme tata kelola yang canggih.&lt;/p>
+&lt;p>&lt;a href="https://www.algorand.com/technology">Algorand&lt;/a> yang mengesankan secara akademis dan berteknologi tinggi memiliki mekanisme konsensus yang unik, Pure Proof of Stake dan kita dapat belajar banyak dari model tata kelola mereka.&lt;/p>
+&lt;p>Menawarkan keluaran lebih dari 4.500 tps dan finalitas yang hampir instan, Avalanche yang kompatibel dengan EVM dengan cepat menjadi pilihan utama untuk beberapa proyek DeFi. Avalanche memiliki arsitektur multi-rantai inovatif yang memanfaatkan teknologi DAG dan Blockchain.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.avax.network">Avax&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Contoh lain bisa misalnya &lt;a href="https://fantom.foundation/intro-to-fantom">Fantom&lt;/a> , &lt;a href="https://solana.com/ecosystem">Solana&lt;/a> , &lt;a href="https://www.iota.org/">IOTA&lt;/a> , &lt;a href="https://polygon.technology/get-started">Polygon&lt;/a> , &lt;a href="https://www.nervos.org">Nervos&lt;/a> atau &lt;strong>komunitas apa pun yang siap untuk realitas multi-rantai&lt;/strong> . Atau proposal dapat berasal dari proyek / solusi yang dibangun di atas semua ini.&lt;/p>
+&lt;h3 id="proposal-yang-dapat-anda-kirimkan-untuk-tantangan-ini">Proposal yang dapat Anda kirimkan untuk tantangan ini&lt;/h3>
+&lt;p>Ini adalah tantangan terbuka yang menyambut setiap proposal yang ditujukan untuk kolaborasi lintas rantai, inovasi bersama, dan interoperabilitas. Ini bisa berupa proyek, inisiatif, solusi, alat, atau layanan yang dipimpin komunitas. Hal ini dapat berarti sebagai berikut:&lt;/p>
+&lt;ul>
+&lt;li>Implementasi teknis baru yang menghubungkan Cardano ke blockchain lain dan sebaliknya (SDK, API, jembatan, dll)&lt;/li>
+&lt;li>Ide tata kelola dari rantai lain diimplementasikan sebagai bagian dari peta jalan Voltaire&lt;/li>
+&lt;li>Proyek yang sudah sukses berkembang dari rantai lain ke Cardano&lt;/li>
+&lt;li>Perluasan proyek berbasis Cardano ke rantai lain&lt;/li>
+&lt;li>Oracle dan alat lain untuk menafsirkan dan berinteraksi dengan data lintas rantai&lt;/li>
+&lt;li>Solusi yang dibuat oleh Catalyst yang diadopsi oleh rantai dan komunitas lain&lt;/li>
+&lt;li>Proyek penelitian, pendidikan, penjangkauan, dan inovasi bersama dengan jaringan dan komunitas lain (misalnya podcast, hackathon, webinar, pusat komunikasi, sumber daya pendidikan)&lt;/li>
+&lt;/ul>
+&lt;h3 id="tim-tantangan">Tim Tantangan&lt;/h3>
+&lt;p>Kami adalah anggota komunitas Catalyst berpengalaman dan &amp;ldquo;maksimalis interoperabilitas&amp;rdquo; yang tidak percaya bahwa rantai mana pun harus mengatur semuanya.&lt;/p>
+&lt;ul>
+&lt;li>Filip Blagojevi adalah anggota Project Catalyst yang aktif sejak pelatihan Fund 2, Plutus Pioneer, Atala Pioneer, dan Emurgo Academy.&lt;/li>
+&lt;li>Tomi Astikainen adalah Penasihat Komunitas Veteran yang baru-baru ini menulis buku untuk calon investor kripto. Dia adalah Duta Besar Senior untuk Acala/Karura dan seorang pemegang kemudi dalam komunitas Polkadot/Kusama di Finlandia.&lt;/li>
+&lt;li>Felix Weber adalah anggota Project Catalyst yang aktif, Cardano Ambassador dan inisiator/pemimpin dari beberapa Project dan inisiatif yang dipimpin komunitas.&lt;/li>
+&lt;/ul>
+&lt;h3 id="penilaian-kami-tentang-kematangan-tantangan-yang-diusulkan-ini">Penilaian kami tentang kematangan tantangan yang diusulkan ini:&lt;/h3>
+&lt;p>Tumpukan teknologi Cardano akhirnya cukup matang untuk mulai mengundang proposal dalam kolaborasi lintas rantai dan interoperabilitas. Tantangan yang kami usulkan sengaja dibiarkan terbuka dan menyambut banyak solusi berbeda. Ide-ide bermanfaat yang diajukan dalam tantangan ini akan membantu menumbuhkan dan meningkatkan komunitas Cardano dan Catalyst dalam waktu dekat (6-9 bulan ke depan).&lt;/p>
+&lt;p>Oleh karena itu, tantangan ini selaras dengan tujuan strategis Fund8:&lt;/p>
+&lt;ul>
+&lt;li>Hal ini membantu mempersiapkan orang dalam memberikan kontribusi pada ekosistem Cardano dan Catalyst.&lt;/li>
+&lt;li>Hal ini membantu mengubah Cardano menjadi proyek sumber terbuka yang diakui juga di luar komunitas kami.&lt;/li>
+&lt;li>Hal ini mempercepat pertumbuhan dan evolusi ekosistem pengembang aplikasi kami dengan mengundang kontribusi dari ruang blockchain lainnya.&lt;/li>
+&lt;/ul>
+&lt;p>Anggaran $400.000 adalah 2,5%, sebuah nilai moderat dari total alokasi perbendaharaan untuk Fund8. Anggaran ini harus cukup untuk memulai interoperabilitas dan inisiatif kolaborasi lintas rantai tetapi mungkin tidak cukup untuk proyek infrastruktur skala besar. Oleh karena itu, &lt;strong>kami mendorong pengajuan proposal &amp;ldquo;minimal layak&amp;rdquo; dan &amp;ldquo;bukti konsep&amp;rdquo; yang mencakup visi dan peta perjalanan jangka panjang yang cakupan awalnya cukup kecil&lt;/strong> .&lt;/p></description></item><item><title>Catalyst: Melobi untuk undang-undang yang menguntungkan</title><link>/id/catalyst/fund8/challenges/lobbying-for-favorable-legislation/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/lobbying-for-favorable-legislation/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>300.000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381094">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita dapat mempertahankan diri dari serangan pemerintah dan mengkompromikan undang-undang dan kebijakan pajak yang tidak adil secara berkelanjutan?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Sehingga kami memiliki undang-undang yang menguntungkan, privasi, pengurangan pajak, dan lingkungan yang positif untuk adopsi cryptocurrency secara massal.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Kita berhasil menunda atau membalikkan undang-undang yang membahayakan adopsi kripto dan mendukung komunitas dan organisasi lokal seperti Coincenter&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah yurisdiksi yang mendukung setelah di lobi&lt;/li>
+&lt;li>Jumlah undang-undang yang telah dimodifikasi&lt;/li>
+&lt;li>Jumlah ahli dalam regulasi, pengacara, dan anggota lain yang terlibat&lt;/li>
+&lt;li>Jumlah kemitraan dan kolaborasi dengan organisasi dan nirlaba yang bekerja untuk tujuan yang sama&lt;/li>
+&lt;li>Jumlah suara politisi yang terlibat&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Gagasan di balik tantangan ini adalah untuk mendanai spesialis dalam regulasi, pengacara, dan politisi yang dapat mempromosikan penciptaan lingkungan hukum yang lebih menguntungkan atau kurang berbahaya bagi ruang kripto, dengan fokus pada PoS dan ciri khas Cardano.&lt;/p>
+&lt;p>Melalui tantangan ini, kami dapat mendanai proposal yang mengupayakan adopsi Cardano dalam yurisdiksi tertentu, seperti yang terjadi baru-baru ini dengan Bitcoin di El Salvador.&lt;/p>
+&lt;p>&lt;a href="https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first">https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first&lt;/a>&lt;/p>
+&lt;p>Melobi dan mendidik politisi rasional sehingga menjadi mungkin untuk memohon pembuatan aturan yang lebih menguntungkan tentang perpajakan, penggunaan cryptocurrency, dan privasi yang lebih besar bagi pengguna cryptocurrency.&lt;/p>
+&lt;p>Pada Agustus 2021, Senat AS memilih undang-undang tak kenal ampun tentang ekosistem crypto. Kami memiliki sedikit suara untuk membela komunitas kami di kelas politik. Inisiatif seperti Coin Center sangatlah penting untuk mempertahankan komunitas kita. Bagaimana kita bisa mempertahankan diri dari serangan oleh pemerintah otoriter dan undang-undang tidak berkompromi?&lt;/p>
+&lt;p>&lt;a href="https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what">https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what&lt;/a>&lt;/p></description></item><item><title>Catalyst: Mempercepat Identitas Terdesentralisasi</title><link>/id/catalyst/fund8/challenges/accelerate-decentralized-idenity/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/accelerate-decentralized-idenity/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" class="">
+&lt;p>Ukuran Dana: &lt;strong>500,000 USD dibayarkan di Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383978">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26443/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Solusi apa yang dapat kami kembangkan dan terapkan dengan Atala PRISM untuk memberikan dampak dan peluang paling positif bagi pertumbuhan Cardano yang cepat.&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Dengan mengidentifikasi kredensial bernilai tinggi, kami dapat membuat kerangka kerja tata kelola untuk meluncurkan program percontohan dan mendorong pertumbuhan.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Temukan pola berulang yang membuka kemampuan kami untuk memanfaatkan infrastruktur terdesentralisasi Cardano. Identifikasi kredensial bernilai tinggi.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah percontohan produksi yang direalisasikan atau peluncuran pada tahun 2022&lt;/li>
+&lt;li>Penemuan pola berulang dalam kasus penggunaan&lt;/li>
+&lt;li>Jumlah penerbit, pemegang, dan verifikator&lt;/li>
+&lt;li>Jumlah verifikasi yang dilakukan pada kredensial dalam produksi&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Tantangan kami adalah evolusi tantangan adopsi identitas desentralisasi massal (DID) dari Pendanaan Putaran 6, menghubungkan semua yang kami pelajari dengan kelompok pertama Program Perintis PRISM Atala.&lt;/p>
+&lt;p>Kelompok kedua Program Perintis Atala PRISM akan dimulai setelah Catalyst Fund 7 selesai. Antara sekarang dan nanti, setiap anggota Komunitas Catalyst yang terinspirasi untuk menulis proposal akan mendapatkan akses ke materi kursus kohort pertama Program Perintis Atala PRISM di atas Canvas. Harap kirimkan proposal Anda di Ideascale, termasuk alamat email Anda, untuk mendapatkan undangan ke Canvas.&lt;/p>
+&lt;p>Dengan akses ini, Anda akan bergabung dengan komunitas Atala PRISM yang sedang berkembang. Tim produk dan teknisi Atala PRISM kami akan tersedia melalui saluran Discord khusus. Penyertaan dalam kerangka tata kelola Grup Layanan Profesional kami. Akses ke fireside chats dengan para pemimpin teratas di ruang SSI, tempat kita akan membahas tren, kasus penggunaan, dan banyak lagi. Selain itu, kami akan mendukung pertumbuhan kredensial bernilai tinggi dan memungkinkan mitra mulai dari konsep, pengembangan, hingga komersialisasi.&lt;/p>
+&lt;h2 id="area-fokus">Area Fokus&lt;/h2>
+&lt;h3 id="interoperabilitas">Interoperabilitas&lt;/h3>
+&lt;p>Sebagian besar kredensial digital ada di buku besar Hyperledger Indy, termasuk yang dikeluarkan oleh pemerintah di Jerman, Kanada, dan Inggris.&lt;/p>
+&lt;p>Platform dengan kinerja terbaik akan memperoleh pangsa pasar terbesar. Untuk berbagai alasan, kami yakin platform kami lebih unggul. Oleh karena itu, Cardano dan Atala PRISM harus menyertakan rencana untuk berinteraksi dengan ekosistem lain ini untuk memaksimalkan pangsa pasar.&lt;/p>
+&lt;p>Kami mendorong proposal Catalyst untuk mencapai interoperabilitas penuh. Hasil kerja harus mengoptimalkan pengalaman pengguna (UX) untuk kredensial Atala PRISM sambil tetap kompatibel dengan platform lain.&lt;/p>
+&lt;h3 id="pemerintahan-sendiri-dari-emergent-communities">Pemerintahan Sendiri dari Emergent Communities&lt;/h3>
+&lt;h5 id="tata-kelola-dao-dalam-praktik">Tata Kelola DAO dalam Praktik&lt;/h5>
+&lt;p>Undang-undang baru di Wyoming memungkinkan organisasi terdesentralisasi otomatis (DAO) terdaftar di negara bagian. Kami menantang komunitas untuk mendirikan DAO di bawah undang-undang baru. Hal ini dapat mengatur dampak atau tujuan pengembangan dengan sumber daya bersama yang diatur oleh DAO.&lt;/p>
+&lt;p>Kami ingin tahu apakah komunitas kami mengusulkan DAO. Dengan proposal yang didanai, kami dapat memfasilitasi perkenalan dengan pakar hukum di Wyoming.&lt;/p>
+&lt;p>Proposal harus mempertimbangkan penyisihan dana untuk biaya hukum untuk mendirikan DAO dan dokumentasi hukum.&lt;/p>
+&lt;h5 id="pola-kesamaan">Pola Kesamaan&lt;/h5>
+&lt;p>Kami mendapat inspirasi dari karya Trust Over IP Foundation dan prinsip-prinsip dari &amp;lsquo;Pola Kesamaan.&amp;rsquo; Kami melihat potensi inovasi dengan menghubungkan komunitas dengan minat yang sama di bawah prinsip-prinsip ini.&lt;/p>
+&lt;p>Bagaimana prinsip-prinsip ini dapat menjadi kode plug-and-play sebagai teknologi primitif yang dapat dimanfaatkan oleh komunitas lain dan membuka kunci pertumbuhan dan adopsi eksponensial?&lt;/p>
+&lt;p>Kami tertarik untuk menjelajahi taman bermain yang kaya akan ide dan membawanya ke implementasi dunia nyata di Cardano dan Atala PRISM.&lt;/p>
+&lt;h5 id="pendidikan-karir-dan-emergent-reputation-primitives">Pendidikan, Karir, dan Emergent Reputation Primitives&lt;/h5>
+&lt;p>Banyak proyek yang didanai Pioneer dan Catalyst mendukung program pendidikan dan karir. Salah satu karakteristik yang menentukan dari pendekatan ini adalah penciptaan alternatif untuk pendidikan terakreditasi dan jalur karir.&lt;/p>
+&lt;p>Kami membutuhkan komunitas kami untuk berpikir tentang mengembangkan teknologi dan governance primitives untuk mendukung komunitas mana pun yang ingin membangun jalur pendidikan dan karier baru dengan menyediakan alat:&lt;/p>
+&lt;ul>
+&lt;li>Untuk mendatangkan pakar dan guru baru&lt;/li>
+&lt;li>Bagi orang-orang di komunitas untuk berkembang dan tumbuh&lt;/li>
+&lt;li>Untuk menjaga reputasi sebagai karyawan yang terampil, buruh, konsultan, mentor, guru, dll.&lt;/li>
+&lt;/ul>
+&lt;p>Ketika standar reputasi berubah, kita membutuhkan cara untuk menyembuhkan diri sendiri dan memantau diri sendiri terhadap aktor yang buruk, tindakan yang berbahaya, atau hasil yang buruk.&lt;/p>
+&lt;p>&lt;strong>Rantai Pasokan Melingkar&lt;/strong>&lt;/p>
+&lt;p>Rantai pasokan global berfokus pada penciptaan infrastruktur ekonomi baru. Tujuannya adalah mengganti atau mengintegrasikan dengan sistem lama seperti pencatatan, bill of lading, sistem pencatatan yang dikelola secara terpusat, dan jaringan distribusi. Sentralisasi memiliki banyak tantangan, salah satunya adalah kurangnya ketahanan dalam rantai pasokan global, seperti yang telah kita semua lihat dan terus alami di era COVID.&lt;/p>
+&lt;p>Rantai pasokan cenderung mulai terdesentralisasi. Pasar dan rute perdagangan muncul dari dasar pasar produsen dan digabungkan ke dalam rantai pasokan terpusat, yang akhirnya turun ke konsumen. Kami ingin mengeksplorasi pola perdagangan baru dalam rantai pasokan dari bawah ke atas yang dapat membuka dan memperluas jaringan reputasi lokal ke pasar yang saat ini tidak dapat diakses, seperti:&lt;/p>
+&lt;ul>
+&lt;li>pertanian regeneratif&lt;/li>
+&lt;li>Seni produksi lokal&lt;/li>
+&lt;li>Bentuk lain dari perdagangan lokal&lt;/li>
+&lt;/ul>
+&lt;p>Di sisi lain, distribusi atau demand-driven commerce berpotensi membangun kekuatan pasar dari bawah ke atas yang dapat melibatkan rantai pasokan industri global dengan cara yang tidak mungkin dilakukan tanpa membangun suara dan kekuatan ekonomi masyarakat secara digital.&lt;/p>
+&lt;p>Untuk tantangan rantai pasokan, kami ingin menjawab dua tantangan signifikan:&lt;/p>
+&lt;h5 id="masalah-produsen-kecil">Masalah Produsen Kecil&lt;/h5>
+&lt;p>Bagaimana kita bisa menciptakan transparansi saat proses bottom-up memenuhi rantai pasokan industri, memotong pasar distribusi terpusat, dan terhubung langsung ke konsumen?&lt;/p>
+&lt;p>Misalnya, produsen kecil seperti peternakan keluarga di Wyoming tidak memiliki cara untuk mendapatkan informasi tentang nilai produk mereka melalui jaringan agregasi dan distribusi global ini. Saat ini, solusi seperti proyek BeefChain mendukung peternak kecil.&lt;/p>
+&lt;p>Ada banyak masalah yang harus diatasi. Misalnya, pabrik pengemasan adalah titik masuk ke agregasi, jadi ada sedikit atau tidak ada insentif untuk berurusan dengan produsen kecil. Kami ingin mengatasi masalah ini dengan membangun alat serba guna untuk membantu masyarakat dalam mengatur dan mengatur produksi sendiri sesuai dengan standar yang disepakati. Kami mengusulkan bahwa jika komunitas ini dapat terhubung dan tumbuh, mereka akan:&lt;/p>
+&lt;ul>
+&lt;li>Jangkau pasar melalui saluran distribusi alternatif ke rantai pasokan industri&lt;/li>
+&lt;li>Mampu bernegosiasi sebagai komunitas untuk persyaratan yang lebih baik agar nilai produk mereka diakui, didistribusikan, dan dijual dengan nilai yang utuh baik secara komersial maupun reputasi.&lt;/li>
+&lt;/ul>
+&lt;h5 id="masalah-proses-terakhir">Masalah Proses Terakhir&lt;/h5>
+&lt;p>Bagaimana distributor lokal di pasar lokal berinteraksi dengan rantai pasokan industri global dan diberi akses ke pasar yang jika tidak, tidak dapat diakses karena kurangnya identitas ekonomi atau modal untuk mengakses barang pada skala yang dibutuhkan oleh rantai pasokan industri?&lt;/p>
+&lt;p>Tantangan ini berkaitan dengan pendistribusian produk yang diperlukan ke komunitas lokal dengan sedikit pengaruh pasar atau akses ke alat keuangan, seperti kredit, untuk berinteraksi dengan rantai pasokan industri. Kami sedang mencari alat dari bawah ke atas untuk membangun jaringan komunitas. Delegasi di komunitas tersebut dapat mengakses keuangan dan kredit yang diperlukan untuk berinteraksi dengan rantai pasokan industri pada skala ekonomi yang diperlukan untuk transaksi.&lt;/p>
+&lt;p>Contoh dari masalah ini adalah memberikan pasokan perawatan kesehatan ke pedesaan dan negara berkembang dan ekonomi. Dana dari para donatur, pemerintah, dan sumber-sumber lain tersedia untuk pengadaan obat-obatan tersebut. Donor hanya akan mengeluarkan dana setelah pengiriman diverifikasi, dan perusahaan pemasok medis hanya akan mengirim barang ke pelabuhan setelah pembayaran diterima.&lt;/p>
+&lt;p>Namun, usaha kecil lokal harus menjaga transparansi dan pengawasan barang selama pengiriman dan penerimaan. Bisnis ini tidak memiliki dana atau kemampuan untuk meminjam modal untuk menutupi biaya persediaan medis dari pengiriman di pelabuhan ke rumah sakit dan klinik yang membutuhkannya.&lt;/p>
+&lt;p>Mengatasi tantangan kesenjangan keuangan sangat penting. Kami percaya bahwa ada potensi besar untuk menciptakan jaringan dari bawah ke atas dari individu dan usaha kecil tepercaya untuk mengisi celah ini.&lt;/p>
+&lt;h5 id="garis-besar-bahasa-pola-yang-diusulkan-contoh">Garis Besar Bahasa Pola yang Diusulkan (contoh)&lt;/h5>
+&lt;p>&lt;strong>Primitif&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Identitas Digital&lt;/li>
+&lt;li>Kredensial yang Dapat Diverifikasi (VC)&lt;/li>
+&lt;li>Permintaan Presentasi yang Dapat Diverifikasi&lt;/li>
+&lt;li>Bukti Presentasi yang Dapat Diverifikasi&lt;/li>
+&lt;li>Mata uang kripto&lt;/li>
+&lt;li>Token yang tidak dapat dipertukarkan (NFT)&lt;/li>
+&lt;li>Kontrak pintar&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Pola&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Registri Kepercayaan&lt;/li>
+&lt;li>Kerangka Tata Kelola&lt;/li>
+&lt;li>Registri Token Terkurasi&lt;/li>
+&lt;li>Pengakuan anggota komunitas dan proses orientasi&lt;/li>
+&lt;li>Membangun Reputasi Individu&lt;/li>
+&lt;li>Komunitas sebagai keseluruhan kelompok berinteraksi dengan pihak eksternal&lt;/li>
+&lt;li>Anggota masyarakat sebagai individu berinteraksi dengan pihak luar&lt;/li>
+&lt;li>Media pertukaran komunitas&lt;/li>
+&lt;li>Pengakuan Trust Registry eksternal&lt;/li>
+&lt;li>Pengakuan Kerangka Tata Kelola eksternal&lt;/li>
+&lt;li>Penerimaan Kerangka Tata Kelola oleh pihak eksternal&lt;/li>
+&lt;/ul>
+&lt;p>Dengan latar belakang tersebut, kami mengusulkan proposal dalam tiga bidang berikut:&lt;/p>
+&lt;ol>
+&lt;li>Interoperabilitas antara DID/VC yang berbasis Cardano dan Indy.&lt;/li>
+&lt;li>Pemerintahan Sendiri Emergent Communities&lt;/li>
+&lt;li>Rantai Pasokan Melingkar&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Mengembangkan Afrika, Mengembangkan Cardano</title><link>/id/catalyst/fund8/challenges/grow-africa-grow-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/grow-africa-grow-cardano/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$250,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/384227">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26442/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita meneruskan dan menumbuhkan Cardano di Afrika pada tahun 2022?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Tantangan &amp;lsquo;Tumbuhkan Afrika&amp;rsquo; merupakan inti dari inisiatif utama Cardano, yang berekspansi ke Afrika. Izinkan Catalyst juga mendukung dorongan ini.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Cardano adalah blockchain terpilih di Afrika pada tahun 2023.&lt;/p>
+&lt;p>Proyek dan pengembang di Afrika tidak akan terisolasi, tetapi berjejaring dan berkembang.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah proyek Afrika baru yang diunggulkan pada tahun 2022&lt;/li>
+&lt;li>Proposal dengan jelas menunjukkan solusi kasus penggunaan teknologi Cardano&lt;/li>
+&lt;li>Jumlah pengembang Afrika yang bergabung pada tahun 2022&lt;/li>
+&lt;li>Dampak lokal (dapat diukur melalui aktivitas dan jangkauan pengguna)&lt;/li>
+&lt;li>Kemitraan lokal terbentuk (ukuran institusi + pengaruh)&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>*&amp;ldquo;Memiliki putaran pendanaan yang berfokus pada Afrika adalah skenario saling menguntungkan. Afrika untung dengan mendapatkan dukungan. Proyek komersial yang sudah dibangun di Afrika untung, karena mereka mendapat sinyal dukungan dari komunitas kami. Pemegang Cardano menang ketika ada lingkungan yang mendorong untuk adopsi massal di mana saja.*Berfokus pada Afrika adalah strategi yang sering dipromosikan dan dilakukan secara terbuka oleh IOG dan Charles Hoskinson. ROI kemungkinan akan tinggi karena proyek yang disponsori komunitas lebih baik dijalankan di usia muda dan ekonomi berkembang.” &lt;strong>Greg Bell; (pencetus seri Grow Cardano)&lt;/strong>&lt;/p>
+&lt;p>Sepanjang sejarah dan peradaban manusia, telah terjadi bahwa setiap beberapa abad atau lebih, pertemuan faktor-faktor menyelaraskan transisi kita dari satu fase perkembangan ke fase lainnya; Revolusi industri pertama dan kedua adalah contoh utama. Saat ini kita baru saja keluar dari revolusi Web2 dan revolusi Industri keempat atau Web3 ada di depan kita.&lt;/p>
+&lt;p>Meskipun Afrika tidak memainkan peranan kunci dalam revolusi industri pertama, kedua atau ketiga, Afrika siap menjadi pemimpin dalam teknologi Web 3.0 dan mereka yang memiliki pandangan jauh ke depan memposisikan diri mereka secara strategis.&lt;/p>
+&lt;p>Komunitas Cardano bisa menjadi salah satu visioner ini. Mari kita serius dalam menyemai proyek jangka panjang di Afrika untuk menangkap sebagian besar pasar berkembang yang penting.&lt;/p>
+&lt;h3 id="alasan-anggaran">Alasan anggaran&lt;/h3>
+&lt;p>Mari kita jujur di sini. Kami membutuhkan lebih dari 250 ribu untuk melanjutkan penyemaian Cardano di Afrika. Kami meminta jumlah ini karena pola voting Catalyst; dalam hal itu $250.000 lebih baik daripada $0 dan &lt;i>Wada and Partners&lt;/i> masih dapat memanfaatkan kategori tantangan lain untuk membantu memperluas Cardano di Afrika.&lt;/p></description></item><item><title>Catalyst: Meningkatkan dan Menumbuhkan Kemampuan Audit</title><link>/id/catalyst/fund8/challenges/improve-and-grow-auditbility/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/improve-and-grow-auditbility/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>200,000 USD dibayarkan dalam Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383480">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana membuat proses audit proposal yang didanai menjadi efisien, terdistribusi dan transparan?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Sangat penting bahwa proposal yang didanai dievaluasi untuk melihat apakah mereka memberikan apa yang ditetapkan dalam misi mereka..&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Beberapa proyek mengevaluasi proposal yang didanai, memberikan laporan, artikel, dan metrik tentang pengembangan dan implementasi proyek.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah proposal terdanai yang diaudit&lt;/li>
+&lt;li>Mempertimbangkan bahwa idenya adalah untuk mengaudit dan melaporkan perkembangan proposal dalam tantangan yang berbeda, penting bahwa - - - metrik keberhasilan dipikirkan dalam kaitannya dengan setiap tantangan.&lt;/li>
+&lt;li>Jumlah laporan, artikel dan video/podcast tentang:&lt;/li>
+&lt;li>Performa&lt;/li>
+&lt;li>Prestasi&lt;/li>
+&lt;li>Keuangan&lt;/li>
+&lt;li>Jumlah pengembang yang bergabung.&lt;/li>
+&lt;li>Jumlah komitmen dalam repositori (Github) proposal yang didanai&lt;/li>
+&lt;li>Indikator: transaksi, volume, dan dompet unik yang berinteraksi dengan dapps.&lt;/li>
+&lt;li>Jumlah kontrak pintar yang diaudit.&lt;/li>
+&lt;li>Indikator keterlibatan media sosial.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Ketika Fund7 terjadi, kami akan mendekati 300 proposal yang didanai. Sangatlah penting bahwa proposal-proposal ini dievaluasi/diaudit untuk melihat apakah proposal tersebut berhasil dan apakah ROI-nya (Return of Investment) sejalan dengan apa yang telah ditetapkan pada awalnya.&lt;/p>
+&lt;p>Saat ini, IOG bertanggung jawab untuk memantau perkembangan proposal yang didanai ini, tetapi ketika ada ratusan proposal yang didanai, ini akan menjadi pekerjaan yang luar biasa bagi IOG.&lt;/p>
+&lt;p>Tantangan Auditability bertujuan untuk memastikan transparansi dalam penggunaan sumber daya perbendaharaan Cardano, yang memungkinkan komunitas Cardano memiliki lebih banyak informasi tentang pengembangan proposal yang didanai melalui sistem &amp;lsquo;checks and balances.&amp;rsquo;&lt;/p></description></item><item><title>Catalyst: Menumbuhkan Pusat Kegiatan Komunitas Cardano</title><link>/id/catalyst/fund8/challenges/scale-up-cardanos-community-hubs/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/scale-up-cardanos-community-hubs/campaign-brief/</guid><description>
+&lt;img src="https://i.imgur.com/MWddZex.gif" alt="" data-md-type="image" class="">
+&lt;p>Alokasi Dana: &lt;strong>500,000 USD dibayarkan dalam Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381022">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kami mendorong Pusat Kegiatan Komunitas Lokal untuk mendorong adopsi dan kesadaran Cardano pada tahun 2022?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Tanpa pengguna di tingkat dasar, kami hanya membangun produk khusus yang melayani sebagian besar orang teknis dengan keahlian blockchain.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Pusat Kegiatan Komunitas Lokal di seluruh dunia di mana rata-rata orang dapat mengambil bagian dalam bahasa mereka sendiri dan dengan pemahaman budaya mereka sendiri.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>Berapa banyak Pusat Kegiatan (Hub) baru yang diluncurkan pada tahun 2022?&lt;/li>
+&lt;li>Berapa banyak pengembang yang dibawa oleh tantangan yang berfokus pada komunitas ini ke dalam ekosistem Cardano?&lt;/li>
+&lt;li>Berapa banyak pengguna baru Cardano yang bergabung?&lt;/li>
+&lt;li>Berapa total jangkauan peluncuran pemasaran awal Pusat Kegiatan (Hub)?&lt;/li>
+&lt;li>Berapa banyak organisasi eksternal yang dibawa oleh tantangan yang berfokus pada komunitas ini ke dalam ekosistem Cardano?&lt;/li>
+&lt;/ul>
+&lt;h3 id="tantangan-singkat">Tantangan Singkat&lt;/h3>
+&lt;p>&lt;em>&lt;strong>Pembaruan Tantangan&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;strong>3 Kategori Tantangan Teratas di Dana 7&lt;/strong> berdasarkan jumlah pengajuan (lihat terlampir).&lt;/p>
+&lt;p>&lt;strong>2x Challenge Setting Proposal Terdanai&lt;/strong> (Fund 5 dan Fund 6)&lt;/p>
+&lt;p>&lt;u>Pilihan &amp;lsquo;Scale-Up Hubs&amp;rsquo; yang didanai sebelumnya:&lt;/u>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/367891-48088">Pusat Tunawisma&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/367936-48088">Cardano di LA Selatan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/367293-48088">Cardano di Buenos Aires&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/368369-48088">Pusat Salmon Nation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="apa-artinya-ini">Apa artinya ini?&lt;/h4>
+&lt;ol>
+&lt;li>Permintaan meningkat untuk kategori ini dan kita baru memulai dari apa yang mungkin dilakukan dengan jaringan pusat kegiatan Cardano secara global. Efek jaringan akan meledak disuatu saat dan ketika itu terjadi, kita harus siap dengan template, panduan, dan materi untuk membuat dan mempertahankan Cardano Community Hub (CCH) baru.&lt;/li>
+&lt;li>Dampaknya nyata dan ROI (Return of Investment) terpenuhi. Kehidupan nyata sedang dipengaruhi dan ditingkatkan melalui kategori ini. Ini menciptakan situasi sama-sama pemenang, sebuah lingkaran umpan balik positif yang saling menguntungkan karena semakin banyak orang yang mendapatkan manfaat dari solusi yang kita tawarkan kepada mereka, bahkan ada lebih banyak permintaan untuk layanan ini di seluruh dunia.&lt;/li>
+&lt;/ol>
+&lt;h4 id="bagaimana-jika-tantangan-fund-8-berbeda">Bagaimana jika tantangan Fund 8 berbeda?&lt;/h4>
+&lt;p>Sementara permintaan yang meningkat menunjukkan kepada kita bahwa ada kebutuhan, fokus kita untuk tantangan berikutnya harus berada di sisi lain. &lt;strong>Pasokan modal.&lt;/strong>&lt;/p>
+&lt;p>Sementara fakta telah membuktikan perlunya tantangan Pusat Kegiatan Komunitas, ada banyak tantangan lain yang sama pentingnya yang bersaing untuk mendapatkan posisi di Fund 8, jadi kita harus bertindak sesuai dengan itu. **Kita harus membuat permintaan anggaran yang memungkinkan orang lain juga mengejar tujuan mereka ** di dalam ekosistem, baik makro, untuk Catalyst maupun mikro, dalam Tantangan itu sendiri.&lt;/p>
+&lt;p>Sementara kita &lt;strong>Menumbuhkan pusat kegiatan komunitas&lt;/strong> , kita perlu &lt;strong>Menurunkan pengeluaran modal individu&lt;/strong>, untuk memastikan bahwa kami dapat menyebar sejauh mungkin, secepat mungkin, itulah sebabnya kami bekerja dari prinsip pertama.&lt;/p>
+&lt;ol>
+&lt;li>Menyampaikan informasi kepada orang-orang yang tidak memiliki akses.&lt;/li>
+&lt;li>Memastikan ketahanan dan kemandirian dalam komunitas itu. Ketika kita mendekati pusat kegiatan dari lensa node penyampaian informasi, kita dapat membangun pusat kegiatan taksonomi dalam matriks kebutuhan-dampak dan kemudian menemukan model yang paling efisien modal untuk setiap lokasi.&lt;/li>
+&lt;/ol>
+&lt;p>Dalam istilah yang lebih sederhana, pertimbangkan mengapa sebuah pusat kegiatan ada, dalam konteks lokasinya, akses ke infrastruktur, dan kesiapan komunitas. Kemudian rancang pusat kegiatan sesuai dengan faktor-faktor tersebut, dengan &amp;lsquo;brick-and-mortar&amp;rsquo; (CTH) tradisional hanya satu dari banyak sistem penyampaian informasi potensial dalam komunitas lokal.&lt;/p>
+&lt;p>&lt;strong>Putaran ini akan lebih fokus pada &amp;lsquo;minimum-viable hubs&amp;rsquo; (MVHs)&lt;/strong> , unit terkecil yang efektif untuk sebuah pusat kegiatan, dan dengan mengidentifikasi unit ini, dapatkah kita mulai menskalakan CCH lebih cepat.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Metrik Keberhasilan Tambahan:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Apakah proposal pusat kegiatan Fund 8 sesuai dengan prinsip MVH?&lt;/li>
+&lt;li>Apakah mereka memiliki pemahaman tentang target audiens mereka?&lt;/li>
+&lt;li>Dapatkah mereka secara akurat memproyeksikan jangkauan mereka (fisik dan online) dalam 3, 6, 12 bulan pertama?&lt;/li>
+&lt;li>Dapatkah mereka secara akurat memproyeksikan jumlah anggota yang bergabung ke hub dalam 3, 6, 12 bulan?&lt;/li>
+&lt;li>Sudahkah mereka memberikan indikasi model keuangan yang berkelanjutan?&lt;/li>
+&lt;li>Sudahkah mereka memberikan indikasi biaya anggaran vs &amp;lsquo;biaya peluncuran&amp;rsquo;? (misal CTH hanya dapat mengajukan 1/5 dari biaya peluncurannya karena tekanan permintaan untuk memperoleh pendanaan katalis)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>&lt;strong>Penilaian oleh CA dan Pemilih harus mendukung:&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Proposal yang memiliki rasio anggaran:biaya-untuk-peluncuran antara 1-1,5.&lt;/li>
+&lt;li>Proposal yang tidak melebihi 5% dari total anggaran Tantangan.&lt;/li>
+&lt;li>Proposal yang memperhitungkan kebutuhan lokal dan masalah infrastruktur.&lt;/li>
+&lt;li>Proposal yang menunjukkan kreativitas dan kecerdikan seputar desain hub dan penyampaian informasi.&lt;/li>
+&lt;li>Proposal yang menggunakan bahan lokal yang dapat didaur ulang dan memiliki komitmen terhadap praktik keberlanjutan.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Mari kita bangun ekosistem yang benar-benar mendunia&lt;/strong>, memungkinkan setiap orang untuk berpartisipasi dengan kemampuan terbaik mereka, dari level apa pun mereka mulai.&lt;/p>
+&lt;p>Saat Anda &lt;strong>mendorong adopsi di tingkat dasar&lt;/strong>, Anda melakukan lebih dari sekadar &amp;lsquo;membangun produk keren&amp;rsquo;, Anda &lt;strong>memberdayakan orang untuk mengubah hidup mereka&lt;/strong> dengan cara yang tidak pernah mereka bayangkan sendiri.&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/bZQvrLI.jpeg" alt="">&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/MWddZex.gif" alt="">&lt;/p>
+&lt;h4 id="bacaan-ekstra-ke-mana-kita-akan-pergi">Bacaan ekstra (ke mana kita akan pergi):&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub">Cumbria, Pusat Bisnis Inggris&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year">Pusat Bisnis Rwanda&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="tantangan-yang-didanai-sebelumnya">Tantangan yang didanai sebelumnya:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088">Menumbuhkan Pusat Kegiatan Komunitas (F6)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088">Menumbuhkan Pusat Kegiatan Komunitas (F5)&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Migrasi Besar (dari Ethereum)</title><link>/id/catalyst/fund8/challenges/the-great-migration-from-ethereum/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/the-great-migration-from-ethereum/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/16-The-Great-Migration-from-Ethereum-76ace0.png" class="">
+&lt;p>Ukuran Dana: &lt;strong>500,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382642">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26448/stage/all/ideas/unspecified">jelajahi ide-ide&lt;/a>.&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kami dapat mempermudah dan mempercepat dApps dan proyek lain untuk berkembang atau sepenuhnya berpindah dari Ethereum ke Cardano?&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Banyak proyek terjebak di blockchain berbasis EVM seperti Ethereum dan mencari jalan keluar. Cardano bisa lebih cepat dan lebih murah untuk digunakan.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Proyek yang berencana atau yang sudah meluncurkan blockchain berbasis EVM di ekosistem Cardano dan dapat melakukannya dengan mudah.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah proyek yang bermigrasi&lt;/li>
+&lt;li>Jumlah pengguna kontrak pintar ini setelah bermigrasi ke ekosistem Cardano&lt;/li>
+&lt;/ul>
+&lt;p>(Metrik dapat ditingkatkan dengan mendanai proyek yang secara langsung meluncurkan sesuatu, atau proyek yang membantu membangun alat agar lebih mudah diterapkan)&lt;/p>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Ekosistem Cardano, meskipun ditulis dalam Haskell, selalu memiliki rencana untuk menyediakan jalur bagi proyek-proyek yang dikerahkan pada blockchain berbasis EVM (seperti Ethereum) untuk bermigrasi ke ekosistem Cardano. Selain itu, ada juga proyek yang lebih cocok untuk metode gaya akun (bukan UTXO), dan kami ingin proyek ini juga dapat digunakan dari ekosistem Cardano.&lt;/p>
+&lt;p>Untuk mencapai bagian dari peta jalan ini, banyak upaya sedang dilakukan saat ini seperti KEVM, IELE, ERC20 Converter dan Milkomeda adalah beberapa nama yang dapat disebutkan. Proyek-proyek ini mencapai titik di mana mereka cukup matang untuk dapat digunakan orang-orang atau menggunakannya untuk membangun alat untuk mereka, jadi inilah saatnya untuk mulai menyambut proyek ke Cardano.&lt;/p>
+&lt;p>Anda dapat mendengar Charles berbicara tentang pentingnya hal ini dalam videonya yang berjudul &amp;ldquo;The Island, The Ocean and the Pond&amp;rdquo;&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/k8a6tX53YPs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Catalyst: Orientasi Anggota Baru</title><link>/id/catalyst/fund8/challenges/new-member-onboarding/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/new-member-onboarding/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" class="">
+&lt;p>Ukuran Dana: &lt;strong>200,000 USD dibayarkan dalam bentuk ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382639">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita dapat mempercepat dan mempermudah anggota Catalyst baru untuk mengambil peran dan tanggung jawab yang sesuai pada tahun 2022?&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Keberhasilan Catalyst tergantung pada ketersediaan tim tantangan yang berkualitas, proposer, advisor, mentor, dan voter.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Platform inovasi terbuka efektif di mana orang dapat memenuhi peran yang berarti bagi mereka dan berkontribusi pada kesuksesan bersama.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;p>Metrik dapat dibagi menjadi dua bagian. Orientasi umum mengacu pada membawa orang masuk dan mengubah mereka dari sekadar pengintai menjadi pemilih dan calon pengusul. Metrik proses inovasi mengacu pada kuantitas dan kualitas proposal dan aktivitas di sekitarnya.&lt;/p>
+&lt;h4 id="orientasi-umum">Orientasi umum&lt;/h4>
+&lt;ul>
+&lt;li>Pendaftaran mingguan ke Cardano Ideascale&lt;/li>
+&lt;li>Kehadiran Townhall&lt;/li>
+&lt;li>Kehadiran sesi Catalyst School&lt;/li>
+&lt;li>Kehadiran sesi Swarm&lt;/li>
+&lt;li>Aplikasi untuk posisi kepemimpinan (misalnya Circle)&lt;/li>
+&lt;/ul>
+&lt;h4 id="proses-inovasi">Proses inovasi&lt;/h4>
+&lt;ul>
+&lt;li>Jumlah perujuk&lt;/li>
+&lt;li>Berkurangnya jumlah proposal yang belum siap&lt;/li>
+&lt;li>Bertumbuhnya jumlah proposal dengan bintang 4-5&lt;/li>
+&lt;li>Bertumbuhnya jumlah Community Advisors dan Veteran Community Advisors&lt;/li>
+&lt;li>Persentase proposal dengan penilaian Sangat Baik (Excellent Assessments)&lt;/li>
+&lt;li>Pertumbuhan jumlah voter&lt;/li>
+&lt;li>Pertumbuhan jumlah total vote yang diberikan&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Pertumbuhan Project Catalyst bergantung pada partisipasi yang berarti dari para proposer, advisor, mentor, dan voter yang bersemangat dan mampu memenuhi peran mereka serta memahami tanggung jawab mereka.&lt;/p>
+&lt;h3 id="pertanyaan-panduan">Pertanyaan panduan&lt;/h3>
+&lt;ul>
+&lt;li>Bagaimana cara mengubah pemegang ADA pasif menjadi anggota Catalyst aktif?&lt;/li>
+&lt;li>Bagaimana kita dapat meningkatkan kesadaran akan Project Catalyst sebagai platform inovasi terbuka paling aktif?&lt;/li>
+&lt;li>Bagaimana kita dapat meningkatkan partisipasi yang lebih bermakna dari tim challenge, proposer, advisor, mentor, dan voter? Peran tambahan seperti apa yang dibutuhkan?&lt;/li>
+&lt;li>Bagaimana kita dapat mendorong anggota baru untuk menggunakan alat dan layanan yang tersedia untuk orientasi?&lt;/li>
+&lt;li>Bagaimana kita dapat meningkatkan penggunaan materi teks, video, dan audio sudah ada?&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Peningkatan Penasihat Komunitas</title><link>/id/catalyst/fund8/challenges/community-advisor-improvements/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/community-advisor-improvements/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/21-Community-Advisor-Improvements-dbdbe2.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$100.000 dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/384394">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26453/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Community Advisor adalah peran kunci yang terus berkembang dari Project Catalyst dan membutuhkan tempat serta anggaran dalam pengajuan proposal guna meningkatkan kinerja mereka&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Community Advisor secara konstan menghadapi tantangan namun tidak memiliki kemungkinan secara aktif bersama dalam merancang aktivitas mereka.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>&lt;i>Community Advisors&lt;/i> (CA) mengajukan proposal sebagai tim untuk meningkatkan kinerja, aktivitas, dan evolusi CA.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah alat baru yang dikembangkan&lt;/li>
+&lt;li>Jumlah mekanisme baru untuk menilai dan menilai proposal&lt;/li>
+&lt;li>Jumlah proposal pemeliharaan dan grup yang dibuat&lt;/li>
+&lt;li>Jumlah ide yang out of the box&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Community Advisors (CAs) dan Veteran Community Advisors (vCAs) adalah pemain kunci dari proses tata kelola Project Catalyst saat ini. Mereka menilai proposal dan dengan melakukan itu, memberikan umpan balik kepada pengusul untuk meningkatkan ide mereka untuk dana berikutnya, dan mendukung pemilih dalam memutuskan proposal mana yang lebih siap dan memiliki peluang lebih tinggi untuk berhasil dan berdampak pada ekosistem Cardano.&lt;/p>
+&lt;p>Dengan meningkatkan proses penilaian, kami meningkatkan seluruh proses Catalyst sebagai konsekuensinya. Oleh karena itu, tantangan ini bertujuan untuk mempercepat evolusi seluruh proses penilaian Catalyst.&lt;/p>
+&lt;h4 id="potensi-tujuan">Potensi Tujuan&lt;/h4>
+&lt;ul>
+&lt;li>Bangun alat baru untuk meningkatkan pekerjaan (v)CA&lt;/li>
+&lt;li>Mempertahankan sumber daya umum (v)CA, bekerja sama dengan komunitas dan dengan IOG&lt;/li>
+&lt;li>Evaluasi berbagai model penilaian dan penilaian proposal&lt;/li>
+&lt;li>Kembangkan sistem reputasi untuk (v)CA&lt;/li>
+&lt;li>Mengembangkan dan menilai mekanisme remunerasi baru untuk (v)CA&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Solusi Bisnis B2B &amp; B2C</title><link>/id/catalyst/fund8/challenges/business-solutions-b2b-b2c/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/business-solutions-b2b-b2c/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">
+&lt;p>Ukuran Dana: &lt;strong>1.000.000 USD dibayarkan di Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382660">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified">jelajahi ide&lt;/a>&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana solusi berbasis Cardano dapat membantu memenuhi kebutuhan bisnis nyata dan apa dampaknya?&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Perusahaan akhirnya menemukan kekuatan teknologi blockchain dan Cardano siap untuk menggunakan solusi B2B dan B2C yang menarik.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Produk dan layanan inovatif yang meningkatkan efisiensi, transparansi, dan keterlibatan pemangku kepentingan serta memperluas bisnis ke area baru.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;ul>
+&lt;li>solusi bisnis pendukung Cardano dApps&lt;/li>
+&lt;li>perusahaan yang ada mengusulkan solusi berbasis Cardano&lt;/li>
+&lt;li>kemitraan, usaha patungan yang dibuat antara perusahaan&lt;/li>
+&lt;li>pendanaan tambahan dari sumber lain untuk proposal yang didanai&lt;/li>
+&lt;li>penghematan biaya yang diproyeksikan&lt;/li>
+&lt;li>proyeksi peningkatan pendapatan&lt;/li>
+&lt;li>pertumbuhan aktivitas mainnet &amp;amp; testnet karena solusi bisnis&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Selama bertahun-tahun blockchain telah memegang janji yang belum dipenuhi dengan benar. Solusi spot untuk misalnya keterlacakan, manajemen rantai pasokan, identifikasi dan pembayaran telah diterapkan tetapi manfaat skala besar dari teknologi yang menjanjikan ini belum terlihat. Berdasarkan penelitian dan pengembangan yang ketat selama bertahun-tahun, Cardano adalah salah satu pesaing paling serius untuk memenuhi janji ini.&lt;/p>
+&lt;p>Perkembangan teknologi terbaru dan yang akan datang di Cardano—kontrak pintar, konektor Yoroi dApp, ukuran blok yang lebih besar (throughput yang lebih tinggi), sidechains dan state channels, satu dari sekian contoh—mempersiapkan Cardano untuk siap untuk adopsi skala besar pada tahun 2022.&lt;/p>
+&lt;p>Perusahaan besar, usaha kecil dan menengah (UKM), bisnis platform, dan perusahaan rintisan yang sangat berjejaring memiliki jenis kebutuhan yang sangat berbeda. Industri mereka dapat bervariasi dari keuangan dan teknologi tinggi hingga pertanian dan konstruksi dan dari layanan sederhana hingga bisnis yang padat pengetahuan. Namun, pada akhirnya, mereka semua membutuhkan alat modern untuk terus memenuhi misi mereka, agar tetap relevan dalam persaingan global dan untuk menawarkan alat terbaik kepada karyawan mereka untuk melakukan apa yang mereka pekerjakan. Setiap perusahaan ingin melibatkan mitra dan karyawan mereka, melayani pelanggan mereka dengan lebih baik, meningkatkan proses mereka, memotong biaya, meningkatkan pendapatan, dan memperluas ke area bisnis baru.&lt;/p>
+&lt;p>Dengan menghapus perantara dan mengotomatisasi proses, solusi blockchain kontrak pintar dapat mendorong semua hal di atas. Cardano setidaknya dapat menjawab sebagian kebutuhan ini.&lt;/p>
+&lt;p>&lt;strong>Dalam tantangan ini, solusi yang diusulkan dapat berupa alat, layanan, produk, peningkatan proses, solusi manajemen data (CRM, ERP, MES, DMP, dll.), solusi cloud terdesentralisasi, penawaran terkait privasi dan keamanan, atau bahkan solusi terkait metaverse.&lt;/strong>&lt;/p>
+&lt;p>Dalam proposal Anda, akan lebih baik untuk menguraikan tingkat, batasan, dan cakupan tingkat kesiapan solusi dari solusi, dan apakah itu misalnya:&lt;/p>
+&lt;ul>
+&lt;li>Studi Kelayakan, Bukti Konsep, Produk Layak Minimum yang dapat dibangun di Cardano.&lt;/li>
+&lt;li>Produk atau layanan siap bisnis yang sudah ada yang dapat dikonversi untuk dijalankan di Cardano.&lt;/li>
+&lt;li>Sebuah pelatihan berorientasi bisnis atau layanan konsultasi.&lt;/li>
+&lt;li>Solusi blockchain yang ada dibawa ke ekosistem Cardano untuk melayani kebutuhan bisnis.&lt;/li>
+&lt;li>Sebuah prototipe atau demo di lingkungan operasional&lt;/li>
+&lt;li>Sebuah penciptaan model sistem atau subsistem&lt;/li>
+&lt;li>Sebuah perbaikan proses&lt;/li>
+&lt;/ul>
+&lt;p>Saat mengajukan proposal, harap sertakan visi, strategi, dan peta jalan jangka panjang serta pencapaian jangka pendek yang dapat dicapai dalam 6-9 bulan ke depan. Materi visualisasi dan video sangat diharapkan untuk menjelaskan solusi bisnis yang seringkali rumit.&lt;/p></description></item><item><title>Catalyst: Solusi Peningkatan Skala Cardano</title><link>/id/catalyst/fund8/challenges/cardano-scaling-solutions/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/cardano-scaling-solutions/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>400.000 USD dibayarkan dalam bentuk ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383094">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified">jelajahi ide&lt;/a>&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Penelitian dan implementasi penskalaan apa yang dapat diperkenalkan untuk membantu Cardano meningkatkan skalabilitas?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Hydra tidak akan menyelesaikan setiap masalah penskalaan di Cardano, lebih banyak solusi penskalaan yang diperlukan sebagai alternatif.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-terlihat">Seperti Apa Kesuksesan Terlihat?&lt;/h3>
+&lt;p>Solusi penskalaan yang diperkenalkan dan diimplementasikan oleh komunitas dapat mulai digunakan oleh proyek-proyek Cardano.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;ul>
+&lt;li>Jumlah solusi penskalaan yang tersedia bagi komunitas untuk digunakan dalam proyek mereka&lt;/li>
+&lt;li>Jumlah proyek yang diluncurkan pada salah satu solusi penskalaan baru&lt;/li>
+&lt;li>Ide-ide baru yang dihasilkan dari penelitian tentang pendekatan penskalaan yang berbeda&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Agar Cardano menjadi pemimpin global sebagai &lt;i>blockchain smart contract&lt;/i>, hal ini perlu ditingkatkan untuk memenuhi persyaratan penanganan ratusan juta pengguna.&lt;/p>
+&lt;h3 id="situasi-peningkatan-skala-sekarang">Situasi Peningkatan Skala Sekarang&lt;/h3>
+&lt;p>Hydra adalah proyek terkemuka yang dijalankan oleh IOG untuk membantu Cardano meningkatkan skala blockchain.&lt;/p>
+&lt;p>Fase pertama Hydra akan tersedia pada tahun 2022. Namun implementasi awal ini tidak akan menyelesaikan semua masalah yang diperlukan untuk skala Cardano.&lt;/p>
+&lt;p>Sebastien dari dcSpark baru-baru ini membahas pentingnya &lt;i>rollup&lt;/i> dan solusi alternatif dalam sebuah wawancara -&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/4DslvkLop04" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h3 id="perlu-lebih-banyak-opsi-penskalaan">Perlu Lebih Banyak Opsi Penskalaan&lt;/h3>
+&lt;p>Untuk mencapai desentralisasi yang sebenarnya, komunitas Cardano tidak perlu bergantung pada masukan dari IOG seperti halnya saat ini dalam melangkah ke masa depan.&lt;/p>
+&lt;p>Hydra hanya akan merilis implementasi awalnya pada awal tahun depan. Cardano menghadapi potensi masalah penskalaan pada tahun 2022 karena protokol permintaan tinggi dalam DeFi, NFT, dan game yang mulai dan terus dirilis. Dengan tidak tersedianya solusi penskalaan alternatif, ada risiko kelebihan permintaan pada &lt;i>chain&lt;/i> utama.&lt;/p>
+&lt;h3 id="jenis-proposal-yang-dianjurkan">Jenis proposal yang dianjurkan&lt;/h3>
+&lt;p>Pengusul harus mempertimbangkan ide-ide atau penelitian baru, perluasan fungsionalitas Hydra atau porting atas solusi yang digunakan di blockchain lain yang cocok untuk Cardano.&lt;/p>
+&lt;p>Pengusul dipersilakan untuk fokus pada solusi skalabilitas spesifik pada pasar. Misalnya solusi dapat fokus pada DeFi secara khusus dengan bursa terdesentralisasi (DEX) sebagai area fokus atau pasar berkembang lainnya yang dapat mengambil manfaat dari solusi penskalaan baru.&lt;/p>
+&lt;p>Lingkup topik skalabilitas:&lt;/p>
+&lt;ul>
+&lt;li>&lt;i>Rollup&lt;/i> (misalnya &lt;i>zero knowledge rollup&lt;/i>, &lt;i>rollup&lt;/i> optimis)&lt;/li>
+&lt;li>&lt;i>Sharding&lt;/i>&lt;/li>
+&lt;li>&lt;i>Sidechains&lt;/i>&lt;/li>
+&lt;li>&lt;i>State channels&lt;/i>&lt;/li>
+&lt;/ul>
+&lt;h3 id="ukuran-proposal">Ukuran Proposal&lt;/h3>
+&lt;p>Solusi penskalaan adalah kompleks secara inheren dan membutuhkan upaya rekayasa yang signifikan. Alhasil pengusul tidak boleh patah semangat dalam membuat proposal yang meminta anggaran paling besar. Satu tim proposal dipersilakan dan didorong untuk meminta seluruh anggaran jika mereka dapat menunjukkan perencanaan yang disampaikan dengan keahlian teknis untuk mengatasi tantangan solusi penskalaan yang cocok dalam pengembangan Cardano.&lt;/p>
+&lt;h3 id="alasan-anggaran">Alasan anggaran&lt;/h3>
+&lt;p>Keahlian teknis yang tinggi diperlukan untuk solusi skalabilitas. Kemungkinan upaya rekayasa akan memakan waktu berbulan-bulan dalam menerapkan solusi yang layak.&lt;/p>
+&lt;h3 id="terus-ikuti-putaran-pendanaan">Terus ikuti putaran pendanaan&lt;/h3>
+&lt;p>Jika tantangan ini terpilih dan proposal yang diajukan menunjukkan tanda-tanda bahwa akan berdampak, maka tantangan lanjutan akan diajukan dalam &lt;i>fund 9&lt;/i> dengan permintaan anggaran yang lebih besar agar lebih membantu tim dapat meminta pendanaan lebih lanjut.&lt;/p></description></item><item><title>Catalyst: Standar Terbuka &amp; Interoperabilitas</title><link>/id/catalyst/fund8/challenges/open-standards-and-interoperability/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/open-standards-and-interoperability/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" class="">
+&lt;p>Ukuran Dana: &lt;strong>500,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383619">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bisakah kita membangun Ekosistem Terbuka untuk mendorong pertumbuhan, memberikan kesempatan yang sama kepada semua, dan meningkatkan sinergi di seluruh proyek Cardano?&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Untuk menghadirkan perangkat lunak yang kompleks, mendorong kolaborasi, dan mempercepat inovasi dengan berbagi identitas, praktik, dan komponen/layanan sw.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Ekosistem vendor-netral (penyedia yang tidak memihak) untuk&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>mendorong pertumbuhan, kesadaran, kemampuan untuk dapat ditemukan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>meningkatkan adopsi komersial&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>menyediakan infrastruktur yang dibutuhkan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;p>Adopsi &lt;strong>standar terbuka&lt;/strong> harus meningkat didalam proyek cardano. Dalam jangka panjang, semua proyek yang didanai komunitas harus terbuka dan transparan dengan mengikuti standar umum.&lt;/p>
+&lt;p>Harus ada &lt;strong>perbaikan yang dapat diamati&lt;/strong>: lebih mudah untuk menemukan proyek dan menemukan sumber daya proyek, lebih intuitif untuk mengakses basis pengetahuan proyek (dokumentasi, cara, dll.), dan mudah untuk menemukan dan menghubungi anggota proyek.&lt;/p>
+&lt;p>&lt;strong>Sinergi proyek&lt;/strong> harus dimungkinkan dengan memungkinkan komunikasi antar proyek yang sederhana, berbagi pengetahuan, dan penggunaan kembali komponen/layanan yang ada.&lt;/p>
+&lt;p>Kita harus mengamati &lt;strong>peningkatan kontribusi open-source&lt;/strong> untuk proyek yang berbeda: baik dari anggota baru dan dari orang lain yang sudah ada di komunitas Cardano&lt;/p>
+&lt;p>Kita harus mengamati &lt;strong>peningkatan reputasi&lt;/strong> proyek Open-Source Cardano. Langkah tersebut dapat dilakukan dengan melihat media komunikasi dari berbagai komunitas open-source.&lt;/p>
+&lt;h2 id="tantangan-singkat">Tantangan singkat&lt;/h2>
+&lt;p>&lt;strong>Standar terbuka&lt;/strong> yang dibangun di atas prinsip keterbukaan, transparansi, dan konsensus meletakkan dasar bagi inovasi, pertumbuhan, dan persaingan yang adil. &lt;em>&lt;strong>Standar terbuka tidak identik dengan open-source.&lt;/strong>&lt;/em> [OPSTD]&lt;/p>
+&lt;p>Kami melihat Open-Source sebagai cara terbaik untuk mengizinkan interoperabilitas antara berbagai teknologi dan aplikasi. Namun di Ekosistem Cardano kami memiliki serangkaian proyek open-source yang tidak memiliki standar untuk integrasi lintas proyek dasar. Misalnya, tidak ada standar tentang cara mendokumentasikan, menyiapkan, dan berkontribusi pada proyek. Selain itu, tidak ada infrastruktur umum yang dapat digunakan proyek untuk melacak masalah, dan mempublikasikan informasi publik dasar tentang proyek yang didanai oleh komunitas.&lt;/p>
+&lt;p>Kami menyarankan bahwa kami memerlukan seperangkat standar, proses, dan infrastruktur untuk digunakan oleh proyek open-source (O.S.) Cardano, sehingga (1) Tim proyek O.S. yang berbeda dapat dengan mudah berkolaborasi; (2) Anggota baru dapat dengan mudah menemukan, memahami, menguji, dan berkontribusi pada proyek O.S. yang ada; (3) Proyek O.S. Cardano dapat mengakses kumpulan infrastruktur dan perangkat dasar yang diperlukan.&lt;/p>
+&lt;h3 id="motivasi">Motivasi&lt;/h3>
+&lt;p>Seperti yang disebutkan oleh Charles Hoskinson &amp;ldquo;Kode Cardano adalah Open-Source, tetapi perlu dikelola seperti proyek open-source sejati, seperti Linux dan proyek O.S. lainnya&amp;rdquo;.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/T88_XKzi8ms" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Untuk melanjutkan ke arah ini, kita perlu menggunakan Catalyst sebagai tata kelola atas ekosistem open-source dan standar terbuka yang benar-benar vendor-netral. Untuk mencapai itu, kami tidak menemukan caranya (misalnya bagaimana tim proyek harus berperilaku dan berpartisipasi dalam ekosistem), dan infrastruktur (misalnya VCS, CMS, Wiki, Forum, dll.)&lt;/p>
+&lt;h3 id="pertanyaan-panduan">Pertanyaan panduan&lt;/h3>
+&lt;ul>
+&lt;li>Bagaimana kita bisa memandu pertumbuhan ekosistem vendor-netral?&lt;/li>
+&lt;li>Bagaimana kita dapat membangun identitas bersama dan meningkatkan kesadaran tentang proyek Cardano?&lt;/li>
+&lt;li>Bagaimana kita dapat meningkatkan kemampuan untuk dapat ditemukan dan adopsi komersial dari proyek kita?&lt;/li>
+&lt;li>Bagaimana kita dapat meningkatkan tingkat kolaborasi di berbagai proyek?&lt;/li>
+&lt;li>Bagaimana kita dapat menurunkan hambatan dan meningkatkan partisipasi terbuka terhadap ekosistem kita?&lt;/li>
+&lt;li>Bagaimana kita bisa memberikan kesempatan yang sama untuk semua proyek tidak peduli ukurannya?&lt;/li>
+&lt;/ul>
+&lt;h3 id="kemungkinan-arah">Kemungkinan arah&lt;/h3>
+&lt;ul>
+&lt;li>Mendorong kolaborasi lintas proyek untuk memecahkan masalah yang kompleks&lt;/li>
+&lt;li>Memperkenalkan proses dan standar umum dan mendorong penerapannya di seluruh proyek&lt;/li>
+&lt;li>Menyediakan infrastruktur dan perangkat lintas proyek yang diperlukan untuk berkoordinasi&lt;/li>
+&lt;li>Pastikan keberadaan basis pengetahuan yang kohesif&lt;/li>
+&lt;li>Dukung jaringan duta/ambassadors teknologi profesional&lt;/li>
+&lt;/ul>
+&lt;h4 id="catatan">Catatan&lt;/h4>
+&lt;p>Tantangan ini dibangun di atas Ekosistem Pengembang Open-Source F7 yang ada dan secara longgar terkait dengan Ekosistem Pengembangan Open-Source F8 (&lt;a href="https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088">https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088&lt;/a>)&lt;/p>
+&lt;p>Memang, tantangan ini adalah tentang menetapkan standar, proses, dan mendorong interoperabilitas di seluruh proyek O.S., sementara tantangan &amp;ldquo;Open-Source&amp;rdquo; lebih terfokus pada pertumbuhan ekosistem O.S. dengan mendanai proyek open-source untuk tantangan di masa depan.&lt;/p>
+&lt;p>Singkat kata: Tantangan ini adalah tentang keterbukaan, standardisasi, dan interoperabilitas di seluruh proyek open-source yang didanai oleh komunitas, sedangkan yang &amp;ldquo;open-source&amp;rdquo; adalah tentang peningkatan jumlah/kualitas proyek.&lt;/p>
+&lt;h4 id="referensi">Referensi&lt;/h4>
+&lt;p>&lt;code>OPSTD&lt;/code> Almeida, Fernando José, Oliveira José, Cruz. (2011). Standar Terbuka Dan Open-Source: Mengaktifkan Interoperabilitas. Jurnal Internasional Rekayasa Perangkat Lunak Aplikasi. 2. 10.5121/ijsea.2011.2101.&lt;/p></description></item><item><title>Catalyst: Tantangan Lain-Lain</title><link>/id/catalyst/fund8/challenges/miscellaneous-challenge/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/miscellaneous-challenge/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>500,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381326">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita menciptakan ruang untuk ide dan proyek yang tidak sesuai dengan Tantangan lainnya saat ini?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Membuat Tantangan Lain-Lain dapat memungkinkan ide-ide hebat untuk didanai dalam Fund tertentu, bahkan jika itu tidak sesuai dengan Tantangan lainnya.&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Mendanai ide-ide hebat yang berfokus pada masalah yang tidak tercakup oleh Tantangan lainnya.&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;p>Di akhir tantangan ini, kita akan bertanya pada diri sendiri: apakah tantangan ini berharga bagi komunitas?&lt;/p>
+&lt;ul>
+&lt;li>Berhasil mendanai proposal, disetujui oleh komunitas, yang tidak cocok dengan tantangan lainnya.&lt;/li>
+&lt;li>Jumlah Tantangan yang mungkin diidentifikasi untuk diusulkan dalam pendanaan berikutnya berdasarkan proposal yang diajukan dalam Tantangan Lain-lain.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>Tantangan ini dirancang untuk menangkap proyek-proyek menarik dan berharga yang saat ini tidak sesuai dengan tantangan lain.&lt;/p>
+&lt;p>Satu-satunya kendala untuk mengajukan proposal dalam tantangan ini adalah bahwa proposal tersebut harus berkaitan dengan Cardano.&lt;/p>
+&lt;h3 id="mendefinisikan-keselarasan-tantangan">Mendefinisikan Keselarasan Tantangan&lt;/h3>
+&lt;p>Selama tahap penilaian, Community Advisor harus mengevaluasi apakah proposal yang diajukan dalam tantangan ini akan cocok dengan tantangan lain yang ada.&lt;/p>
+&lt;p>Jika ini masalahnya, yaitu, ada tantangan lain di mana proposal akan selaras dengan tujuan tantangan, maka proposal ini tidak begitu selaras dengan &amp;lsquo;Tantangan Lain-Lain&amp;rsquo;.&lt;/p></description></item><item><title>Catalyst: Tim Kreatif Film + Media (FAM) bersatu!</title><link>/id/catalyst/fund8/challenges/film-and-media-creatives-unite/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/film-and-media-creatives-unite/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>150,000 USD dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383633">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Hiburan global + pasar media = $2 triliun. Jaringan FAM yang terdesentralisasi untuk menghasilkan media komunitas Cardano yang berkualitas sangatlah penting namun belum tersedia.&lt;/p>
+&lt;h3 id="mengapa-itu-penting">Mengapa itu penting?&lt;/h3>
+&lt;p>Kategori tantangan untuk dunia kreatif hingga saat ini tidak ada. Keanekaragaman + kreativitas manusia dalam bidang seni dapat memperkaya ekosistem Cardano + lebih banyak lagi&lt;/p>
+&lt;h3 id="seperti-apa-kesuksesan-itu">Seperti apa kesuksesan itu?&lt;/h3>
+&lt;p>Tim berkolaborasi secara adil untuk menghasilkan konten multimedia + platform yang inklusif dan berkualitas tinggi = meningkatkan pengetahuan + adopsi Cardano&lt;/p>
+&lt;h3 id="metrik-utama-untuk-diukur">Metrik Utama untuk diukur&lt;/h3>
+&lt;p>Sebagai ukuran kesehatan ekosistem:&lt;/p>
+&lt;ul>
+&lt;li>proyek multimedia&lt;/li>
+&lt;li>platform multimedia&lt;/li>
+&lt;li>tim multibahasa&lt;/li>
+&lt;li>dari kru film yang terdesentralisasi&lt;/li>
+&lt;li>dari tim berita terdesentralisasi&lt;/li>
+&lt;li>tim pembuatan konten terdesentralisasi&lt;/li>
+&lt;li>proyek multimedia terdesentralisasi berbagi sumber daya (misalnya rekaman RAW) untuk menghindari biaya yang tidak perlu dan emisi CO2 dari perjalanan untuk merekam rekaman di lokasi&lt;/li>
+&lt;/ul>
+&lt;h2 id="tantangan-singkat">Tantangan Singkat&lt;/h2>
+&lt;p>&lt;strong>Tim kreatif, penulis, seniman, pembuat film, fotografer +banyak lagi, berkolaborasi secara adil, sehinga dapat memperkaya ekosistem dengan keragaman budaya mereka.&lt;/strong>&lt;/p>
+&lt;p>Cardano memiliki komunitas YouTube yang kuat, tetapi jelas YouTube bukanlah segalanya dan tidak diterima dengan baik dalam banyak perspektif. Kami membutuhkan jembatan antara YouTube, media tradisional, TV, dan film. Kita perlu mengkomunikasikan pesan yang jelas kepada media.&lt;/p>
+&lt;p>Sangatlah penting untuk membuat konten yang mendidik dan menginspirasi yang akan dengan senang hati digunakan oleh media nasional dan stasiun TV dalam program harian mereka.&lt;/p>
+&lt;p>Pada tahap awal ini, kerjasama antara YouTuber dan profesional TV Film tidak hanya disambut, tetapi juga dibutuhkan. Menciptakan tantangan khusus untuk ini harus membuka pintu bagi pendidikan dan inspirasi.&lt;/p>
+&lt;p>Tantangan Film dan Media (FAM) bertujuan untuk meningkatkan pengetahuan dan adopsi Cardano untuk khalayak global dengan memungkinkan:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>platform tantangan untuk memfasilitasi para profesional dan kreatif untuk terhubung, berkolaborasi, dan berkoordinasi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>peluncuran proyek yang menyoroti banyak cerita dalam ekosistem Cardano&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>proyek multimedia yang menggambarkan bagaimana blockchain Cardano adalah solusi &amp;lsquo;blockchain hijau&amp;rsquo; di dunia yang membutuhkan solusi untuk keadaan darurat iklim&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Kategori tantangan khusus untuk grup kreatif ini untuk menyalurkan ide-ide katalis mereka sejauh ini belum ada. Hal ini menyebabkan proyek yang berpotensi berdampak berjuang untuk menemukan tempat mereka dalam kategori Tantangan yang tidak cukup &amp;lsquo;cocok&amp;rsquo;. Kategori tantangan FAM dapat membuka aliran pengajuan ide dan proposal yang menghasilkan konten multi-media multibahasa yang berkualitas tinggi, mendidik, dan inspiratif.&lt;/p>
+&lt;p>Konten yang membantu membangun jembatan di dalam ekosistem Cardano itu sendiri serta menyebar ke seluruh ekosistem multi-sektor, secara global. Jadi, penggiat dunia kreatif FAM, di seluruh penjuru dunia, majulah. Anda adalah orang-orang yang kami tunggu-tunggu.&lt;/p></description></item><item><title>Catalyst: Tumbuhkan Asia Timur, Tumbuhkan Cardano</title><link>/id/catalyst/fund8/challenges/grow-east-asia-grow-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/grow-east-asia-grow-cardano/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$150.000 dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382067">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita menumbuhkan ekosistem Cardano di Asia Timur dengan cara yang inklusif dan suportif? Cara yang sama kita lakukan di Afrika, inisiatif yang terfokus!&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>Komunitas Cardano sangat condong ke Amerika Utara dan Eropa. Pertumbuhan di tempat lain membutuhkan dukungan dan inisiatif kita sebagai komunitas.&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Spektrum luas penduduk di seluruh Asia dan terhubung ke Asia, berkumpul dan membentuk tim untuk menumbuhkan ekosistem kita.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;p>Di akhir tantangan ini, kami akan mengajukan beberapa pertanyaan kepada diri sendiri mengenai kualitas partisipasi:&lt;/p>
+&lt;p>Jumlah proposal yang berasal dari peserta Asia Timur di proyek Catalyst&lt;/p>
+&lt;p>Kuantitas dan kualitas proposal yang didanai berasal dari tim Asia Timur.&lt;/p>
+&lt;p>Dampak yang diamati dari proyek yang didanai (memenuhi KPI mereka).&lt;/p>
+&lt;p>Apakah kami meningkatkan partisipasi komunitas Cardano dan tim Catalyst dengan penduduk Asia Timur?&lt;/p>
+&lt;p>Apakah ada peningkatan Dompet Aktif Harian/Bulanan (DAW/MAW) sebagai ukuran proksi dari momentum dan keterlibatan&lt;/p>
+&lt;p>Apakah kami meningkatkan jumlah &lt;i>Stake Pools&lt;/i> dan &lt;i>Stake Pool Operators&lt;/i> yang berbasis di Asia Timur?&lt;/p>
+&lt;p>Kami juga akan mengajukan beberapa pertanyaan spesifik tentang kualitas proposal:&lt;/p>
+&lt;p>Apakah ada umpan balik yang baik tentang kemajuan, kegagalan, atau keberhasilan proyek yang didanai, yang membantu kami memahami nuansa penerapan solusi Cardano di seluruh Asia Timur?&lt;/p>
+&lt;p>Bagaimana kebaruan dan kesesuaian solusi?&lt;/p>
+&lt;p>Apakah kita berada di jalur yang tepat untuk meningkatkan kehidupan orang-orang yang menggunakan Cardano di Asia Timur?&lt;/p>
+&lt;p>Bagaimana evaluasi dampak sosial dan lingkungan yang digunakan untuk mengukur kinerja proposal?&lt;/p>
+&lt;p>Apa keberlanjutan proposal di luar cakupan Catalyst?&lt;/p>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Seperti di Afrika, meningkatkan tingkat kesadaran orang-orang biasa di Asia Timur tentang blockchain dan jaringan Cardano harus menjadi prioritas bagi komunitas Catalyst. Dalam tantangan ini, kami menyediakan dana bagi orang-orang yang telah mempelajari Cardano untuk memanfaatkan dukungan komunitas dan membangun atau menggunakan jaringan Cardano.&lt;/p>
+&lt;p>Sifat proposal untuk tantangan ini adalah terbuka. Satu-satunya persyaratan mereka adalah berasal atau fokus pada Asia Timur dan menyertakan anggota tim Asia Timur atau fokus pada peserta Asia Timur.&lt;/p>
+&lt;p>Misalnya, sebagian besar &lt;i>Stake Pools&lt;/i> berada di Amerika Utara dan Eropa. Jaringan Cardano akan lebih tangguh ketika &lt;i>Stake Pools&lt;/i> didistribusikan secara merata di seluruh dunia. Komunitas Catalyst perlu melangkah dan dengan sengaja mewujudkannya.&lt;/p>
+&lt;p>Cardano memulai kehidupan di Asia Timur (Jepang dan Hong Kong), dan Emurgo berfokus pada Asia Timur. Mari kita membangun itu.&lt;/p>
+&lt;p>Apakah ini:&lt;/p>
+&lt;p>Panggilan untuk bertindak; Aktifkan kemampuan komunitas Cardano untuk mengenali, menghargai kesempatan untuk membuat dunia menjadi tempat yang lebih baik. Asia Timur adalah lahan subur untuk adopsi Cardano. Pengembalian atas niat (ROI) cenderung tinggi karena proyek-proyek di ekonomi muda dan berkembang menghadapi lebih sedikit kelambanan ekonomi.&lt;/p>
+&lt;p>Mengatasi berbagai belahan dunia secara langsung dan sengaja melalui tantangan pendanaan membuat komunitas kami lebih mudah diakses. Hal ini membuat kita lebih tahan banting dan membantu kita belajar serta memahami kebutuhan komunitas yang membentuk ekosistem kita.&lt;/p>
+&lt;p>Sebuah visi yang membutuhkan suara untuk menjadi sebuah pencapaian. Ketika tantangan berhasil, penerima manfaat adalah seluruh komunitas Cardano. Ini adalah panggilan untuk menutup prasangka kita dan membuka mata, hati, dan pikiran kita kepada orang-orang baik yang tidak memiliki akses ke fasilitas terbaik seperti sebagian dari kita sejak yang terlahir dalam situasi ideal—memungkinkan orang lain dalam kondisi yang tidak ideal untuk bangkit dan berhasil.&lt;/p></description></item><item><title>Catalyst: Tumbuhkan India, Tumbuhkan Cardano</title><link>/id/catalyst/fund8/challenges/grow-india-grow-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/catalyst/fund8/challenges/grow-india-grow-cardano/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" class="">
+&lt;p>Alokasi Dana: &lt;strong>$150.000 dibayarkan dalam ADA&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381216">Halaman kampanye&lt;/a> dan &lt;a href="https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified">jelajahi ide&lt;/a> .&lt;/p>
+&lt;h2 id="ringkasan-kampanye">Ringkasan Kampanye&lt;/h2>
+&lt;p>Bagaimana kita bisa menumbuhkan pengembangan dan adopsi Cardano di India?&lt;/p>
+&lt;h3 id="mengapa-hal-ini-penting">Mengapa Hal Ini Penting?&lt;/h3>
+&lt;p>1.4 Milyar orang. 55% di bawah 30 tahun (2016)&lt;/p>
+&lt;p>Pengembang / bisnis Cardano lokal diperlukan untuk memecahkan masalah lokal.&lt;/p>
+&lt;p>Kemiskinan yang signifikan/banyak yang tidak memiliki rekening bank&lt;/p>
+&lt;h3 id="seperti-apa-gambaran-suksesnya">Seperti apa gambaran suksesnya?&lt;/h3>
+&lt;p>Sukses adalah memiliki banyak pengajuan untuk Catalyst Fund8 untuk proyek yang berfokus di India, dengan proyek dunia nyata yang didanai dan dibangun.&lt;/p>
+&lt;h3 id="tolak-ukur-utama">Tolak Ukur Utama&lt;/h3>
+&lt;p>Metrik utama secara keseluruhan adalah:&lt;/p>
+&lt;ul>
+&lt;li>Peningkatan interaksi antara Catalyst dan proyek yang berfokus pada India&lt;/li>
+&lt;li>Jumlah proposal di Catalyst yang terfokus pada India&lt;/li>
+&lt;li>Jumlah dapps/layanan fokus India yang benar-benar dibuat&lt;/li>
+&lt;/ul>
+&lt;h2 id="penjelasan-tantangan">Penjelasan Tantangan&lt;/h2>
+&lt;p>Selain Afrika, saya pikir kita juga harus memberikan fokus yang signifikan pada Cardano di India.&lt;/p>
+&lt;p>India memiliki populasi besar 1,4 miliar.&lt;/p>
+&lt;p>55% berusia di bawah 30 tahun (Wikipedia, 2016) Ada persentase yang signifikan dari orang-orang yang tidak memiliki rekening bank/pedesaan. Worldpoverty.io mencatat 100 juta orang India (7%) hidup dalam kemiskinan ekstrim. Daerah pedesaan tertentu sudah menggunakan Aadhaar Pay untuk membayar untuk barang menggunakan sidik jarinya lihat &lt;a href="https://www.payaadhar">https://www.payaadhar&lt;/a>. Pada 2019). Jadi ada cukup infrastruktur dan perangkat konsumen untuk segera membuat pasar yang serius.&lt;/p>
+&lt;p>Memiliki tantangan/dana Catalyst yang berfokus pada India akan sangat berguna untuk mengumpulkan tim dan ide dan membuat Cardano bergulir di India. Saya bukan orang India dan tidak memiliki koneksi ke India, tetapi saya pikir Cardano dapat berguna untuk membantu memecahkan masalah yang mereka hadapi dan juga untuk menumbuhkan ekosistem Cardano.&lt;/p>
+&lt;p>Pada permukaan masalah di India mungkin tampak mirip dengan Afrika atau Amerika Selatan, dan akan ada beberapa tumpang tindih, tetapi idealnya orang lokal yang mengidentifikasi dan memecahkan masalah lokal merupakan hal terbaik.&lt;/p>
+&lt;p>Emurgo memiliki kantor di India, tetapi tidak yakin apa yang mereka lakukan. TI di India sudah mapan dengan banyak talenta dan keterampilan yang tersedia - kami perlu memberi tahu mereka tentang Cardano dan pendanaan Catalyst. Proposal ini dimaksudkan untuk berfokus pada India dalam tantangan Fund8, dengan tantangan tersebut menarik proposal yang dapat ditindaklanjuti untuk menumbuhkan komunitas pengembang dan pendidik.&lt;/p>
+&lt;p>Beberapa saran untuk tantangan Fund8 tersebut adalah:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Menyiapkan hub Cardano lokal untuk bertemu secara reguler (dunia maya atau nyata)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Situs web/sosial/YT berbahasa lokal disiapkan untuk menarik pengembang/pengusaha untuk menjelaskan Cardano dan Catalyst di tingkat tinggi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pendanaan DApp dan buat video petunjuk dalam bahasa lokal sebagai panduan untuk membantu mendidik dan mengurangi kerumitan yang dirasakan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jalankan kompetisi/pitch-fest untuk ide DApp dengan 10 ide teratas dapatkan dana untuk membuat MVP&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Membuat hubungan dengan universitas dan pusat pelatihan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Membuat hubungan dengan saluran konten kreator YouTube India yang baru dan mapan untuk berbicara tentang teknologi Cardano, ide pengembang, peluang bisnis, dll. untuk menciptakan desas-desus tentang pendanaan Catalyst&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Secara teratur mempromosikan kesadaran pendanaan Cardano dan Catalyst untuk membawa orang-orang makin terlibat, misalnya kampanye 12 bulan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Ini seperti roda besar yang berat yang akan membutuhkan banyak energi untuk berputar, tetapi begitu mulai bergerak (semoga) terus berjalan dengan lebih sedikit energi yang dibutuhkan.&lt;/p>
+&lt;p>Berapa banyak ADA/USD yang harus tersedia untuk proposal ini?&lt;/p>
+&lt;p>Saya pikir dibutuhkan beberapa putaran Catalyst untuk membangun minat Cardano di India, jadi putaran pertama investasi selama Fund8 harus $150.000. Putaran pendanaan selanjutnya dapat ditentukan pada saat itu dan kemudian dipilih oleh komunitas.&lt;/p></description></item></channel></rss>

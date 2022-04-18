@@ -1,0 +1,80 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Catalyst Eastern Town Hall – Pengetahuan Umum</title><link>/id/docs/pengetahuan-umum/</link><description>Recent content in Pengetahuan Umum on Catalyst Eastern Town Hall</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/id/docs/pengetahuan-umum/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Blockchain dengan Proof of Stake</title><link>/id/docs/pengetahuan-umum/proof-of-stake/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/docs/pengetahuan-umum/proof-of-stake/</guid><description>
+&lt;h3 id="konsensus-proof-of-stake-pos">&lt;strong>Konsensus Proof of Stake (PoS)&lt;/strong>&lt;/h3>
+&lt;p>Blockchain dengan mekanisme konsensus Proof of Stake adalah blockchain yang menggunakan aset crypto yang &lt;em>di-staking&lt;/em> atau &lt;em>di-depositkan&lt;/em> untuk memutuskan siapa yang akan memvalidasi transaksi – transaksi dan menambahkannya ke dalam block berikutnya, untuk kemudian di-input ke chain. Di dalam blockchain &lt;strong>Proof of Work (PoW)&lt;/strong> seperti Bitcoin, hal ini disebut sebagai &lt;em>&lt;strong>Block Mining&lt;/strong>&lt;/em>.&lt;/p>
+&lt;p>Ketika aset crypto sedang di-staking dan digunakan dalam &lt;em>&lt;strong>Block Mining&lt;/strong>&lt;/em>, aset tersebut memperoleh rewards karena telah membantu prosesnya. Mirip seperti deposit uang ke rekening deposito bank dan memperoleh bunga dari situ.&lt;/p>
+&lt;h3 id="apa-kelebihan-pos-dibanding-metode-konsensus-lainnya-seperti-pow">&lt;strong>Apa kelebihan PoS dibanding metode konsensus lainnya seperti PoW?&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Cara mudah memperoleh rewards/interest dari aset crypto.&lt;/li>
+&lt;li>Tidak perlu membeli perangkat atau pengetahuan spesifik untuk block mining di BTC.&lt;/li>
+&lt;li>Membantu menjaga keamanan dan efisiensi dari blockchain yang bersangkutan (dalam hal ini Cardano).&lt;/li>
+&lt;li>Lebih ramah lingkungan daripada block mining di BTC.&lt;/li>
+&lt;/ul>
+&lt;h3 id="sekilas-tentang-cara-kerja-pow-di-btc-untuk-perbandingan">&lt;strong>Sekilas tentang cara kerja PoW di BTC untuk perbandingan:&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Jaringan blockchain membutuhkan processing power yang sangat besar dimana masing - masing miner di seluruh dunia bersaing menyelesaikan mathematical problem untuk menemukan random code yang disebut &lt;em>nonce&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Oleh karena itu, muncul istilah jika banyak miner yang sedang online, difficulty problem makin susah. Jika banyak miner yang sedang offline, difficulty problem lebih mudah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pemenangnya kemudian berhak menambahkan block yang sudah berisi transaksi - transaksi tervalidasi ke dalam blockchain, lalu menerima crypto sebagai rewards-nya.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Docs: Segala Sesuatu Tentang Crypto Wallet</title><link>/id/docs/pengetahuan-umum/crypto-wallet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/id/docs/pengetahuan-umum/crypto-wallet/</guid><description>
+&lt;h3 id="apa-itu-crypto-wallet">&lt;strong>Apa itu Crypto Wallet?&lt;/strong>&lt;/h3>
+&lt;p>Crypto Wallet adalah sebuah alat, tool, atau software wajib bagi para pengguna crypto untuk mengakses atau mentransaksikan aset crypto yang dimiliki.&lt;/p>
+&lt;h3 id="apakah-crypto-wallet-menyimpan-aset-crypto">&lt;strong>Apakah Crypto Wallet menyimpan aset crypto?&lt;/strong>&lt;/h3>
+&lt;p>Crypto Wallet tidak menyimpan aset - aset crypto yang dimiliki oleh para pengguna. Crypto wallet bukanlah sebuah dompet yang menyimpan uang secara harafiah.&lt;/p>
+&lt;h3 id="jika-tidak-disimpan-di-crypto-wallet-dimana-aset-crypto-kita-disimpan">&lt;strong>Jika tidak disimpan di Crypto Wallet, dimana aset crypto kita disimpan?&lt;/strong>&lt;/h3>
+&lt;p>Aset crypto &lt;em>&lt;strong>tercatat&lt;/strong>&lt;/em> di dalam entry &lt;em>&lt;strong>public address&lt;/strong>&lt;/em> yang ada di blockchain. Setiap address menunjukkan aset apa saja yang dimiliki, total nilai, beserta historisnya.&lt;/p>
+&lt;p>Walaupun crypto wallet sedang error, dengan public address, pengguna tetap dapat mengecek aset crypto yang dimiliki melalui blockchain explorer.&lt;/p>
+&lt;h3 id="apa-itu-non-custodial-vs-custodial-wallet">&lt;strong>Apa itu non-custodial VS custodial wallet?&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Non-custodial (tidak dalam penguasaan oleh suatu pihak / non-kustodial) wallet adalah wallet dimana pengguna memiliki dan menjaga sendiri seed phrase / recovery phrase / mnemonic dari wallet tersebut. Untuk transaksi jual beli aset crypto hanya bisa dilakukan melalui DEX (Decentralized Exchange).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Custodial (dalam penguasaan suatu pihak / kustodial) wallet adalah wallet yang seed phrase / recovery phrase / mnemonic dimiliki dan dipegang oleh suatu pihak, pada umumnya CEX (Centralized Exchange) seperti Binance, Coinbase, Kraken, dan sejenisnya. Biasa digunakan oleh para pengguna crypto awal atau pengguna yang lebih memilih kemudahan ketika transaksi jual beli aset crypto.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di non-custodial wallet, pengguna harus menjaga baik - baik seed phrase / recovery phrase / mnemonic dari wallet-nya sendiri. Sedangkan di custodial wallet, jika terjadi apa - apa dengan pihak lain itu misalnya CEX, maka semua aset crypto yang dimiliki pengguna terancam tidak bisa diakses lagi atau hilang.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="kenapa-kita-harus-simpan-seed-phrase--recovery-phrase--mnemonic-baik---baik-walaupun-crypto-wallet-nya-juga-sudah-di-password-dengan-super-panjang-dan-rumit">&lt;strong>Kenapa kita harus simpan seed phrase / recovery phrase / mnemonic baik - baik walaupun crypto wallet-nya juga sudah di-password dengan super panjang dan rumit?&lt;/strong>&lt;/h3>
+&lt;p>Public address lahir atau muncul dari &lt;em>&lt;strong>proses enkripsi&lt;/strong>&lt;/em> dengan private keys yang berasal dari seed phrase / recovery phrase / mnemonic sesuai dengan blockchain masing - masing.&lt;/p>
+&lt;p>Dengan seed phrase / recovery phrase / mnemonic, setiap pengguna dapat mengakses aset crypto yang dimiliki di wallet manapun (tentunya sesuai blockchain masing - masing).&lt;/p>
+&lt;p>&lt;em>&lt;strong>Sedangkan password yang diterapkan ke crypto wallet hanya mengenkripsi wallet secara lokal di browser/PC/laptop yang bersangkutan, namun tidak di browser/PC/laptop di tempat lain atau milik orang lain.&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Jika seed phrase dicuri, walaupun pencuri tidak tahu password-nya, pencuri tetap dapat mengakses aset crypto dengan wallet lain, karena seed phrase → private keys → public address sehingga aset - aset crypto dapat ketahuan semuanya dan selanjutnya dicuri.&lt;/strong>&lt;/em>&lt;/p>
+&lt;h3 id="terus-bagaimana-cara-menyimpan-seed-phrase--recovery-phrase--mnemonic-yang-paling-aman">&lt;strong>Terus, bagaimana cara menyimpan seed phrase / recovery phrase / mnemonic yang paling aman?&lt;/strong>&lt;/h3>
+&lt;p>Metode paling aman untuk menyimpan seed phrase / recovery phrase / mnemonic adalah dengan menuliskannya di atas kertas yang terpisah, kemudian menyimpannya di tempat - tempat yang terpisah juga.&lt;/p>
+&lt;p>Tidak disarankan menyimpan di PC, laptop, atau handphone, terlebih lagi jika memakai nama file yang mudah ditebak. Resikonya adalah, jika PC/laptop/handphone terkena exploit/hack/virus, maka hacker dapat dengan mudah menemukan file tersebut.&lt;/p>
+&lt;h3 id="kalau-tidak-salah-pernah-dengar-tentang-ledger-trezor-katanya-lebih-aman-ya-kalau-pakai-itu">&lt;strong>Kalau tidak salah, pernah dengar tentang Ledger, Trezor. Katanya lebih aman ya kalau pakai itu?&lt;/strong>&lt;/h3>
+&lt;p>Ledger, Trezor, Keepkey, Bitbox, dan sejenisnya disebut sebagai &lt;strong>hardware wallet&lt;/strong>, atau sering disebut juga &lt;strong>cold wallet&lt;/strong>.&lt;/p>
+&lt;p>Sedangkan wallet - wallet yang dapat diakses dengan mudah melalui web browser, browser extension, mobile apps, atau dalam bentuk instalasi software desktop disebut sebagai &lt;strong>software wallet&lt;/strong>, atau sering disebut juga &lt;strong>hot wallet&lt;/strong>.&lt;/p>
+&lt;h3 id="mengapa-disebut-cold-wallet-dan-hot-wallet">&lt;strong>Mengapa disebut cold wallet dan hot wallet?&lt;/strong>&lt;/h3>
+&lt;p>Dengan cold wallet, terdapat extra layer security bagi pengguna ketika ingin mengakses public address yang ada di setiap blockchain (misal BTC, ETH, ADA, dll), dimana &lt;strong>dibutuhkan interaksi fisik dari pengguna&lt;/strong> dalam meng-input password, memilih blockchain yang ingin digunakan, serta menekan tombol - tombol yang ada di cold wallet ketika melakukan transaksi.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Perlu diingat! Cold wallet sendiri memiliki seed phrase / recovery phrase / mnemonic ketika proses konfigurasi pertama kali. Metode penyimpanan dari seed phrase / recovery phrase / mnemonic tentunya mengacu ke penjelasan sebelumnya di atas.&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>Untuk hot wallet, pengguna dapat dengan mudah meng-input seed phrase / recovery phrase / mnemonic atau wallet password kapanpun dan dimanapun. Pengguna &lt;strong>dapat bertransaksi secara cepat&lt;/strong> tanpa perlu repot - repot interaksi fisik dengan sebuah alat.&lt;/p>
+&lt;h3 id="bagaimana-jika-cold-wallet-hilang-atau-rusak">&lt;strong>Bagaimana jika cold wallet hilang atau rusak?&lt;/strong>&lt;/h3>
+&lt;p>Di setiap cold wallet sudah memiliki prosedur keamanan tersendiri, semisal jika password 3x salah, maka otomatis akan factory reset. Kembali lagi, asalkan keamanan seed phrase / recovery phrase / mnemonic dari cold wallet dapat dijaga, pencuri pun tidak dapat mengaksesnya. Pengguna juga dapat membeli cold wallet baru lalu mengaksesnya dengan seed phrase yang dimiliki dari cold wallet sebelumnya.&lt;/p>
+&lt;h3 id="saya-pribadi-tetap-lebih-memilih-memakai-hot-wallet-tidak-repot-dan-tidak-buang-biaya-ekstra-juga-ada-saran-untuk-menjaga-keamanannya">&lt;strong>Saya pribadi tetap lebih memilih memakai hot wallet, tidak repot, dan tidak buang biaya ekstra juga. Ada saran untuk menjaga keamanannya?&lt;/strong>&lt;/h3>
+&lt;p>Beberapa saran keamanan:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Selalu delete wallet begitu selesai digunakan (jika menggunakan wallet berupa browser extension). Contoh: Yoroi, Nami, CCVault, Typhon, GeroWallet dll.
+&lt;em>&lt;strong>Browser extension tidak akan hilang otomatis jika hanya clean browser’s histories, cookies, and caches ketika mau close browser.&lt;/strong>&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Selalu clean browser’s histories, cookies, and caches ketika mau close browser (jika menggunakan wallet berupa web browser). Contoh: AdaLite, dll.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pastikan jaringan handphone tidak terhubung sembarangan ke public network seperti public WiFi di tempat - tempat umum (cafe, restoran, hotel, bandara, mall, dll). Usahakan tetap menggunakan paket data milik pribadi (jika menggunakan wallet berupa mobile apps). Contoh: Yoroi, dll.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pastikan PC/laptop yang digunakan memiliki security yang selalu terupdate (jika menggunakan wallet berupa instalasi software desktop). Contoh: Exodus, Guarda,dll
+Security dapat berupa windows defender atau antivirus yang selalu terupdate. Dapat juga menggunakan PC/laptop dengan sistem operasi di luar Windows seperti Linux dan MacOS.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="jika-saya-mau-pindah-ke-wallet-lain-apakah-saya-harus-unstaking-ada-dulu-di-wallet-saat-ini">&lt;strong>Jika saya mau pindah ke wallet lain, apakah saya harus unstaking ADA dulu di wallet saat ini?&lt;/strong>&lt;/h3>
+&lt;p>Kembali ke penjelasan di atas, semua historis transaksi tercatat di blockchain termasuk staking. Dengan seed phrase / recovery phrase / mnemonic, setiap pengguna dapat mengakses aset crypto yang dimiliki di wallet manapun.&lt;/p>
+&lt;p>Password wallet sendiri dapat dibuat, diubah, atau diganti - ganti sesuka hati, karena keamanan yang terutama tetap di seed phrase / recovery phrase / mnemonic.&lt;/p></description></item></channel></rss>

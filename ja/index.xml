@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CATALYST 東部タウンホール – Cardano Catalyst Community Eastern Town Hall</title><link>/ja/</link><description>Recent content in Cardano Catalyst Community Eastern Town Hall on CATALYST 東部タウンホール</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Eastern Hemisphere Townhall Meeting 8</title><link>/ja/blog/2021/09/18/eastern-hemisphere-townhall-meeting-8/</link><pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate><guid>/ja/blog/2021/09/18/eastern-hemisphere-townhall-meeting-8/</guid><description>
+&lt;img src="/ja/blog/2021/09/18/eastern-hemisphere-townhall-meeting-8/featured-sunset-get_hu5f299b5f3d0d701c1ef5afe858e66b6a_91467_640x0_resize_q75_catmullrom.jpg" width="640" height="253"/>
+&lt;p>A great meetup where we started off talking about the upcoming Ideafest, Cardano Summit and Hackathons. A lot of familiar faces joined into an insightful discussion about Scams and Scam detection. Lead by Peter Bui. We also discussed trading bots, Social and Environmental applications and touched on Stable Coins.&lt;/p>
+&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
+&lt;img class="card-img-top" src="/ja/blog/2021/09/18/eastern-hemisphere-townhall-meeting-8/featured-sunset-get_hu5f299b5f3d0d701c1ef5afe858e66b6a_91467_600x300_fill_q75_catmullrom_smart1.jpg" width="600" height="300">
+&lt;div class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+Fetch and scale an image in the upcoming Hugo 0.43.
+&lt;small class="text-muted">&lt;br/>Photo: Eastern Hemisphere Townhall / CC-BY-CA&lt;/small>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;p>The front matter of this post specifies properties to be assigned to all image resources:&lt;/p>
+&lt;pre tabindex="0">&lt;code>resources:
+- src: &amp;#34;**.{png,jpg}&amp;#34;
+title: &amp;#34;Image #:counter&amp;#34;
+params:
+byline: &amp;#34;Photo: Riona MacNamara / CC-BY-CA&amp;#34;
+&lt;/code>&lt;/pre>&lt;p>To include the image in a page, specify its details like this:&lt;/p>
+&lt;pre tabindex="0">&lt;code>
+&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
+&lt;img class="card-img-top" src="/ja/blog/2021/09/18/eastern-hemisphere-townhall-meeting-8/featured-sunset-get_hu5f299b5f3d0d701c1ef5afe858e66b6a_91467_600x300_fill_q75_catmullrom_smart1.jpg" width="600" height="300">
+&lt;div class="card-body px-0 pt-2 pb-0">
+&lt;p class="card-text">
+Fetch and scale an image in the upcoming Hugo 0.43.
+&lt;small class="text-muted">&lt;br/>Photo: Eastern Hemisphere Townhall / CC-BY-CA&lt;/small>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/code>&lt;/pre>&lt;p>The image will be rendered at the size and byline specified in the front matter.&lt;/p></description></item></channel></rss>

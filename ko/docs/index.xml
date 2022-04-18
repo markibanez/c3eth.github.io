@@ -1,0 +1,2116 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>촉매 이스턴 타운 홀 – Documentation</title><link>/ko/docs/</link><description>Recent content in Documentation on 촉매 이스턴 타운 홀</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="/ko/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Multi-Bear Domicile Setup</title><link>/ko/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/ko/docs/tutorials/multi-bear/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
+&lt;/div>
+&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
+&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
+&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
+&lt;blockquote>
+&lt;p>There should be no margin above this first sentence.&lt;/p>
+&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
+&lt;p>There should be no margin below this final sentence.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="first-header-2">First Header 2&lt;/h2>
+&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
+&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
+&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
+&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
+&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
+&lt;blockquote>
+&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="header-3">Header 3&lt;/h3>
+&lt;pre tabindex="0">&lt;code>This is a code block following a header.
+&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
+&lt;h4 id="header-4">Header 4&lt;/h4>
+&lt;ul>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;/ul>
+&lt;h5 id="header-5">Header 5&lt;/h5>
+&lt;ol>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;/ol>
+&lt;h6 id="header-6">Header 6&lt;/h6>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>What&lt;/th>
+&lt;th>Follows&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
+&lt;hr>
+&lt;p>Here is an unordered list:&lt;/p>
+&lt;ul>
+&lt;li>Liverpool F.C.&lt;/li>
+&lt;li>Chelsea F.C.&lt;/li>
+&lt;li>Manchester United F.C.&lt;/li>
+&lt;/ul>
+&lt;p>And an ordered list:&lt;/p>
+&lt;ol>
+&lt;li>Michael Brecker&lt;/li>
+&lt;li>Seamus Blake&lt;/li>
+&lt;li>Branford Marsalis&lt;/li>
+&lt;/ol>
+&lt;p>And an unordered task list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
+&lt;/ul>
+&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
+&lt;li>?&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
+&lt;/ul>
+&lt;p>And a nested list:&lt;/p>
+&lt;ul>
+&lt;li>Jackson 5
+&lt;ul>
+&lt;li>Michael&lt;/li>
+&lt;li>Tito&lt;/li>
+&lt;li>Jackie&lt;/li>
+&lt;li>Marlon&lt;/li>
+&lt;li>Jermaine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>TMNT
+&lt;ul>
+&lt;li>Leonardo&lt;/li>
+&lt;li>Michelangelo&lt;/li>
+&lt;li>Donatello&lt;/li>
+&lt;li>Raphael&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
+&lt;dl>
+&lt;dt>Name&lt;/dt>
+&lt;dd>Godzilla&lt;/dd>
+&lt;dt>Born&lt;/dt>
+&lt;dd>1952&lt;/dd>
+&lt;dt>Birthplace&lt;/dt>
+&lt;dd>Japan&lt;/dd>
+&lt;dt>Color&lt;/dt>
+&lt;dd>Green&lt;/dd>
+&lt;/dl>
+&lt;hr>
+&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Year&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Michael Jackson&lt;/td>
+&lt;td>Thriller&lt;/td>
+&lt;td>1982&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prince&lt;/td>
+&lt;td>Purple Rain&lt;/td>
+&lt;td>1984&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Beastie Boys&lt;/td>
+&lt;td>License to Ill&lt;/td>
+&lt;td>1986&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Year&lt;/th>
+&lt;th>Label&lt;/th>
+&lt;th>Awards&lt;/th>
+&lt;th>Songs&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Michael Jackson&lt;/td>
+&lt;td>Thriller&lt;/td>
+&lt;td>1982&lt;/td>
+&lt;td>Epic Records&lt;/td>
+&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
+&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prince&lt;/td>
+&lt;td>Purple Rain&lt;/td>
+&lt;td>1984&lt;/td>
+&lt;td>Warner Brothers Records&lt;/td>
+&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
+&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Beastie Boys&lt;/td>
+&lt;td>License to Ill&lt;/td>
+&lt;td>1986&lt;/td>
+&lt;td>Mercury Records&lt;/td>
+&lt;td>noawardsbutthistablecelliswide&lt;/td>
+&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
+&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
+&lt;p>Code can also be shown in a block element.&lt;/p>
+&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
+bar := &amp;#34;foo&amp;#34;;
+&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Language&lt;/th>
+&lt;th>Code&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Javascript&lt;/td>
+&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ruby&lt;/td>
+&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Small images should be shown at their actual size.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
+&lt;h2 id="components">Components&lt;/h2>
+&lt;h3 id="alerts">Alerts&lt;/h3>
+&lt;p>
+&lt;div class="alert alert-primary" role="alert">
+This is an alert.
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title.
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
+&lt;/div>
+&lt;div class="alert alert-success" role="alert">
+This is a successful alert.
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+This is a warning.
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+&lt;h4 class="alert-heading">Warning&lt;/h4>
+This is a warning with a title.
+&lt;/div>
+&lt;/p>
+&lt;h2 id="another-heading">Another Heading&lt;/h2>
+&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h3 id="this-document">This Document&lt;/h3>
+&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
+&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
+&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
+&lt;h3 id="contact-info">Contact Info&lt;/h3>
+&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
+&lt;h3 id="external-links">External Links&lt;/h3>
+&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
+&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Challenge and Proposal Guide(도전과 제안 가이드)</title><link>/ko/docs/catalyst/project-catalyst-challenge-and-proposal-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/docs/catalyst/project-catalyst-challenge-and-proposal-guide/</guid><description>
+&lt;p>Project Catalyst가 진행 중이며 우리는 광범위한 개인의 놀라운 참여를 보고 있습니다. 이것은 전세계 커뮤니티 혁신 프로젝트를 만들기 위한 협업 프로세스입니다. 문제점, 해결책, 관련 경험 및 요청한 자금이 투표 애플리케이션에 표시됩니다. 이렇게 하면 모든 사람이 투표하기 전에 이니셔티브에 대해 알 수 있습니다.&lt;/p>
+&lt;p>제안 계획 및 첨부 파일은 세부 사항을 이해하기 위해 Ideascale이 호스팅하는 혁신 플랫폼에서 볼 수 있습니다. 이것은 모두가 전체 토론에 기여하는 데 자신감을 느끼기를 원한다는 것을 의미합니다.&lt;/p>
+&lt;p>성과물의 품질은 커뮤니티가 새로운 아이디어를 만들고 참여하는 능력에 달려 있습니다. 이를 위해 성공적인 제안서를 작성하기 위한 빠른 가이드를 공유하고자 합니다.&lt;/p>
+&lt;h3 id="제목-제안-35자-제한-">제목 제안* (35자 제한) +&lt;/h3>
+&lt;p>제안 제목은 사람들의 관심을 끌면서 달성하려는 혁신을 나타내야 합니다. 그러나 우리는 매끄러운 마케팅 연설을 피하고 싶습니다. 대중에게 그것이 무엇이고 누구를 위한 것인지 가능한 한 명확하게 서술해 주세요. 간단하고 유익한 정보를 유지하고 대중을 염두에 두세요.&lt;/p>
+&lt;p>&lt;strong>Example Title(제목 예시):&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>스테이크 풀 운영자 vlog 네트워크&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="문제점-작성-방법140자-제한">문제점 작성 방법(140자 제한)&lt;/h3>
+&lt;h4 id="도전에-맞서다">도전에 맞서다&lt;/h4>
+&lt;p>각 펀드에는 제안이 해결하려고 시도할 특정 문제가 있습니다. 문제는 원래 Project Catalyst 팀에서 설정한 다음 커뮤니티가 자체 개발할 수 있는 기회가 생깁니다. 제안서가 문제를 직접 해결하는 것이 중요합니다. 다음은 도전 과제와 이를 해결하는 몇 가지 문제점에 대한 설명의 예시입니다.&lt;/p>
+&lt;h4 id="도전">도전&lt;/h4>
+&lt;blockquote>
+&lt;p>개발자와 기업가가 향후 6개월 동안 Cardano를 기반으로 Dapp 및 비즈니스를 구축하도록 어떻게 장려할 수 있습니까?&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>문제점&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>구축자는 자금 확보에 소요되는 형식적인 시간 비용을 처리하기를 원하지 않습니다. Cardano빌더가 제안을 간소화하도록 어떻게 도울 수 있습니까?&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>나는 Plutus와 Marlowe가 메인넷에 등장하기전에 Cardano에서 탈중앙화/개방형 금융 무브먼트(운동)을 일으키는 문제를 해결하려고 노력하고 있습니다.&lt;/p>
+&lt;/blockquote>
+&lt;p>이 두 가지 예에서 문제점과 도전 과제 사이의 관계가 분명합니다. 이것이 유권자들이 찾는 것입니다. 그러나 문제점의 내용이 명확하고 효과적이지만 이러한 문제점은 개선될 수 있습니다.&lt;/p>
+&lt;h3 id="훌륭한-문제-진술-만들기140자-제한">훌륭한 문제 진술 만들기(140자 제한)&lt;/h3>
+&lt;p>문제점은 도전과 관련된 문제를 식별하고 해결책을 제공합니다. 일반적인 문제, 긴급한 문제, 값비싼 문제, 자주 발생하는 문제에 초점을 맞추는 것이 중요합니다. 이러한 용어로 문제를 설명하는 것은 좋은 제안에 있어 매우 중요하므로 유권자가 가장 먼저 볼 수 있어야 합니다. 좋은 문제 진술에는 요망되는 결과, 차단된 문제, 문제 비용, 근거라는 네 가지 구성 요소가 있습니다.&lt;/p>
+&lt;h3 id="문제점-설명의-구조">문제점 설명의 구조&lt;/h3>
+&lt;p>&lt;strong>요망되는 결과:&lt;/strong> 여러분의 해결책이 승인되면 이상적인 상황 설정을 묘사합니다.&lt;/p>
+&lt;p>&lt;strong>직면 문제:&lt;/strong> 이러한 상황이 발생하지 않도록 방지하기 위한 문제에 대한 간략한 설명입니다.&lt;/p>
+&lt;p>&lt;strong>문제 비용:&lt;/strong> 주요 이해 관계자에 대한 문제의 기회 및 재정적 비용의 합계입니다. 이것은 유권자들이 문제가 얼마나 많은 영향을 미치는지 평가하는 데 도움이 됩니다.&lt;/p>
+&lt;p>&lt;strong>근거:&lt;/strong> 상세한 계획에 명시된 여러분의 입장을 지지합니다. 다음은 예시입니다.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>명령문 구성 요소&lt;/th>
+&lt;th>설명&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>요망되는 결과&lt;/em>&lt;/td>
+&lt;td>우리는 필리핀에 거주하는 노동자들에게 돈을 송금할 수 있도록 저렴하게 만들고자 합니다.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>직면 문제&lt;/em>&lt;/td>
+&lt;td>필리핀 인구의 11%가 거래 수수료로 돈을 잃습니다.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>문제 비용&lt;/em>&lt;/td>
+&lt;td>매년 약 10억 달러가 이적료로 지불됩니다.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>근거&lt;/em>&lt;/td>
+&lt;td>이를 증명하는 데이터에 대한 링크.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>위의 정보를 요약한 완성된 문제 설명은 다음과 같습니다.&lt;/p>
+&lt;blockquote>
+&lt;p>필리핀 근로자에게 송금하는 비용은 저렴해야 합니다. 그러나 인구의 11%가 연간 거래 수수료로 10억 달러를 잃고 있습니다. 연구 링크 [1],[2]&amp;quot;&lt;/p>
+&lt;p>&lt;em>결론적으로&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>요망되는 결과와 그것을 막는 문제를 진술하세요.&lt;/li>
+&lt;li>문제 비용을 정의하세요.&lt;/li>
+&lt;li>여러분이 발견한 근거를 제시하세요.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h3 id="해결책140자-제한">해결책(140자 제한)&lt;/h3>
+&lt;h4 id="해결책-구성">해결책 구성&lt;/h4>
+&lt;p>따라서 많은 중요한 정보를 제공하기 위해 140자만 사용할 수 있습니다. 모든 문자가 계산되기 때문에 프롬프트를 정확하게 처리하는 것이 중요합니다.&lt;/p>
+&lt;p>당연하게 들릴 수 있지만 해결책은 알려진 문제를 기반으로 해야 합니다. 문제 설명(문제점)에 나와 있는 문제를 실제로 해결해야 합니다. 문제를 찾는 해결책은 뚜렷한 필요를 채우는 것보다 덜 효율적이기 때문에 거의 매력적인 옵션이 아닙니다. 따라서 기억하세요. 문제 해결부터 시작한 다음 &lt;em>세부 계획&lt;/em> 섹션에서 해결책의 비전을 제시하세요. 140자는 문제를 해결하고 그 해결책이 다른 솔루션과 어떻게 다른지에 대한 통찰력을 제공해야 합니다.&lt;/p>
+&lt;p>&lt;em>해결책 설명 예시&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>개발자와 기업가가 향후 6개월 동안 Cardano를 기반으로 Dapp 및 비즈니스를 구축하도록 어떻게 장려할 수 있습니까?&lt;/p>
+&lt;p>결론적으로&lt;/p>
+&lt;ul>
+&lt;li>해결책이 문제를 해결할 수 있음을 보장하도록 문제를 직접 적시하세요.&lt;/li>
+&lt;li>차별화를 통해 프로젝트를 돋보이게 만드세요&lt;/li>
+&lt;li>문제를 찾는 대신 문제를 해결하는 해결책을 만드세요.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h3 id="관련-경험치140자-제한">관련 경험치(140자 제한)&lt;/h3>
+&lt;h4 id="여러분의-장점을-찾아보세요">여러분의 장점을 찾아보세요&lt;/h4>
+&lt;p>여러분의 &amp;lsquo;경쟁 우위&amp;rsquo;를 찾아 집으로 들고 오세요. 우리는 여러분의 경쟁력을 몇 가지 다른 범주로 나눌 수 있습니다. 해결책에는 이러한 경쟁 우위에 대한 설명이 가능한 한 많이 포함되어야 합니다. 이 제안에 투표하는 사람들은 여러분의 제안을 &amp;lsquo;확실한 것&amp;rsquo;임을 보고 싶어한다는 것을 기억하세요. 블록체인 공간의 다른 프로젝트와 왜 다른지 명확하게 설명할 수 있다면 상당한 경쟁 우위를 확보할 수 있습니다.&lt;/p>
+&lt;h4 id="설립자">설립자&lt;/h4>
+&lt;p>여러분의 제안에 대해 작업하는 사람들은 그들의 개인적인 전문성과 작업 이력을 프로젝트에 공유할 수 있습니다.&lt;/p>
+&lt;p>&lt;em>경험(경력)에 대한 예시:&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>John Do는 블록체인 재무 시스템에 대한 인센티브 계획에 중점을 두고 박사 학위를 마쳤습니다.&lt;/p>
+&lt;p>결론적으로*&lt;/p>
+&lt;ul>
+&lt;li>경쟁력을 찾고 그것이 잘 알려져 있는지 확인하세요.&lt;/li>
+&lt;li>프로젝트의 종류에 따라 다르게 보일 수 있습니다.&lt;/li>
+&lt;li>대중은 혁신 플랫폼의 다른 사람들임을 기억하십시오.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h3 id="세부-계획">세부 계획&lt;/h3>
+&lt;h4 id="통찰력을-통한-차별화">통찰력을 통한 차별화&lt;/h4>
+&lt;p>이제 문제를 설명하고 확실한 해결책을 제공했으므로 실행에 대해 이야기해 보겠습니다. 다른 문제에는 다른 해결책션이 필요합니다. 마케팅 캠페인 및 교육 리소스에서 개발자 인프라 개선 및 비즈니스 개발에 이르기까지 다양한 프로젝트 아이디어를 찾고 있습니다.&lt;/p>
+&lt;p>여러분의 계획을 로드맵 및 필요 분석으로 봐야 합니다. 우선, 해결책이 작동하는 이유는 무엇입니까? 여러분이 여러분의 문제를 가장 먼저 확인했을 수도 있지만, 여러분의 해결책이 가능한 옵션 분야에서 가장 성공적인 이유를 설명하는 것이 중요합니다.&lt;/p>
+&lt;h4 id="시장">시장&lt;/h4>
+&lt;p>여러분이 인식한 시장은 이전에 액세스하거나 우선 순위를 지정하지 않았습니다. 매년 20% 성장하는 시장을 식별해야 합니다.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>예:&lt;/em> 우리의 하드웨어 솔루션은 모든 작업 증명 블록체인에서 작동합니다.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="제품">제품&lt;/h4>
+&lt;p>여러분의 해결책은 시장에서 특히 영향력 있는 방식으로 작동합니다.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>예:&lt;/em> 이 하드웨어 추가는 채굴 장비의 에너지 소비를 20%까지 줄입니다.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="인수">인수&lt;/h4>
+&lt;p>사용자 및 플랫폼 획득 경로가 명확하고 잘 고려되었습니다.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>예:&lt;/em> 네트워크 정보에 대한 액세스는 무료로 사용자 확보를 유도합니다.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="독점">독점&lt;/h4>
+&lt;p>여러분이 그 분야에서 성장함에 따라 여러분의 회사는 실제로 더 강해집니다.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>예:&lt;/em> Ouroboros 프로토콜을 사용하면 탈중앙화가 증가함에 따라 시스템이 더욱 안전해집니다.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="돈을-보여주세요">돈을 보여주세요:&lt;/h4>
+&lt;p>복잡한 문제를 해결하려면 충분한 자금이 필요한 경우가 많습니다. 이것은 Project Catalyst의 커뮤니티에서 이해됩니다. 그러나 이러한 제안에 투표하는 사람은 자금이 어떻게 사용되고 있는지 알 수 있어야 합니다.&lt;/p>
+&lt;p>예산이 어떻게 사용될 것인지에 대한 상세한 분석을 제공합니다. 이것은 다양한 방법으로 가능하지만 예산을 일련의 항목으로 추출하는 것은 주요 자금 조달 계획이 어떻게 사용될지 고려했음을 유권자에게 보여주는 분명한 방법입니다. 예산이 달성하려는 프로젝트의 요구 사항을 충족해야 함을 기억하는 것도 중요합니다. 소규모 모임을 위한 자금을 확보하려는 경우 몇 백 달러면 충분합니다. 중요한 인프라의 개발을 조정하는 경우 더 많은 리소스가 필요합니다. 비전과 적절한 자금을 연결해야 합니다.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>예:&lt;/em> 개발자 중심의 팟캐스트를 만드는 데 초기 6개월 동안 5,000달러가 소요됩니다.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="궤도에-오르다">궤도에 오르다&lt;/h4>
+&lt;p>제안서를 작성할 때 자금을 받는 것을 전제로 작성해야 합니다. 그러나 여러분의 제안을 읽는 모든 사람이 여러분이 기초를 다질 수 있다는 것을 이해하는 것이 중요합니다. 여기에 로드맵이 필요합니다. 로드맵은 자금이 지원되면 달성하고자 하는 모든 주요 이정표를 세분화해야 합니다. 이것은 몇 가지 다른 방법으로 수행할 수 있지만 좋은 로드맵은 &lt;em>1개월, 3개월 및 6개월 목표&lt;/em>를 자세히 설명합니다.&lt;/p>
+&lt;p>로드맵에서 핵심 성과 지표(KPI)를 식별하는 것도 중요합니다. 이것들은 당신이 성공했음을 보여주는 여러분이 달성한 목표입니다. 다음은 KPI의 몇 가지 예입니다.&lt;/p>
+&lt;ul>
+&lt;li>획득한 사용자&lt;/li>
+&lt;li>구축된 제품 기능&lt;/li>
+&lt;li>도달한 벤치마크의 성능&lt;/li>
+&lt;li>x 시간 동안 네트워크 안정성 달성&lt;/li>
+&lt;/ul>
+&lt;p>KPI에 대해 기억해야 할 중요한 점은 KPI에 번호가 붙어 있어야 한다는 것입니다. 초기 15명의 사용자를 확보하는 것은 달성 가능한 목표입니다. &amp;lsquo;많은&amp;rsquo; 사용자를 확보한다는 것은 상당히 모호하고 누구도 판단하기 어렵습니다. 커뮤니티에 이러한 아이디어를 제시하고 의도를 명확하게 하고 목표를 달성했는지 확인하는 것이 더 쉬울수록 훌륭한 도전으로 보일 가능성이 높다는 것을 기억하세요.&lt;/p>
+&lt;h4 id="지적-재산권">지적 재산권&lt;/h4>
+&lt;p>여러분의 IP(지적재산) 정책(특허, 상표, 저작권, 라이선스 등)이 재무부에 적합한지 평가할 수 있도록 검토자와 공유하세요.&lt;/p>
+&lt;h4 id="성공-정의">성공 정의&lt;/h4>
+&lt;p>이 특정 프로젝트의 성공은 어떻습니까? 한 번의 자금 조달 후에 완전히 완료되지 않을 수도 있지만 여러분의 제안은 최종 상태가 어떤 모습일 지에 대한 아이디어를 제공해야 합니다. 이것은 KPI와 마찬가지로 누구나 확인할 수 있는 이해하기 쉬운 숫자여야 합니다.&lt;/p>
+&lt;h4 id="결론적으로">결론적으로&lt;/h4>
+&lt;ul>
+&lt;li>프로젝트의 요구 사항에 맞게 예산과 로드맵을 조정하세요.&lt;/li>
+&lt;li>목표를 향한 좋은 진행 상황을 보여주는 도달 가능한 핵심 성과 지표를 설정하세요.&lt;/li>
+&lt;li>누가 무엇을 소유하고 있는지 모든 사람이 알 수 있도록 지적 재산권을 설정하세요.&lt;/li>
+&lt;li>프로젝트의 성공을 정의하세요.&lt;/li>
+&lt;/ul>
+&lt;h3 id="첨부-파일링크">첨부 파일/링크&lt;/h3>
+&lt;p>모든 사람이 필요한 추가 정보를 공유할 수 있는 것이 중요합니다. 이것이 PDF, 이미지 및 추가 URL을 모두가 볼 수 있는 Ideascale을 통해 전송될 수 있는 이유입니다.&lt;/p>
+&lt;h3 id="피드백">피드백&lt;/h3>
+&lt;h4 id="커뮤니티-지원">커뮤니티 지원&lt;/h4>
+&lt;p>각 개별 제안을 가능한 한 강력하게 만들기 위해 모든 사람이 혁신 플랫폼을 사용하여 각 아이디어를 논의할 것을 권장합니다. 사실, 우리는 여러분의 비판을 지시하는 데 도움이 되는 리뷰어 가이드라인을 만들었습니다. 생산적이고 유익한 대화를 위해 모든 사람이 다음 영역에 피드백을 집중할 것을 권장합니다.&lt;/p>
+&lt;p>&lt;em>감사 가능성:&lt;/em> 검토자가 프로젝트를 정확하게 평가하는 데 도움이 되도록 제안서에서 누락된 세부 정보는 무엇입니까?&lt;/p>
+&lt;p>&lt;em>영향:&lt;/em> 제안이 문제를 더 잘 해결할 수 있는 방법은 무엇입니까? 사람들이 향후 6개월 동안 Cardano에서 dApp을 구축하도록 어떻게 장려할 수 있습니까?&lt;/p>
+&lt;p>&lt;em>실행 가능성:&lt;/em> 제안의 예산, 계획 및 범위를 수정하여 더 달성할 수 있도록 하는 방법은 무엇입니까?&lt;/p>
+&lt;p>&lt;strong>예시&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>마케팅 이니셔티브가 KPI로 온보딩을 시도하는 정확한 사용자 수를 제공했다면 성공을 추적하는 것이 훨씬 쉬울 것입니다.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="결론적으로-1">결론적으로*&lt;/h4>
+&lt;ul>
+&lt;li>좋은 피드백을 제공하여 다른 제안을 더 강력하게 만드세요.&lt;/li>
+&lt;li>유용한 피드백을 자신의 제안에 통합하세요.&lt;/li>
+&lt;li>혁신 프로세스에 적극적으로 참여하여 지속적으로 성장할 수 있도록 하세요.&lt;/li>
+&lt;/ul>
+&lt;h3 id="커뮤니티-선택-제안서를-작성하는-방법">커뮤니티 선택 제안서를 작성하는 방법&lt;/h3>
+&lt;h4 id="커뮤니티의-자율성">커뮤니티의 자율성&lt;/h4>
+&lt;p>Project Catalyst 커뮤니티가 자체 문제를 작성하게 하는 목적은 Project Catalyst 팀에서 플랫폼을 자율화하는 것입니다. 결국 Cardano 커뮤니티는 시작부터 제공에 이르기까지 혁신과 협업 프로세스를 제어하게 됩니다. 이를 염두에 두고 영향력 있는 도전이 무엇인지 이해하는 것이 중요합니다.&lt;/p>
+&lt;h4 id="발전에-초점">발전에 초점&lt;/h4>
+&lt;p>도전은 커뮤니티가 Cardano 생태계 발전에 창의성을 집중하는 데 도움이 되는 질문입니다. 물론 &amp;lsquo;진보&amp;rsquo;는 사람마다 의미가 다릅니다. 영향력 있는 도전 질문을 작성하는 핵심은 균형입니다. 다양한 방식으로 다룰 수 있을 만큼 충분히 광범위해야 하지만 모든 사람을 위한 Cardano의 가치를 높일 수 있을 만큼 구체적이어야 합니다.&lt;/p>
+&lt;h4 id="도전-질문-예시">도전 질문 예시&lt;/h4>
+&lt;p>다음은 도전 질문의 몇 가지 예시입니다.&lt;/p>
+&lt;p>&lt;em>너무 구체적인 경우&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>남부 유럽에 기반을 둔 스테이크 풀 운영자가 향후 2개월 동안 어떻게 자신의 풀을 보다 매력적인 위임자로 만들 수 있습니까?&lt;/p>
+&lt;/blockquote>
+&lt;p>이 도전 질문은 남부 유럽의 스테이크 풀 운영자에게만 해당됩니다. Cardano는 다양한 방식으로 참여할 수 있는 글로벌 생태계입니다. 도전 질문은 모두에게 도움이 되어야 합니다.&lt;/p>
+&lt;p>&lt;em>너무 광범위한 경우&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>Cardano를 어떻게 더 유용하게 만들 수 있습니까?&lt;/p>
+&lt;/blockquote>
+&lt;p>물론 우리는 Cardano가 더 유용하기를 원하지만 이 도전은 참가자들에게 창의성을 불러일으킬 매개변수를 제공하지 않습니다. 커뮤니티가 생태계의 직접적인 요구를 해결하는 데 도움이 되도록 제약 조건이 필요합니다.&lt;/p>
+&lt;p>&lt;em>적절한 경우&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>개발자와 기업가가 향후 6개월 동안 Cardano를 기반으로 Dapp 및 비즈니스를 구축하도록 어떻게 장려할 수 있습니까?&lt;/p>
+&lt;/blockquote>
+&lt;p>이 도전에는 일정 기간이 있으며 전체 Cardano 커뮤니티에 있어 중요한 커뮤니티를 대상으로 합니다. 또한 기술 및 비기술적 기여를 통해 다양한 방식으로 해결할 수 있습니다. 그러나 도전 질문을 작성하는 것은 Project Catalyst의 중요한 부분 중 하나일 뿐입니다. Project Catalyst에 대한 가장 영향력 있는 아이디어를 식별하려면 명확하고 간결한 방식으로 이러한 문제를 해결해야 합니다.&lt;/p>
+&lt;h3 id="태그">태그&lt;/h3>
+&lt;p>협력자/조언/구현자를 찾고 있다면 제안서에 태그를 추가하세요.&lt;/p></description></item><item><title>Docs: Another Tutorial</title><link>/ko/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/ko/docs/tutorials/tutorial2/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
+&lt;/div>
+&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
+&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
+&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
+&lt;blockquote>
+&lt;p>There should be no margin above this first sentence.&lt;/p>
+&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
+&lt;p>There should be no margin below this final sentence.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="first-header-2">First Header 2&lt;/h2>
+&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
+&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
+&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
+&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
+&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
+&lt;blockquote>
+&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="header-3">Header 3&lt;/h3>
+&lt;pre tabindex="0">&lt;code>This is a code block following a header.
+&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
+&lt;h4 id="header-4">Header 4&lt;/h4>
+&lt;ul>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;/ul>
+&lt;h5 id="header-5">Header 5&lt;/h5>
+&lt;ol>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;/ol>
+&lt;h6 id="header-6">Header 6&lt;/h6>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>What&lt;/th>
+&lt;th>Follows&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
+&lt;hr>
+&lt;p>Here is an unordered list:&lt;/p>
+&lt;ul>
+&lt;li>Liverpool F.C.&lt;/li>
+&lt;li>Chelsea F.C.&lt;/li>
+&lt;li>Manchester United F.C.&lt;/li>
+&lt;/ul>
+&lt;p>And an ordered list:&lt;/p>
+&lt;ol>
+&lt;li>Michael Brecker&lt;/li>
+&lt;li>Seamus Blake&lt;/li>
+&lt;li>Branford Marsalis&lt;/li>
+&lt;/ol>
+&lt;p>And an unordered task list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
+&lt;/ul>
+&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
+&lt;li>?&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
+&lt;/ul>
+&lt;p>And a nested list:&lt;/p>
+&lt;ul>
+&lt;li>Jackson 5
+&lt;ul>
+&lt;li>Michael&lt;/li>
+&lt;li>Tito&lt;/li>
+&lt;li>Jackie&lt;/li>
+&lt;li>Marlon&lt;/li>
+&lt;li>Jermaine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>TMNT
+&lt;ul>
+&lt;li>Leonardo&lt;/li>
+&lt;li>Michelangelo&lt;/li>
+&lt;li>Donatello&lt;/li>
+&lt;li>Raphael&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
+&lt;dl>
+&lt;dt>Name&lt;/dt>
+&lt;dd>Godzilla&lt;/dd>
+&lt;dt>Born&lt;/dt>
+&lt;dd>1952&lt;/dd>
+&lt;dt>Birthplace&lt;/dt>
+&lt;dd>Japan&lt;/dd>
+&lt;dt>Color&lt;/dt>
+&lt;dd>Green&lt;/dd>
+&lt;/dl>
+&lt;hr>
+&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Year&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Michael Jackson&lt;/td>
+&lt;td>Thriller&lt;/td>
+&lt;td>1982&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prince&lt;/td>
+&lt;td>Purple Rain&lt;/td>
+&lt;td>1984&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Beastie Boys&lt;/td>
+&lt;td>License to Ill&lt;/td>
+&lt;td>1986&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Year&lt;/th>
+&lt;th>Label&lt;/th>
+&lt;th>Awards&lt;/th>
+&lt;th>Songs&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Michael Jackson&lt;/td>
+&lt;td>Thriller&lt;/td>
+&lt;td>1982&lt;/td>
+&lt;td>Epic Records&lt;/td>
+&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
+&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prince&lt;/td>
+&lt;td>Purple Rain&lt;/td>
+&lt;td>1984&lt;/td>
+&lt;td>Warner Brothers Records&lt;/td>
+&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
+&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Beastie Boys&lt;/td>
+&lt;td>License to Ill&lt;/td>
+&lt;td>1986&lt;/td>
+&lt;td>Mercury Records&lt;/td>
+&lt;td>noawardsbutthistablecelliswide&lt;/td>
+&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
+&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
+&lt;p>Code can also be shown in a block element.&lt;/p>
+&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
+bar := &amp;#34;foo&amp;#34;;
+&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Language&lt;/th>
+&lt;th>Code&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Javascript&lt;/td>
+&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ruby&lt;/td>
+&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Small images should be shown at their actual size.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
+&lt;h2 id="components">Components&lt;/h2>
+&lt;h3 id="alerts">Alerts&lt;/h3>
+&lt;p>
+&lt;div class="alert alert-primary" role="alert">
+This is an alert.
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title.
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
+&lt;/div>
+&lt;div class="alert alert-success" role="alert">
+This is a successful alert.
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+This is a warning.
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+&lt;h4 class="alert-heading">Warning&lt;/h4>
+This is a warning with a title.
+&lt;/div>
+&lt;/p>
+&lt;h2 id="another-heading">Another Heading&lt;/h2>
+&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h3 id="this-document">This Document&lt;/h3>
+&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
+&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
+&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
+&lt;h3 id="contact-info">Contact Info&lt;/h3>
+&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
+&lt;h3 id="external-links">External Links&lt;/h3>
+&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
+&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
+&lt;/code>&lt;/pre></description></item><item><title>Catalyst: 동아시아를 육성하고, 카르다노를 성장시킴</title><link>/ko/catalyst/fund6/challenge-setting-proposals/grow-east-asia-grow-cardano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenge-setting-proposals/grow-east-asia-grow-cardano/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/CeZynbrO-ak" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>챌린지:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/">펀드7 챌린지 설정&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $250,000&lt;/p>
+&lt;h2 id="도전-질문">도전 질문:&lt;/h2>
+&lt;p>포괄적이고 지원적인 방식으로 동아시아에서 Cardano 생태계를 성장시키는 방법은 무엇일까요? 우리가 아프리카에서 하는 것과 같은 방식으로 이니셔티브에 집중했습니다!&lt;/p>
+&lt;h2 id="왜-그것이-중요한가">왜 그것이 중요한가?&lt;/h2>
+&lt;p>Cardano 커뮤니티는 북미와 유럽에 크게 의존하고 있습니다. 다른 곳에서 성장하려면 커뮤니티로서 우리의 지원과 이니셔티브가 필요합니다.&lt;/p>
+&lt;h2 id="성공하면-어떤-미래가-될까요">성공하면 어떤 미래가 될까요?&lt;/h2>
+&lt;p>아시아 전역의 광범위한 사람들이 아시아와 연결되어 함께 모여 우리 생태계를 성장시키는 팀을 구성합니다.&lt;/p>
+&lt;h2 id="측정할-주요-지표">측정할 주요 지표&lt;/h2>
+&lt;p>이 챌린지가 끝나면 참여의 질에 대해 몇 가지 질문을 스스로에게 할 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>Project Catalyst의 동아시아 참가자들이 제안한 제안 수&lt;/li>
+&lt;li>동아시아 팀에서 시작된 자금 지원 제안의 양과 질.&lt;/li>
+&lt;li>자금 지원 프로젝트의 관찰된 영향(해당 KPI 충족).&lt;/li>
+&lt;li>Cardano 커뮤니티 및 동아시아 거주자와 함께 Catalyst 팀의 참여를 늘렸습니까?&lt;/li>
+&lt;li>모멘텀과 참여를 나타내는 지표로 일간/월간 활성 지갑(DAW/MAW)이 증가했습니까?&lt;/li>
+&lt;li>동아시아에 기반을 둔 스테이크 풀 및 스테이크 풀 운영자의 수를 늘렸습니까?&lt;/li>
+&lt;/ul>
+&lt;p>또한 제안서의 품질에 대해 몇 가지 구체적인 질문을 할 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>동아시아 전역에 Cardano 솔루션을 배포하는 뉘앙스를 이해하는 데 도움이 되는 자금 지원 프로젝트 진행, 실패 또는 성공에 대한 좋은 피드백이 있습니까?&lt;/li>
+&lt;li>솔루션의 참신함과 적절성은 무엇입니까?&lt;/li>
+&lt;li>우리는 동아시아에서 Cardano를 사용하는 사람들의 삶을 개선하고 있습니까?&lt;/li>
+&lt;li>제안 성과를 측정하기 위해 사회 및 환경 영향 평가가 사용되었습니까?&lt;/li>
+&lt;li>Catalyst의 범위를 벗어난 제안의 지속 가능성은 무엇입니까?&lt;/li>
+&lt;/ul>
+&lt;h2 id="챌린지-개요">챌린지 개요&lt;/h2>
+&lt;p>아프리카와 마찬가지로 동아시아 일반 사람들의 블록체인과 카르다노 네트워크에 대한 인식 수준을 높이는 것이 Catalyst 커뮤니티의 우선 순위가 되어야 합니다. 이 챌린지에서 우리는 Cardano에 대해 배운 사람들이 커뮤니티의 지원을 활용하고 Cardano 네트워크를 구축하거나 사용할 수 있도록 자금을 제공합니다.&lt;/p>
+&lt;p>이 도전에 대한 제안의 성격은 끝이 없습니다. 그들의 유일한 요구 사항은 동아시아에서 시작하거나 동아시아에 초점을 맞추고 동아시아 팀 구성원을 포함하거나 동아시아 참가자에 초점을 맞추는 것입니다.&lt;/p>
+&lt;p>예를 들어, 스테이크 풀의 압도적 다수는 북미와 유럽에 있습니다. 카르다노 네트워크는 스테이크 풀이 전 세계에 고르게 분포되어 있을 때 더 탄력적일 것입니다. Catalyst 커뮤니티는 한 단계 더 나아가 의도적으로 그렇게 해야 합니다.&lt;/p>
+&lt;p>Cardano는 동아시아(일본 및 홍콩)에서 시작했으며 Emurgo는 동아시아에 중점을 둡니다. 이를 기반으로 구축해 보겠습니다.&lt;/p>
+&lt;h2 id="이-프로젝트는-어떤-것입니까">이 프로젝트는 어떤 것입니까:&lt;/h2>
+&lt;p>행동 촉구; 세상을 더 나은 곳으로 만들 수 있는 기회를 인식하고 보상하는 Cardano 커뮤니티의 능력을 활성화할 것입니다. 동아시아는 Cardano의 채택을 위한 비옥한 땅입니다. 젊고 개발 도상국의 프로젝트가 경제적 관성(타성)에 덜 직면하기 때문에 투자수익율(ROI)이 높을 가능성이 높습니다.&lt;/p>
+&lt;p>자금 조달 문제를 통해 직접적이고 의도적으로 세계의 다른 지역에 접근하면 커뮤니티에 더 쉽게 접근할 수 있습니다. 그것은 우리를 더 탄력적으로 만듭니다. 우리 생태계를 구성하는 커뮤니티의 요구 사항을 배우고 이해하는 데 도움이 됩니다.&lt;/p>
+&lt;p>그것은 성과를 달성하기 위해서 투표가 필요한 비전입니다. 도전이 성공하면 수혜자는 전체 카르다노 커뮤니티입니다. 그것은 우리 중 많은 사람들이 타고난 혜택이 없는 선한 사람들에게 편견을 버리고 눈과 마음과 생각을 열어서 특권이 더 적은 환경에 있는 다른 사람들이 일어나 성공할 수 있도록 하는 부름입니다.&lt;/p>
+&lt;h2 id="도전팀">도전팀&lt;/h2>
+&lt;p>이 제안은 챌린지 팀을 포함하려고 합니다. 불행히도 제안자는 제안이 검토되기 전에 챌린지 팀을 완전히 구성할 시간이 없었습니다. 가능하면 투표가 시작되기 전에 해당 팀을 구성하는 데 도움이 될 것입니다.&lt;/p>
+&lt;p>다음 개인이 챌린지 팀에 제안되었습니다.&lt;/p>
+&lt;ul>
+&lt;li>Felix Weber (&lt;a href="https://cardano.ideascale.com/a/pmd/3077912-48088?">@felixweber&lt;/a>)&lt;/li>
+&lt;li>Robert O&amp;rsquo;Brien (&lt;a href="https://cardano.ideascale.com/a/pmd/3056857-48088?">@wolstaeb&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>Challenge Teams의 역할은 Catalyst에서 과제를 관리하는 것입니다. 과제를 제시하고, 진행 상황을 추적하고, 과제가 해결되었는지 여부에 대한 관점을 커뮤니티에 다시 보고하는 것입니다.&lt;/p>
+&lt;p>해당 팀의 일원이 되고 싶다면 댓글로 알려주세요.&lt;/p>
+&lt;h2 id="감사의-말">감사의 말&lt;/h2>
+&lt;p>이 제안은 @grebel과 @archangelbob이 제안한 &lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088">Grow Africa, Grow Cardano&lt;/a>의 사본이며 현재 많은 &lt;a href="https://cardano.ideascale.com/a/campaign-home/26108">Catalyst Challenges&lt;/a> 중 하나입니다.&lt;/p></description></item><item><title>Catalyst: 동아시아를 육성하고, 카르다노를 성장시킴</title><link>/ko/catalyst/fund6/eth-proposals/grow-east-asia-grow-cardano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/eth-proposals/grow-east-asia-grow-cardano/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/CeZynbrO-ak" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>챌린지:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/">펀드7 챌린지 설정&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $250,000&lt;/p>
+&lt;h2 id="도전-질문">도전 질문:&lt;/h2>
+&lt;p>포괄적이고 지원적인 방식으로 동아시아에서 Cardano 생태계를 성장시키는 방법은 무엇일까요? 우리가 아프리카에서 하는 것과 같은 방식으로 이니셔티브에 집중했습니다!&lt;/p>
+&lt;h2 id="왜-그것이-중요한가">왜 그것이 중요한가?&lt;/h2>
+&lt;p>Cardano 커뮤니티는 북미와 유럽에 크게 의존하고 있습니다. 다른 곳에서 성장하려면 커뮤니티로서 우리의 지원과 이니셔티브가 필요합니다.&lt;/p>
+&lt;h2 id="성공하면-어떤-미래가-될까요">성공하면 어떤 미래가 될까요?&lt;/h2>
+&lt;p>아시아 전역의 광범위한 사람들이 아시아와 연결되어 함께 모여 우리 생태계를 성장시키는 팀을 구성합니다.&lt;/p>
+&lt;h2 id="측정할-주요-지표">측정할 주요 지표&lt;/h2>
+&lt;p>이 챌린지가 끝나면 참여의 질에 대해 몇 가지 질문을 스스로에게 할 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>Project Catalyst의 동아시아 참가자들이 제안한 제안 수&lt;/li>
+&lt;li>동아시아 팀에서 시작된 자금 지원 제안의 양과 질.&lt;/li>
+&lt;li>자금 지원 프로젝트의 관찰된 영향(해당 KPI 충족).&lt;/li>
+&lt;li>Cardano 커뮤니티 및 동아시아 거주자와 함께 Catalyst 팀의 참여를 늘렸습니까?&lt;/li>
+&lt;li>모멘텀과 참여를 나타내는 지표로 일간/월간 활성 지갑(DAW/MAW)이 증가했습니까?&lt;/li>
+&lt;li>동아시아에 기반을 둔 스테이크 풀 및 스테이크 풀 운영자의 수를 늘렸습니까?&lt;/li>
+&lt;/ul>
+&lt;p>또한 제안서의 품질에 대해 몇 가지 구체적인 질문을 할 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>동아시아 전역에 Cardano 솔루션을 배포하는 뉘앙스를 이해하는 데 도움이 되는 자금 지원 프로젝트 진행, 실패 또는 성공에 대한 좋은 피드백이 있습니까?&lt;/li>
+&lt;li>솔루션의 참신함과 적절성은 무엇입니까?&lt;/li>
+&lt;li>우리는 동아시아에서 Cardano를 사용하는 사람들의 삶을 개선하고 있습니까?&lt;/li>
+&lt;li>제안 성과를 측정하기 위해 사회 및 환경 영향 평가가 사용되었습니까?&lt;/li>
+&lt;li>Catalyst의 범위를 벗어난 제안의 지속 가능성은 무엇입니까?&lt;/li>
+&lt;/ul>
+&lt;h2 id="챌린지-개요">챌린지 개요&lt;/h2>
+&lt;p>아프리카와 마찬가지로 동아시아 일반 사람들의 블록체인과 카르다노 네트워크에 대한 인식 수준을 높이는 것이 Catalyst 커뮤니티의 우선 순위가 되어야 합니다. 이 챌린지에서 우리는 Cardano에 대해 배운 사람들이 커뮤니티의 지원을 활용하고 Cardano 네트워크를 구축하거나 사용할 수 있도록 자금을 제공합니다.&lt;/p>
+&lt;p>이 도전에 대한 제안의 성격은 끝이 없습니다. 그들의 유일한 요구 사항은 동아시아에서 시작하거나 동아시아에 초점을 맞추고 동아시아 팀 구성원을 포함하거나 동아시아 참가자에 초점을 맞추는 것입니다.&lt;/p>
+&lt;p>예를 들어, 스테이크 풀의 압도적 다수는 북미와 유럽에 있습니다. 카르다노 네트워크는 스테이크 풀이 전 세계에 고르게 분포되어 있을 때 더 탄력적일 것입니다. Catalyst 커뮤니티는 한 단계 더 나아가 의도적으로 그렇게 해야 합니다.&lt;/p>
+&lt;p>Cardano는 동아시아(일본 및 홍콩)에서 시작했으며 Emurgo는 동아시아에 중점을 둡니다. 이를 기반으로 구축해 보겠습니다.&lt;/p>
+&lt;h2 id="이-프로젝트는-어떤-것입니까">이 프로젝트는 어떤 것입니까:&lt;/h2>
+&lt;p>행동 촉구; 세상을 더 나은 곳으로 만들 수 있는 기회를 인식하고 보상하는 Cardano 커뮤니티의 능력을 활성화할 것입니다. 동아시아는 Cardano의 채택을 위한 비옥한 땅입니다. 젊고 개발 도상국의 프로젝트가 경제적 관성(타성)에 덜 직면하기 때문에 투자수익율(ROI)이 높을 가능성이 높습니다.&lt;/p>
+&lt;p>자금 조달 문제를 통해 직접적이고 의도적으로 세계의 다른 지역에 접근하면 커뮤니티에 더 쉽게 접근할 수 있습니다. 그것은 우리를 더 탄력적으로 만듭니다. 우리 생태계를 구성하는 커뮤니티의 요구 사항을 배우고 이해하는 데 도움이 됩니다.&lt;/p>
+&lt;p>그것은 성과를 달성하기 위해서 투표가 필요한 비전입니다. 도전이 성공하면 수혜자는 전체 카르다노 커뮤니티입니다. 그것은 우리 중 많은 사람들이 타고난 혜택이 없는 선한 사람들에게 편견을 버리고 눈과 마음과 생각을 열어서 특권이 더 적은 환경에 있는 다른 사람들이 일어나 성공할 수 있도록 하는 부름입니다.&lt;/p>
+&lt;h2 id="도전팀">도전팀&lt;/h2>
+&lt;p>이 제안은 챌린지 팀을 포함하려고 합니다. 불행히도 제안자는 제안이 검토되기 전에 챌린지 팀을 완전히 구성할 시간이 없었습니다. 가능하면 투표가 시작되기 전에 해당 팀을 구성하는 데 도움이 될 것입니다.&lt;/p>
+&lt;p>다음 개인이 챌린지 팀에 제안되었습니다.&lt;/p>
+&lt;ul>
+&lt;li>Felix Weber (&lt;a href="https://cardano.ideascale.com/a/pmd/3077912-48088?">@felixweber&lt;/a>)&lt;/li>
+&lt;li>Robert O&amp;rsquo;Brien (&lt;a href="https://cardano.ideascale.com/a/pmd/3056857-48088?">@wolstaeb&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>Challenge Teams의 역할은 Catalyst에서 과제를 관리하는 것입니다. 과제를 제시하고, 진행 상황을 추적하고, 과제가 해결되었는지 여부에 대한 관점을 커뮤니티에 다시 보고하는 것입니다.&lt;/p>
+&lt;p>해당 팀의 일원이 되고 싶다면 댓글로 알려주세요.&lt;/p>
+&lt;h2 id="감사의-말">감사의 말&lt;/h2>
+&lt;p>이 제안은 @grebel과 @archangelbob이 제안한 &lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088">Grow Africa, Grow Cardano&lt;/a>의 사본이며 현재 많은 &lt;a href="https://cardano.ideascale.com/a/campaign-home/26108">Catalyst Challenges&lt;/a> 중 하나입니다.&lt;/p></description></item><item><title>Catalyst: Eastern Townhall Team Operation(동부 타운홀 운영)</title><link>/ko/catalyst/fund6/eth-proposals/eastern-townhall-team-operation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/eth-proposals/eastern-townhall-team-operation/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/MzemrlXpqnY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>과제:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/catalyst-value-onboarding/campaign-brief/">가치 온보딩 챌린지&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $10,000&lt;/p>
+&lt;h2 id="문제점">문제점&lt;/h2>
+&lt;p>동부 시간대에 거주하고 언어가 영어가 아닌 경우 Catalyst에 참여하기가 어렵습니다.&lt;/p>
+&lt;h2 id="해결책">해결책&lt;/h2>
+&lt;p>동부 타운홀은 이벤트 및 콘텐츠 번역을 통해 동부 국가를 지원합니다. 목표는 각 기금에 대해 참가자를 20% 늘리는 것입니다.&lt;/p>
+&lt;h2 id="관련-경험">관련 경험&lt;/h2>
+&lt;p>Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 소프트웨어 공학. 동아시아 및 일본의 교육자 및 회계사.&lt;/p>
+&lt;h2 id="세부-계획">세부 계획&lt;/h2>
+&lt;p>동부 타운홀은 동반구와 아시아 전역에서 Cardano를 성장시키는 커뮤니티 주도 이니셔티브입니다. 진정한 글로벌 경제와 사회를 만들고자 합니다. 우리의 초점은 어려운 것을 가능하게 만드는 것입니다. 장소, 시간 및 공간:&lt;/p>
+&lt;ul>
+&lt;li>우리는 지식을 쌓고, 정보를 공유하고, 서로 연결하고 지원할 수 있습니다.&lt;/li>
+&lt;li>언어와 문화는 참여의 장벽이 아닙니다.&lt;/li>
+&lt;li>우리는 지역의 요구를 해결하기 위해 기술과 커뮤니티를 적용하는 방법을 배웁니다.&lt;/li>
+&lt;li>Cardano를 사용하여 경제적 웰빙을 높이는 방법을 보여주세요.&lt;/li>
+&lt;li>우리의 이야기, 우리의 에너지, 우리의 관점으로 Cardano의 생태계를 풍성하게 만드십시오.&lt;/li>
+&lt;/ul>
+&lt;p>동반구, 동아시아 및 동남아시아 지역은 문화적으로나 언어적으로 많은 국가를 통합합니다. 16억이 넘는 인구를 가진 우리의 목표는 Cardano를 성장시키는 것입니다.&lt;/p>
+&lt;h3 id="현재의-문제점과-한계">현재의 문제점과 한계&lt;/h3>
+&lt;p>동부 타운홀은 개인과 그룹이 함께 작업한 결과입니다. 각각 고유한 품질을 제공합니다. 우리는 개인과 프로젝트를 Project Catalyst에 연결하는 데 중점을 둔 Cardano 커뮤니티 안팎에서 상호 작용합니다. 그러나 이것은 시간과 노력이 필요하고 비용이 발생합니다. 우리가 달성할 수 있는 것을 제한할 자금 풀이 없습니다.&lt;/p>
+&lt;h3 id="제안된-솔루션-자금-풀">제안된 솔루션: 자금 풀&lt;/h3>
+&lt;p>전 세계 대중에게 다가간다는 것은 그들이 속한 국가, 언어 및 문화에서 사람들을 만나는 것을 의미합니다.&lt;/p>
+&lt;p>우리는 Cardano 생태계의 적극적인 일원입니다. 우리의 기본 이벤트는 매주 개최되는 동부 타운홀입니다. 하지만 우리는 더 많은 일을 하고 있습니다.&lt;/p>
+&lt;ul>
+&lt;li>우리는 가능한 한 많은 문화권에서 지식과 콘텐츠에 접근할 수 있도록 합니다.&lt;/li>
+&lt;li>커뮤니티 회원들이 함께 모이는 다양한 이벤트를 개최합니다.&lt;/li>
+&lt;li>우리는 과소 대표되는 그룹에 다리를 놓습니다.&lt;/li>
+&lt;li>우리는 지역적 관점을 통합하여 촉매 커뮤니티를 풍요롭게 합니다. 그리고&lt;/li>
+&lt;li>우리는 듣습니다! 우리 모두가 이해할 수 있도록 의견과 데이터를 수집합니다.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>우리는 번역을 하고, 커뮤니티를 구축하고, 지식을 공유하고, 기업가를 지원하고, Cardano를 성장시키고 있습니다.&lt;/strong>&lt;/p>
+&lt;p>비용이 드는 모든 일을 하려면 동부 타운홀의 노력을 지속하려면 이미 하고 있는 일에 추가 노력을 추가하지 않는 방식으로 자금을 확보해야 합니다.&lt;/p>
+&lt;p>이 제안은 Eastern Townhall Trusted Seed에서 관리하는 자금 풀(재무부)을 형성하고 유지하는 것에 관한 것입니다. 우리의 재량에 따라 지출할 자금 풀. 이 재무부는 비용을 충당하고 동부 타운홀의 노력을 성장 및 유지하는 데 사용될 것입니다. 번역 포상금과 같은 비용; 콘텐츠 생산; Zoom, Github, HackMD, Statbot 등과 같은 온라인 서비스 구독 비용 지불, 그리고 동부 타운홀 조직과 관련된 활동 비용 지불.&lt;/p>
+&lt;p>간단히 말해서 이 제안은 커뮤니티 그룹을 조직하기 위한 자금에 관한 것입니다. 특정 Catalyst 제안의 오버헤드 없이 온디맨드로 필요한 자금을 제공하는 리소스 및 분산 지원 구조를 구축합니다.&lt;/p>
+&lt;p>그 대가로 우리는 우리의 활동과 비용에 대한 재무제표를 보고할 것을 약속합니다. 협력자를 찾을 수 있는 한 많은 언어로 번역되었습니다. 우리의 의도는 DAO 재무 관리[3] 보고를 개척하고 프로토타입하는 것입니다. 이는 작은 문제가 아니며 공유된 자금 풀을 관리하는 데는 많은 규정 준수 문제가 있습니다. 보고 노력은 원칙적으로 index.coop[4] 및 FWB[5]가 수행하는 작업과 유사합니다. 대부분의 DAO는 여전히 이것을 파악하고 있으며 모범 사례는 초안도 아니므로 이 문제를 해결하는 데 도움을 주세요.&lt;/p>
+&lt;p>동부 타운홀이 어떻게 지출하고 자금을 할당하는지 알게 되면 미래의 자금을 유치하는 데 도움이 될 것입니다. 공동 작업자가 우리와 함께 일할 기회를 식별하도록 도와주세요.&lt;/p>
+&lt;p>규모를 확장하고 동반구 전역의 더 많은 사람들에게 다가갈 수 있도록 도와주세요.&lt;/p>
+&lt;h3 id="kpi-측정-방법-및-목표">KPI 측정 방법 및 목표&lt;/h3>
+&lt;p>제안자/투표자/고문 수에 대한 설문은 대상 국가의 커뮤니티에서 각 &lt;strong>펀드&lt;/strong>에 대해 수행됩니다. 목표는 향후 6개월 동안 각 펀드에 대한 참여를 20% 증가시키는 것입니다. 기본 예제로 Catalyst Fund6 제출 단계 분석[6]에 대한 작업을 참조하십시오.&lt;/p>
+&lt;h3 id="kpi-달성을-위한-활동">KPI 달성을 위한 활동&lt;/h3>
+&lt;p>&lt;strong>매일&lt;/strong> : 커뮤니티에서 Catalyst에 대한 문의는 회원들이 각자의 언어로 답변합니다. 우리는 Catalyst 콘텐츠를 번역하고 웹사이트를 통해 게시할 것입니다.&lt;/p>
+&lt;p>&lt;strong>Weekly&lt;/strong> : 매주 기획 이벤트와 밋업을 개최하여 각 커뮤니티와 활동 정보를 공유합니다.&lt;/p>
+&lt;p>&lt;strong>월간&lt;/strong> : 지출이 보고됩니다. 멀티시그 지갑을 사용하여 탈중앙화 방식으로 귀하의 재정을 관리합니다.&lt;/p>
+&lt;p>&lt;strong>기금별&lt;/strong> : 각 지역의 유권자, 제안자 및 전문가의 수를 계산하기 위해 각 동부 커뮤니티에서 설문 조사가 수행됩니다.&lt;/p>
+&lt;h3 id="세부-사항-및-구현-비용">세부 사항 및 구현 비용&lt;/h3>
+&lt;h3 id="예산-영역">예산 영역&lt;/h3>
+&lt;ol>
+&lt;li>동반구를 활성화하는 주간 프로젝트 계획 회의 참석: 20명 x 2시간 x 4주 x 6개월 x $ 15: &lt;strong>$14,400&lt;/strong>&lt;/li>
+&lt;li>재무 관리, 진행 관리, 모니터링 및 보고 활동, 기타 신입 회원 모집 활동 등: $500 x 6개월 = &lt;strong>$3,000&lt;/strong>&lt;/li>
+&lt;li>공통 비용: 여러 프로젝트에서 발생하는 비용(도메인 이름, 호스팅 비용, Zoom): &lt;strong>$1,000&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>합계: (1) ＋ (2) ＋ (3): $18,400&lt;/p>
+&lt;p>▲ 할인: $8,400&lt;/p>
+&lt;p>청구: $10,000&lt;/p>
+&lt;p>동반구에서 Cataslyt의 성공을 지원하는 KPI를 유지하려면 향후 자금에 대한 추가 자금 조달 요구 사항이 필요합니다.&lt;/p>
+&lt;p>우리는 이미 이 활동을 시작했으며 이 자금 조달 여부에 관계없이 계속 할 것입니다. 우리는 더 넓은 프로젝트를 위한 자금을 확보하기 위해 45.6% 할인을 제공했습니다.&lt;/p>
+&lt;p>&lt;strong>참고&lt;/strong> : 동반구 동아시아 기업가 행사, 밋업, 번역 활동, 테마 설정 및 관리 등 각 활동에 직접 필요한 자금은 본 제안서에 필요한 자금 범주에 포함되지 않습니다.&lt;/p>
+&lt;h3 id="지적-재산권">지적 재산권&lt;/h3>
+&lt;p>커뮤니티 참여는 &lt;a href="https://www.contributor-covenant.org/">기여자 약정&lt;/a>에 의해 보호됩니다. 기여자 라이선스는 우리 프로젝트에 대한 기여를 수반합니다. 누군가의 기여에 대한 저작권은 유지됩니다. 이 계약은 단순히 프로젝트의 일부로 기여를 사용하고 재배포할 수 있는 권한을 부여합니다.&lt;/p>
+&lt;p>우리의 모든 소스 코드는 Apache License 2.0에 따라 사용이 허가되었습니다. 자세한 내용은 &lt;a href="https://github.com/c3eth/c3eth.github.io/main/LICENSE.md">LICENSE&lt;/a> 파일을 참조하십시오.&lt;/p>
+&lt;p>게시된 콘텐츠는 &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Attribution-Non-Commercial-ShareAlike(CC BY-NC-SA) 라이선스 v4.0&lt;/a>에 따라 라이선스가 부여됩니다.&lt;/p>
+&lt;h3 id="6개월-후">6개월 후&lt;/h3>
+&lt;p>우리는 각 펀드에 대해 동반구 및 동아시아 국가에서 Catalyst 참여를 20% 증가시키는 능력을 입증했습니다.&lt;/p>
+&lt;h3 id="팀">팀&lt;/h3>
+&lt;p>협업을 통해 팀은 풍부한 문화적, 기술적 경험을 Cardano에 제공합니다. 우리 모두는 생태계 전반에 걸쳐 Catalyst 및 커뮤니티 그룹에서 매우 활동적입니다. 우리는 Cardano의 약속으로 뭉친 다양한 그룹입니다.&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> (@yutazz) - 일본: Cardano 공식 대사, 커뮤니티 공동 주최자, Catalyst Fund 2 수혜자, 공인 회계사.&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> (@yantirta) - 인도네시아: 교육과 격려로 지역 사회에 힘을 실어주는 카르다노 인도네시아 커뮤니티 랭글러.&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> (@mie.tran.0407) - 베트남: 영어 및 국제 비즈니스 전공으로 서양 비즈니스 및 번역 업무 경험이 있습니다.&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> (@zicozibu) - 인도네시아: 암호화폐를 넘어 인도네시아 전역에서 블록체인 교육을 선도하고 있습니다.&lt;/p>
+&lt;p>&lt;strong>Tim O&amp;rsquo;Brien&lt;/strong> (@tobrien) - 베트남: 코드 없는 개척자. 동아프리카 시청(EATH)의 진행자.&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> (@grebel) - 호주: IT 컨설턴트, Catalyst Challenges 작성.&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> (@seomon) - 오스트리아: 지속 가능한 커뮤니티를 위한 피플웨어 인프라에 중점을 둔 IT 컨설턴트입니다.&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> (@wolstaeb) - 뉴질랜드: 금융 시스템 소프트웨어 엔지니어, 커뮤니티 공동 주최자 및 기업가입니다.&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> (@swhitenstall) - 영국: Catalyst를 추적하고 문서화합니다. Catalyst Circle 및 Catalyst Swarm과 같은 커뮤니티 조직을 돕습니다.&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> (@felixweber) - 프랑스: 커뮤니티 관리자가 사람들 사이의 다리를 만들고 있습니다. T&amp;amp;M Catalyst Circle/Swarm/School의 회원.&lt;/p>
+&lt;p>팀은 초기 동부 시청이 &lt;strong>신뢰하는 종자를&lt;/strong> 대표합니다. 역할도 없고 리더도 없습니다. 오히려 사람들은 참여를 통해 시간이 지남에 따라 자신을 확립합니다. 우리는 Catalyst Swarm[1], Catalyst School[2] 및 아시아 전역의 기타 커뮤니티 그룹과 겹치고 협력합니다.&lt;/p>
+&lt;h2 id="참고">참고&lt;/h2>
+&lt;p>[1] &lt;a href="http://catalystswarm.com/">Catalyst Swarm&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="https://linktr.ee/CatalystSchool">Catalyst School&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury">How DAOs should approach treasury management&lt;/a>&lt;/p>
+&lt;p>[4] &lt;a href="https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629">Index Coop Q3 Financial Report&lt;/a>&lt;/p>
+&lt;p>[5] &lt;a href="https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0">FWB DAO Financial Report (PDF)&lt;/a>&lt;/p>
+&lt;p>[6] &lt;a href="https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711">Catalyst Fund6 submission phase analysis&lt;/a>&lt;/p></description></item><item><title>Catalyst: Grow Social &amp; Environmental Finance(사회/환경의 금융 육성)</title><link>/ko/catalyst/fund6/challenge-setting-proposals/grow-social-finance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenge-setting-proposals/grow-social-finance/</guid><description>
+&lt;p>&lt;strong>챌린지:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/">펀드7 챌린지 설정&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $250,000&lt;/p>
+&lt;h2 id="도전-질문">도전 질문&lt;/h2>
+&lt;p>사회 및 환경 혁신에 자금을 지원하기 위해 Cardano를 기반으로 어떤 솔루션을 구축할 수 있습니까?&lt;/p>
+&lt;h2 id="왜-중요한가">왜 중요한가?&lt;/h2>
+&lt;p>기후 비상 사태 및 이와 관련된 경제적 문제를 해결하려면 변화를 주도할 수 있는 탄력적인 금융 솔루션을 구축해야 합니다.&lt;/p>
+&lt;h2 id="성공하면-어떤-모습일까요">성공하면 어떤 모습일까요?&lt;/h2>
+&lt;p>임팩트 투자자, NGO 및 풀뿌리 커뮤니티는 가장 큰 영향을 투명하게 전달할 수 있도록 Cardano를 기본 선택으로 삼고 있습니다.&lt;/p>
+&lt;h2 id="측정할-주요-지표">측정할 주요 지표&lt;/h2>
+&lt;p>이 챌린지가 끝나면 개발된 솔루션의 품질에 대한 몇 가지 안내 질문을 스스로에게 던질 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>우리는 그것을 사용하는 사람들의 삶을 개선하기 위해 가고 있습니까?&lt;/li>
+&lt;li>풀뿌리 커뮤니티 활동에 얼마나 많은 재정적 자본이 사용됩니까?&lt;/li>
+&lt;li>임팩트 투자 가치 사슬을 따라 얼마나 많은 공백이 채워져 있습니까?&lt;/li>
+&lt;li>현재 접근 방식과 비교하여 자본 효율성을 높이고 자금 조달 비용을 낮췄습니까?&lt;/li>
+&lt;li>솔루션이 Cardano의 기술적 기능을 최대한 활용하고 있습니까?&lt;/li>
+&lt;li>팀은 우리가 신뢰할 수 있는 코드를 개발하기 위해 높은 보증 엔지니어링 방식을 채택합니까?&lt;/li>
+&lt;li>솔루션이 얼마나 분산되어 있으며 제어 지점은 어디입니까?&lt;/li>
+&lt;/ul>
+&lt;p>현재 SoFi(사회 및 환경 금융) 시나리오를 다루는 사용 메트릭은 거의 없습니다. 따라서 이 과제는 분산 금융(DeFi) 시장의 일부 지표를 가이드로 채택하여 활용을 결정할 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>일일/월간 활성 지갑(DAW/MAW) - 모멘텀 및 참여 측정&lt;/li>
+&lt;li>평균 주문 금액 - 서비스를 누가 얼마나 자주 사용하는지 측정합니다.&lt;/li>
+&lt;li>TLV(Total Value Locked) - DeFi 시장 프로토콜에 대한 신뢰도 측정.&lt;/li>
+&lt;li>테이크 레이트(Rake) - 효율성 측정&lt;/li>
+&lt;li>총 상품 거래량(GMV) - 거래된 서비스의 총 가치.&lt;/li>
+&lt;/ul>
+&lt;p>우리는 또한 제안에 대해 몇 가지 구체적인 질문을 할 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>Catalyst의 범위를 벗어난 제안의 지속 가능성은 무엇입니까?&lt;/li>
+&lt;li>제안 성과를 측정하기 위해 사회 및 환경 영향 평가가 사용되었습니까?&lt;/li>
+&lt;/ul>
+&lt;h2 id="도전-개요">도전 개요&lt;/h2>
+&lt;p>이 도전은 Cardano 생태계를 사용하여 임팩트 투자에 불을 붙일 수 있는 방법에 관한 것입니다.&lt;/p>
+&lt;p>임팩트 투자는 재정적 수익과 함께 긍정적이고 측정 가능한 사회적 및 환경적 영향을 생성하려는 의도로 이루어집니다. 다양한 프로젝트가 Cardano에서 DeFi의 채택을 추진하고 있지만 DeFi 메커니즘의 잠재력을 사회적 이익을 위한 수단으로 시장에 선보일 수 있습니까?&lt;/p>
+&lt;p>영향을 미치는 결과를 제공하는 것은 재무적 투자 수익(ROI)을 제공하는 것보다 훨씬 어렵습니다. 임팩트 투자(세계 경제 포럼에 따르면)는 다음과 같은 이유로 방해를 받습니다.&lt;/p>
+&lt;ul>
+&lt;li>투자의 사회적 또는 환경적 결과에 대한 신뢰할 수 있는 데이터의 부족 및/또는 높은 비용으로 인해 영향에 대한 신뢰할 수 있는 설명이 어렵습니다.&lt;/li>
+&lt;li>영향의 &amp;ldquo;귀속&amp;quot;에 대한 문제 - 영향 관련 청구를 투자자에게 할당하는 것은 &amp;ldquo;이중 계산&amp;rdquo; 위험이 있습니다.&lt;/li>
+&lt;li>수익 창출의 장애물 – 비유동적인 영향 시장, 불확실한 수익, 높은 거래 비용.&lt;/li>
+&lt;/ul>
+&lt;p>시장 솔루션, 재정 메커니즘 또는 영향 측정 수단을 제안합니다. 수백만 명의 사람들에게 긍정적인 영향을 미치기 위해 대규모로 배포할 수 있는 방법을 생각해 보십시오. 제안 결과를 다른 시장 상황에 포함 또는 재사용하거나 기존 공급자와 통합하는 방법에 대해 생각해 보십시오.&lt;/p>
+&lt;p>Cardano에 대한 임팩트 투자를 시작하면 지속 가능한 농업, 재생 에너지, 보존, 소액 금융 및 주택, 의료 및 교육을 포함한 저렴하고 접근 가능한 기본 서비스와 같은 부문에서 세계에서 가장 시급한 문제를 해결하기 위한 자본이 제공될 것입니다.&lt;/p>
+&lt;p>영향력을 달성하기 위해서는 협력과 협업이 필요하며 Cardano는 이를 가능하게 합니다. 세계 자원을 더 잘 관리하기 위한 답은 정부나 대규모 투자자가 아니라 P2P 지원을 강화하는 기술에 있을 수 있습니다. 예를 들어 커뮤니티 기반 금융 또는 데이터 기반 크라우드 펀딩. Cardano 생태계의 놀라운 힘을 어떻게 촉매제로 활용할 수 있습니까?&lt;/p></description></item><item><title>Catalyst: Connect East Asian Entrepreneurs(동아시아 기업가를 연결)</title><link>/ko/catalyst/fund6/eth-proposals/connect-east-asian-entrepreneurs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/eth-proposals/connect-east-asian-entrepreneurs/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Ibm36IXxnYA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>도전 과제:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/proposer-outreach/campaign-brief/">제안자 지원&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $20,000&lt;/p>
+&lt;h2 id="문제점">문제점&lt;/h2>
+&lt;p>동아시아 기업가를 현지 언어로 유치하고 참여시키기 위한 이니셔티브는 없습니다.&lt;/p>
+&lt;h2 id="해결책">해결책&lt;/h2>
+&lt;p>동부 타운홀 및 대상을 정한 가상 이벤트를 개최하여 동아시아 기업가 네트워크를 구축하고 지원합니다.&lt;/p>
+&lt;h2 id="관련-경험">관련 경험&lt;/h2>
+&lt;p>Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 소프트웨어 공학. 동아시아 및 일본의 교육자 및 회계사.&lt;/p>
+&lt;h2 id="세부-계획">세부 계획&lt;/h2>
+&lt;p>우리는 동아시아 기업가의 거대한 미개척 잠재력에 도달하고자 합니다. 그들이 있는 곳, 그들의 나라, 그들의 언어와 문화에서 그들을 만나십시다. 동부 타운홀은 성장하는 동아시아 기업가 네트워크를 구축하고자 합니다. 지식을 쌓고, 정보를 공유하고, 서로 연결하고 지원할 수 있는 곳입니다. 글로벌하게 생각하고 지역적으로 행동합니다.&lt;/p>
+&lt;h3 id="현재의-문제점과-한계">현재의 문제점과 한계&lt;/h3>
+&lt;p>무언가를 찌르거나, 밀거나, 성형하면 반대편에서 새롭고 흥미로운 무언가가 튀어나왔다는 것을 깨달았던 순간을 기억하십시오. 우리는 다시 그리고 이번에는 세계적인 규모로 여기에 있습니다. 우리 Cardano Catalyst 커뮤니티는 새로운 사고방식의 개척자입니다. 새로운 통치 및 자금 조달 방식. 그러나 우주에 움푹 들어간 곳을 만들기 위해서는 기업가가 필요합니다. 사람들은 기꺼이 위험을 감수하고, 찌르고, 밀고, 새로운 방식을 만들어 갑니다.&lt;/p>
+&lt;p>언어와 문화적 장벽이 존재할 때 기업가에게 다가가는 것은 어렵습니다. 지역적 맥락에는 미개발 스타트업 펀딩 프로그램도 있을 수 있습니다. 이는 실현되지 않은 스타트업 자금 조달 기회를 초래할 수 있습니다. Cardano의 기회와 기술적, 경제적 이점을 알고 있는 동아시아 기업가는 거의 없습니다. 또한 지역 시장 기회를 해결하기 위해 지역 사회 내에서 Cardano 기술을 적용하는 방법에 대한 완전한 이해도 없습니다. 우리는 그것을 바꾸고 싶습니다.&lt;/p>
+&lt;h3 id="제안된-솔루션-cardano-startup-month">제안된 솔루션: Cardano StartUp Month&lt;/h3>
+&lt;p>이 제안은 베트남과 인도네시아에서 기업가를 개발하기 위해 2022년 1월/2월에 가상 이벤트를 실행하는 것에 관한 것입니다. 이 이벤트는 기업가들이 Cardano를 기반으로 시장 기회를 개발할 수 있도록 기술을 향상시키는 것을 목표로 합니다.&lt;/p>
+&lt;p>&lt;strong>이 이벤트의 목적은 스타트업 설립자와 DAO(Distributed Autonomous Organization) 협력자를 구축하는 것입니다.&lt;/strong> 우리는 스타트업을 만드는 것이 아닙니다! 우리의 의도는 교육하는 것입니다. 일반 대중이 위험 없이 기업가 정신과 블록체인 기술에 접근할 수 있는 부드러운 방법을 제공하여 경험 기반 학습에 중점을 둡니다.&lt;/p>
+&lt;p>이벤트는 4주에 걸쳐 진행됩니다.&lt;/p>
+&lt;p>&lt;strong>가상 네트워킹(1주차 및 2주차):&lt;/strong> 이벤트의 처음 2주는 네트워킹에 관한 것입니다. 등록된 참가자들이 서로 만나 그들의 아이디어와 열망에 대해 토론하도록 합니다. 튜토리얼 세션은 사람들이 비즈니스 디자인 도구에 익숙해지고 기술을 향상시키는 데 도움이 될 것입니다.&lt;/p>
+&lt;p>&lt;strong>Pitch and Team-Up (3주차 시작):&lt;/strong> 모든 참가자는 개회식에 함께 모여 개별 참가자가 추구하고 싶은 프로젝트 아이디어를 60초 동안 발표할 수 있습니다. 사람들은 팀에 합류하기로 선택하여 발로 투표합니다.&lt;/p>
+&lt;p>&lt;strong>배우고 일하기(3주차 및 4주차)&lt;/strong> : 앞으로 2주 동안 팀이 함께 일하기 시작합니다. 멘토가 배정됩니다. 전문가와 함께하는 특별 세션이 진행됩니다. 팀은 잠재 고객과 함께 아이디어를 검증하는 것이 좋습니다. 2주 동안 각 팀은 30분짜리 4번의 프레젠테이션 세션을 가집니다. 멘토 패널은 프레젠테이션과 Catalyst Proposal을 개선하는 데 도움을 줍니다.&lt;/p>
+&lt;p>&lt;strong>Pitch (4주차 말)&lt;/strong> : 모든 참가자가 폐회식을 위해 한자리에 모입니다. 피치! 각 팀은 질문을 하는 패널리스트에게 시장 문제와 솔루션을 발표할 5분의 시간이 주어집니다. 프레젠테이션을 하려면 모든 팀이 제안서를 Catalyst에 제출해야 합니다. 모든 프레젠테이션이 끝나면 청중이 우승 팀을 선택합니다. 상품이 수여됩니다. 우리 모두 축하합니다! 펀드 8이 끝나면 Catalyst Voters는 자금을 조달할 대상을 선택합니다.&lt;/p>
+&lt;p>이 이벤트는 Cardano Blockchain 솔루션에 중점을 두고 비즈니스 모델 생성, 고객 개발 접근 방식 및 Lean Startup, Platform Design Toolkit 및 Wardley Mapping과 같은 분석 도구 사용에 중점을 둘 것입니다.&lt;/p>
+&lt;p>펀드8에 제안이 제출될 때까지 기업가 팀은 구성되고, 함께 일하고, 고객 테스트를 완료하고, 강력한 비즈니스 모델을 개발할 것입니다.&lt;/p>
+&lt;h3 id="성공하면-어떤-모습일까요">성공하면 어떤 모습일까요?&lt;/h3>
+&lt;p>이 이벤트는 2022년 2월 Catalyst Fund 8의 두 번째 주 종료 시 종료될 예정입니다. 팀은 작업의 일부로 Catalyst Fund 8에 제안서를 제출할 것입니다.&lt;/p>
+&lt;p>이벤트가 끝나면 최소 15개 팀이 프로세스를 완료하고 Catalyst Fund 8에 제안서를 제출했습니다. 개인은 Cardano 여정을 계속하기 위해 새로운 기술, 연결 및 영감으로 이벤트를 완료합니다.&lt;/p>
+&lt;h4 id="핵심-성과-지표">핵심 성과 지표&lt;/h4>
+&lt;p>Entrepreneurs Startup Month, 참여:&lt;/p>
+&lt;ul>
+&lt;li>최소 20개 팀으로 구성된 100명의 개인에게 도달합니다.&lt;/li>
+&lt;li>최소 15개 팀이 제안서를 제출합니다.&lt;/li>
+&lt;li>Catalyts Fund 8/9에서 자금을 지원받는 최소 3개의 제안&lt;/li>
+&lt;/ul>
+&lt;p>이벤트 종료 시:&lt;/p>
+&lt;ul>
+&lt;li>우리는 소셜 미디어 존재를 1000 팔로워로 늘렸습니다.&lt;/li>
+&lt;li>이 행사는 4개의 주요 언론 매체에서 다루고 있습니다.&lt;/li>
+&lt;/ul>
+&lt;h4 id="한-달-후">한 달 후:&lt;/h4>
+&lt;ul>
+&lt;li>이벤트 팀이 구성되고 프로젝트 계획 및 예산이 확정되었습니다.&lt;/li>
+&lt;li>이벤트 웹사이트 및 소셜 미디어 계정이 설정되었습니다.&lt;/li>
+&lt;li>이벤트 온라인 등록 설정.&lt;/li>
+&lt;li>이벤트 프로모션 콘텐츠(블로그/동영상) 개발&lt;/li>
+&lt;li>행사 홍보 및 홍보가 시작되었습니다.&lt;/li>
+&lt;/ul>
+&lt;h4 id="2개월-후">2개월 후:&lt;/h4>
+&lt;ul>
+&lt;li>멘토, 심사 위원 및 등록이 모두 확인되었습니다.&lt;/li>
+&lt;li>이벤트가 진행되고 있습니다.&lt;/li>
+&lt;/ul>
+&lt;h4 id="6개월-후">6개월 후:&lt;/h4>
+&lt;ul>
+&lt;li>첫 번째 이벤트가 성공적으로 완료되었으며 다른 개선된 이벤트를 계획하고 있습니다.&lt;/li>
+&lt;li>3개의 팀이 Cardano를 기반으로 하는 3개의 자금 지원 프로젝트로 전환했습니다.&lt;/li>
+&lt;/ul>
+&lt;h4 id="12개월-후">12개월 후:&lt;/h4>
+&lt;ul>
+&lt;li>카르다노 시작 월/주간은 아시아 카르다노 캘린더에서 확립된 이벤트입니다.&lt;/li>
+&lt;/ul>
+&lt;h3 id="지적-재산권">지적 재산권&lt;/h3>
+&lt;p>우리의 모든 소스 코드는 Apache License 2.0에 따라 사용이 허가되었습니다. 자세한 내용은 &lt;a href="https://github.com/c3eth/c3eth.github.io/main/LICENSE.md">LICENSE&lt;/a> 파일을 참조하십시오. 게시된 콘텐츠는 &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Attribution-Non-Commercial-ShareAlike(CC BY-NC-SA) 라이선스 v4.0&lt;/a>에 따라 라이선스가 부여됩니다.&lt;/p>
+&lt;h3 id="예산">예산&lt;/h3>
+&lt;p>계획된 활동에 대한 자세한 예산 내역은 첨부된 제안된 계획을 참조하십시오.&lt;/p>
+&lt;ul>
+&lt;li>핵심 팀 &lt;strong>$10,500 USD:&lt;/strong> 프로젝트 관리, 콘텐츠 제작, 커뮤니티 관리 및 관리 포함.&lt;/li>
+&lt;li>지원팀 &lt;strong>$3,500 USD:&lt;/strong> 멘토, 심사위원, 특별 게스트.&lt;/li>
+&lt;li>마케팅 및 커뮤니케이션 &lt;strong>$5000 USD:&lt;/strong> 미디어 방문, 인플루언서 협업, Google/IG 광고&lt;/li>
+&lt;li>비상 사태(%5): &lt;strong>$1,000 USD&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="팀">팀&lt;/h3>
+&lt;p>협업을 통해 팀은 풍부한 문화적, 기술적 경험을 Cardano에 제공합니다. 우리 모두는 생태계 전반에 걸쳐 Catalyst 및 커뮤니티 그룹에서 매우 활동적입니다. 우리는 Cardano의 약속으로 뭉친 다양한 그룹입니다.&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> (@yutazz) - 일본: Cardano 공식 대사, 커뮤니티 공동 주최자, Catalyst Fund 2 수혜자, 공인 회계사.&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> (@yantirta) - 인도네시아: 교육과 격려로 지역 사회에 힘을 실어주는 카르다노 인도네시아 커뮤니티 랭글러.&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> (@mie.tran.0407) - 베트남: 영어 및 국제 비즈니스 전공으로 서양 비즈니스 및 번역 업무 경험이 있습니다.&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> (@zicozibu) - 인도네시아: 암호화폐를 넘어 인도네시아 전역에서 블록체인 교육을 선도하고 있습니다.&lt;/p>
+&lt;p>&lt;strong>Tim O&amp;rsquo;Brien&lt;/strong> (@tobrien) - 베트남: 코드 없는 개척자. 동아프리카 시청(EATH)의 진행자.&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> (@grebel) - 호주: IT 컨설턴트, Catalyst Challenges 작성.&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> (@seomon) - 오스트리아: 지속 가능한 커뮤니티를 위한 피플웨어 인프라에 중점을 둔 IT 컨설턴트입니다.&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> (@wolstaeb) - 뉴질랜드: 금융 시스템 소프트웨어 엔지니어, 커뮤니티 공동 주최자 및 기업가입니다.&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> (@swhitenstall) - 영국: Catalyst를 추적하고 문서화합니다. Catalyst Circle 및 Catalyst Swarm과 같은 커뮤니티 조직을 돕습니다.&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> (@felixweber) - 프랑스: 커뮤니티 관리자가 사람들 사이의 다리를 만들고 있습니다. T&amp;amp;M Catalyst Circle/Swarm/School의 회원.&lt;/p>
+&lt;p>우리는 Venture Centre[1], IdeaFest[2] 및 Catalyst School[3]과 협력하고 있습니다. 제안의 일부로 우리는 Enterprenerdy[4], Emurgo[5], 지역 대학 및 IOG의 Catalyst Team과 협력하는 것을 목표로 합니다.&lt;/p>
+&lt;h2 id="참고">참고&lt;/h2>
+&lt;p>[1] &lt;a href="https://www.venturecentre.nz/">Venture Centre&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021">IdeaFest&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://linktr.ee/CatalystSchool">Catalyst School&lt;/a>&lt;/p>
+&lt;p>[4] &lt;a href="https://entreprenerdy.com/">Enterprenerdy&lt;/a>&lt;/p>
+&lt;p>[5] &lt;a href="https://emurgo.io/">Emurgo&lt;/a>&lt;/p></description></item><item><title>Catalyst: Connecting Asian Voters and Proposers(아시아 유권자와 제안자를 연결)</title><link>/ko/catalyst/fund6/eth-proposals/connect-asian-voters-proposers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/eth-proposals/connect-asian-voters-proposers/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/BT2-0tnZnzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>과제:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/distributed-decision/campaign-brief/">분산 의사 결정&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $15,000&lt;/p>
+&lt;h2 id="문제점">문제점&lt;/h2>
+&lt;p>언어 차이 및 문화적 배타성으로 인한 투표에 대한 신뢰할 수 있는 정보 부족과 같은 장벽이 있습니다.&lt;/p>
+&lt;h2 id="해결책">해결책&lt;/h2>
+&lt;p>사람들이 있는 곳에서 현지 언어와 문화로 만나 신뢰할 수 있는 정보를 제공할 것입니다.&lt;/p>
+&lt;h2 id="관련-경험">관련 경험&lt;/h2>
+&lt;p>Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 소프트웨어 공학. 동아시아 및 일본의 교육자 및 회계사.&lt;/p>
+&lt;h2 id="세부-계획">세부 계획&lt;/h2>
+&lt;p>Catalyst가 자금을 어떻게 사용하는지에 대한 투표는 ADA에 장기적인 가치를 제공하지만, 제안이 너무 많고 새로운 개념이 너무 많기 때문에 투표 결정을 내리는 방법은 무엇일까요? 여러분이 영어를 할 수 없을 때 얼마나 어려울지 상상해 보십시오. 보다 포괄적이고 다양한 거버넌스 프로세스 및 전략을 개발하면 모든 Ada 보유자에게 이익이 될 것입니다. Catalyst Community와 Ada 보유자가 우리의 집단 인지도를 높이지 않는 한 무작위 투표 전략은 잘 연구된 전략만큼이나 유효합니다.&lt;/p>
+&lt;h3 id="현재의-문제점과-한계">현재의 문제점과 한계&lt;/h3>
+&lt;p>언어 차이와 문화적 배타성은 거버넌스 이니셔티브가 전 세계적으로 확장되는 것을 방해합니다. Catalyst의 끊임없는 실험은 우리가 다른 언어와 문화를 포함하는 데 주의를 기울여야 함을 의미합니다. 하나의 문화가 지배하는 것을 지양합니다.&lt;/p>
+&lt;p>잘못된 인센티브, 사기 및 정보 과부하로 인해 Ada 보유자가 투표할 수 없습니다. 아시아 및 기타 영어가 모국어가 아닌 문화권에서는 언어 장벽이 이를 더욱 복잡하게 만듭니다. 언어 장벽은 모든 Catalyst 단계에서 분명합니다. 설문 조사 결과 일본 커뮤니티에서 Catalyst 투표의 가장 큰 문제는 일본어 지원 부족(45.61%)으로 나타났습니다. 응답자의 37% 이상이 &amp;ldquo;영어로 되어 있어서 의미를 이해하지 못해서 무작위로 투표했습니다&amp;quot;라는 프로세스 이해와 관련된 문제를 강조했습니다. 사기에 대한 피로와 제안과 유권자 간의 신뢰 부족도 강조되었습니다. 또 다른 16%는 인센티브 불일치 문제를 언급했습니다.&lt;/p>
+&lt;h3 id="우리들의-솔루션-동부-타운홀-거버넌스-포럼">우리들의 솔루션: 동부 타운홀 거버넌스 포럼&lt;/h3>
+&lt;p>우리의 목표는 유권자 및 제안자 온보딩을 위한 프로세스, 형식 및 이벤트 단계를 설정하는 것입니다. 유권자, 제안자 및 제안을 더 가깝게 만듭니다. 그들 사이에 신뢰를 구축하기 위해. 초점은 6가지 상호 강화 영역에 있습니다.&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>콘텐츠 제작&lt;/strong> : Ada 보유자가 제안에 투표하는 것이 중요한 이유를 이해하도록 돕습니다.&lt;/li>
+&lt;li>유권자 교육 및 토론에 중점을 둔 &lt;strong>동반구 언어 관련 이벤트.&lt;/strong>&lt;/li>
+&lt;li>제안자가 더 넓은 동아시아 커뮤니티에 도달할 수 있도록 지원하는 제안 &lt;strong>언어 번역 파이프라인.&lt;/strong>&lt;/li>
+&lt;li>유권자 인식, 참여 및 신뢰 구축을 위한 무대로서 &lt;strong>언어별 Catalyst Swarm Ideafest&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>소셜 미디어 마케팅&lt;/strong> : 소셜 미디어 채널을 통해 유권자 콘텐츠 및 메시지를 소셜화합니다. 그리고&lt;/li>
+&lt;li>Catalyst 및 제안 형식에 대한 개인의 태도를 이해하는 데 도움이 되도록 &lt;strong>일상적인 설문조사 및 사용자 조사를 수행합니다.&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>이 제안은 유권자와 제안 및 제안자를 연결하도록 특별히 설계된 프로그램을 개발하는 데 도움이 되는 기금을 찾고 있습니다.&lt;/p>
+&lt;p>이러한 활동은 함께 우리가 &lt;strong>동부 타운홀 포럼&lt;/strong> 이라고 부르는 프로그램을 형성합니다. 우리의 기본적인 이벤트는 매주 개최되는 동부 타운홀입니다. 하지만 우리는 더 많은 일을 하고 있습니다. 우리는 번역을 하고, 커뮤니티를 구축하고, 지식을 공유하고, 교육하고, 기업가를 지원하고, Cardano를 성장시키고 있습니다.&lt;/p>
+&lt;p>동부 타운홀이 신뢰하는 종자는 Cardano 생태계의 활동적인 부분입니다. 커뮤니티 구성원의 의견을 경청하고 참여합니다. 우리가 배운 것을 공유합니다. 예를 들어 &lt;strong>Yuta&lt;/strong>는 최근 이 제안이 기반으로 하는 일본 커뮤니티[1]에 대한 많은 설문 조사 중 하나를 완료했습니다. 우리는 모든 커뮤니티에서 더 많은 일을 하고자 합니다. 유권자의 사용자 경험을 개선하는 데 도움이 되었으면 합니다. 우리의 집단적 통찰력을 Project Catalyst에 다시 제공할 것입니다.&lt;/p>
+&lt;p>Catalyst 투표를 보다 쉽게 액세스할 수 있도록 하여 동반구 전체에서 의사 결정을 개선할 수 있도록 도와주세요.&lt;/p>
+&lt;h2 id="성공하면-어떻게-될까요">성공하면 어떻게 될까요?&lt;/h2>
+&lt;p>동부 타운홀이벤트 참여가 증가하고, 신규 및 일반 커뮤니티 구성원의 활기가 유지될 것입니다. 더 많은 Catalyst 제안자가 아시아 커뮤니티에 참여합니다. 그것이 아시아 시장을 위한 제안, 콘텐츠 또는 DApp의 번역일지라도. 또한 아시아 제안자는 대중을 찾습니다. 그들은 Catalyst에 참여하는 강력한 아시아 유권자들이 있기 때문에 자금을 조달할 수 있습니다. 설문 조사 결과에 따르면 제안자와의 유권자 참여, Catalyst 프로세스 및 투표 전 심의가 증가했습니다.&lt;/p>
+&lt;h3 id="핵심-성과-지표">핵심 성과 지표&lt;/h3>
+&lt;p>성과 측정을 위한 주요 도구는 유권자 설문조사입니다. 우리는 아시아 국가에서 정기적으로 이를 수행할 것입니다. 펀드 기간과 이후의 설문 조사를 바탕으로 다음을 기대합니다.&lt;/p>
+&lt;ul>
+&lt;li>이전 기금에서 아시아 유권자 참여를 30% 늘릴 것입니다.&lt;/li>
+&lt;li>Catalyst에 대한 아시아인 참여를 이전 기금에서 20% 늘릴 것입니다.&lt;/li>
+&lt;li>Catalyst 및 투표에 대한 불확실성은 이전 펀드보다 25% 감소할 것입니다.&lt;/li>
+&lt;/ul>
+&lt;p>Eastern Townhall Meetup은 Ada 보유자와 Cardano에 관심이 있는 사람들이 와서 커뮤니티 구성원을 만날 수 있는 주요 무대입니다. 그 플랫폼과 소셜 미디어를 통해 사람들은 배우고 편안하게 더 나아갑니다. 따라서 주요 참여 지표는 유권자와 제안자를 함께 연결하는 데 있어 우리의 성공을 나타냅니다.&lt;/p>
+&lt;ul>
+&lt;li>동부 타운홀 밋업 평균 주간 숫자는 각 기금에 대해 25% 증가할 것입니다.&lt;/li>
+&lt;li>&lt;em>4개 언어(ID, JP, KR, VN)&lt;/em> 로 제공되는 Catalyst 제안은 각 펀드에 대해 50% 증가할 것입니다.&lt;/li>
+&lt;li>Eastern Townhall 소셜 미디어 계정은 팔로워를 6개월 만에 1000명의 새로운 팔로워로 늘렸습니다.&lt;/li>
+&lt;/ul>
+&lt;h4 id="한-달-후">한 달 후:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;em>아시아 4개국(ID, JP, KR, VN)&lt;/em> 최초 범아시아 유권자 설문조사 완료&lt;/li>
+&lt;li>언어별 이벤트 – 유권자 교육 및 Catalyst Swarm&lt;/li>
+&lt;/ul>
+&lt;h4 id="3개월-후">3개월 후:&lt;/h4>
+&lt;ul>
+&lt;li>유권자 교육 비디오 제작&lt;/li>
+&lt;li>&lt;em>4개의 아시아 언어(ID, JP, KR, VN)로&lt;/em> 번역된 Catalyst 유권자 자료&lt;/li>
+&lt;li>최초의 공식 언어별 동부 타운홀 - Catalyst Swarm IdeaFests. (펀드6에 대한 테스트 실행은 우리의 돌파구를 찾기 위해 수행되고 있습니다).&lt;/li>
+&lt;/ul>
+&lt;h4 id="6개월-후">6개월 후:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;em>아시아 4개국(ID, JP, KR, VN)&lt;/em> 6개 유권자 설문조사 완료&lt;/li>
+&lt;li>우리의 활동에 대한 회고를 완료했습니다.&lt;/li>
+&lt;/ul>
+&lt;h4 id="12개월-후">12개월 후:&lt;/h4>
+&lt;ul>
+&lt;li>우리는 아시아 유권자 및 제안자들과 소통하는 데 필요한 내용과 관행을 통합했습니다.&lt;/li>
+&lt;li>우리의 월간 설문 조사는 계속되고 앞으로의 추진력을 보여줍니다.&lt;/li>
+&lt;li>우리의 콘텐츠는 계속해서 커뮤니티 구성원을 참여시킵니다.&lt;/li>
+&lt;li>콘텐츠와 Catalyst 자료를 아시아 전역의 더 많은 언어로 번역했습니다.&lt;/li>
+&lt;/ul>
+&lt;h2 id="지적-재산권">지적 재산권&lt;/h2>
+&lt;p>우리의 모든 소스 코드는 Apache License 2.0에 따라 사용이 허가되었습니다. 자세한 내용은 &lt;a href="https://github.com/c3eth/c3eth.github.io/main/LICENSE.md">LICENSE&lt;/a> 파일을 참조하십시오.&lt;/p>
+&lt;p>게시된 콘텐츠는 &lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Attribution-Non-Commercial-ShareAlike(CC BY-NC-SA) 라이선스 v4.0&lt;/a>에 따라 라이선스가 부여됩니다.&lt;/p>
+&lt;h2 id="예산">예산&lt;/h2>
+&lt;p>계획된 활동에 대한 자세한 예산 내역은 첨부된 제안된 계획을 참조하십시오.&lt;/p>
+&lt;ul>
+&lt;li>핵심 팀 &lt;strong>$4,000 USD:&lt;/strong> 프로젝트 관리 및 관리 포함.&lt;/li>
+&lt;li>지원 팀 &lt;strong>$5,000 USD:&lt;/strong> 커뮤니티 관리자/리더, 중재자 및 통역사&lt;/li>
+&lt;li>그래픽 및 비디오 콘텐츠 제작 &lt;strong>$4500 USD:&lt;/strong> 교육용 비디오, 소셜 미디어 포스터/비디오 및 번역&lt;/li>
+&lt;li>비상 사태(%10): &lt;strong>$1,500 USD&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>베트남과 인도네시아에서는 인건비가 훨씬 저렴하여 더 많은 일을 할 수 있습니다. 그러나 이러한 비용은 친절한 작업/기술에 대한 글로벌 중앙값으로 정규화되어야 합니다. 모든 사람이 베트남/인도네시아에 사는 것은 아닙니다.&lt;/p>
+&lt;h3 id="팀">팀&lt;/h3>
+&lt;p>협업을 통해 팀은 풍부한 문화적, 기술적 경험을 Cardano에 제공합니다. 우리 모두는 생태계 전반에 걸쳐 Catalyst 및 커뮤니티 그룹에서 매우 활동적입니다. 우리는 Cardano의 약속으로 뭉친 다양한 그룹입니다.&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> (@yutazz) - 일본: Cardano 공식 대사, 커뮤니티 공동 주최자, Catalyst Fund 2 수혜자, 공인 회계사.&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> (@yantirta) - 인도네시아: 교육과 격려로 지역 사회에 힘을 실어주는 카르다노 인도네시아 커뮤니티 격려자.&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> (@mie.tran.0407) - 베트남: 영어 및 국제 비즈니스 전공으로 서양 비즈니스 및 번역 업무 경험이 있습니다.&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> (@zicozibu) - 인도네시아: 암호화폐를 넘어 인도네시아 전역에서 블록체인 교육을 선도하고 있습니다.&lt;/p>
+&lt;p>&lt;strong>Tim O&amp;rsquo;Brien&lt;/strong> (@tobrien) - 베트남: 코드 없는 개척자. 동아프리카 시청(EATH)의 진행자.&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> (@grebel) - 호주: IT 컨설턴트, Catalyst Challenges 작성.&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> (@seomon) - 오스트리아: 지속 가능한 커뮤니티를 위한 피플웨어 인프라에 중점을 둔 IT 컨설턴트입니다.&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> (@wolstaeb) - 뉴질랜드: 금융 시스템 소프트웨어 엔지니어, 커뮤니티 공동 주최자 및 기업가입니다.&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> (@swhitenstall) - 영국: Catalyst를 추적하고 문서화합니다. Catalyst Circle 및 Catalyst Swarm과 같은 커뮤니티 조직을 돕습니다.&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> (@felixweber) - 프랑스: 커뮤니티 관리자가 사람들 사이의 다리를 만들고 있습니다. T&amp;amp;M Catalyst Circle/Swarm/School의 회원.&lt;/p>
+&lt;p>팀은 초기 동부 타운홀이 &lt;strong>신뢰할 수 있는 종자&lt;/strong>를 대표합니다. 역할도 없고 리더도 없습니다. 오히려 사람들은 참여를 통해 시간이 지남에 따라 자신을 확립합니다. 우리는 Catalyst Swarm[2], Catalyst School[3] 및 아시아 전역의 기타 커뮤니티 그룹과 겹치고 협력하고 있습니다.&lt;/p>
+&lt;h2 id="참고">참고&lt;/h2>
+&lt;p>[1] &lt;a href="https://t.me/ProjectCatalystChat/53776">Japanese community Survey August 2021&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="http://catalystswarm.com/">Catalyst Swarm&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://linktr.ee/CatalystSchool">Catalyst School&lt;/a>&lt;/p></description></item><item><title>Catalyst: On-boarding East Asia Today!(동아시아의 사람들을 오늘 탑승시킵시다!)</title><link>/ko/catalyst/fund6/eth-proposals/on-board-east-asia-today/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/eth-proposals/on-board-east-asia-today/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/TR37P2F7QNk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>과제:&lt;/strong> &lt;a href="/ko/catalyst/fund6/challenges/multilingual-resources/campaign-brief/">다국어 리소스&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>요청 금액(USD):&lt;/strong> $12,500&lt;/p>
+&lt;h2 id="문제점">문제점&lt;/h2>
+&lt;p>수십억의 인구에도 불구하고 동아시아인은 현지화된 콘텐츠 부족으로 인해 Catalyst에서 과소평가되고 있습니다.&lt;/p>
+&lt;h2 id="해결책">해결책&lt;/h2>
+&lt;p>카탈리스트 문서 및 제안을 동아시아에서 가능한 한 많은 언어로 번역할 번역 파이프라인을 설정합니다.&lt;/p>
+&lt;h2 id="관련-경험">관련 경험&lt;/h2>
+&lt;p>Catalyst Swarm, Eastern Townhall, Catalyst School의 공동 창립자. IT 및 소프트웨어 공학. 동아시아 및 일본의 교육자 및 회계사.&lt;/p>
+&lt;h2 id="세부-계획">세부 계획&lt;/h2>
+&lt;p>동아시아와 동남아시아 지역은 문화적, 언어적으로 다양한 국가들을 하나로 묶습니다. 이 커뮤니티의 사람들은 Cardano 생태계에 참여하게 되어 매우 기쁩니다. 16억의 인구를 가지고 있음에도 불구하고 Catalyst는 동아시아와 동남아시아 지역의 제안을 거의 보지 못했습니다.&lt;/p>
+&lt;h3 id="현재의-문제점과-한계">현재의 문제점과 한계&lt;/h3>
+&lt;p>동아시아와 동남아시아 지역에서 영어는 일상적으로 사용되지 않으며 지역 언어의 웹이 사용됩니다[1].&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/JFsp5WD.png" alt="English Proficiency Index: www.ef.com/epi">&lt;/p>
+&lt;p>언어 장벽은 Catalyst 참여를 줄입니다. 이는 이 지역에서 Cardano 채택 및 유틸리티의 잠재적 성장을 제한합니다. 우리는 이것을 경험하고 커뮤니티에서 이것을 듣습니다. 우리는 Cardano가 우리의 이야기, 에너지, Cardano를 사용하여 경제적 웰빙을 높이는 방법에 대한 관점을 놓치고 있다는 것을 알고 있습니다.&lt;/p>
+&lt;h3 id="제안-솔루션-번역-파이프라인-및-자동화">제안 솔루션: 번역 파이프라인 및 자동화&lt;/h3>
+&lt;p>우리의 목표는 콘텐츠 번역을 위한 간소화된 프로세스를 구축 및 문서화하고 현지화된 콘텐츠 개발을 시작하는 것입니다. Git, Hugo 및 Github Actions를 사용하여 이미 간단한 번역 파이프라인[2]을 설정했습니다. 우리는 Crowdin[3], Lokalize[4], PoEditor[5], GitLozalise[6]와 같은 여러 번역 서비스를 동부 타운홀을 위해 테스트하여 경험을 정리하고 얻을 수 있도록 했습니다.&lt;/p>
+&lt;p>우리의 초기 목표는 간단합니다. 기존 Cardano 및 Catalyst 자료를 반자동 시스템을 사용하여 동아시아 및 동남아시아 지역의 많은 언어로 번역하는 것입니다. 경험을 쌓고 커뮤니티를 구축합니다. 우리가 하는 일과 방법을 문서화합니다.&lt;/p>
+&lt;p>반자동 시스템이란 기계 번역을 의미하지 않습니다. 기계 번역은 출발점으로 도움이 되지만 전문 용어가 어렵고 자연스럽게 읽히지 않습니다. 인간 번역은 항상 약간의 이점이 있습니다. 반자동 시스템은 번역을 위해 작업을 대기열에 넣는 기능을 말하며, 여기에는 기계 번역 서비스를 통해 제공하고, 누군가가 작업하고, 검토한 다음 게시하는 것이 포함될 수 있습니다.&lt;/p>
+&lt;p>우리는 우리를 돕기 위해 Kubernetes SIG Docs 그룹[7]이 수립한 우수한 현지화 문서화 프로세스를 수용하고 확장하기 시작할 것입니다. 우리가 취하고자 하는 다양한 기술과 미래 방향을 수용하기 위해 프로세스를 조정합니다.&lt;/p>
+&lt;h3 id="작업-흐름">작업 흐름&lt;/h3>
+&lt;p>기능적이고 지속 가능한 번역 파이프라인을 구축하기 위해 우리는 이미 시작한 작업을 개발하는 데 도움이 되는 초기 자금을 찾고 있습니다. 자금은 5가지 작업 흐름을 다룰 것입니다:&lt;/p>
+&lt;ol>
+&lt;li>번역 서비스 및 통합 평가: Git, Github, Ideascale 및 Cardano Foundation의 Markdown 기반 문서 작업과 함께.&lt;/li>
+&lt;li>번역 파이프라인의 설계, 구성, 테스트: 목표는 따르기 쉽고 최소한의 감독이 필요한 소규모 프로세스를 마련하는 것입니다.&lt;/li>
+&lt;li>번역 프로세스 문서화 및 튜토리얼 자료 개발: 우리 자신의 필요를 돕기 위해 Kubernetes SIG Doc[7] 프로세스를 수용하고 확장합니다. 미래의 번역가를 온보딩하기 위해 현지화된 튜토리얼 콘텐츠를 개발합니다.&lt;/li>
+&lt;li>강사 교육: 다른 사람들을 교육할 수 있도록 이스턴 타운홀 회원들과 함께 교육 과정을 능력 수준으로 운영합니다.&lt;/li>
+&lt;li>번역: 워크플로의 속도를 높이려면 약간의 실제 수정과 경험이 필요합니다. 우리는 엄선된 Catalyst Guide, Community Advisor, 유권자 교육 및 자체 자료를 번역하는 것을 목표로 합니다. 각 언어마다 시간과 노력이 필요합니다.&lt;/li>
+&lt;/ol>
+&lt;h3 id="규모-확보-학습">규모 확보: 학습&lt;/h3>
+&lt;p>진정한 규모를 얻으려면 번역 및 로컬라이제이션 표준, 자동화 및 기술을 개발하여 더 넓은 Cardano 커뮤니티에 로컬라이제이션을 아웃소싱할 수 있어야 합니다. 번역 및 현지화 작업을 수행하는 것은 Cardano와 다양한 커뮤니티에 더 많이 참여하는 방법입니다. 번역 및 현지화 작업 수행 학습과 수입. 번역 및 현지화 작업을 수행하여 평판을 구축하고 Ada를 획득합니다. 우리는 Cardano 블록체인에서 메타데이터, 네이티브 자산, 대체 불가능한 토큰(NFT), 기계 학습 및 Atala Prism을 활용하여 언어와 문화적 범위를 제공하는 미래를 봅니다. 그러나 간단하게 먼저 시작하십시오.&lt;/p>
+&lt;h3 id="협동">협동&lt;/h3>
+&lt;p>콘텐츠의 번역 및 현지화는 Cardano 및 Catalyst에서 작업하는 많은 그룹의 일반적인 문제입니다. 우리는 이 작업을 단독으로 또는 독점적으로 수행할 계획이 없습니다. 동부 타운홀에서 우리는 많은 언어와 문화를 관리하는 데 앞장서고 있으며 우리의 계획은 우리 자신의 목적을 위한 관행과 자동화된 프로세스를 개발하고 널리 공유하는 것입니다. 우리가 배우고 하는 모든 것이 카르다노 생태계 전반에 정보가 되기를 바랍니다.&lt;/p>
+&lt;h2 id="성공하면-어떤-모습일까요">성공하면 어떤 모습일까요?&lt;/h2>
+&lt;p>가까운 시일 내에 Eastern Townhall은 Catalyst 제안이 완료되면 번역하고 호스팅할 수 있습니다. 아시아 지역의 4개 초기 언어로 번역되었습니다. 자금 지원 프로젝트 보고서도 통합 및 번역됩니다. 우리는 또한 주요 Cardano 및 Catalyst 문서 및 가이드의 번역을 번역하고 유지 관리합니다.&lt;/p>
+&lt;p>중기적으로 번역된 언어를 확장하고 싶고 이 작업을 수행하기 위해 Cardano 생태계의 다른 그룹과 적극적으로 협력하고 있습니다.&lt;/p>
+&lt;p>장기적인 성공이란 Cardano 네트워크를 조정 백본으로 사용하여 모든 문서, 비디오, 팟캐스트 등의 번역 및 해석을 위한 전체 분산 워크플로를 구축했음을 의미합니다. Cardano 생태계 시스템에서 ADA를 등록하고 획득하는 가장 간단한 방법 중 하나는 자료의 번역, 전사 또는 해석을 돕는 것입니다(큰 꿈을 꾸는데 해가 되지 않습니다!).&lt;/p>
+&lt;h3 id="핵심-성과-지표">핵심 성과 지표&lt;/h3>
+&lt;p>우리는 동부 타운홀 계획, 조직, 문서, 메트릭을 위해 Git 및 Github를 사용하고 있기 때문에 Github 활동 및 참여에서 파생됩니다.&lt;/p>
+&lt;p>&lt;strong>주요 지표&lt;/strong> : 프로젝트 속도[8], Github에서 가져온 커밋 및 풀 요청의 기본 활동 지표의 조합으로 정의됩니다.&lt;/p>
+&lt;p>&lt;strong>활동 지표&lt;/strong> : Github에서 프로젝트 활동으로 캡처하고 추가된 케이던스 문서 및 번역 속도.&lt;/p>
+&lt;p>&lt;strong>Community Metrics&lt;/strong> : 우리 작업이 Cardano 생태계에서 어떻게 확산되고 사용되는지 측정하기 위해 Eastern Townhall 웹사이트에 대해 네 가지 범주[9]로 분류된 참여 행동입니다.&lt;/p>
+&lt;h3 id="한-달-후">한 달 후:&lt;/h3>
+&lt;ul>
+&lt;li>동부 타운홀 웹사이트 정보 아키텍처가 개발되었습니다.&lt;/li>
+&lt;li>초기 웹사이트의 주요 콘텐츠가 식별되어 Markdown으로 이식되었습니다.&lt;/li>
+&lt;li>전체 동부 타운홀 웹사이트가 번역됩니다.&lt;/li>
+&lt;/ul>
+&lt;h3 id="3개월-후">3개월 후:&lt;/h3>
+&lt;ul>
+&lt;li>Git Pull 요청으로 구동되는 반자동 번역 파이프라인을 구축했습니다.&lt;/li>
+&lt;li>번역을 단순화하기 위한 수단으로 다양한 번역 서비스를 평가하고 테스트했습니다.&lt;/li>
+&lt;li>초기 번역 프로세스를 문서화하고 트레이너를 교육했습니다.&lt;/li>
+&lt;li>비디오 자막을 포함하도록 확장된 번역 형식.&lt;/li>
+&lt;li>기술, 언어 및 귀속/기여 추적을 위한 NFT 발행.&lt;/li>
+&lt;/ul>
+&lt;h3 id="6개월-후">6개월 후:&lt;/h3>
+&lt;ul>
+&lt;li>번역을 수행하기 위해 Cardano 커뮤니티의 더 많은 회원을 온보딩합니다.&lt;/li>
+&lt;li>핵심 세트에 2개의 동반구 언어를 더 추가했습니다.&lt;/li>
+&lt;li>튜토리얼 자료(문서 및 비디오)는 새로운 기여자와 언어를 온보딩하는 데 도움이 되도록 개발 및 번역되었습니다.&lt;/li>
+&lt;/ul>
+&lt;h3 id="12개월-후">12개월 후:&lt;/h3>
+&lt;ul>
+&lt;li>모든 Catalyst 제안 및 자금 지원 프로젝트는 제작된 후 수일 이내에 번역 및 게시됩니다.&lt;/li>
+&lt;li>우리는 동반구의 10개 언어를 포함하도록 핵심 언어 세트를 확장했습니다.&lt;/li>
+&lt;li>프로젝트/팀/기업이 모국어로 청중에게 다가가기를 원하기 때문에 번역 프로젝트는 자급자족합니다.&lt;/li>
+&lt;li>Cardano 생태계는 문서 관리 및 번역에 대한 유사한 표준을 중심으로 통합됩니다.&lt;/li>
+&lt;/ul>
+&lt;h3 id="라이선스">라이선스&lt;/h3>
+&lt;p>우리의 모든 소스 코드는 MIT와 같은 무료 오픈 소스(OSI) 라이선스에 따라 라이선스가 부여되며 기여는 특허 없이 기여해야 합니다. 기여자는 기여자 표지[10]에 동의해야 합니다.&lt;/p>
+&lt;p>게시된 콘텐츠는 Creative Attribution-Non-Commercial-ShareAlike International(CC BY-NC-SA) 라이선스 v4.0에 따라 라이선스가 부여됩니다. 모든 메타 데이터 사양은 Creative Commons Attribution-NoDerivatives 4.0 International(CC BY-ND 4.0) 라이선스에 따라 게시됩니다. 문서 식별 및 출처에 대한 해당 메타데이터 사양이 Cardano 개선 제안으로 제출되는 장소와 시기.&lt;/p>
+&lt;p>코드, 문서, 프로젝트 활동은 Github 또는 향후 유사한 서비스에서 사용할 수 있습니다.&lt;/p>
+&lt;h2 id="예산">예산&lt;/h2>
+&lt;p>요청된 펀드6 예산은 3개월분의 임금과 6개월분의 경비입니다. 자금의 50%는 우리가 이미 착수한 작업과 비용을 충당하기 위해 소급하여 사용될 것입니다.&lt;/p>
+&lt;ul>
+&lt;li>번역 서비스 평가/통합: $1200 USD&lt;/li>
+&lt;li>워크플로 자동화: $3000 USD&lt;/li>
+&lt;li>프로세스 문서: $2200 USD&lt;/li>
+&lt;li>트레이너 교육: $850 USD&lt;/li>
+&lt;li>번역: $1250 USD&lt;/li>
+&lt;li>프로젝트 관리(%8): $1000 USD&lt;/li>
+&lt;li>소프트웨어 서비스 및 서버: $3000 USD&lt;/li>
+&lt;/ul>
+&lt;p>소프트웨어 서비스 및 서버 요금($500 x 6개월 = $3,000)에는 번역을 능률화하는 데 도움이 되는 번역 서비스(월 $140USD에서 $240USD 사이)를 사용하는 비용이 포함됩니다. 깃허브; 웹사이트 호스팅 및 번역에 필요한 모든 서버.&lt;/p>
+&lt;p>이 자금은 번역 파이프라인을 설정하고 테스트하는 데에만 사용됩니다. Catalyst 또는 기타 동부 타운홀 활동 자금 조달 수단을 통해 3개월 이상의 기간 동안 작업을 계속하려면 추가 자금이 요청될 것입니다.&lt;/p>
+&lt;h3 id="팀">팀&lt;/h3>
+&lt;p>협업을 통해 팀은 풍부한 문화적, 기술적 경험을 Cardano에 제공합니다. 우리 모두는 생태계 전반에 걸쳐 Catalyst 및 커뮤니티 그룹에서 매우 활동적입니다. 우리는 Cardano의 약속으로 뭉친 다양한 그룹입니다.&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> (@yutazz) - 일본: Cardano 공식 대사, 커뮤니티 공동 주최자, Catalyst Fund 2 수혜자, 공인 회계사.&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> (@yantirta) - 인도네시아: 교육과 격려로 지역 사회에 힘을 실어주는 카르다노 인도네시아 커뮤니티 랭글러.&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> (@mie.tran.0407) - 베트남: 영어 및 국제 비즈니스 전공으로 서양 비즈니스 및 번역 업무 경험이 있습니다.&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> (@zicozibu) - 인도네시아: 암호화폐를 넘어 인도네시아 전역에서 블록체인 교육을 선도하고 있습니다.&lt;/p>
+&lt;p>&lt;strong>Tim O&amp;rsquo;Brien&lt;/strong> (@tobrien) - 베트남: 코드 없는 개척자. 동아프리카 시청(EATH)의 진행자.&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> (@grebel) - 호주: IT 컨설턴트, Catalyst Challenges 작성.&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> (@seomon) - 오스트리아: 지속 가능한 커뮤니티를 위한 피플웨어 인프라에 중점을 둔 IT 컨설턴트입니다.&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> (@wolstaeb) - 뉴질랜드: 금융 시스템 소프트웨어 엔지니어, 커뮤니티 공동 주최자 및 기업가입니다.&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> (@swhitenstall) - 영국: Catalyst를 추적하고 문서화합니다. Catalyst Circle 및 Catalyst Swarm과 같은 커뮤니티 조직을 돕습니다.&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> (@felixweber) - 프랑스: 커뮤니티 관리자가 사람들 사이의 다리를 만들고 있습니다. T&amp;amp;M Catalyst Circle/Swarm/School의 회원.&lt;/p>
+&lt;p>팀은 초기 동부 시청이 &lt;strong>신뢰하는 종자를&lt;/strong> 대표합니다. 역할도 없고 리더도 없습니다. 오히려 사람들은 참여를 통해 시간이 지남에 따라 자신을 확립합니다. 확장된 팀에는 전문 통역사와 번역사가 포함됩니다.&lt;/p>
+&lt;h2 id="참고">참고&lt;/h2>
+&lt;p>[1] &lt;a href="https://www.ef.com/wwen/epi/">English Proficiency Index&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="https://c3eth.github.io/catalyst/fund6/">Eastern Townhall Catalyst Fund 6 Work&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://crowdin.com/">Crowdin&lt;/a>&lt;/p>
+&lt;p>[4] &lt;a href="https://lokalise.com/">Lokalize&lt;/a>&lt;/p>
+&lt;p>[5] &lt;a href="https://poeditor.com/">PoEditor&lt;/a>&lt;/p>
+&lt;p>[6] &lt;a href="https://gitlocalize.com/">GitLozalise&lt;/a>&lt;/p>
+&lt;p>[7] &lt;a href="https://kubernetes.io/docs/contribute/localization/#minimum-required-content">Kubernetes SIG Docs group&lt;/a>&lt;/p>
+&lt;p>[8] &lt;a href="https://chaoss.community/metric-project-velocity/">Project Velocity&lt;/a>&lt;/p>
+&lt;p>[9] &lt;a href="https://communityroundtable.com/best-practices/thecrs-work-out-loud-framework/">Community Metrics&lt;/a>&lt;/p>
+&lt;p>[10] &lt;a href="https://www.contributor-covenant.org/">Contributor Covernant&lt;/a>&lt;/p></description></item><item><title>Docs: Example Page</title><link>/ko/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>/ko/docs/getting-started/example-page/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
+&lt;/div>
+&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://gohugo.io">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
+&lt;p>There should be whitespace between paragraphs. Vape migas chillwave sriracha poutine try-hard distillery. Tattooed shabby chic small batch, pabst art party heirloom letterpress air plant pop-up. Sustainable chia skateboard art party banjo cardigan normcore affogato vexillologist quinoa meggings man bun master cleanse shoreditch readymade. Yuccie prism four dollar toast tbh cardigan iPhone, tumblr listicle live-edge VHS. Pug lyft normcore hot chicken biodiesel, actually keffiyeh thundercats photo booth pour-over twee fam food truck microdosing banh mi. Vice activated charcoal raclette unicorn live-edge post-ironic. Heirloom vexillologist coloring book, beard deep v letterpress echo park humblebrag tilde.&lt;/p>
+&lt;p>90&amp;rsquo;s four loko seitan photo booth gochujang freegan tumeric listicle fam ugh humblebrag. Bespoke leggings gastropub, biodiesel brunch pug fashion axe meh swag art party neutra deep v chia. Enamel pin fanny pack knausgaard tofu, artisan cronut hammock meditation occupy master cleanse chartreuse lumbersexual. Kombucha kogi viral truffaut synth distillery single-origin coffee ugh slow-carb marfa selfies. Pitchfork schlitz semiotics fanny pack, ugh artisan vegan vaporware hexagon. Polaroid fixie post-ironic venmo wolf ramps &lt;strong>kale chips&lt;/strong>.&lt;/p>
+&lt;blockquote>
+&lt;p>There should be no margin above this first sentence.&lt;/p>
+&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
+&lt;p>There should be no margin below this final sentence.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="first-header-2">First Header 2&lt;/h2>
+&lt;p>This is a normal paragraph following a header. Knausgaard kale chips snackwave microdosing cronut copper mug swag synth bitters letterpress glossier &lt;strong>craft beer&lt;/strong>. Mumblecore bushwick authentic gochujang vegan chambray meditation jean shorts irony. Viral farm-to-table kale chips, pork belly palo santo distillery activated charcoal aesthetic jianbing air plant woke lomo VHS organic. Tattooed locavore succulents heirloom, small batch sriracha echo park DIY af. Shaman you probably haven&amp;rsquo;t heard of them copper mug, crucifix green juice vape &lt;em>single-origin coffee&lt;/em> brunch actually. Mustache etsy vexillologist raclette authentic fam. Tousled beard humblebrag asymmetrical. I love turkey, I love my job, I love my friends, I love Chardonnay!&lt;/p>
+&lt;p>Deae legum paulatimque terra, non vos mutata tacet: dic. Vocant docuique me plumas fila quin afuerunt copia haec o neque.&lt;/p>
+&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
+&lt;p>Scenester tumeric pickled, authentic crucifix post-ironic fam freegan VHS pork belly 8-bit yuccie PBR&amp;amp;B. &lt;strong>I love this life we live in&lt;/strong>.&lt;/p>
+&lt;h2 id="second-header-2">Second Header 2&lt;/h2>
+&lt;blockquote>
+&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="header-3">Header 3&lt;/h3>
+&lt;pre tabindex="0">&lt;code>This is a code block following a header.
+&lt;/code>&lt;/pre>&lt;p>Next level leggings before they sold out, PBR&amp;amp;B church-key shaman echo park. Kale chips occupy godard whatever pop-up freegan pork belly selfies. Gastropub Belinda subway tile woke post-ironic seitan. Shabby chic man bun semiotics vape, chia messenger bag plaid cardigan.&lt;/p>
+&lt;h4 id="header-4">Header 4&lt;/h4>
+&lt;ul>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;li>This is an unordered list following a header.&lt;/li>
+&lt;/ul>
+&lt;h5 id="header-5">Header 5&lt;/h5>
+&lt;ol>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;li>This is an ordered list following a header.&lt;/li>
+&lt;/ol>
+&lt;h6 id="header-6">Header 6&lt;/h6>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>What&lt;/th>
+&lt;th>Follows&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A table&lt;/td>
+&lt;td>A header&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
+&lt;hr>
+&lt;p>Here is an unordered list:&lt;/p>
+&lt;ul>
+&lt;li>Liverpool F.C.&lt;/li>
+&lt;li>Chelsea F.C.&lt;/li>
+&lt;li>Manchester United F.C.&lt;/li>
+&lt;/ul>
+&lt;p>And an ordered list:&lt;/p>
+&lt;ol>
+&lt;li>Michael Brecker&lt;/li>
+&lt;li>Seamus Blake&lt;/li>
+&lt;li>Branford Marsalis&lt;/li>
+&lt;/ol>
+&lt;p>And an unordered task list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a Hugo theme&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
+&lt;/ul>
+&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Pack bags&lt;/li>
+&lt;li>?&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Travel!&lt;/li>
+&lt;/ul>
+&lt;p>And a nested list:&lt;/p>
+&lt;ul>
+&lt;li>Jackson 5
+&lt;ul>
+&lt;li>Michael&lt;/li>
+&lt;li>Tito&lt;/li>
+&lt;li>Jackie&lt;/li>
+&lt;li>Marlon&lt;/li>
+&lt;li>Jermaine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>TMNT
+&lt;ul>
+&lt;li>Leonardo&lt;/li>
+&lt;li>Michelangelo&lt;/li>
+&lt;li>Donatello&lt;/li>
+&lt;li>Raphael&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Definition lists can be used with Markdown syntax. Definition headers are bold.&lt;/p>
+&lt;dl>
+&lt;dt>Name&lt;/dt>
+&lt;dd>Godzilla&lt;/dd>
+&lt;dt>Born&lt;/dt>
+&lt;dd>1952&lt;/dd>
+&lt;dt>Birthplace&lt;/dt>
+&lt;dd>Japan&lt;/dd>
+&lt;dt>Color&lt;/dt>
+&lt;dd>Green&lt;/dd>
+&lt;/dl>
+&lt;hr>
+&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Year&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Michael Jackson&lt;/td>
+&lt;td>Thriller&lt;/td>
+&lt;td>1982&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prince&lt;/td>
+&lt;td>Purple Rain&lt;/td>
+&lt;td>1984&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Beastie Boys&lt;/td>
+&lt;td>License to Ill&lt;/td>
+&lt;td>1986&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Artist&lt;/th>
+&lt;th>Album&lt;/th>
+&lt;th>Year&lt;/th>
+&lt;th>Label&lt;/th>
+&lt;th>Awards&lt;/th>
+&lt;th>Songs&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Michael Jackson&lt;/td>
+&lt;td>Thriller&lt;/td>
+&lt;td>1982&lt;/td>
+&lt;td>Epic Records&lt;/td>
+&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
+&lt;td>Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prince&lt;/td>
+&lt;td>Purple Rain&lt;/td>
+&lt;td>1984&lt;/td>
+&lt;td>Warner Brothers Records&lt;/td>
+&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
+&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Beastie Boys&lt;/td>
+&lt;td>License to Ill&lt;/td>
+&lt;td>1986&lt;/td>
+&lt;td>Mercury Records&lt;/td>
+&lt;td>noawardsbutthistablecelliswide&lt;/td>
+&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
+&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
+&lt;p>Code can also be shown in a block element.&lt;/p>
+&lt;pre tabindex="0">&lt;code>foo := &amp;#34;bar&amp;#34;;
+bar := &amp;#34;foo&amp;#34;;
+&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000;font-weight:bold">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Language&lt;/th>
+&lt;th>Code&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Javascript&lt;/td>
+&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ruby&lt;/td>
+&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;p>Small images should be shown at their actual size.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
+&lt;h2 id="components">Components&lt;/h2>
+&lt;h3 id="alerts">Alerts&lt;/h3>
+&lt;p>
+&lt;div class="alert alert-primary" role="alert">
+This is an alert.
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title.
+&lt;/div>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+This is an alert with a title and &lt;strong>Markdown&lt;/strong>.
+&lt;/div>
+&lt;div class="alert alert-success" role="alert">
+This is a successful alert.
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+This is a warning.
+&lt;/div>
+&lt;div class="alert alert-warning" role="alert">
+&lt;h4 class="alert-heading">Warning&lt;/h4>
+This is a warning with a title.
+&lt;/div>
+&lt;/p>
+&lt;h2 id="another-heading">Another Heading&lt;/h2>
+&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
+&lt;h3 id="this-document">This Document&lt;/h3>
+&lt;p>Inguina genus: Anaphen post: lingua violente voce suae meus aetate diversi. Orbis unam nec flammaeque status deam Silenum erat et a ferrea. Excitus rigidum ait: vestro et Herculis convicia: nitidae deseruit coniuge Proteaque adiciam &lt;em>eripitur&lt;/em>? Sitim noceat signa &lt;em>probat quidem&lt;/em>. Sua longis &lt;em>fugatis&lt;/em> quidem genae.&lt;/p>
+&lt;h3 id="pixel-count">Pixel Count&lt;/h3>
+&lt;p>Tilde photo booth wayfarers cliche lomo intelligentsia man braid kombucha vaporware farm-to-table mixtape portland. PBR&amp;amp;B pickled cornhole ugh try-hard ethical subway tile. Fixie paleo intelligentsia pabst. Ennui waistcoat vinyl gochujang. Poutine salvia authentic affogato, chambray lumbersexual shabby chic.&lt;/p>
+&lt;h3 id="contact-info">Contact Info&lt;/h3>
+&lt;p>Plaid hell of cred microdosing, succulents tilde pour-over. Offal shabby chic 3 wolf moon blue bottle raw denim normcore poutine pork belly.&lt;/p>
+&lt;h3 id="external-links">External Links&lt;/h3>
+&lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
+&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
+&lt;/code>&lt;/pre></description></item><item><title>Catalyst: Atala PRISM DID Mass-Scale Adoption</title><link>/ko/catalyst/fund6/challenges/atala-prism-did/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/atala-prism-did/campaign-brief/</guid><description>
+&lt;p>What will drive mass-scale adoption of decentralized IDs on Cardano?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26116">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Propose a means or way to drive mass-scale adoption of DID usage as an easy-to-use onramp to the Cardano ecosystem (preferably Atala PRISM when released). This can include any method that will offer users or entities a decentralized ID to start defining their digital self-sovereignty. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.&lt;/p>
+&lt;p>We are a community of thought leaders and it is time to demonstrate our thoughts with actions. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.&lt;/p>
+&lt;p>This Challenge is about small ways we can incorporate DIDs into the Cardano ecosystem to start the ground swell at the grassroots that demands PII be secured and controlled with DID technologies and standards.&lt;/p>
+&lt;p>It is about &lt;strong>signaling to the world&lt;/strong> that the Cardano community plans mass-adoption of DID that is interchangeable, interoperable (by WW DID standards) and &lt;strong>we care deeply that the origin of our personal DID is tied to our home blockchain—Cardano.&lt;/strong>&lt;/p>
+&lt;p>While we prefer to support Atala PRISM&amp;rsquo;s instantiation of DID, this is more about building ideas and concepts that require DID to draw users to the Cardano platform. And since PRISM is building to the open standards, those are available for anyone to imagine possibilities and offer proposals.&lt;/p>
+&lt;p>It won&amp;rsquo;t be lost on IOHK how the community responses to this Challenge. Should IOHK see a ground swell of great ideas and proposals, that could help them justify expediting timelines for their planned open sourcing of PRISM components.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Atala PRISM DID is a gateway to the Cardano blockchain and ecosystem. Building technology and marketecture that on-boards users is crucial.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Many high quality ideas will be proposed that can substantially grow Cardano&amp;rsquo;s user-base, network-utility, network-value &amp;amp; ADA circulation.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>The number of proposals that directly address DID use cases in a quantifiable manner.&lt;/li>
+&lt;li>The quality of proposals measured by community interest and engagement.&lt;/li>
+&lt;li>Results of any Fund7 funded projects significantly impacting mass-scale adoption of DID&amp;rsquo;s and their utility on the Cardano blockchain.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Cardano Emerging Threat Alarm</title><link>/ko/catalyst/fund6/challenges/emerging-threats/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/emerging-threats/campaign-brief/</guid><description>
+&lt;p>How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$50,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26110">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Blockchain systems are a complex amalgam of technological, economic and social components that rely and are used by many stakeholders from different geographies and backgrounds. These systems are not isolated from the real world and unexpected threats may emerge from the dynamic interaction.&lt;/p>
+&lt;p>Cardano stakeholders (users, SPOs, DApp developers, partners, Exchanges, governments, companies) need a resilient system that is able to identify and grade developing threats to its own existence.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Cardano complexity increases with decentralization, native tokens, multi-asset support, smart contracts and new users. Threats will emerge.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Stable evolution. Cardano successfully onboards new users, developers, DApps, tokens, SPOs, oracles, companies. Threats are identified&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>At the end of this challenge, we should be asking ourselves: Did we manage to create a simple mechanism for identifying novel, emerging systemic threats to the Cardano ecosystem? We can&amp;rsquo;t see the future now, but as events unfold we may be able to use our collective wisdom and senses to detect new dangers for the Cardano blockchain and its usage.&lt;/p>
+&lt;ul>
+&lt;li>Number of potential threats that have been submitted.&lt;/li>
+&lt;li>Grading of the submitted threats by urgency&lt;/li>
+&lt;li>Number of threats that have been identified as serious and systemic.&lt;/li>
+&lt;li>Grouping of threat sources into categories and types to determine wider danger areas&lt;/li>
+&lt;li>Number of Cardano stakeholders interacting with the threat alert mechanism&lt;/li>
+&lt;li>Number of Catalyst proposals submitted and accepted for funding in subsequent funding rounds to directly address the most pressing identified threats.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Catalyst value onboarding</title><link>/ko/catalyst/fund6/challenges/catalyst-value-onboarding/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/catalyst-value-onboarding/campaign-brief/</guid><description>
+&lt;p>How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$75,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26106">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>The growth of Cardano depends on meaningful participation from proposers, advisors, and voters.&lt;/p>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>There&amp;rsquo;s a strong funnel to motivate, inform and direct new participants towards providing a contribution that improves Catalyst&amp;rsquo;s ROI.&lt;/p>
+&lt;h2 id="key-metric-to-measure">Key metric to measure&lt;/h2>
+&lt;p>To assess ROI of this challenge we will ask ourselves:&lt;/p>
+&lt;p>Did we manage to increase meaningful participation from proposers, advisors, and voters?&lt;/p>
+&lt;p>Out of total number of new participants:&lt;/p>
+&lt;p>What % active community advisers?&lt;/p>
+&lt;p>What % watch townhalls?&lt;/p>
+&lt;p>What % vote?&lt;/p>
+&lt;p>What % proposes?&lt;/p>
+&lt;p>What % becomes a referrer?&lt;/p>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;ul>
+&lt;li>How can we increase meaningful participation from proposers, advisors, and voters?&lt;/li>
+&lt;li>How do new people learn about Catalyst?&lt;/li>
+&lt;li>How can we provide a central source of constantly updated information in different formats(text, video, p2p)?&lt;/li>
+&lt;/ul>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>Education and onboarding through timely YouTube content&lt;/li>
+&lt;li>Better user experience through hardware wallet support, Daedalus/yoroi support ect.&lt;/li>
+&lt;li>Reddit presence offering reliable information.&lt;/li>
+&lt;li>Mentoring programs matching veteran Catalysts and new Catalysts.&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25944">Fund5: Catalyst value onboarding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25872">Fund4: Catalyst value onboarding&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: DApps &amp; Integrations</title><link>/ko/catalyst/fund6/challenges/dapps-integrations/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/dapps-integrations/campaign-brief/</guid><description>
+&lt;p>What applications will provide the most value for end users in 2021?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26103">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Quality Dapps and integrations will increase utility &amp;amp; adoption of Cardano.&lt;/p>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.&lt;/p>
+&lt;h2 id="key-metric-to-measure">Key metric to measure&lt;/h2>
+&lt;p>To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?&lt;/p>
+&lt;p>Let an &amp;ldquo;application output&amp;rdquo; and an &amp;ldquo;application transaction&amp;rdquo; be an outputs and transactions that use the applications&amp;rsquo; script addresses; and an &amp;ldquo;application token&amp;rdquo; be a token that&amp;rsquo;s issued by the application.&lt;/p>
+&lt;h2 id="usage-of-applications-developed-during-the-challenge">Usage of applications developed during the challenge&lt;/h2>
+&lt;ul>
+&lt;li>Number/growth of application output&lt;/li>
+&lt;li>Number/growth of application transactions&lt;/li>
+&lt;li>Total volume of Ada involved in application transactions&lt;/li>
+&lt;li>Total/growth of resource usage by applications&lt;/li>
+&lt;li>Number/growth of distinct addresses mentioned in application transactions&lt;/li>
+&lt;li>If the application uses tokens:&lt;/li>
+&lt;li>Number/growth of application tokens&lt;/li>
+&lt;li>Number/growth of distinct addresses holding application tokens&lt;/li>
+&lt;/ul>
+&lt;h2 id="viability-of-applications-developed-during-the-challenge">Viability of applications developed during the challenge&lt;/h2>
+&lt;ul>
+&lt;li>How many of the applications are still being developed at the end of 2021?&lt;/li>
+&lt;li>How many of the applications made a profit for their creators?&lt;/li>
+&lt;li>How many of the teams which built the applications grew during 2021?&lt;/li>
+&lt;li>How many of the teams which built the applications built (or plan to build) another application?&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;p>What are the key applications that underpin the application ecosystem on other platforms?&lt;/p>
+&lt;p>What are the most profitable or most used applications on other ecosystems?&lt;/p>
+&lt;p>What needs do users of Cardano have that could be solved by new applications?&lt;/p>
+&lt;p>What applications deliver the highest amount of value with the least amount of technical sophistication?&lt;/p>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>Swaps, both simple and fancy variants (multi-party etc.)&lt;/li>
+&lt;li>Escrow, both simple and fancy variants&lt;/li>
+&lt;li>Integrations with existing products&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25941">Fund 5 DApps &amp;amp; Integrations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25869">Fund 4 DApps &amp;amp; Integrations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25797">Fund 3 DApps Creation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25652">Fund 2 Challenge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25604">Fund 1 Challenge&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: DeFi and Microlending for Africa</title><link>/ko/catalyst/fund6/challenges/defi-microlending/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/defi-microlending/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$90,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26112">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Microlending and DeFi dApps targeted specifically to the African context &amp;amp; based on historical cultural norms will accelerate user adoption&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Businesses are confident to submit well-researched proposals that address the African micro-lending and decentralized finance context&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Submitted proposals well researched, viable and addresses traditional African financial cultural norms and practices&lt;/li>
+&lt;li>3 or more successfully funded micro-lending and Defi dApp launched within the next 3 funding rounds&lt;/li>
+&lt;li>Minimum 50% user adoption in funded proposal&amp;rsquo;s target market within 2 years&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Developer ecosystem</title><link>/ko/catalyst/fund6/challenges/developer-ecosystem/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/developer-ecosystem/campaign-brief/</guid><description>
+&lt;p>How can we create a positive developer experience that helps the developer focus on building successful apps?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$1,005,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26094">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26094/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.&lt;/p>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>Liveliness. Happy energized developers making money and achieving their goals, mutual help, collaboration, and a shared feeling of success. A feeling of unexpected innovation happening &amp;ldquo;on it&amp;rsquo;s own&amp;rdquo;. A wide variety of resources are provided for developers allowing them to focus on business value they can generate and not on infrastructure&lt;/p>
+&lt;p>Cardano has a thriving ecosystem of infrastructure companies that don&amp;rsquo;t need to be subsidized by grants and are able to scale their businesses by monetizing the services that they provide. They are attracting developers to the ecosystem and educating them on how to build applications.&lt;/p>
+&lt;h2 id="key-metric-to-measure">Key metric to measure&lt;/h2>
+&lt;p>At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for developers to build on top of Cardano?&lt;/p>
+&lt;ul>
+&lt;li>Filling in gaps defined in the exploration stage.&lt;/li>
+&lt;li>Number of developers actively building on top of Cardano&lt;/li>
+&lt;li>Number of repos on Github using the tooling. (Month over month increase)&lt;/li>
+&lt;li>Reduce wait time of unanswered communications with developers to 24 hours.&lt;/li>
+&lt;li>A sense of community and conversations. Having people around to talk with.&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;ul>
+&lt;li>What are the the tools that we need to prioritize first&lt;/li>
+&lt;li>How do we attract developers from outside of our current community to participate in Catalyst?&lt;/li>
+&lt;li>What do developers want, and how do they get it from the Cardano dev ecosystem?&lt;/li>
+&lt;li>What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?&lt;/li>
+&lt;li>What are enterprise dev managers looking for in order to be able to build out enterprise projects - either internal or commercial?&lt;/li>
+&lt;/ul>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>Developer productivity: IDE&amp;rsquo;s, scripts to automate stuff.&lt;/li>
+&lt;li>Knowledge base &amp;amp; Documentation&lt;/li>
+&lt;li>Deployment, testing, and monitoring frameworks&lt;/li>
+&lt;li>Samples, recipes and templates&lt;/li>
+&lt;li>Hackathons&lt;/li>
+&lt;li>DEFI and tokenization&lt;/li>
+&lt;li>Dashboards&lt;/li>
+&lt;li>API&amp;rsquo;s, and oracles.&lt;/li>
+&lt;li>Support structures&lt;/li>
+&lt;li>Incentivization structures&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25939">Fund 5 Developer Ecosystem Challenge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25868">Fund 4 Developer Ecosystem Challenge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25805">Fund 3 Developer Ecosystem Challenge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25652">Fund 2 Challenge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25604">Fund 1 Challenge&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Disaster: When all is at stake</title><link>/ko/catalyst/fund6/challenges/disaster/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/disaster/campaign-brief/</guid><description>
+&lt;p>How can we help SPOs tackle risks &amp;amp; plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$150,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26117">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26117/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Disaster recovery (DR) is an area of security planning that aims to protect an organization from the effects of significant negative events.&lt;/p>
+&lt;p>Having a disaster recovery strategy in place enables an organization to maintain or quickly resume mission-critical functions following a disruption.&lt;/p>
+&lt;p>Cardano as a proposed financial operating system for the world must have several layers of built in redundancies even for events that may seem remote or very unlikely now.&lt;/p>
+&lt;p>Although a testnet exists, real-world conditions can never be fully replicated. Maybe proposers can develop a way of incentivizing further SPO participation in the Cardano testnet and more simulations.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>A system that aspires to become a global financial operating system, must be stress tested. Running nodes should be prepared for disaster.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Likely points of failure identified. Disaster communication channels set up. Recovery procedures identified. Testing procedures developed.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>has a methodology for decentralized stress testing of the main network been developed - by and for stakepool operators?&lt;/li>
+&lt;li>are participating stakepools being rewarded for taking part in mainnet disaster recovery tests?&lt;/li>
+&lt;li>are there enough incentives in place for participating in the Cardano testnet?&lt;/li>
+&lt;li>are stakepool operators able to conduct limited network stress testing (overload, disconnection, bad actor, DDoS … scenarios) and are they rewarded for participating in these tests (instead of being punished by losing slots)?&lt;/li>
+&lt;li>have new guidelines, recommendations and emergency communication channels been established for stakepool operators who wish to take part in these emergency preparations?&lt;/li>
+&lt;li>has a a dedicated risk-assessment and risk-management team been set up?&lt;/li>
+&lt;li>have protocols been developed for recovering from an emergency situation that could take most of the main network offline?&lt;/li>
+&lt;li>have proposals been developed for building in different kinds of redundancies?&lt;/li>
+&lt;li>have new benchmarks been developed to measure whether the Cardano stake pool network is safer, more stable, more resilient and more decentralized?&lt;/li>
+&lt;li>have wider screening of risk sources been performed: CyberSecurity, political and regulatory risks, internet-related risks etc.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Disaster-When-all-is-at-stake/351012-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Distributed decision making</title><link>/ko/catalyst/fund6/challenges/distributed-decision/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/distributed-decision/campaign-brief/</guid><description>
+&lt;p>How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$75,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26104">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>High-quality and decentralized decision-making, will increase treasury ROI and legitimize decentralized governance.&lt;/p>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>The community is consciously improving decision-making processes while growing a group of committed and collaborative leaders.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>To assess ROI of this challenge we will ask ourselves: Did we get better at distributed decision making?&lt;/li>
+&lt;li>Community confidence: avg rating or % of Catalyst members who approve of overall results of a funding round.&lt;/li>
+&lt;li>Community participation: number of Catalyst participants contributing to improving Catalyst decision making systems&lt;/li>
+&lt;li>Measured overall&lt;/li>
+&lt;li>Impact of individual initiatives&lt;/li>
+&lt;li>Proof of iteration: round over round, is there evidence that &amp;ldquo;pain points&amp;rdquo; are evolving? (Failure would look like seeing the same problems emerging each funding round)&lt;/li>
+&lt;li>Re-election rates: if proposers receive subsequent funding, this can be seen as a sign of success&lt;/li>
+&lt;li>Embracing failure: is the community able to see value in &amp;amp; learn from proposals that did not work out?&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;p>How do we encourage people to participate in decision making?&lt;/p>
+&lt;p>How do we ensure the group of decision makers is diverse and accessible to newcomers?&lt;/p>
+&lt;p>How can we ensure that the Catalyst process keeps iterating to improve?&lt;/p>
+&lt;p>How will we include the community in decision making?&lt;/p>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>Software that supports decision making or iteration&lt;/li>
+&lt;li>Experiments in social, collaboration, or meeting structures that encourage improved decision making&lt;/li>
+&lt;li>Community advisor training&lt;/li>
+&lt;li>Low effort ways to engage voters in assessing proposals and tapping into existing insights.&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-campaigns">Prior Campaigns&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25942">Fund 5 Distributed decision making&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25870">Fund 4 Distributed decision making&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: DLT Entrepreneurship Toolbox</title><link>/ko/catalyst/fund6/challenges/dlt-enterpreneurship/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/dlt-enterpreneurship/campaign-brief/</guid><description>
+&lt;p>How can early stage entrepreneurs develop their skills to execute &amp;amp; communicate great ideas so voters/stakeholders value the project?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$150,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26113">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Whatever your background, confidently communicating all the important elements of an early stage venture can be overwhelming for inexperienced entrepreneurs.&lt;/p>
+&lt;p>More should be done to help an increasingly diverse group of Project Catalyst entrepreneurs, at different stages of self-development, plus their teams and stakeholders to collaborate and communicate effectively.&lt;/p>
+&lt;p>This is important to Project Catalyst as, over time, the strongest ideas will be those that are the most coherently communicated and which ultimately resonate clearly with voters - particularly Expert evaluators!&lt;/p>
+&lt;p>This challenge seeks to help inexperienced entrepreneurs to learn and apply vital entrepreneurship skills so they can collaborate with teams and stakeholders on meaningful Catalyst projects. This also helps ensure sustainable impact and a positive return on investment and intention is made.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Entrepreneurs strengths are ambition and vision but often lack structure to communicate ideas clearly enough to win voter hearts &amp;amp; minds&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Higher quality of proposal submitted to Catalyst so entrepreneurs become confident presenting project principles, USP, strategy, objectives&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Number of users, using the tools&lt;/li>
+&lt;li>Difference in score of applicants using the toolbox and those not using the tools.&lt;/li>
+&lt;li>Gaps that are filled in the entrepreneurial skills base of project teams from the start of ideation through project delivery.&lt;/li>
+&lt;li>Sustainability of venture plans beyond the scope of Catalyst development project.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/DLT-Entrepreneurship-Toolbox/341809-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Fund 7 Challenge Setting</title><link>/ko/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/</guid><description>
+&lt;p>What Challenges should the community prioritize to address in Fund7?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$5,400,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26120">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano&amp;rsquo;s mission.&lt;/p>
+&lt;p>Challenge setting is different from other challenges as it&amp;rsquo;s about proposing new challenges, whether regular challenges are about proposing initiatives to address challenges.&lt;/p>
+&lt;p>Once a proposal is accepted by the community, the proposing team has an opportunity to receive a &amp;ldquo;Challenge team&amp;rdquo; incentive of $2,500 worth of ada, if the following conditions are met:&lt;/p>
+&lt;ul>
+&lt;li>The challenge team presents the challenge to the community at the start of the following fund.&lt;/li>
+&lt;li>The challenge team facilitates a challenge-focused breakout session in one of the after townhalls.&lt;/li>
+&lt;li>The challenge team leads a challenge retrospective session during the next fund&amp;rsquo;s &amp;ldquo;retrospective week&amp;rdquo;.&lt;/li>
+&lt;li>The challenge team facilitates a session with the proposing teams that received funding for the challenge.&lt;/li>
+&lt;li>The challenge team tracks the key metrics as reported by funded proposals, 3 months after receiving funding and presents their reflection on whether the Challenge is getting addressed and highlight teams that are making significant headway in their approach.&lt;/li>
+&lt;/ul>
+&lt;p>These activities might seem complicated, but you will receive guidelines, training and support from the Catalyst team and community. All you need is a willingness to represent the challenge in a fair and balanced way and a desire to participate. Once the conditions are met, your team will be eligible to receive the reward.&lt;/p>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>The community votes to include important and engaging challenges that inspire impactful and original proposals.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key metrics to measure&lt;/h2>
+&lt;p>To assess ROI of this challenge we will ask ourselves:&lt;/p>
+&lt;ul>
+&lt;li>How well did the selected challenges perform in terms of proposal quality and community engagement?&lt;/li>
+&lt;li>What is the average Community Advisor score for the top 10% proposed Challenges?&lt;/li>
+&lt;li>What is the average Community Advisor score for the top 10% proposals generated to address the challenge?&lt;/li>
+&lt;li>How much voter engagement did the challenge generate?&lt;/li>
+&lt;li>How many proposals in the challenge were approved by the community, compared to the overall budget of the challenge? (Challenge overage)&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;ul>
+&lt;li>What challenges will engage the highest number of voters?&lt;/li>
+&lt;li>Which challenges, if addressed, will provide a springboard for Cardano adoption?&lt;/li>
+&lt;li>Which challenges, if addressed, will advance Cardano&amp;rsquo;s mission?&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25946">Fund 5: Fund6 challenge setting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25874">Fund 4: Fund5 challenge setting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25800">Fund 3: F3: Community choice&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Grow Africa, Grow Cardano</title><link>/ko/catalyst/fund6/challenges/grow-africa/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/grow-africa/campaign-brief/</guid><description>
+&lt;p>How do we seed and grow Cardano in Africa?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26108">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;h3 id="africa-is-fertile-ground-for-the-adoption-of-cardano">Africa is fertile ground for the adoption of Cardano.&lt;/h3>
+&lt;p>Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.&lt;/p>
+&lt;p>Focussing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson&lt;/p>
+&lt;p>The ROI is likely to be high because community sponsored projects are better run in young and developing economies.&lt;/p>
+&lt;h2 id="what-this-is">What this is:&lt;/h2>
+&lt;p>A call to activate the Cardano community&amp;rsquo;s ability to recognise, risk and reward this opportunity to make the world a better place.&lt;/p>
+&lt;h2 id="what-this-is-not">What this is not:&lt;/h2>
+&lt;p>This is not a proposal that needs active work by the proposers, it is a vision that needs votes to become an achievement. If it succeeds the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.&lt;/p>
+&lt;h2 id="regardless-of-whether-it-succeeds-or-fails">Regardless of whether it succeeds or fails:&lt;/h2>
+&lt;p>I have had my eyes opened and my mind changed about the potential of Africa. From Africa&amp;rsquo;s bankers in the west, ex-pats with vision and heart, youth with passions, documentaries that challenged my assumptions and Cardano community members with so much to give.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Cardano shines when adoption is global. Africa currently has young entrepreneurs, great growth potential and a government contract imminent.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;ul>
+&lt;li>Cardano is considered the best public block-chain operating in Africa&lt;/li>
+&lt;li>Cardano projects in Africa are not isolated but networked and growing&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Number of purely African participants&lt;/li>
+&lt;li>Number of Outside African participants with a significant partnership with African residents&lt;/li>
+&lt;li>Feedback on progress from successful proposals regardless of failure or success&lt;/li>
+&lt;li>Novelty and appropriateness of solutions (hard to quantify, easy to see)&lt;/li>
+&lt;li>Number of African Fund5 proposals that do not need further funding to keep operating&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25947">Fund 5: Grow Africa, Grow Cardano&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Improve and Grow Auditability</title><link>/ko/catalyst/fund6/challenges/improve-auditability/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/improve-auditability/campaign-brief/</guid><description>
+&lt;p>How to make the auditing process of funded proposals efficient, distributed and transparent?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26119">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26119/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>When Fund7 happens we will be close to 100 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.&lt;/p>
+&lt;p>Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.&lt;/p>
+&lt;p>The Auditability challenge aims to ensure transparency in the use of Cardano&amp;rsquo;s treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.&lt;/p>
+&lt;p>Some directions that this challenge can take:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Podcasts with teams from funded proposals.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Smart contract audits.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Platforms / Websites that perform:&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reporting on metrics, spending of financial resources.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Metrics on the development of Dapps (txs, volume, unique wallets, etc …)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Metrics on Number of onboarded developers, number of commits in funded proposal repositories.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Social media engagement indicators metrics.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>It&amp;rsquo;s important that the funded proposals are evaluated to see if they are delivering what was established in their mission..&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;h3 id="number-of-funded-proposals-audited">Number of funded proposals audited&lt;/h3>
+&lt;p>Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that success metrics are thought out in relation to each challenge.&lt;/p>
+&lt;h3 id="number-of-reports-articles-and-videospodcasts-on">Number of reports, articles and videos/podcasts on:&lt;/h3>
+&lt;ul>
+&lt;li>Performance&lt;/li>
+&lt;li>Achievements&lt;/li>
+&lt;li>Financials&lt;/li>
+&lt;li>Number of onboarded developers.&lt;/li>
+&lt;li>Number of commits in funded proposal repositories (Github)&lt;/li>
+&lt;li>Indicators of: transactions, volume and unique wallets interacting with dapps.&lt;/li>
+&lt;li>Number of smart contracts audited.&lt;/li>
+&lt;li>Social media engagement indicators.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/25946/stage/unspecified">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Metadata challenge</title><link>/ko/catalyst/fund6/challenges/metadata-challenge/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/metadata-challenge/campaign-brief/</guid><description>
+&lt;p>How can we utilize transaction metadata to solve real world problems?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26107">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>With transaction metadata, Cardano can be utilized as a network to store small proofs of events or documents. This utility has been used in the past to implement product anti-counterfeit solutions as well as traceability solutions. Smart contracts are not necessary to take advantage of this functionality.&lt;/p>
+&lt;p>This challenge is for you if you have problems that involve:&lt;/p>
+&lt;ul>
+&lt;li>Demonstrate to external parties that a specific document has not been tampered with.&lt;/li>
+&lt;li>Demonstrate to external parties that a specific event took place.&lt;/li>
+&lt;li>Demonstrate to external parties that a document existed at a specific date/time.&lt;/li>
+&lt;li>Demonstrate any or all of the above without revealing the document or the event&amp;rsquo;s data (because of privacy concerns).&lt;/li>
+&lt;/ul>
+&lt;p>IOHK is pleased to announce that we will support and provide expert advice to the proposal winners. The same team that created the New Balance and Beefchain solutions will be offering these services to the proposal winners for 6 months after the winners are announced:&lt;/p>
+&lt;ul>
+&lt;li>1 hr a week of expert advice from IOHK&amp;rsquo;s solutions architects and technical consultants.&lt;/li>
+&lt;li>Email address for offline queries.&lt;/li>
+&lt;li>Architectural/design/technical reviews.&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>Prototypes are built that utilize metadata to solve real life problems. The prototypes are presented to the Catalyst community in any of the town halls.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key metrics to measure&lt;/h2>
+&lt;p>At the end of this challenge, we will be asking ourselves:&lt;/p>
+&lt;ul>
+&lt;li>Potential amount of users that can be brought onto Cardano.&lt;/li>
+&lt;li>Community feedback (positive/negative) about the prototypes after presentation.&lt;/li>
+&lt;li>Followup Catalyst proposals.&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;ul>
+&lt;li>What is the target audience?&lt;/li>
+&lt;li>Who are the potential users of the platform?&lt;/li>
+&lt;li>What is the problem that metadata is solving?&lt;/li>
+&lt;li>Why does the target audience care about the solution? Why would they install/use the solution?&lt;/li>
+&lt;li>Does the solution need hardware components?&lt;/li>
+&lt;li>What would retain the user on the solution? That is, after installation, why would you keep using it? What value does it bring to the user (continuously)?&lt;/li>
+&lt;/ul>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>Traceability&lt;/li>
+&lt;li>Product Authentication&lt;/li>
+&lt;li>Auditable decentralized document workflows (i.e. HelloSign solutions or similar).&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25945">Fund 5: Metadata challenge&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Multilingual resources</title><link>/ko/catalyst/fund6/challenges/multilingual-resources/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/multilingual-resources/campaign-brief/</guid><description>
+&lt;p>How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$75,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26111">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>The English language could be a barrier for a lot of people around the world when they try to learn about Cardano and blockchain technology.&lt;/p>
+&lt;p>At least in Spanish there are no resources for people who might want to learn how to code smart contracts with Plutus or Marlowe for example.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Multilingual platforms will allow non-English speakers to learn about Cardano and increase its adoption worldwide.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Increased adoption and community engagement of non-English speakers.&lt;/p>
+&lt;p>Increased amount of resources in a variety of languages.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for non-English speakers to build and grow the Cardano community in their local areas?&lt;/p>
+&lt;ul>
+&lt;li>Number of non-English speakers joining Cardano community&lt;/li>
+&lt;li>Number of courses translated to different languages, from programming to stakepool operation and so on.&lt;/li>
+&lt;li>A sense of community and conversations. Having people around to talk with.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: NFT Business models</title><link>/ko/catalyst/fund6/challenges/nft-business-models/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/nft-business-models/campaign-brief/</guid><description>
+&lt;p>What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26115">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26115/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Propose a means or way to drive business use cases on Cardano that have NFT usage as a core component and can act as an onramp to the Cardano ecosystem. This can include any business model based on NFTs. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.&lt;/p>
+&lt;p>This Challenge is about building recurring businesses that incorporate NFTs on the Cardano ecosystem. The more types of NFTs that are circulating on Cardano will increase the utility of Cardano and ADA.&lt;/p>
+&lt;h2 id="what-should-be-proposed">What should be proposed?&lt;/h2>
+&lt;p>Proposals should be framed towards specific use-cases, and the community will know of specific cases where NFTs can be used to solve various problems. Focusing on NFTs in general may be most productive, with a strong focus on business models that rely on NFTs as a core component of most transactions.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>NFTs have the potential to create businesses with recurring NFT use requirements which increase utilization of the Cardano blockchain.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Many high quality ideas will be proposed that can substantially grow Cardano&amp;rsquo;s user-base, network-utility, network-value &amp;amp; ADA circulation.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>The number of proposals that directly address NFT use cases in a quantifiable manner.&lt;/li>
+&lt;li>The quality of proposals measured by community interest and engagement.&lt;/li>
+&lt;li>Results of any Fund7 funded projects significantly impacting NFT utility on the Cardano blockchain.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/NFT-Business-models/352815-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/334524-48088">Fund4 Challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Partnerships for Global Adoption</title><link>/ko/catalyst/fund6/challenges/partnerships-for-adoption/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/partnerships-for-adoption/campaign-brief/</guid><description>
+&lt;p>ow can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$30,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26114">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Partnership protocols aim to support nation building and support sustainable development goals by providing blockchain solutions to local governments and populations. Cardano´s work would be part of wider development projects undertaking. Proposers to provide a partnership framework model for each of the international bodies in question for Cardano Foundation further implementation.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Collaboration with International bodies working in the developing world will accelerate mass adoption for Cardano´s blockchain solutions.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Establishment of Local Community Centers in 130 countries backed by Cardano Foundation working in synergy with international bodies&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>10 proposals put forward for voting&lt;/li>
+&lt;li>Partnerships formalized with in 3 months by Cardano Foundation&lt;/li>
+&lt;li>Local Community Centers established with in 6 months&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Proposer outreach</title><link>/ko/catalyst/fund6/challenges/proposer-outreach/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/proposer-outreach/campaign-brief/</guid><description>
+&lt;p>How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26105">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Outside proposers will inject vitality and diversity to the community while increasing the overall quality of proposals.&lt;/p>
+&lt;p>Cardano has ambitious plans to reach 1 billion people. To make this goal a reality, we must attract the brightest entrepreneurs from across the globe and encourage them to submit ideas which will have a positive impact on the ecosystem. The best ideas will be funded, providing entrepreneurs with a more democratized route to capital and ensuring that location is not a barrier to entry.&lt;/p>
+&lt;p>We must increase brand awareness of Catalyst amongst the entrepreneur community, via multi platform proposer outreach campaigns. From content creation to media coverage, hackathons and live events - we want the community to submit their ideas that will attract and engage this audience.&lt;/p>
+&lt;h2 id="how-success-looks-like">How success looks like&lt;/h2>
+&lt;p>Bright entrepreneurs, and specialized firms from across the globe learn about Catalyst and submit high impact proposals.&lt;/p>
+&lt;h2 id="key-metric-to-measure">Key metric to measure&lt;/h2>
+&lt;p>To assess ROI of this challenge we will ask ourselves:&lt;/p>
+&lt;p>Did we get proposals from outside our ecosystem?&lt;/p>
+&lt;ul>
+&lt;li>Media coverage&lt;/li>
+&lt;li>Ideas submitted from new members of the community.&lt;/li>
+&lt;li>Community advisor rating of top 10% of &amp;ldquo;outsider&amp;rdquo; proposals&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25943">Fund 5: Proposer Outreach&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25871">Fund 4: Proposer Outreach&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Scale-UP Cardano's Community Hubs</title><link>/ko/catalyst/fund6/challenges/scaleup-community-hubs/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/scaleup-community-hubs/campaign-brief/</guid><description>
+&lt;p>How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26118">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26118/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Out of the world&amp;rsquo;s approximately 7.8 billion inhabitants, 6.45 billion do not speak English.&lt;/p>
+&lt;p>Living in the Western world, we forget this fact regularly, and many of us have never even considered it.&lt;/p>
+&lt;p>Let&amp;rsquo;s consider it now and start to build an ecosystem that is truly global, allowing everyone to participate to the best of their ability.&lt;/p>
+&lt;p>When you drive adoption at the ground level, you are doing more than just &amp;lsquo;building cool products&amp;rsquo;, you are empowering people to change their lives in ways they could have never imagined by themselves.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>How many new Hubs were launched in the next 6 months?&lt;/li>
+&lt;li>How many developers did this community-focused challenge bring into the Cardano ecosystem?&lt;/li>
+&lt;li>How many new users of Cardano were onboarded?&lt;/li>
+&lt;li>What was the total reach of the Hub&amp;rsquo;s initial marketing launch?&lt;/li>
+&lt;li>How many external organizations did this community-focused challenge bring into the Cardano ecosystem?&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25873">Fund4: Local Community Centers&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Scale-UP Cardano's DeFi Ecosystem</title><link>/ko/catalyst/fund6/challenges/scaleup-defi/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ko/catalyst/fund6/challenges/scaleup-defi/campaign-brief/</guid><description>
+&lt;p>How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?&lt;/p>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26109">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26109/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Currently the vast majority of DeFi dapps and currency flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it. benefit from this, the unbanked.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it important?&lt;/h2>
+&lt;p>It&amp;rsquo;s important b/c Defi dApps provide trustless on-demand access to financial services for global users w/ Total Value Locked ~$25billion&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>A competitive environment for DeFi on Cardano with an emphasis on cross-collaboration &amp;amp; driving composability across protocols.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>How many DeFi protocols were launched on Cardano mainnet within 6 months from this DeFi focused community challenge?&lt;/li>
+&lt;li>How many daily active users are the DeFi protocols funded in this cohort attracting?&lt;/li>
+&lt;li>How much Total Value Locked (TVL) are the funded DeFi protocols able to capture 1 month post launch on Cardano mainnet? (measure again at 3 months, 6 months and 1 year post-implementation to glean complete insights on proposal challenge effectiveness)&lt;/li>
+&lt;li>How many DeFi developers did this community focused challenge bring into the Cardano ecosystem?&lt;/li>
+&lt;li>How many FinTech/DeFi development firms did this community focused challenge bring into the Cardano ecosystem?&lt;/li>
+&lt;/ul>
+&lt;h2 id="prior-challenges">Prior Challenges&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25948">Fund5: Scale-UP Cardano&amp;rsquo;s DeFi Ecosystem&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-DeFi-Ecosystem/333399-48088">Original challenge setting proposal&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>

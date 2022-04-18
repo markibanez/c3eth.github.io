@@ -1,0 +1,864 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Catalyst Eastern Town Hall – Fund 7 Challenges</title><link>/catalyst/fund7/challenges/</link><description>Recent content in Fund 7 Challenges on Catalyst Eastern Town Hall</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/catalyst/fund7/challenges/index.xml" rel="self" type="application/rss+xml"/><item><title>Catalyst: Catalyst Accelerator &amp; Mentors</title><link>/catalyst/fund7/challenges/catalyst-accelerator-mentors/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/catalyst-accelerator-mentors/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26255">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26255/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Startup innovation and co-creation is the lifeblood of Cardano. Many early stage ventures are now launching into the Cardano ecosystem and Catalyst wants to fuel many pioneering successes.&lt;/p>
+&lt;p>More needs to be done to accelerate best of breed Catalyst-funded projects by providing pathways into professional business support, investment, and mentoring programmes.&lt;/p>
+&lt;p>This is important to Catalyst because great ideas need to be nurtured and small teams need access to timely expertise and tools beyond those that they have in-house.&lt;/p>
+&lt;p>This challenge seeks professional-grade Accelerator programmes and Business Incubators to step up, co-develop, and deliver venture building programmes with Catalyst. The objective is to help catalyse early successes of Catalyst-funded projects and turn them into highly investable ventures. This helps projects funded by the community to get a fast track to resources and expertise that will help teams build invaluable know-how and strategy by plugging gaps in their current capabilities.&lt;/p>
+&lt;p>Key to this challenge is the alignment of the proposal to the challenge? And how will success be measured during the scope of the project and beyond?&lt;/p>
+&lt;p>Proposers should give strong consideration to providing evidence of their experience and history of success and also provide Catalyst voters and reviewers supporting information about the project&amp;rsquo;s operational approach to delivering the objectives previously stated. The more detail the better.&lt;/p>
+&lt;p>We anticipate that a number of proposals that address this challenge will be funded in Fund 7 and we hope the community takes a portfolio approach to select projects from different parts of the world or a variety of themes relevant to the adoption of Cardano-based projects and the Cardano ecosystem as a whole.&lt;/p>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>Knowledge is power and enabling project&amp;rsquo;s to tap into to a distributed network of professional mentors and supporters will enable ventures to grow stronger and faster. Catalyst wants organizations and groups who have a track record of business incubation and acceleration to apply.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;ul>
+&lt;li>Access to financial, human, and intellectual capital to fuel the success of Catalyst-funded projects&lt;/li>
+&lt;li>Programmes that share in the spirit of co-creation, willing to collaborate with us at Catalyst, Cardano stakeholders, and the Catalyst cohorts.&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Number of projects that can be accelerated in the scope of the funding&lt;/li>
+&lt;li>Number of mentors and investors that can be onboarded into the ecosystem&lt;/li>
+&lt;li>Distribution of programmes across the world to serve different audiences&lt;/li>
+&lt;li>Quality and strength of opportunities that each accelerator programme brings&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Catalyst Natives COTI: Pay with ADA Plug-in</title><link>/catalyst/fund7/challenges/catalyst-native-coti/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/catalyst-native-coti/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26256">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified">browse ideas&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>COTI has developed, together with a very productive and successful partnership with Cardano, a very user-friendly and scalable ADA payment solution for the community. As a result, different online merchants, from a small hotel in Europe to a big e-commerce website in Asia, can easily accept hundreds or thousands of ADA transactions when integrating ADA Pay into their site.&lt;/p>
+&lt;p>With Catalyst, we are offering an innovative technical challenge to our communities to allow a new and creative way for all small and medium enterprises currently using platforms, such as Shopify and WooCommerce, to readily accept ADA Payments with seamless integration by adding a plug-in into their site.&lt;/p>
+&lt;p>In a nutshell, ADA Pay currently provides the ability to send a separate payment request to each payment attempt, allowing merchants to effectively identify each client without requiring the customer&amp;rsquo;s identity before completing the order. In other words, companies integrating ADA Pay enjoy the ability to send a unique address to a potential customer and be notified at every stage of the payment process via Webhook. Moreover, by registering the payment request on the client&amp;rsquo;s backend, merchants can know who pays for what without disclosing the client&amp;rsquo;s information to a third party.&lt;/p>
+&lt;p>The teams proceeding with the challenge will be provided with an API Key to the ADA Pay system and complete API documentation of the payment solution. The API Key will allow you to receive and send payments with ADA over the Cardano testnet. The API documentation also includes endpoints to create payment requests, withdraw your funds, and a webhook to notify you of any ongoing activity regarding the payment request.&lt;/p>
+&lt;p>With the tools described above, we expect from the teams involved in the challenge to create an innovative plug-in that will be integrated with our current ADA Pay system on the one hand and support all the different e-commerce software mentioned above (Shopify and WooCommerce) on the other.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>At the end of this challenge, we will be asking ourselves: Do we have a simple, flawless, and easy-to-integrate ADA Pay plug-in solution ready to be integrated into different e-commerce platforms?&lt;/p>
+&lt;p>Is the UI and payment flow of the plug-in user-friendly? For example, is the process smooth from when customers add items into their cart until the transaction is complete?&lt;/p>
+&lt;p>Be creative; the fewer clicks needed to complete a transaction, the better.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Total amount of e-commerce platforms that can be integrated into the new component.&lt;/li>
+&lt;li>Ratio of total transaction attempts and transactions completed, measuring the effectiveness of the payment flow proposed.&lt;/li>
+&lt;li>Scalability of the plug-in without compromising the quality of the service.&lt;/li>
+&lt;li>Number of merchants that can be integrated with the plug-in.&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding Questions:&lt;/h2>
+&lt;p>We would like you to consider the following and provide rationales about the planned approach in your proposals.&lt;/p>
+&lt;ul>
+&lt;li>How will you test the plug-in&amp;rsquo;s quality, and how easy is it to implement it into the software platforms?&lt;/li>
+&lt;li>Is the plug-in able to process big amounts of transactions per second from different websites without problems?&lt;/li>
+&lt;li>How do you intend to design for the user&amp;rsquo;s needs and incorporate Merchant&amp;rsquo;s feedback regarding the plug-in performance?&lt;/li>
+&lt;/ul>
+&lt;h2 id="funding-parameters">Funding Parameters&lt;/h2>
+&lt;p>COTI are providing the funding for all challenge rewards.&lt;/p>
+&lt;p>Proposers: Successful proposers will be funded in COTI token. Please be aware that you are responsible for providing a valid ERC20 address that can receive COTI tokens. When applying, please specify in the address field of the proposal submission your ERC20 compatible address.&lt;/p>
+&lt;p>Community advisors: You will receive COTI for the eligible VCA and CA rewards and will be sent to your nominated ERC20 wallet address.&lt;/p>
+&lt;p>Referrers: You will receive COTI for the eligible referral rewards that will be sent to your nominated ERC20 wallet address. 1% of the COTI challenge fund will be shared between eligible referrers.&lt;/p></description></item><item><title>Catalyst: A.I. &amp; SingularityNet a $5T market</title><link>/catalyst/fund7/challenges/ai-singularitynet/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/ai-singularitynet/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26247">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-AI-SingularityNet">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Artificial Intelligence will be a driving force this century. It will be at least as big as cryptocurrencies and blockchains.&lt;/p>
+&lt;p>The Singularity community has put their trust in Cardano by voting overwhelmingly to risk the value of their AGI tokens by issuing new AGI tokens based on Cardano and moving swiftly from Ethereum to Cardano. We can reward that trust and recognize the risk they took by dedicating a community challenge to them and their field of endeavor.&lt;/p>
+&lt;p>The speed and efficiency of Cardano combined with the possibilities of SingularityNet will make a great partnership that sets both communities apart from other cryptocurrencies/tokens and drives enormous growth and value.&lt;/p>
+&lt;p>&lt;em>Also… I want a world for my kids and community where Artificial Intelligence&amp;rsquo;s goals are as beneficial and ethical as Cardano&amp;rsquo;s&lt;/em>&lt;/p>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>The SingularityNet/Cardano partnership can make a beneficial powerhouse that drives this century&amp;rsquo;s innovations in Artificial Intelligence&lt;/p>
+&lt;h2 id="marketplacenews">Marketplace/News&lt;/h2>
+&lt;p>some facts:&lt;/p>
+&lt;h3 id="microsoft">Microsoft&lt;/h3>
+&lt;ul>
+&lt;li>Is acquiring Nuance for $19.7 Billion - to deliver new cloud and AI capabilities across healthcare and other industries&lt;/li>
+&lt;/ul>
+&lt;h3 id="mckinsey-estimates-ai-techniques-have-the-potential-to">&lt;strong>McKinsey&lt;/strong> estimates AI techniques have the potential to:&lt;/h3>
+&lt;ul>
+&lt;li>Create between $3.5T and $5.8T in value annually across nine business functions in 19 industries.&lt;/li>
+&lt;li>$2.6T additional value in Marketing and Sales&lt;/li>
+&lt;li>$2T in Supply Chain Management and Manufacturing.&lt;/li>
+&lt;li>$200B in value to Pricing &amp;amp; Promotion&lt;/li>
+&lt;li>$100B to Customer Service Management in Retail.&lt;/li>
+&lt;li>Have an 11.6% impact on Travel industry revenues&lt;/li>
+&lt;li>Have a 10.2% impact on High Tech.&lt;/li>
+&lt;li>In 69% of the use cases in the study, AI and deep neural networks improved performance beyond what existing analytic techniques were able to deliver&lt;/li>
+&lt;/ul>
+&lt;h3 id="singularitynet-was-born-from-a-collective-will-to-distribute-the-power-of-ai">&lt;strong>SingularityNET&lt;/strong> was born from a collective will to distribute the power of AI.&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>A full-stack AI solution powered by a decentralized protocol&lt;/strong> and the first and only decentralized platform allowing AIs to cooperate and coordinate at scale, removing one of the major limiting factors to AI growth today — the lack of interoperability — which severely restricts the ability to leverage the strengths and capabilities of individual AIs.
+-&lt;strong>Enables anyone to take advantage of a global network of AI algorithms, services, and agent.&lt;/strong> No longer must AI technology exist in silos, only capable of operating within a specific company, infrastructure, or industry.&lt;/li>
+&lt;li>&lt;strong>Sophia&lt;/strong>, the world&amp;rsquo;s most expressive robot, is one of our first use cases.&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;ul>
+&lt;li>SingularityNet teams and individuals arrive on Catalyst enthused by the possibilities for proposals and funding.&lt;/li>
+&lt;li>Catalyst users get exposed to SingularityNet&amp;rsquo;s technologies and get excited by the ways they could be used.&lt;/li>
+&lt;li>Great collaborations happen before, during and after the challenge.&lt;/li>
+&lt;li>The challenge is looked back on as part of the beginning of a great partnership between two crypto communities.&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding Questions&lt;/h2>
+&lt;ul>
+&lt;li>What do SingularityNet&amp;rsquo;s technologies make possible?&lt;/li>
+&lt;li>How and where can AI + Cardano benefit society?&lt;/li>
+&lt;/ul>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>AI improvements to help project Catalyst scale to many times its current size&lt;/li>
+&lt;li>AI projects that fire the community&amp;rsquo;s imagination and enthusiasm&lt;/li>
+&lt;li>Knowledge base &amp;amp; Documentation&lt;/li>
+&lt;li>Samples, recipes and templates&lt;/li>
+&lt;li>Hackathons&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Return on intention&lt;/li>
+&lt;li>Number of proposals submitted&lt;/li>
+&lt;li>Number of proposals with teams composed of both Cardano and SingularityNet community members&lt;/li>
+&lt;li>Number of proposals with new and innovative solutions&lt;/li>
+&lt;li>Number of proposals with ongoing development envisioned&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Accelerate Decentralized Identity</title><link>/catalyst/fund7/challenges/accelerate-decentralized-id/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/accelerate-decentralized-id/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$425,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26254">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26254/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Our challenge is an evolution of the mass decentralized identity (DID) adoption challenge from Funding Round 6, connecting everything we are learning with the first Atala PRISM Pioneer Program cohort.&lt;/p>
+&lt;p>The second cohort of the Atala PRISM Pioneer Program will kick off once Catalyst Fund 7 is complete. Between now and then, any member of the Catalyst Community inspired to write a proposal will get access to the Atala PRISM Pioneer Program first cohort course materials on Canvas. Please submit your proposal on Ideascale, including your email address, to get an invitation to Canvas.&lt;/p>
+&lt;p>With this access, you&amp;rsquo;ll join the growing Atala PRISM community. Our Atala PRISM product team and engineers will be available via a dedicated Discord channel. Inclusion in our Professional Services Group governance framework foundry. Access to fireside chats with the top leaders in the SSI space, where we&amp;rsquo;ll discuss trends, use cases, and much more. In addition, we will support the growth of high-value credentials and enable partners from concept, to development, to commercialization.&lt;/p>
+&lt;h3 id="areas-of-focus">&lt;strong>Areas of focus&lt;/strong>&lt;/h3>
+&lt;h5 id="interoperability">&lt;strong>Interoperability&lt;/strong>&lt;/h5>
+&lt;p>Most digital credentials sit on Hyperledger Indy ledgers, including those issued by governments in Germany, Canada, and the UK.&lt;/p>
+&lt;p>The best-performing platform will gain the largest market share. For many reasons, we believe our platform is superior. Therefore, Cardano and Atala PRISM must include a plan to interact with these other ecosystems to maximize market share.&lt;/p>
+&lt;p>We encourage Catalyst proposals to achieve full interoperability. Deliverables should optimize the user experience (UX) for Atala PRISM credentials while remaining compatible with other platforms.&lt;/p>
+&lt;h5 id="self-governance-of-emergent-communities">&lt;strong>Self-governance of Emergent Communities&lt;/strong>&lt;/h5>
+&lt;h5 id="dao-governance-in-practice">DAO Governance in Practice&lt;/h5>
+&lt;p>New legislation in Wyoming allows for a decentralized autonomous organization (DAO) to be registered with the state. We challenge the community to establish a DAO under the new laws. It could manage an impact or development goal with shared common resources governed by the DAO.&lt;/p>
+&lt;p>We are curious to see if our community proposes a DAO. With a funded proposal, we could facilitate introductions to legal experts in Wyoming.&lt;/p>
+&lt;p>The proposal should consider setting aside funds for legal expenses to establish the DAO and legal documentation.&lt;/p>
+&lt;h5 id="patterns-of-commoning">Patterns of Commoning&lt;/h5>
+&lt;p>We draw inspiration from the work of the &lt;a href="https://wiki.trustoverip.org/display/HOME/YOMA+Ecosystem+Task+Force">Trust Over IP Foundation&lt;/a> and the principles from &amp;lsquo;Patterns of Commoning.&amp;rsquo; We see the potential for innovation by linking communities with shared interests under these principles.&lt;/p>
+&lt;p>How can these principles become plug-and-play code as technological primitives that other communities can leverage and unlock exponential growth and adoption?&lt;/p>
+&lt;p>We are interested in exploring a rich playground of ideas and bringing these to real-world implementations on Cardano and Atala PRISM.&lt;/p>
+&lt;h5 id="education-career-and-emergent-reputation-primitives">Education, Career, and Emergent Reputation Primitives&lt;/h5>
+&lt;p>Many of our Pioneer and Catalyst-funded projects support education and career programs. One of the defining characteristics of these approaches is the creation of alternatives to accredited education and career paths.&lt;/p>
+&lt;p>We need our community to think about developing technology and governance primitives to support any community that wants to establish new education and career paths by providing tools:&lt;/p>
+&lt;ul>
+&lt;li>For onboarding new experts and teachers&lt;/li>
+&lt;li>For people in the community to develop and grow&lt;/li>
+&lt;li>For maintaining a reputation as a skilled employee, laborer, consultant, mentor, teacher, etc.&lt;/li>
+&lt;/ul>
+&lt;p>When reputation standards change, we need ways to self-heal and self-monitor for bad actors, harmful actions, or bad outcomes.&lt;/p>
+&lt;h5 id="circular-supply-chain">&lt;strong>Circular Supply Chain&lt;/strong>&lt;/h5>
+&lt;p>The global supply chain focuses on creating a new economic infrastructure. The goal is replacing or integrating with legacy systems such as record-keeping, bills of lading, centrally managed systems of record, and distribution networks. Centralization has many challenges, the least of which is a lack of resilience in the global supply chain, as we have all seen and continue to experience in the COVID era.&lt;/p>
+&lt;p>Supply chains tend to start as decentralized. Markets and trade routes emerge from the bottom of the producer market and are aggregated into centralized supply chains, eventually working their way down to the consumer. We want to explore new patterns of commerce in bottom-up supply chains that could open and expand the local reputation network into markets that are currently inaccessible, such as:&lt;/p>
+&lt;ul>
+&lt;li>Regenerative agriculture&lt;/li>
+&lt;li>Locally produced art&lt;/li>
+&lt;li>Other forms of local commerce&lt;/li>
+&lt;/ul>
+&lt;p>On the other side, distribution or demand-driven commerce has the potential to build a market force from the bottom-up that can engage the industrial global supply chain in ways that are not possible without establishing the voice and economic strength of the community digitally.&lt;/p>
+&lt;p>For the supply chain challenge, we want to address two significant challenges:&lt;/p>
+&lt;h5 id="small-producer-problem">Small Producer Problem&lt;/h5>
+&lt;p>How can we create transparency as the bottom-up process meets the industrialized supply chains, cuts through the centralized distribution markets, and connects directly to the consumer?&lt;/p>
+&lt;p>For example, small producers like a family ranch in Wyoming have no way to get information about the value of their product through these global aggregation and distribution networks. Currently, a solution such as the &lt;a href="https://beefchain.com/">BeefChain project&lt;/a> is supporting small ranchers.&lt;/p>
+&lt;p>There are multiple issues to overcome. For example, packaging plants are the entry point to the aggregation, so there is little or no incentive to deal with the small producer. We want to address this problem by building general-purpose tooling to assist communities in self-organizing and self-governing production according to agreed standards. We propose that if these communities can connect and grow, they will either:&lt;/p>
+&lt;p>Reach the market through alternative distribution channels to industrial supply chains
+Be able to negotiate as a community for better terms to have the values of their products recognized, distributed, and sold with value intact commercially and reputationally.&lt;/p>
+&lt;h5 id="the-last-mile-problem">The Last-Mile Problem&lt;/h5>
+&lt;p>How can a local distributor in a local market interact with global industrial supply chains and be given access to the market that otherwise would be inaccessible due to a lack of economic identity or capital to access the goods at the scale required by industrial supply chains?&lt;/p>
+&lt;p>This challenge deals with distributing necessary products to local communities with little market clout or access to financial tools, such as credit, to interact with the industrial supply chain. We&amp;rsquo;re looking for bottom-up tooling to establish a network of communities. Delegates in those communities can access the finance and credit necessary to interact with the industrial supply chain at the economic scale required for transactions.&lt;/p>
+&lt;p>An example of this problem is delivering health care supplies to rural and developing countries and economies. The funds from donors, the government, and other sources are available for these medical supplies. The donors will only release the funds once delivery is verified, and the medical supply companies will only send the goods to port once payment is received.&lt;/p>
+&lt;p>However, local small businesses must maintain transparency and oversight of the goods during delivery and receiving. These businesses do not have the funds or the ability to borrow capital to cover medical supplies costs from the delivery at the port to the hospitals and clinics that need them.&lt;/p>
+&lt;p>Addressing the challenge of the financial gap is vital. We believe that there is enormous potential to create bottom-up networks of trusted individuals and small businesses to fill this gap.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>How individuals interact with their communities and the broader economy helps us understand which credentials improve their daily lives. By identifying these high-value, high-impact credentials, we can establish governance framework foundries for launching pilot programs and driving growth. Ultimately, this will cause further adoption of Cardano and Atala PRISM technology.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Discover repeatable patterns that unlock our ability to leverage the Cardano decentralized infrastructure. Identify high-value credentials and use cases. Once identified, we can form stakeholder governance framework working groups. These groups will allow us to foster the development of community, partner, and vendor ecosystems to launch into commercial and production environments.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>The sum of realized production pilots or launches in 2022&lt;/li>
+&lt;li>Discovery of repeatable patterns in use-cases&lt;/li>
+&lt;li>The number of issuers, holders, and verifiers&lt;/li>
+&lt;li>The number of verifications performed on credentials in production&lt;/li>
+&lt;/ul>
+&lt;h4 id="a-proposed-pattern-language-outline-example">&lt;strong>A Proposed Pattern Language Outline (example)&lt;/strong>&lt;/h4>
+&lt;h5 id="primitives">&lt;strong>Primitives&lt;/strong>&lt;/h5>
+&lt;ul>
+&lt;li>Digital Identity&lt;/li>
+&lt;li>Verifiable Credential (VC)&lt;/li>
+&lt;li>Verifiable Presentation Request&lt;/li>
+&lt;li>Verifiable Presentation Proof&lt;/li>
+&lt;li>Cryptocurrency&lt;/li>
+&lt;li>Non-fungible token (NFT)&lt;/li>
+&lt;li>Smart Contract&lt;/li>
+&lt;/ul>
+&lt;h5 id="patterns">&lt;strong>Patterns&lt;/strong>&lt;/h5>
+&lt;ul>
+&lt;li>Trust Registry&lt;/li>
+&lt;li>Governance Framework&lt;/li>
+&lt;li>Token Curated Registry&lt;/li>
+&lt;li>Community member recognition and onboarding process&lt;/li>
+&lt;li>Establishing Individual Reputation&lt;/li>
+&lt;li>Community as a whole group Interaction with an external party&lt;/li>
+&lt;li>Community member as an individual interaction with an external party&lt;/li>
+&lt;li>Community medium of exchange&lt;/li>
+&lt;li>Recognition of external Trust Registry&lt;/li>
+&lt;li>Recognition of external Governance Framework&lt;/li>
+&lt;li>Acceptance of Governance Framework by an external party&lt;/li>
+&lt;/ul>
+&lt;p>With that as background, we are suggesting proposals in the following three areas:&lt;/p>
+&lt;ol>
+&lt;li>Interoperability between Cardano and Indy anchored DIDs/VCs.&lt;/li>
+&lt;li>Self-governance of Emergent Communities&lt;/li>
+&lt;li>Circular Supply Chain&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Boosting Cardano's DeFi</title><link>/catalyst/fund7/challenges/boost-cardanos-defi/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/boost-cardanos-defi/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26233">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>The previous challenge(ScaleUP Cardano&amp;rsquo;s DeFi Ecosystem) demonstrated success and allowed popular DeFi projects such as Liqwid Finance, Minswap and ErgoDEX to be funded by the treasury, without the participation of venture capitals and with fair launch models, allowing sustainable distribution of the supply among the community/userbase.&lt;/p>
+&lt;p>The fact that ERGODEX&amp;rsquo;s proposal was the second best voted proposal in the Left-Over budget is an important indicator to demonstrate the competitiveness of the proposals presented in Fund5.&lt;/p>
+&lt;p>Currently, the vast majority of DeFi dapps and assets flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it, the unbanked.&lt;/p>
+&lt;p>Over the past year several DeFi projects have been moving to more scalable blockchains, such as Binance Smart Chain, Polkadot, Cosmos, Solana, among others. Second layer solutions are also being used as alternatives to Ethereum main chain, Polygon has been a great example.&lt;/p>
+&lt;p>In this migration and bridges creation scenario, some projects are turning to Cardano to create their DeFi projects.&lt;/p>
+&lt;p>Cardano is finally delivering smart contracts and that opens a door to a lot of innovation in DeFi. We can offer not only a scalable blockchain, but also a secure blockchain and aggregated governance layer in the near future. This set of characteristics place Cardano in a prominent place and with a good opportunity to gain market share and expand the user base.&lt;/p>
+&lt;p>With Catalyst, we have the opportunity to fund DeFi projects and allow them to have greater decentralization and resilience, which are essential aspects for DeFi projects. Many projects end up accepting the participation of Venture Capitals due to lack of financial resources. The participation of VCs in DeFi projects usually ends up causing a large part of the supply distribution to be alocated to VCs and this compromises the decentralization and consequently the security of these projects.&lt;/p>
+&lt;p>The DeFi ecosystem today is taken over by projects full of vulnerabilities, hacks are constant, economic models are copied from other projects, decentralization is no longer a priority and few projects are dedicated to create economic models/bonding curves/algorithms thinking about the users&amp;rsquo; needs.&lt;/p>
+&lt;p>It has become clear over the year that bugs, hacks and vulnerabilities are not unique to smart contracts on Ethereum. Dapps running on Binance Smart Chain and Cosmos suffered from vulnerabilities as well.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains">Hackers stole at least $600M in Poly exploit across three chains&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix">Thorchain suffers $5 million exploit, developers have put out a fix&lt;/a>&lt;/p>
+&lt;p>Cardano arrives to change this paradigm and bring security to users.&lt;/p>
+&lt;p>Privacy and resistance to censorship are also important but often overlooked in favor of subsidizing (yield farming). How to encourage DeFi projects to seek resilience, safety, research-based economic models and critical thinking?&lt;/p>
+&lt;h2 id="potential-directions">Potential Directions&lt;/h2>
+&lt;ul>
+&lt;li>DEXs&lt;/li>
+&lt;li>Oracles&lt;/li>
+&lt;li>Algorithmic stable coins&lt;/li>
+&lt;li>Borrowing/Lending dapps&lt;/li>
+&lt;li>Derivatives&lt;/li>
+&lt;li>Research for open source new financial models (bonding curves)&lt;/li>
+&lt;/ul>
+&lt;h2 id="rational-for-budget-distrobution">Rational For Budget Distrobution&lt;/h2>
+&lt;p>To encourage greater diversity of funded teams and proposals each team can request up to 20% of the total $500,000 USD budget or $100,000 USD.&lt;/p>
+&lt;p>E.g.
+- Team A with 2 proposals of $50,000 USD
+- Team B with 1 proposal of $100,000 USD
+- Team C with 1 proposal of $80,000 USD + 1 proposal of $20,000 US&lt;/p>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>It&amp;rsquo;s important because Defi dApps provide trustless on-demand access to financial services for global users&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>A competitive environment for DeFi on Cardano with an emphasis on cross-collaboration &amp;amp; driving composability across protocols.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>How many DeFi dapps were launched on Cardano mainnet within 3, 6 and 12 months after funding.&lt;/li>
+&lt;li>How long does each dapp take to be launched.&lt;/li>
+&lt;li>How many daily active users are the DeFi dapps funded in this cohort attracting.&lt;/li>
+&lt;li>How much Total Value Locked (TVL) are the funded DeFi dapps able to capture 3, 6 and 12 months after launch.&lt;/li>
+&lt;li>Number of bugs and vulnerabilities found in each dapp.&lt;/li>
+&lt;li>Amount of resources lost due to bugs or vulnerabilities.&lt;/li>
+&lt;li>Number of users participating in testnets.&lt;/li>
+&lt;li>Number of token holders/unique wallets(when dapp has a token).&lt;/li>
+&lt;li>Distribution of supply between the team and the community.&lt;/li>
+&lt;li>Numbers of listed pairs (in case of DEXs).&lt;/li>
+&lt;li>Number of listed assets (cases of loan+lending dapps, derivatives and synthetic assets).&lt;/li>
+&lt;li>Number of articles and open source financial models research delivered to the community.&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Catalyst - Rapid Funding Mechanisms</title><link>/catalyst/fund7/challenges/catalyst-rapid-funding/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/catalyst-rapid-funding/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26236">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Increasing the speed of funding is critically important to allow important projects to move rapidly from volunteers to paid professionals. While volunteerism is strong in our community (and a strength), the ability to pay people for their time will accelerate and dramatically improve the time and energy people will be able to devote to Catalyst.&lt;/p>
+&lt;p>We need to explore alternative ways of scaling how we fairly distribute the treasury to grow the Cardano ecosystem. We should be willing to experiment and try different models in parallel and compare and contrast them. Paramount to our success is scaling how our community functions and decides on fair and just allocation of our treasury, measuring its impact, and continuously evolving and improving.&lt;/p>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>Catalyst relies on continuous work by the community to progress and grow, rapid funding can support a wider array of work and personal needs&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Implemented rapid Catalyst funding mechanisms that provide sustainable economic value to proposers within Project Catalyst guidelines.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Are submitted solutions of funding mechanisms faster than Catalyst?&lt;/li>
+&lt;li>How Scalable is this proposal? How would it scale to 10x? 100x? 1000x? More?&lt;/li>
+&lt;li>How Transparent is this proposal? Is it open, auditable, and enables transparency of decisions, funding, and results?&lt;/li>
+&lt;li>How Accountable is this proposal? What is the reporting requirement? Are funds disbursed over time based on performance?&lt;/li>
+&lt;li>How impactful is this proposal? Are disbursed funds creating net positive results? Does this proposal see a greater return on intent compared to Catalyst?&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Community Events</title><link>/catalyst/fund7/challenges/community-events/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/community-events/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26234">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26234/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Community-Events">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/community-events">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>There are already many community-driven events taking place in the wider Catalyst community and this challenge will ensure that these efforts remain sustainable. Since most of the fund distribution for Fund 7 is decided by the community, we as a community have to create this challenge for ourselves.&lt;/p>
+&lt;p>These events are important and critical for the success of Catalyst because they are bringing the community together and they introduce and onboard new people to our ecosystem. Furthermore the community has used these sessions for collaborative problems sensing and also new teams and initiatives were established. Overall, community events give our community its face and personal touch.&lt;/p>
+&lt;h2 id="guiding-questions">Guiding Questions&lt;/h2>
+&lt;ul>
+&lt;li>How can we increase meaningful participation in Project Catalyst among all stakeholders?&lt;/li>
+&lt;li>How can we increase voter-proposer interaction?&lt;/li>
+&lt;li>How can we onboard and integrate new people into Project Catalyst?&lt;/li>
+&lt;li>How can we use events to build new teams?&lt;/li>
+&lt;li>How can workshops increase collaboration in Project Catalyst?&lt;/li>
+&lt;li>How can active participation in events be increased?&lt;/li>
+&lt;li>How can the number of participants in events be increased?
+-How can events help keep the community together?&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>Community-driven projects like Catalyst need organized events to connect, discuss ideas, solve problems together and initiate collaboration.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>A diverse community characterized by high engagement, collaborative problem sensing and strong execution teams.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>Increase active participation in Project Catalyst among all stakeholders:&lt;/p>
+&lt;h3 id="proposers">Proposers&lt;/h3>
+&lt;ul>
+&lt;li>Number of proposals&lt;/li>
+&lt;li>Quality of proposals (CA rating)&lt;/li>
+&lt;li>Number of successfully implemented proposals&lt;/li>
+&lt;/ul>
+&lt;h3 id="voters">Voters&lt;/h3>
+&lt;ul>
+&lt;li>Number of registered wallets&lt;/li>
+&lt;li>Amount of registered ADA&lt;/li>
+&lt;li>Number of votes&lt;/li>
+&lt;/ul>
+&lt;h3 id="community-advisors">Community Advisors&lt;/h3>
+&lt;ul>
+&lt;li>Number of active CAs/vCAs&lt;/li>
+&lt;li>Number of assessments&lt;/li>
+&lt;li>Number of high quality assessments&lt;/li>
+&lt;/ul>
+&lt;h3 id="increase-active-participation-in-community-events">Increase active participation in community events:&lt;/h3>
+&lt;ul>
+&lt;li>Number of community events&lt;/li>
+&lt;li>Number of participants&lt;/li>
+&lt;li>Diversity of participants&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Connecting Japan/日本 Community</title><link>/catalyst/fund7/challenges/connect-japan-community/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/connect-japan-community/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$50,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26238">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26238/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Connecting-Japan-Community">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>The goal of this challenge is to find ways to further engage the Japanese community and to help create ways for the Japanese and English speaking community to connect. Proposers are encouraged to propose in Japanese and the Challenge team will help promote the CA role in the Eastern Town hall or equivalent event.&lt;/p>
+&lt;p>The budget is set to 50k because the Challenge focuses only on a specific part of the community. There are also projects from Japan which have a broad application and will fit in other challenges. Considering the focus is on community building the budget should be enough to support 2-6 meaningful efforts.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>There has been an interest in Cardano in Japan from the start and the country has had a progressive stance towards blockchain technology. This makes Japan a likely country to adopt solutions built on top of Cardano. There are already some active community members and SPO&amp;rsquo;s but participation in Catalyst is still relatively low.&lt;/p>
+&lt;p>Recently an Eastern Town Hall was started by community members and participation in the Japanese breakout room has been among the highest consistently. In the fund 6 challenges there are several proposals coming from the Japanese community as well. With the current momentum a challenge in fund 7 would likely see good participation and can solidify the community.&lt;/p>
+&lt;p>At the moment most of Ideascale &amp;amp; Catalyst operates in english. This creates a barrier for all non-english communities. If solutions from this challenge prove successful in bridging that gap, they can function as an example for other communities.&lt;/p>
+&lt;h2 id="possible-directions">Possible directions:&lt;/h2>
+&lt;ul>
+&lt;li>Translating key documentation&lt;/li>
+&lt;li>Creating educational content about Cardano &amp;amp; Catalyst in Japanese&lt;/li>
+&lt;li>Organising interpreters for Catalyst events&lt;/li>
+&lt;li>Organising workshops for new members, CA&amp;rsquo;s, SPO&amp;rsquo;s, proposers&lt;/li>
+&lt;li>Setting up community hubs&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: DAOs ❤ Cardano</title><link>/catalyst/fund7/challenges/daos-love-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/daos-love-cardano/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26237">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Currently if a DAO (even one that is aimed to build products and services around Cardano) wants to setup their DAO infrastructure, the current options are all based on, mostly, the Ethereum blockchain.&lt;/p>
+&lt;p>These dApps range from basic Treasury management, to Decision making in DAOs and even supporting services like Decentralized Justice. Some of them are:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://aragon.org">https://aragon.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://daostack.io">https://daostack.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colony.io">https://colony.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.molochdao.com">https://www.molochdao.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://abridged.io">https://abridged.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kleros.io">https://kleros.io&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cardano-needs">Cardano needs:&lt;/h3>
+&lt;ol>
+&lt;li>Similar tools to offer competitive alternative to other chains.&lt;/li>
+&lt;li>Additional not yet existing tools to put the blockchain in an advantage when new DAOs needs to evaluate which chain to use for their platforms.&lt;/li>
+&lt;/ol>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>Blockchain applications have moved from trading to DeFi, to NFT. DAOs is what follows. Cardano needs to be ready for when that happens.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>There are more and better solutions to manage your DAO with Cardano than with any other blockchain.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Amount of ADA coming from DAOs transaction fees after the solutions on this challenge get implemented (&amp;gt; than the challenge&amp;rsquo;s allocated fund amount)&lt;/li>
+&lt;li>Number of DAOs that use Cardano as governance/management chain in 6 months.&lt;/li>
+&lt;li>Number of DAO toolset/frameworks available for DAO Ops (&amp;gt;1).&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: DApps - Integrations</title><link>/catalyst/fund7/challenges/dapps-intergration/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/dapps-intergration/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://github.com/Catalyst-Challenges/F7-DApps-and-Integrations">Campaign page&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/dapps-and-integrations">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Quality Dapps and integrations will increase utility &amp;amp; adoption of Cardano.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?&lt;/p>
+&lt;p>Let an &amp;ldquo;application output&amp;rdquo; and an &amp;ldquo;application transaction&amp;rdquo; be an outputs and transactions that use the applications&amp;rsquo; script addresses; and an &amp;ldquo;application token&amp;rdquo; be a token that&amp;rsquo;s issued by the application.&lt;/p>
+&lt;h3 id="usage-of-applications-developed-during-the-challenge">Usage of applications developed during the challenge:&lt;/h3>
+&lt;ul>
+&lt;li>Number/growth of application output&lt;/li>
+&lt;li>Number/growth of application transactions&lt;/li>
+&lt;li>Total volume of Ada involved in application transactions&lt;/li>
+&lt;li>Total/growth of resource usage by applications&lt;/li>
+&lt;li>Number/growth of distinct addresses mentioned in application transactions&lt;/li>
+&lt;/ul>
+&lt;p>If the application uses tokens:&lt;/p>
+&lt;ol>
+&lt;li>Number/growth of application tokens&lt;/li>
+&lt;li>Number/growth of distinct addresses holding application tokens&lt;/li>
+&lt;/ol>
+&lt;h3 id="viability-of-applications-developed-during-the-challenge">Viability of applications developed during the challenge:&lt;/h3>
+&lt;ul>
+&lt;li>How many of the applications are still being developed at the end of 2021?&lt;/li>
+&lt;li>How many of the applications made a profit for their creators?&lt;/li>
+&lt;li>How many of the teams which built the applications grew during 2021?&lt;/li>
+&lt;li>How many of the teams which built the applications built (or plan to build) another application?&lt;/li>
+&lt;/ul>
+&lt;h2 id="guiding-questions">Guiding questions&lt;/h2>
+&lt;ul>
+&lt;li>What are the key applications that underpin the application ecosystem on other platforms?&lt;/li>
+&lt;li>What are the most profitable or most used applications on other ecosystems?&lt;/li>
+&lt;li>What needs do users of Cardano have that could be solved by new applications?&lt;/li>
+&lt;li>What applications deliver the highest amount of value with the least amount of technical sophistication?&lt;/li>
+&lt;/ul>
+&lt;h2 id="potential-directions">Potential directions&lt;/h2>
+&lt;ul>
+&lt;li>Swaps, both simple and fancy variants (multi-party etc.)&lt;/li>
+&lt;li>Escrow, both simple and fancy variants&lt;/li>
+&lt;li>Integrations with existing products&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Disarm cyber disinformation attacks</title><link>/catalyst/fund7/challenges/disarm-cyber-disinfo-attacks/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/disarm-cyber-disinfo-attacks/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26239">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26239/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Disarm-cyber-disinformation-attacks">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/disarm-cyber-disinformation-attacks">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>In a proof of stake system with distributed governance a common understanding of truth and reliance on authentic sources of correct and provable information can be crucial for avoiding a splitting of the community into two or more feuding camps.&lt;/p>
+&lt;p>A distributed denial-of-truth (DDoT) attack could be defined as a malicious attempt to disrupt the normal operations of a community, service or network by overwhelming the target, its surrounding infrastructure and community with a flood of disinformation and malinformation.&lt;/p>
+&lt;p>Disinformation is fabricated or deliberately manipulated audio/visual/text content, intentionally created conspiracy theories or rumors or to sow mistrust. With disinformation the bad information is spread with the intent to deceive.&lt;/p>
+&lt;p>Malinformation is the deliberate publication of information for personal or corporate rather than public interest. Deliberate change of context, date or time of genuine content.&lt;/p>
+&lt;p>These DDoT attack scenarios may emerge as a combined outside/inside attack and spread faster in fiercely tribal communities, such as a cryptocurrency community. A DDoT attack might overwhelm a system with false information, leading to a plunge in confidence / community split.&lt;/p>
+&lt;p>&amp;ldquo;Right now everybody is implicitly assuming that the only possible victim is an election,&amp;rdquo; says David Perlman, a former Twitter Inc. data scientist who is now developing ways for corporations to counter disinformation at the computer security company Leviathan Security Group Inc. &amp;ldquo;There&amp;rsquo;s no reason that a company couldn&amp;rsquo;t be a victim,&amp;rdquo; he says.*&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.wsj.com/articles/brands-face-a-new-online-threat-disinformation-attacks-11602187365">Brands Face a New Online Threat: Disinformation Attacks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>A bad faith player may secretly prepare for this scenario out of particular interests that are not publicly visible initially. This can be done with the help of some major holders/exchanges/rival coins/investors and/or media personalities.&lt;/p>
+&lt;p>We are all aware how a single person (Elon Musk) is already able to move crypto markets, while a handful of prominent Cardano personas with outside support might be able to do the same.&lt;/p>
+&lt;p>Proposers in this challenge would focus on improving the transparency of all segments of Cardano treasury monetary transfers and make &amp;ldquo;beginner-friendly&amp;rdquo; tutorials on how to monitor financial events from the very inception of Cardano and its main founding entities.&lt;/p>
+&lt;p>Proposers would also focus on shining a powerful light on old and new attempts to game the system, further scams, fleece users, sow distrust, spread lies and destabilize the community.&lt;/p>
+&lt;p>Many possible DDoT scenarios may evolve if the Cardano community is not proactively working to prevent them.&lt;/p>
+&lt;p>One invented - example DDoT scenario to illustrate how things can go wrong fast:&lt;/p>
+&lt;p>Example scenario involving bad faith: A former/current head or founder or leading researcher/manager of one of the three founding entities of Cardano issues an untrue statement questioning the legitimacy of efforts/intentions of another founding entity or possible financial shenanigans.&lt;/p>
+&lt;p>Several prominent community SPOs side with the accusing entity, as do several leading Youtube influencers and crypto media. Other side with the accused side. Some companies start distancing themselves.&lt;/p>
+&lt;p>Rumors circulate that one founding entity allegedly secretly siphoned funds and that has been done behind the scenes. Another rumor circulates that one of the Cardano entities has installed a backdoor and several SPOs announce they have reduced their pledges out of fear. Panic spreads. The allegations are amplified through social media.&lt;/p>
+&lt;p>Truth is hard to establish - references are made to talks and private discussions, public allegations are difficult to verify.&lt;/p>
+&lt;p>The general community has no way to verify the true merits of the claims - as they are undocumented. Two camps emerge. Cardano community splits along fault lines. This adds more fuel to the fire. ADA value plunges. The very sources of truth in the Cardano ecosystem come under question. The entire system teeters. A DDOT attack by a group of two dozen well organized distributed players is underway. Governance is rocked.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Legacy systems have been brought to the brink by the inability of stakeholders, participants and the public to agree on what is truth.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Truth about Cardano and ongoing and past events is easy to establish even for newcomers. Trust not being eroded. Transparency is enhanced.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Easier access to information about the Cardano treasury and its funds, treasury disbursement, past, current and future monetary policy&lt;/li>
+&lt;li>Historical transactions from the treasury and founding entities can be easily identified by any non-power user of Cardano with a couple of clicks&lt;/li>
+&lt;li>Treasury 101 information sources are established explaining the basics of how the Treasury works and how all Treasury-related facts can be verified independently - with how-to-guides&lt;/li>
+&lt;li>Repository of old/new scams, scam attempts, fake debunked theories and falsehoods can be easily checked and accessed&lt;/li>
+&lt;li>Community-managed websites expand to include more beginner-friendly content about Cardano Treasury, ADA inflation rate, future monetary policy ADA calculators&lt;/li>
+&lt;li>Community-managed websites expand to include historical and current content about different types of Cardano scams, bad-faith players, untruths and FUD spreading.&lt;/li>
+&lt;li>New sources and repositories of information are developed containing timelines for Cardano project, FAQs and criticisms of Cardano as well as answers to criticisms.&lt;/li>
+&lt;li>Better tools for searching and transcribing information from IOG&amp;rsquo;s Cardano 360 shows, Charles Hoskinson&amp;rsquo;s AMAs and from other leading community members are developed.&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Fund8 challenge setting</title><link>/catalyst/fund7/challenges/fund8-challenge-settting/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/fund8-challenge-settting/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$12,800,000 in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26257">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Community defined challenges are critical for Cardano community self-governance, and generate a unique way to achieve Cardano&amp;rsquo;s mission.&lt;/p>
+&lt;p>Challenge setting is different from other challenges as it&amp;rsquo;s about proposing new challenges, whether regular challenges are about proposing initiatives to address challenges.&lt;/p>
+&lt;p>Once a proposal is accepted by the community, the proposing team has an opportunity to receive a &amp;ldquo;Challenge team&amp;rdquo; incentive of $2,500 worth of ada, if the following conditions are met:&lt;/p>
+&lt;ul>
+&lt;li>The challenge team presents the challenge to the community at the start of the following fund.&lt;/li>
+&lt;li>The challenge team facilitates a challenge-focused breakout session in one of the after townhalls.&lt;/li>
+&lt;li>The challenge team leads a challenge retrospective session during the next fund&amp;rsquo;s &amp;ldquo;retrospective week&amp;rdquo;.&lt;/li>
+&lt;li>The challenge team facilitates a session with the proposing teams that received funding for the challenge.&lt;/li>
+&lt;/ul>
+&lt;p>The challenge team tracks the key metrics as reported by funded proposals, 3 months after receiving funding and presents their reflection on whether the Challenge is
+getting addressed and highlight teams that are making significant headway in their approach.&lt;/p>
+&lt;p>These activities might seem complicated, but you will receive guidelines, training and support from the Catalyst team and community. All you need is a willingness to represent the challenge in a fair and balanced way and a desire to participate. Once the conditions are met, your team will be eligible to receive the reward.&lt;/p>
+&lt;h2 id="guiding-questions">Guiding Questions&lt;/h2>
+&lt;ul>
+&lt;li>What challenges will engage the highest number of voters?&lt;/li>
+&lt;li>Which challenges, if addressed, will provide a springboard for Cardano adoption?&lt;/li>
+&lt;li>Which challenges, if addressed, will advance Cardano&amp;rsquo;s mission?&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>The community votes to include important and engaging challenges that inspire impactful and original proposals.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>To assess ROI of this challenge we will ask ourselves:&lt;/p>
+&lt;ul>
+&lt;li>How well did the selected challenges perform in terms of proposal quality and community engagement?&lt;/li>
+&lt;li>What is the average Community Advisor score for the top 10% proposed Challenges?&lt;/li>
+&lt;li>What is the average Community Advisor score for the top 10% proposals generated to address the challenge?&lt;/li>
+&lt;li>How much voter engagement did the challenge generate?&lt;/li>
+&lt;li>How many proposals in the challenge were approved by the community, compared to the overall budget of the challenge? (Challenge overage)&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Gamers On-Chained</title><link>/catalyst/fund7/challenges/gamers-on-chain/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/gamers-on-chain/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26241">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26241/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Gamers-On-Chained">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/gamers-on-chained">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>We need to increase brand awareness of Catalyst amongst the entrepreneur gaming community and propose a way for gamers to be onboarded into the Cardano ecosystem through the thing they love, gaming. These proposals can take the form of building out a Cardano based game, a dev tool or SDK for Cardano based game development, a blockchain layer that integrates with existing games, or anything else that prioritizes gamers or game developers as its end user.&lt;/p>
+&lt;p>There are 2.5 billion gamers out there. These gamers are looking for their route into crypto in a fun and rewarding way. Let&amp;rsquo;s provide them a library of games and integrations to choose from, solidifying Cardano as the go to blockchain for gaming.&lt;/p>
+&lt;p>Lets on-chain these gamers.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Gamers are ready to enter crypto. They just need a clear blockchain with enjoyable applications to engage on.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Cardano becomes the go to blockchain to develop gaming applications due to its quality tooling and wide gamer centric user base.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Total users of gaming based applications built on Cardano&lt;/li>
+&lt;li>Number of gaming based applications building/built on Cardano&lt;/li>
+&lt;li>Amount of value made by gamers in play-to-earn applications&lt;/li>
+&lt;li>Number of CNFTs made specifically for gaming&lt;/li>
+&lt;li>Number of fungible tokens made specifically for gaming&lt;/li>
+&lt;li>Number of gaming based content creators that have come to Cardano&lt;/li>
+&lt;li>Number of gaming tournaments hosted for Cardano native assets&lt;/li>
+&lt;li>Number of proposals submitted to this challenge&lt;/li>
+&lt;li>Amount of comments and kudos given to submitted proposals&lt;/li>
+&lt;li>Amount of ADA voted on proposals in this challenge&lt;/li>
+&lt;li>Amount of Wallets voted on proposals in this challenge&lt;/li>
+&lt;li>Amount and evolution of gaming based tokens and wallets&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Global Sustainable Indep. SPO's</title><link>/catalyst/fund7/challenges/glob-sus-inde-spos/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/glob-sus-inde-spos/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26246">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Security of the network relies on a decentralised pool of SPO&amp;rsquo;s to run it. Without proper support, smaller SPO&amp;rsquo;s will struggle against big players moving in and pushing them out untill they have a majority market share. If these organizations use the same hosting providers for all their infrastructure, this adds additional risk.&lt;/p>
+&lt;p>On the other hand, running nodes and participating in the network can be a great way for community initiatives to support their projects. By supporting and promoting smaller mission focussed SPO&amp;rsquo;s the security of the whole network benefits. Larger hosting providers are also notorious for caring little for their environmental footprint. By promoting SPO&amp;rsquo;s which run on sustainable energy sources we are achieving two goals: A lower ecological footprint of the Cardano network and a more distributed and secure network in terms of infrastructure used.&lt;/p>
+&lt;h2 id="guiding-questions">Guiding Questions:&lt;/h2>
+&lt;p>Regarding Single Stake Pool Operators, Stake Pools connected to community project &amp;amp; Stake Pools benefiting a public cause, which proposals would:&lt;/p>
+&lt;ul>
+&lt;li>Allow community funds to be used to support these stakepools through staking&lt;/li>
+&lt;li>Help ADA holders to make the right decisions when choosing a stakepool&lt;/li>
+&lt;li>Promote a decentralised and diverse distribution of stakepools across the globe&lt;/li>
+&lt;/ul>
+&lt;h2 id="possible-directions">Possible Directions:&lt;/h2>
+&lt;ul>
+&lt;li>Design models/smart contracts to use community funds to support stakepools by staking&lt;/li>
+&lt;li>Platform/organisation to help independent SPO&amp;rsquo;s promote and proof legitimacy&lt;/li>
+&lt;li>audit systems of SPO infrastructure/hosting&lt;/li>
+&lt;li>guide/tools for self-hosting/managing a stakepool&lt;/li>
+&lt;li>Develop topology models/protocols to encourage dispersed/decentralised hosting of pools&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>A globally distributed self-reliant network is the best defense against a number of major threats to the network&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>A diverse and healthy ecosystem of stake pool operators from around the globe collectively run the network on a multitude of infrastructures&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>dispersion of stakepools around the globe&lt;/li>
+&lt;li>amount of community funds in ada staked to projects/ngo based SPO&amp;rsquo;s&lt;/li>
+&lt;li>number of verified unique hosting providers/self hosted infrastructures used for SPO&amp;rsquo;s&lt;/li>
+&lt;li>number of stakepools using green energy primarily&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Grow Latin America, Grow Cardano</title><link>/catalyst/fund7/challenges/grow-latin-america/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/grow-latin-america/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26242">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26242/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Grow-Latin-America-Grow-Cardano">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/grow-latin-america-grow-cardano">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>As in Africa, raising the awareness levels of regular people in Latin America about blockchain technology and the Cardano protocol should be a priority for the Catalyst community. Providing the funding for those people who learn about our protocol to take advantage of the protocol and the support the community offers seems to be why we work together, doesn&amp;rsquo;t it?&lt;/p>
+&lt;p>Within our community we have some outstanding people from Latin America working with us to grow the ecosystem. Let&amp;rsquo;s give our fellow community members a funding category they can point to within their local communities as a means to take part in this revolution of technology.&lt;/p>
+&lt;p>The overwhelming majority of stake pools are based in North America and Europe. The Cardano protocol will be much more resilient and productive for people all around the world when the Catalyst community steps up and intentionally supports those who would like become a part of the stake pool network.&lt;/p>
+&lt;p>Some of the Catalyst community&amp;rsquo;s original members come from Latin America, let&amp;rsquo;s capitalize on that initiative and bring more people from this wonderful part of the world into the Cardano ecosystem.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>The Cardano community is heavily based in North America and Europe.&lt;/p>
+&lt;p>Growth elsewhere requires our support and initiative as a community.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>A wide spectrum of people from Latin America or with connections to Latin America coming together and forming teams to grow our ecosystem.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>Basic metrics to look for to determine the effectivity of this challenge will include:&lt;/p>
+&lt;ul>
+&lt;li>The volume of proposals originated by Latin Americans participating in Project Catalyst.
+-The quality of those proposals as well as the impact on their local communities.&lt;/li>
+&lt;li>Did we attract new members of the community from Latin American countries?&lt;/li>
+&lt;li>Will we see an increase in transactions processed (blocks minted) in Latin America? New SPOs forming?&lt;/li>
+&lt;li>What can we learn from funded proposals when it comes to building on the initial successfully funded proposals from this challenge setting?&lt;/li>
+&lt;li>Will applications be developed that might be useful in other parts of the world?&lt;/li>
+&lt;li>Will there be measurable improvement in the lives of people who are attracted to the Cardano ecosystem?&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Improve and Grow Auditability</title><link>/catalyst/fund7/challenges/improve-grow-audits/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/improve-grow-audits/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26253">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26253/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Improve-and-Grow-Auditability">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/improve-and-grow-auditability">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>When Fund7 happens we will be close to 300 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the ROI is being in line with what has been established initialy.&lt;/p>
+&lt;p>Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG.&lt;/p>
+&lt;p>The Auditability challenge aims to ensure transparency in the use of Cardano&amp;rsquo;s treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.&lt;/p>
+&lt;h3 id="some-directions-that-this-challenge-can-take">&lt;strong>Some directions that this challenge can take&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Podcasts with teams from funded proposals.&lt;/li>
+&lt;li>Smart contract audits.&lt;/li>
+&lt;li>Platforms / Websites that perform:&lt;/li>
+&lt;li>Reporting on metrics, spending of financial resources.&lt;/li>
+&lt;li>Metrics on the development of Dapps (txs, volume, unique wallets, etc …)&lt;/li>
+&lt;li>Metrics on Number of onboarded developers, number of commits in funded proposal repositories.&lt;/li>
+&lt;li>Social media engagement indicators metrics.&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>It&amp;rsquo;s important that the funded proposals are evaluated to see if they are delivering what was established in their mission..&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>Number of funded proposals audited&lt;/p>
+&lt;p>Considering that the idea is to audit and report on the development of proposals in different challenges, it is important that success metrics are thought out in relation to each challenge.&lt;/p>
+&lt;p>Number of reports, articles and videos/podcasts on:&lt;/p>
+&lt;ul>
+&lt;li>Performance&lt;/li>
+&lt;li>Achievements&lt;/li>
+&lt;li>Financials&lt;/li>
+&lt;li>Number of onboarded developers.&lt;/li>
+&lt;li>Number of commits in funded proposal repositories (Github)&lt;/li>
+&lt;li>Indicators of: transactions, volume and unique wallets interacting with dapps.&lt;/li>
+&lt;li>Number of smart contracts audited.&lt;/li>
+&lt;li>Social media engagement indicators.&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Lobbying for favorable legislation</title><link>/catalyst/fund7/challenges/lobbying-fav-legislation/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/lobbying-fav-legislation/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$75,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26235">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26235/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Lobbying-for-favourable-legislation">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/lobbying-for-favourable-legislation">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>The idea behind this challenge is to fund specialists in regulation, lawyers and politicians who can promote the creation of an environment of laws that are more favorable or less harmful to the crypto space, with a focus on PoS and on Cardano&amp;rsquo;s particularities.&lt;/p>
+&lt;p>Through this challenge, we can fund proposals that seek the adoption of Cardano in certain jurisdictions, as happened recently with Bitcoin in El Salvador.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first/">Bitcoin Now Legal Tender in El Salvador, Marking World First&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Lobby and educate rational politicians so that it becomes possible to plead for the creation of more favorable rules on taxation, use of cryptocurrencies and greater privacy for cryptocurrency users.&lt;/p>
+&lt;p>In August 2021, the US Senate voted for unforgiving legislation on the crypto ecosystem. We have few voices to defend the our community in the political class. Initiatives like the Coin Center are important to defend our community. How can we defend ourselves from attacks by authoritarian governments and compromising legislation?&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what">Cryptocurrency Lost Big In Senate Infrastructure Bill Provision. Now What?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">why is it Important?&lt;/h2>
+&lt;p>So that we have favorable legislation, privacy, tax reduction and a positive environment for mass adoption of cryptocurrencies.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>We managed to delay or reverse legislation that compromises crypto adoption and support local communities and organizations like Coincenter&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Number of jurisdictions favored through lobbying&lt;/li>
+&lt;li>Number of laws that have been modified&lt;/li>
+&lt;li>Number of experts in regulation, lawyers and other members involved&lt;/li>
+&lt;li>Number of partnerships and collaborations with organizations and non-profits that work in the same cause
+-Number of votes of politicians engaged&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Mini/Low-Budget Dapps &amp; Integrations</title><link>/catalyst/fund7/challenges/sml-low-bud-dapps-integrations/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/sml-low-bud-dapps-integrations/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26250">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26250/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Mini-Low-Budget-Dapps-and-Integrations">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/mini-low-budget-dapps-and-integrations">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>This challenge is designed to create a parallel challenge for &amp;ldquo;Dapps and Integrations&amp;rdquo; reserved to small projects that can deliver finalized products with a limited amount of budget in a short time horizon.&lt;/p>
+&lt;p>Therefore, some specific guidelines are introduced, in addition to those of the traditional &amp;ldquo;Dapps &amp;amp; Integrations&amp;rdquo;, for the submission of a proposal in this challenge:&lt;/p>
+&lt;ul>
+&lt;li>The budget should not exceed $10000&lt;/li>
+&lt;li>They should be complete projects, usable by end users on delivery&lt;/li>
+&lt;li>The delivery should take place within 3 months from funding&lt;/li>
+&lt;/ul>
+&lt;p>As the release of smart contracts is imminent, it may make sense to create a specific challenge that will ensure at least 20 new applications to attract new users to Cardano in the next 3 months.&lt;/p>
+&lt;h2 id="guiding-questions">Guiding Questions&lt;/h2>
+&lt;ul>
+&lt;li>What are the key applications that underpin the application ecosystem on other platforms?&lt;/li>
+&lt;li>What are the most profitable or most used applications on other ecosystems?&lt;/li>
+&lt;li>What needs do users of Cardano have that could be solved by new applications?&lt;/li>
+&lt;li>What applications deliver the highest amount of value with the least amount of technical sophistication?&lt;/li>
+&lt;li>Potential directions&lt;/li>
+&lt;li>Swaps, simple variants (multi-party etc.)&lt;/li>
+&lt;li>Escrow, simple variants&lt;/li>
+&lt;li>Integrations with existing products&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>In recent funds many small Dapps haven&amp;rsquo;t been funded (but approved), as proposals with high budgets requests exhausted funds.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>At least 20 novel and viable small decentralized applications get built of top of Cardano in a short time horizon, attracting new users.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>To assess the challenge we will be asking ourselves: Did our efforts manage to attract users to the platform? Did our efforts result in new, viable applications built on top of Cardano?&lt;/p>
+&lt;p>Let an &amp;ldquo;application output&amp;rdquo; and an &amp;ldquo;application transaction&amp;rdquo; be an outputs and transactions that use the applications&amp;rsquo; script addresses; and an &amp;ldquo;application token&amp;rdquo; be a token that&amp;rsquo;s issued by the application.&lt;/p>
+&lt;p>Usage of applications developed during the challenge:&lt;/p>
+&lt;ul>
+&lt;li>Number/growth of application output&lt;/li>
+&lt;li>Number/growth of application transactions&lt;/li>
+&lt;li>Total volume of Ada involved in application transactions&lt;/li>
+&lt;li>Total/growth of resource usage by applications&lt;/li>
+&lt;li>Number/growth of distinct addresses mentioned in application transactions&lt;/li>
+&lt;/ul>
+&lt;p>If the application uses tokens:&lt;/p>
+&lt;ul>
+&lt;li>Number/growth of application tokens&lt;/li>
+&lt;li>Number/growth of distinct addresses holding application tokens&lt;/li>
+&lt;li>Viability of applications developed during the challenge:&lt;/li>
+&lt;li>How many of the applications are still being developed in the next 3 months?&lt;/li>
+&lt;li>How many of the applications made a profit for their creators?&lt;/li>
+&lt;li>How many of the teams which built the applications grew in the next 3 months?&lt;/li>
+&lt;li>How many of the teams which built the applications built (or plan to build) another application?&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Miscellaneous Challenge</title><link>/catalyst/fund7/challenges/misc-challenge/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/misc-challenge/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26248">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26248/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Miscellaneous-Challenge">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/miscellaneous-challenges">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>This challenge is designed to capture interesting and valuable projects that do not currently fit into other challenges.&lt;/p>
+&lt;p>The only constrain to submit a proposal in this challenge is that the proposal needs to be somehow related to Cardano.&lt;/p>
+&lt;h2 id="defining-the-challenge-alignment">Defining the Challenge Alignment&lt;/h2>
+&lt;p>During the assessment stage, Community Advisors should evaluate if proposals submitted in this challenge would be a good fit in any of the other existing challenges.&lt;/p>
+&lt;p>If this is the case, i.e., there is another challenge where the proposal would be well aligned with the challenge goals, then this proposal is not so well aligned with the &amp;lsquo;Miscellaneous Challenge&amp;rsquo;.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Creating a Miscellaneous Challenge could enable great ideas to be funded in a specific Fund, even if they don&amp;rsquo;t fit any other Challenge.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Funding great ideas that focus on problems that are not covered by any other Challenge.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>At the end of this challenge, we will be asking ourselves: was this challenge valuable to the community?&lt;/p>
+&lt;ul>
+&lt;li>Successfully fund proposals, approved by the community, that don&amp;rsquo;t fit well any other challenges.&lt;/li>
+&lt;li>Number of identified possible Challenges to be proposed in the following Funds based on proposals submitted in the Miscellaneous Challenge.&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Multilingual resources</title><link>/catalyst/fund7/challenges/multilingo-resources/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/multilingo-resources/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26252">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26252/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Multilingual-resources">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/multilingual-resources">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>The English language could be a barrier for a lot of people around the world when they try to learn about Cardano and blockchain technology.&lt;/p>
+&lt;p>At least in Spanish there are no resources for people who might want to learn how to code smart contracts with Plutus or Marlowe for example.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Multilingual platforms will allow non-English speakers to learn about Cardano and increase its adoption worldwide.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Increased adoption and community engagement of non-English speakers.&lt;/p>
+&lt;p>Increased amount of resources in a variety of languages.&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for non-English speakers to build and grow the Cardano community in their local areas?&lt;/p>
+&lt;ul>
+&lt;li>Number of non-English speakers joining Cardano community&lt;/li>
+&lt;li>Number of courses translated to different languages, from programming to stakepool operation and so on.&lt;/li>
+&lt;li>A sense of community and conversations. Having people around to talk with.&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Nation Building Dapps</title><link>/catalyst/fund7/challenges/nation-building-dapps/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/nation-building-dapps/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$600,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26249">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26249/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Nation-Building-Dapps">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/nation-building-dapps">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Dapp proposals should cover foundational Registry solutions, namely:&lt;/p>
+&lt;p>National ID &amp;amp; Civil Registry, Property Registration, Medical &amp;amp; Vaccination, Education Census, Revenue Service, Business Incorporations, Elections Voting, Customs &amp;amp; Border Control, Criminal Records, Employment Census, Vehicle Registration, Licensing &amp;amp; Certifications.&lt;/p>
+&lt;p>Proposers to review IOHK/ EMURGO Atala solutions before hand along with reference use cases on integrated registry systems applications currently implemented across wealthy nations.&lt;/p>
+&lt;p>It is further advised Proposers to obtain a knowledge base over research done in the past three decades unraveling the &amp;ldquo;mysterious&amp;rdquo; causes of poverty in third world countries by the economist Hernando de Soto. The attached book &amp;ldquo;The Mystery of Capital&amp;rdquo; is a great reference to get into context for anyone involved in developing proposals for this challenge.&lt;/p>
+&lt;p>&lt;a href="https://archive.org/details/Hernando_De_Soto_The_Mystery_Of_Capital_Why_Capitalism_TriumphsIn_The_West_And_Fails_Everywhere_Else">Introduction video&lt;/a>&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>For the poor nations with no foundations to stand on, Government Dapp solutions will be the building blocks enabling sustainable prosperity&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Dapps adoption by Governments across developing nations, in collaboration with Local Community Centers and International Partnerships&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Number of proposals&lt;/li>
+&lt;li>Proposals CA ratings&lt;/li>
+&lt;li>Diversity of Dapp&amp;rsquo;s use cases&lt;/li>
+&lt;li>Proposers commercial approach and negotiation strategy with different Governments&lt;/li>
+&lt;li>Participation of Cardano&amp;rsquo;s Local Community Centers&lt;/li>
+&lt;li>Participation and/or partnerships with other international organizations&lt;/li>
+&lt;li>Number of countries covered, contracts signed&lt;/li>
+&lt;li>Number of Dapp users, registry accounts, transaction volumes&lt;/li>
+&lt;li>Proposers lead time on field research, Dapp development and implementation&lt;/li>
+&lt;li>Governments estimated lead time dependencies on red tape&lt;/li>
+&lt;li>Dapps impact on social/financial inclusion&lt;/li>
+&lt;li>Dapps impact on economic development&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: New SPO Business Opportunities</title><link>/catalyst/fund7/challenges/new-spo-business-opportunities/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/new-spo-business-opportunities/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26245">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26245/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-New-SPO-Business-Opportunities">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/new-spo-business-opportunities">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Our SPOs are a most-valuable foundation of Cardano. They have invested in important infrastructure and are establishing important capabilities. This is of high value in the still very much hype-driven general Crypto space. With SPOs, the CARDANO Community can get both: Even more decentralization AND stability and professionalism at the same time.&lt;/p>
+&lt;p>On this bases, many new ideas and service can emerge, such as&lt;/p>
+&lt;ul>
+&lt;li>Secure and censorship-resilient data storage&lt;/li>
+&lt;li>KYC related service and access hubs&lt;/li>
+&lt;li>Well, for sure many, many more ideas and opportunities&lt;/li>
+&lt;/ul>
+&lt;p>In case of success, I can also see this as a recurring challenge setting, driving and optimising the economic well-being of our SPO&amp;rsquo;s and utilizing all their today&amp;rsquo;s and future capabilities in a most creative way.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Being an SPO shall be economically attractive. In addition to this, there are great opportunities for adding new ideas &amp;amp; services&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>The overall business model of SPO&amp;rsquo;s can become even more attractive and we can add new features and services for driving decentralization&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>Number of new business ideas for SPOs&lt;/li>
+&lt;li>Overall SPO-related business-value of such optional new services&lt;/li>
+&lt;li>Impact of essential new services for making the world of Cardano even more decentralized, distributed and censorship resilient&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Open Source Developer Ecosystem</title><link>/catalyst/fund7/challenges/open-source-dev-eco/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/open-source-dev-eco/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26251">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26251/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Open-Source-Developer-Ecosystem">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/open-source-developer-ecosystem">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>This challenges aims too support the development of common tools needed for projects to make use of the cardano blockchain.&lt;/p>
+&lt;p>There are core functionalities that almost all Dapp projects need like querying the blockchain, managing wallets, creating transactions. These functionalities should be freely available to all and be owned by the community. Some of these solutions are currently only easily available as Software as a Service solution. If most Dapps are build on top of the same proprietary solutions to access the blockchain, however, this leads to centralization and introduces risk.&lt;/p>
+&lt;p>The goal of Cardano is to also include those who are currently being left out. If the best tools build with the community fund are behind a pay wall this creates an unfair playing field. Anyone who wants to start building on top of cardano should be able to easily configure a node with the utilities they need. Anyone who is hosting a node (as SPO or otherwise) should be able to easily add on and offer additional services as they see fit.&lt;/p>
+&lt;p>Large scale projects and singular solutions have proven to be inflexible and the industry is focusing on compositional design. Modern micro service architecture and solutions like containerization allow for common utilities to be developed as self-hosted independent building blocks. This approach allows projects to focus on a single functionality reducing the risk for the whole community.&lt;/p>
+&lt;h2 id="guiding-questions">Guiding Questions&lt;/h2>
+&lt;ul>
+&lt;li>How can we ensure future developers benefit from the work that is funded today?&lt;/li>
+&lt;li>How do we promote a decentralised and self-hosted ecosystem?&lt;/li>
+&lt;li>How do we align between different open source community efforts?&lt;/li>
+&lt;/ul>
+&lt;h2 id="possible-directions">Possible Directions&lt;/h2>
+&lt;ul>
+&lt;li>developing common tools as libraries or containerized services&lt;/li>
+&lt;li>incentive system for developing &amp;amp; hosting common open source utility&amp;rsquo;s&lt;/li>
+&lt;li>common audited repositories &amp;amp; overviews for open source solutions&lt;/li>
+&lt;li>organising events to bring the open source community together&lt;/li>
+&lt;li>collaborations/efforts on defining common standards&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>There are core functionalities that most projects need, community owned open-source solutions can make them available to everyone&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>A healthy mix of both private and public groups build on top off, and contribute to, a solid and open foundation for development&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;p>Success of this proposal should be measured through the adoption of open source solutions by other projects:&lt;/p>
+&lt;ul>
+&lt;li>Usage of open source git repositories&lt;/li>
+&lt;li>Usage of open source docker containers&lt;/li>
+&lt;/ul>
+&lt;p>At the end of this challenge it should also be easier for developers to find existing tools that help their project.&lt;/p>
+&lt;p>Have we managed to create public visible overviews of exisitng open source and free tools?&lt;/p>
+&lt;p>Other metrics could involve participating number of devs on open source projects, though this can be hard to track. We can track if events have been organised and seen participation to support open source projects&lt;/p></description></item><item><title>Catalyst: Scale-UP Cardano's Community Hubs</title><link>/catalyst/fund7/challenges/scale-cardano-community-hubs/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/scale-cardano-community-hubs/campaign-brief/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/nJkH2MtPhX8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Fund Size: &lt;strong>$350,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26244">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26244/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Scale-UP-Cardanos-Community-Hubs">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/scale-up-cardanos-community-hubs">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Out of the world&amp;rsquo;s approximately 7.8 billion inhabitants, 6.45 billion do not speak English.&lt;/p>
+&lt;p>Living in the Western world, we forget this fact regularly, and many of us have never even considered it.&lt;/p>
+&lt;p>Let&amp;rsquo;s consider it now and start to build an ecosystem that is truly global, allowing everyone to participate to the best of their ability.&lt;/p>
+&lt;p>When you drive adoption at the ground level, you are doing more than just &amp;lsquo;building cool products&amp;rsquo;, you are empowering people to change their lives in ways they could have never imagined by themselves.&lt;/p>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>Without users on the ground level, we are building niche products serving mostly technical people with blockchain expertise.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>Local Community Hubs across the world where the average person can take part in their own language and with their own cultural understanding&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>How many new Hubs were launched in the next 6 months?&lt;/li>
+&lt;li>How many developers did this community-focused challenge bring into the Cardano ecosystem?&lt;/li>
+&lt;li>How many new users of Cardano were onboarded?&lt;/li>
+&lt;li>What was the total reach of the Hub&amp;rsquo;s initial marketing launch?&lt;/li>
+&lt;li>How many external organizations did this community-focused challenge bring into the Cardano ecosystem?&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Seeding Cardano's Grassroots DeFi</title><link>/catalyst/fund7/challenges/cardano-grassroots-defi/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/catalyst/fund7/challenges/cardano-grassroots-defi/campaign-brief/</guid><description>
+&lt;p>Fund Size: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26243">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26243/stage/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>Currently, the vast majority of DeFi dapps and assets flows occur on the Ethereum blockchain, however due to congestion and increased transaction fees, the use of DeFi is increasingly elitized, leaving out the people who could most benefit from it, the unbanked.&lt;/p>
+&lt;p>Over the past year several DeFi projects have been moving to more scalable blockchains, such as Binance Smart Chain, Polkadot, Cosmos, Solana, among others. Second layer solutions are also being used as alternatives to Ethereum main chain, Polygon has been a great example.&lt;/p>
+&lt;p>In this migration and bridges creation scenario, some projects are turning to Cardano to create their DeFi projects.&lt;/p>
+&lt;p>Cardano is finally delivering smart contracts and that opens a door to a lot of innovation in DeFi. We can offer not only a scalable blockchain, but also a secure blockchain and aggregated governance layer in the near future. This set of characteristics place Cardano in a prominent place and with a good opportunity to gain market share and expand the user base.&lt;/p>
+&lt;p>With Catalyst, we have the opportunity to fund DeFi projects and allow them to have greater decentralization and resilience, which are essential aspects for DeFi projects. Many projects end up accepting the participation of Venture Capitals due to lack of financial resources. The participation of VCs in DeFi projects usually ends up causing a large part of the supply distribution to be alocated to VCs and this compromises the decentralization and consequently the security of these projects.&lt;/p>
+&lt;p>The DeFi ecosystem today is taken over by projects full of vulnerabilities, hacks are constant, economic models are copied from other projects, decentralization is no longer a priority and few projects are dedicated to create economic models/bonding curves/algorithms thinking about the users&amp;rsquo; needs.&lt;/p>
+&lt;p>It has become clear over the year that bugs, hacks and vulnerabilities are not unique to smart contracts on Ethereum. Dapps running on Binance Smart Chain and Cosmos suffered from vulnerabilities as well.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains">Hackers stole at least $600M in Poly exploit across three chains&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix">Thorchain suffers $5 million exploit, developers have put out a fix&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Cardano arrives to change this paradigm and bring security to users.&lt;/p>
+&lt;p>Privacy and resistance to censorship are also important but often overlooked in favor of subsidizing (yield farming). How to encourage DeFi projects to seek resilience, safety, research-based economic models and critical thinking?&lt;/p>
+&lt;h2 id="potential-directions">Potential Directions&lt;/h2>
+&lt;ul>
+&lt;li>DEXs&lt;/li>
+&lt;li>Oracles&lt;/li>
+&lt;li>Algorithmic stable coins&lt;/li>
+&lt;li>Borrowing/Lending dapps&lt;/li>
+&lt;li>Derivatives&lt;/li>
+&lt;li>Research for open source new financial models (bonding curves)&lt;/li>
+&lt;/ul>
+&lt;h2 id="rational-for-budget-distrobution">Rational For Budget Distrobution&lt;/h2>
+&lt;p>New or less popular teams have difficulty competing with influential and popular teams in the Cardano community. Even ensuring a good score is difficult to get engagement in the voting stage to compete with consolidated and influential teams in the Cardano community.&lt;/p>
+&lt;p>This challenge intends to sow new teams, who have never received funding from Catalyst so they can have a chance to show their value to the community.&lt;/p>
+&lt;p>Each new team can request up to 25% of the total $200,000 USD budget, also know as $50,000 USD.&lt;/p>
+&lt;p>E.g.&lt;/p>
+&lt;ul>
+&lt;li>Team A with 2 proposals of $25,000 USD&lt;/li>
+&lt;li>Team B with 5 proposals of $10,000 USD&lt;/li>
+&lt;li>Team C with 1 proposal of $50,000 USD&lt;/li>
+&lt;li>Team D with 1 proposal of $15,000 USD + 1 proposal of $35,000 US&lt;/li>
+&lt;/ul>
+&lt;h2 id="why-is-it-important">Why is it Important?&lt;/h2>
+&lt;p>So that new teams can have a kickstart in their projects without having to resort to ICOs and VCs allocation.&lt;/p>
+&lt;h2 id="how-does-success-look-like">How does success look like?&lt;/h2>
+&lt;p>At least 4 new teams deploying DeFi Dapps on Cardano in 2022 + Managing to form a community in order to gain competitiveness/sustainability&lt;/p>
+&lt;h2 id="key-metrics-to-measure">Key Metrics to measure&lt;/h2>
+&lt;ul>
+&lt;li>How many DeFi dapps were launched on Cardano mainnet within 3, 6 and 12 months after funding.&lt;/li>
+&lt;li>How many daily active users are the DeFi dapps funded in this cohort attracting.&lt;/li>
+&lt;li>How long does each dapp take to be launched.&lt;/li>
+&lt;li>How much Total Value Locked (TVL) are the funded DeFi dapps able to capture 3, 6 and 12 months after launch.&lt;/li>
+&lt;li>Number of bugs and vulnerabilities found in each dapp.&lt;/li>
+&lt;li>Amount of resources lost due to bugs or vulnerabilities.&lt;/li>
+&lt;li>Number of users participating in testnets.&lt;/li>
+&lt;li>Number of token holders/unique wallet(when dapp has a token).&lt;/li>
+&lt;li>Distribution of supply between the team and the community.&lt;/li>
+&lt;li>Numbers of listed pairs (in case of DEXs).&lt;/li>
+&lt;li>Number of listed assets (cases of loan+lending dapps, derivatives and synthetic assets).&lt;/li>
+&lt;li>Number of articles and open source financial models research delivered to the community.&lt;/li>
+&lt;/ul></description></item></channel></rss>

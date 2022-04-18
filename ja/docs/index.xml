@@ -1,0 +1,2307 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CATALYST 東部タウンホール – ドキュメンテーション</title><link>/ja/docs/</link><description>Recent content in ドキュメンテーション on CATALYST 東部タウンホール</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/ja/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: ProjectCatalyst チャレンジ設定および提案ガイド</title><link>/ja/docs/catalyst/project-catalyst-challenge-and-proposal-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/docs/catalyst/project-catalyst-challenge-and-proposal-guide/</guid><description>
+&lt;p>ProjectCatalystは進行中であり、幅広い個人からの信じられないほどの参加が見られます。 これは、世界規模のコミュニティイノベーションプロジェクトを作成するための共同プロセスです。 問題の説明、解決策、関連する経験、および要求された資金は、投票アプリケーションに表示されます。 これにより、誰もが投票する前にイニシアチブについて学ぶことができます。&lt;/p>
+&lt;p>提案の計画と添付ファイルは、詳細を理解するために、Ideascaleがホストするイノベーションプラットフォームで表示できます。 私たち全員が議論全体に参加できます。&lt;/p>
+&lt;p>アウトプットの品質は、新しいアイデアを作成して関与するコミュニティの能力に依存します。 そのために、成功する提案を書くためのクイックガイドを共有したいと思います:&lt;/p>
+&lt;h3 id="提案のタイトル-35文字の制限">提案のタイトル （35文字の制限）&lt;/h3>
+&lt;p>提案名は、人々の注目を集めながら、達成しようとしているイノベーションを示すものでなければなりません。 しかし、私たちは巧妙なマーケティングの話を避けたいと思っています。 それが何をするのか、そしてそれが誰のためであるのかをできるだけ明確に聴衆に伝えてください。 シンプルで有益な情報を提供し、視聴者を念頭に置いてください。&lt;/p>
+&lt;p>&lt;strong>例&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>ステークプールオペレータビデオブログネットワーク&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="プログラムステートメントの書き方140文字の制限">プログラムステートメントの書き方（140文字の制限）&lt;/h3>
+&lt;h4 id="挑戦に立ち向かう">挑戦に立ち向かう&lt;/h4>
+&lt;p>各ファンドには、提案が解決しようとする特定の課題があります。 題は元々ProjectCatalystチームによって設定され、その後コミュニティが独自に開発する機会が生じます。 提案が課題に直接取り組むことが重要です。 これは、課題の例とそれに対処するいくつかの問題ステートメントです。&lt;/p>
+&lt;p>&lt;strong>チャレンジ&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>開発者や起業家に、今後6か月以内にカルダノの上にDappやビジネスを構築するように促すにはどうすればよいでしょうか。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>プログラムステートメント&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>開発者は、資金を確保するための官僚的形式主義と時間のコストに対処することを望んでいません。 Cardano開発者が提案を合理化するのをどのように支援しますか？&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>PlutusとMarloweがメインネットにヒットする前に、Cardanoで分散型/オープンファイナンスの動きをブートストラップする時の問題を解決しようとしています。&lt;/p>
+&lt;/blockquote>
+&lt;p>これらの例の両方で、問題ステートメントと課題の関係は明らかです。これは投票者が探しているものです。 これは投票者が探しているものです。 ただし、問題ステートメントの内容は明確で効果的ですが、これらの問題ステートメントは改善できます。&lt;/p>
+&lt;h4 id="優れたプログラムステートメントの作成140文字の制限">優れたプログラムステートメントの作成（140文字の制限）&lt;/h4>
+&lt;p>プログラムステートメントは、チャレンジに関連する問題を特定し、解決策を提供します。 一般的な問題、緊急の問題、費用のかかる問題、頻繁な問題に焦点を当てることが重要です。 これらの用語であなたの問題を説明することは良い提案にとって重要なので、それは投票者によって最初に見られるべきです。 優れた問題ステートメントには、望ましい結果、理想的な結果を妨げる問題、問題のコスト、および証拠の4つの要素があります。&lt;/p>
+&lt;h4 id="プログラムステートメントの構造">プログラムステートメントの構造&lt;/h4>
+&lt;p>&lt;strong>望ましい結果:&lt;/strong> これは、ソリューションが受け入れられた後の理想的な一連の状況の全体像を描きます。&lt;/p>
+&lt;p>&lt;strong>理想的な結果を妨げる問題:&lt;/strong> この一連の状況の発生を妨げる問題の簡潔な説明。&lt;/p>
+&lt;p>&lt;strong>問題の費用:&lt;/strong> 主要な利害関係者に対する問題の機会と経済的コストの両方の合計。 これは、有権者が問題がどの程度の影響を及ぼしているかを評価するのに役立ちます。&lt;/p>
+&lt;p>&lt;strong>証拠:&lt;/strong> 詳細な計画に記載された立場のサポート。 例えば&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ステートメントコンポーネント&lt;/th>
+&lt;th>説明&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>望ましい成果&lt;/em>&lt;/td>
+&lt;td>フィリピン在住の労働者にお金を送金できるようにしたいと考えています。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>理想的な結果を妨げる問題&lt;/em>&lt;/td>
+&lt;td>フィリピンの人口の11％が取引手数料でお金を失っています。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>問題のコスト&lt;/em>&lt;/td>
+&lt;td>約10億ドルが毎年送金手数料で支払われます。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>証拠&lt;/em>&lt;/td>
+&lt;td>これを証明するデータへのリンク&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>上記の情報を凝縮した完全な問題ステートメントは次のとおりです。&lt;/p>
+&lt;blockquote>
+&lt;p>フィリピンの労働者への送金は手頃な価格である必要があります。 しかし、人口の11％が年間10億ドルの取引手数料を失っています。 リサーチリンク [1],[2]&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="結論">結論&lt;/h4>
+&lt;ul>
+&lt;li>望ましい結果とそれを妨げる問題を明記します&lt;/li>
+&lt;li>問題のコストを定義します&lt;/li>
+&lt;li>証拠を提示します&lt;/li>
+&lt;/ul>
+&lt;h3 id="解決策140文字の制限">解決策（140文字の制限）&lt;/h3>
+&lt;h4 id="ソリューションの構造化">ソリューションの構造化&lt;/h4>
+&lt;p>多くの重要な情報を提供するのに140文字しかありません。 すべての文字が重要な場合は、プロンプトに正確に対処することが重要です。&lt;/p>
+&lt;p>当たり前のように聞こえるかもしれませんが、解決策は既知の問題に基づいている必要があります。 問題ステートメントに記載されている問題を実際に解決する必要があります。 問題を探す解決策は、明確なニーズを満たすよりも効率が悪いため、魅力的な選択肢になることはめったにありません。 したがって、覚えておいてください。問題を解決することから始めて、「詳細な計画」セクションでソリューションのビジョンをレイアウトします。 140文字で問題に対処し、解決し、ソリューションが他のソリューションとどのように異なるかについての洞察を与える必要があります。&lt;/p>
+&lt;p>&lt;em>ソリューションステートメントの例&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>ブロックチェーン上に維持されているステークプールオペレーターが運営するデジタルマガジンを作成して、現在のユーザー以外の新しいオーディエンスにCardanoを広めます。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="結論-1">結論&lt;/h4>
+&lt;ul>
+&lt;li>問題に直接対処して、ソリューションが課題に直面することを確認します&lt;/li>
+&lt;li>差別化を通じてプロジェクトを際立たせる&lt;/li>
+&lt;li>問題を探すのではなく、問題を解決するソリューションを作成します&lt;/li>
+&lt;/ul>
+&lt;h3 id="関連する経験-140文字の制限">関連する経験 （140文字の制限）&lt;/h3>
+&lt;h4 id="あなたのエッジを見つけて">あなたのエッジを見つけて&lt;/h4>
+&lt;p>あなたの「競争力」を見つけて、あなたが持っていることを確実にしてください。 私たちはあなたの競争力をいくつかの異なるカテゴリーに分類することができます。 ソリューションには、これらの競争力を可能な限り多く説明する必要があります。 これらの提案に投票する人々は、あなたの提案を「確かだ」ということを確認したいと思っていることを忘れないでください。 ブロックチェーンスペースの他のプロジェクトとの違いを明確に説明できれば、競争上の大きなアドバンテージが得られます。&lt;/p>
+&lt;h4 id="創設者">創設者&lt;/h4>
+&lt;p>あなたの提案に取り組んでいる人々は、彼らの個人的な専門知識と仕事の歴史をプロジェクトに貸すことができます。&lt;/p>
+&lt;p>&lt;em>例&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>John Doeは、ブロックチェーントレジャリーシステムのインセンティブスキームに焦点を当てて博士号を取得しました。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="結論-2">結論&lt;/h4>
+&lt;ul>
+&lt;li>あなたの競争力を見つけて、それがよく知られていることを確認してください&lt;/li>
+&lt;li>これは、プロジェクトの種類によって異なる場合があります&lt;/li>
+&lt;li>あなたの聴衆はイノベーションプラットフォーム上の他の人々であることを忘れないでください&lt;/li>
+&lt;/ul>
+&lt;h3 id="詳細な計画">詳細な計画&lt;/h3>
+&lt;h4 id="洞察を通じて差別化する">洞察を通じて差別化する&lt;/h4>
+&lt;p>問題の概要を説明し、確実な解決策を示したので、実行について説明しましょう。 問題が異なれば、解決策も異なります。 マーケティングキャンペーンや教育リソースから、開発者のインフラストラクチャの改善や事業開発まで、さまざまなプロジェクトのアイデアを探しています。&lt;/p>
+&lt;p>計画をロードマップおよびニーズ分析として検討する必要があります。 まず第一に、なぜあなたのソリューションは機能するのですか？ 問題を最初に特定したのはあなたかもしれませんが、考えられる選択肢の分野でソリューションが最も成功する理由を説明することが重要です。&lt;/p>
+&lt;h4 id="市場">市場&lt;/h4>
+&lt;p>あなたが特定した市場は、以前にアクセスまたは優先順位付けされていません。 年間20％の成長を遂げている市場を特定する必要があります。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>例:&lt;/em> 当社のハードウェアソリューションは、すべてのプルーフオブワークブロックチェーンで機能します。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="製品">製品&lt;/h4>
+&lt;p>ソリューションは、市場で特に影響力のある方法で機能します。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>例:&lt;/em> このハードウェアの追加により、マイニングリグのエネルギー消費が20％削減されます。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="買収">買収&lt;/h4>
+&lt;p>ユーザーとプラットフォームの買収への道筋は明確でよく考えられています。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>例:&lt;/em> ネットワーク情報へのアクセスは、無料でユーザー獲得を促進します。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="独占">独占&lt;/h4>
+&lt;p>フィールドで成長するにつれて、会社は実際に強くなります。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>例:&lt;/em> Ouroborosプロトコルを使用すると、分散化が進むにつれてシステムの安全性が高まります。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="資金計画と根拠を示して">資金計画と根拠を示して&lt;/h4>
+&lt;p>複雑な問題を解決するには、多くの場合、十分な資金が必要です。 これは、ProjectCatalystのコミュニティによって理解されています。 ただし、これらの提案に投票する人は誰でも、資金がどのように使われているかを知ることができるはずです。 算がどのように使われるかについての詳細な内訳を与える。 これにはさまざまな方法がありますが、予算を一連の項目にまとめることは、主要な資金調達イニシアチブがどのように使われるかを検討したことを有権者に示す明確な方法です。&lt;/p>
+&lt;p>予算は、達成しようとしているプロジェクトの要件を満たす必要があることを覚えておくことも重要です。 あなたが小さな交流会のために資金を得ようとしているなら、数百ドルで十分なはずです。 重要なインフラストラクチャの開発を調整している場合は、より多くのリソースが必要になります。 ビジョンと適切な資金を組み合わせてください。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>例:&lt;/em> 開発者向けのポッドキャストを作成するには、最初の6か月で5,000ドルかかります。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="ロードマップを示して">ロードマップを示して&lt;/h4>
+&lt;p>提案を作成するとき、あなたはあなたが資金を受け取るであろうかのように書くべきです。 しかし、あなたの提案を読んでいる人は誰でも、あなたが着実に実行できることを理解することが重要です。 これがロードマップの出番です。 ロードマップは、資金を受け取った後、達成しようとしている主要なマイルストーンをすべて分解する必要があります。 れはいくつかの異なる方法で行うことができますが、適切なロードマップには、1か月、3か月、および6か月の目標が詳しく説明されています。&lt;/p>
+&lt;p>ロードマップでは、主要業績評価指標（KPI）を特定することも重要です。 これらはあなたが成功したことを示すあなたが達成した目標です。 KPIの例を次に示します。&lt;/p>
+&lt;ul>
+&lt;li>取得したユーザー&lt;/li>
+&lt;li>構築された製品機&lt;/li>
+&lt;li>パフォーマンスベンチマークに達しました&lt;/li>
+&lt;li>x時間にわたって達成されたネットワークの安定性&lt;/li>
+&lt;/ul>
+&lt;p>KPIについて覚えておくべき重要なことは、KPIに数値を付ける必要があるということです。 最初の15人のユーザーを獲得することは、達成可能な目標です。 「多くの」ユーザーを獲得することはかなり曖昧であり、誰もが判断するのは困難です。 これらのアイデアをコミュニティに提示していることを忘れないでください。意図が明確になり、目標を達成したことを確認しやすくなるほど、大きな賭けと見なされる可能性が高くなります。&lt;/p>
+&lt;h4 id="知的財産権">知的財産権&lt;/h4>
+&lt;p>あなたのIPポリシー（特許、商標、著作権、ライセンスなど）をレビューアと共有して、それがトレジャリー資金利用に適しているかどうかを評価できるようにしてください。&lt;/p>
+&lt;h4 id="成功の定義">成功の定義&lt;/h4>
+&lt;p>この特定のプロジェクトの成功はどのように見えますか？ 1回の資金提供で完全に完成するわけではないかもしれませんが、あなたの提案は、最終状態がどのように見えるかについてのアイデアを私たちに与えるはずです。 これは、KPIと同様に、誰でも確認できるわかりやすい数値ある必要があります。&lt;/p>
+&lt;h4 id="結論-3">結論&lt;/h4>
+&lt;ul>
+&lt;li>プロジェクトのニーズに合わせて予算とロードマップを調整します&lt;/li>
+&lt;li>目標に向けて順調に進んでいることを示す、到達可能な主要業績評価指標を確立します。&lt;/li>
+&lt;li>誰が何を所有しているのかを誰もが知ることができるように、知的財産権を確立します。&lt;/li>
+&lt;li>プロジェクトの成功を定義します。&lt;/li>
+&lt;/ul>
+&lt;h3 id="添付ファイルリンク">添付ファイル/リンク&lt;/h3>
+&lt;p>誰もが追加の必要な情報を共有できることが重要です。 そのため、PDF、画像、および追加のURLをIdeascaleを介して送信でき、それは誰でも見ることができます。&lt;/p>
+&lt;h3 id="フィードバック">フィードバック&lt;/h3>
+&lt;h4 id="コミュニティサポート">コミュニティサポート&lt;/h4>
+&lt;p>個々の提案を可能な限り強力にするために、イノベーションプラットフォームを使用して各アイデアについて話し合うことをお勧めします。 実際、批評を導くのに役立つレビューアガイドラインを作成しました。 生産的で有益な会話のために、以下の分野にフィードバックを集中することをお勧めします。&lt;/p>
+&lt;p>&lt;em>監査可能性:&lt;/em> レビュー担当者がプロジェクトを正確に評価するのに役立つ、提案に欠けている詳細は何ですか？&lt;/p>
+&lt;p>&lt;em>インパクト:&lt;/em> 提案はどのようにして課題にうまく対処できますか？ 今後6か月以内にカルダノでdAppを構築するように人々をどのように奨励できますか？&lt;/p>
+&lt;p>&lt;em>実現可能性:&lt;/em> 提案の予算、計画、および範囲を変更して、より達成可能にする方法は何ですか？&lt;/p>
+&lt;p>&lt;strong>例&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>もしあなたのマーケティングイニシアチブがKPIとしてオンボーディングしようとした正確な数のユーザーを示してもらえると、その成功を追跡するのがはるかに簡単になります。&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="結論-4">結論*&lt;/h4>
+&lt;ul>
+&lt;li>良いフィードバックを提供することにより、他の提案をより強力にします&lt;/li>
+&lt;li>有用なフィードバックを独自の提案に組み込む&lt;/li>
+&lt;li>イノベーションプロセスに積極的に参加して、それが成長し続けることを確認しま&lt;/li>
+&lt;/ul>
+&lt;h3 id="コミュニティ選択提案の書き方">コミュニティ選択提案の書き方&lt;/h3>
+&lt;h4 id="コミュニティの解放">コミュニティの解放&lt;/h4>
+&lt;p>Project Catalystコミュニティに独自のチャレンジを書かせることの目的は、ProjectCatalystチームからプラットフォームを解放することです。 最終的に、Cardanoコミュニティは、開始から提供までのイノベーションとコラボレーションのプロセスを制御します。 そのことを念頭に置いて、影響力のあるチャレンジがどのようであるか理解することが重要です。&lt;/p>
+&lt;h4 id="進歩に焦点を当てる">進歩に焦点を当てる&lt;/h4>
+&lt;p>チャレンジは、コミュニティがカルダノエコシステムの推進に創造性を集中させるのに役立つ問いです。 もちろん、「進歩」とは、人によって異なることを意味します。 インパクトのあるチャレンジを書くための鍵はバランスです。 それは、複数の方法で対処されるような十分な大きさである必要がありますが、すべての人にとってのCardanoの価値を高めるのに十分具体的である必要があります。&lt;/p>
+&lt;h4 id="チャレンジ質問の例">チャレンジ質問の例&lt;/h4>
+&lt;p>以下は、チャレンジの質問のいくつかの例です。&lt;/p>
+&lt;p>&lt;em>具体的すぎる&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>南ヨーロッパに拠点を置くステークプールオペレーターは、今後2か月でプールをより魅力的な委任者にするにはどうすればよいでしょうか。&lt;/p>
+&lt;/blockquote>
+&lt;p>このチャレンジ質問は、南ヨーロッパのステークプールオペレーターのみを対象としています。 Cardanoは、さまざまな方法で参加できるグローバルエコシステムです。 チャレンジの問いすべての人に役立つべきです。&lt;/p>
+&lt;p>&lt;em>広すぎる&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>カルダノをもっと便利にするにはどうすればよいですか？&lt;/p>
+&lt;/blockquote>
+&lt;p>もちろん、私たちはカルダノをもっと便利にしたいと思っていますが、この挑戦​​は参加者に彼らの創造性を刺激するためのパラメーターを与えません。 コミュニティが生態系の直接のニーズに対処するのを助けるために制約が必要です。&lt;/p>
+&lt;p>&lt;em>ちょうどいい&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>次の6か月で、起業家にカルダノでビジネスを展開するように促すにはどうすればよいでしょうか。&lt;/p>
+&lt;/blockquote>
+&lt;p>この課題には時間枠があり、Cardanoコミュニティ全体にとって重要なコミュニティに対処します。 さらに、技術的貢献と非技術的貢献の両方を通じて、さまざまな方法で対処できます。 ただし、チャレンジの問いを書くことは、ProjectCatalystの重要な部分の1つにすぎません。 Project Catalystの最も影響力のあるアイデアを特定するには、これらの課題に明確かつ簡潔に対処することも必要です。&lt;/p>
+&lt;h3 id="タグ">タグ&lt;/h3>
+&lt;p>共同編集者/アドバイス/実装者を探している場合は、提案にタグを追加してください。&lt;/p></description></item><item><title>Catalyst: 東アジアを育て、カルダノを育てる</title><link>/ja/catalyst/fund6/challenge-setting-proposals/grow-east-asia-grow-cardano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenge-setting-proposals/grow-east-asia-grow-cardano/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/CeZynbrO-ak" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>チャレンジ：&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/">ファンド7チャレンジ設定&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>要求額（USD）：&lt;/strong> $ 250,000&lt;/p>
+&lt;h2 id="チャレンジクエッション">チャレンジクエッション：&lt;/h2>
+&lt;p>包括的で多様かつサポーティブな方法で、東アジアのCardanoエコシステムをどのように成長させますか？私たちがアフリカで行うのと同じような、焦点を絞ったイニシアチブと実装です！&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>Cardanoコミュニティは、北米とヨーロッパに大きく拠点を置いています。他の場所で成長するには、コミュニティとしてのサポートとイニシアチブが必要です。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>私たちのエコシステムを成長させるために集まってチームを形成するアジアからの、またはアジアとのつながりを持つ幅広い人々。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>この課題の最後に、開発されたソリューションのクオリティに関するいくつかの指針となる問いを、自問します。&lt;/p>
+&lt;ul>
+&lt;li>ProjectCatalystの東アジアの参加者からの提案の数&lt;/li>
+&lt;li>東アジアのチームから発信された資金提供された提案の量と質。&lt;/li>
+&lt;li>資金提供されたプロジェクトの観察された影響（KPIを満たす）。&lt;/li>
+&lt;li>CardanoコミュニティとCatalystチームへの東アジア居住者の参加を増やしましたか？&lt;/li>
+&lt;li>勢いとエンゲージメントの代用手段として、デイリー/マンスリーアクティブウォレット（DAW / MAW）が増加しましたか？&lt;/li>
+&lt;li>東アジアに拠点を置くステークプールとステークプールオペレーターの数を増やしましたか？&lt;/li>
+&lt;/ul>
+&lt;p>また、提案の質について具体的な質問をします。&lt;/p>
+&lt;ul>
+&lt;li>東アジア全体にCardanoソリューションを展開する際の微妙な違いを理解するのに役立つ資金提供を受けたプロジェクトの進捗状況、失敗、または成功についての良いフィードバックはありますか？&lt;/li>
+&lt;li>ソリューションの新規性と適切性は何ですか？&lt;/li>
+&lt;li>東アジアでCardanoを使用している人々の生活を改善するために順調に進んでいますか？&lt;/li>
+&lt;li>提案のパフォーマンスを測定するために、社会的および環境的影響評価が使用されましたか？&lt;/li>
+&lt;li>Catalystの範囲を超えた提案の持続可能性とは何ですか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>アフリカと同様に、ブロックチェーンとCardanoネットワークに関する東アジアの一般の人々の意識レベルを高めることは、Catalystコミュニティの優先事項であるはずです。このチャレンジでは、Cardanoについて学んだ人々がコミュニティのサポートを活用し、Cardanoネットワークを構築または使用するための資金を提供します。&lt;/p>
+&lt;p>この課題に対する提案の性質は自由です。彼らの唯一の要件は、東アジアを起源とするか、それに焦点を合わせ、東アジアのチームメンバーを含めるか、東アジアの参加者に焦点を当てることです。&lt;/p>
+&lt;p>たとえば、ステークプールの圧倒的多数は北米とヨーロッパにあります。ステークプールが世界中に均等に分散されている場合、Cardanoネットワークはより回復力があります。 Catalystコミュニティは、ステップアップして意図的にそれを実現する必要があります。&lt;/p>
+&lt;p>Cardanoは東アジア（日本と香港）で始まり、Emurgoは東アジアに焦点を当てています。その上に構築しましょう。&lt;/p>
+&lt;h2 id="このプロジェクトは何ですか">このプロジェクトは何ですか？&lt;/h2>
+&lt;p>Cardanoコミュニティの認識能力を活性化し、世界をより良い場所にするための行動の呼びかけです。東アジアはカルダノを採用するための肥沃な土地です。若くて発展途上国のプロジェクトは経済的慣性に直面していないため、投資収益率（ROI）は高くなる可能性があります。&lt;/p>
+&lt;p>資金調達の課題を通じて世界のさまざまな地域に直接かつ意図的に取り組むことで、私たちのコミュニティはよりアクセスしやすくなります。それは私たちをより弾力的にします。それは私たちが私たちの生態系を構成するコミュニティのニーズを学び、理解するのに役立ちます。&lt;/p>
+&lt;p>成果を上げるための投票が必要なビジョンです。チャレンジが成功すると、受益者はCardanoコミュニティ全体になります。それは、私たちの偏見を塞ぎ、私たちの多くが生まれてきた恩恵を欠いている善良な人々に私たちの目、心を開き、特権的な状況が少ない他の人々が立ち上がって成功できるようにするための呼びかけです。&lt;/p>
+&lt;h2 id="チャレンジチーム">チャレンジチーム&lt;/h2>
+&lt;p>この提案は、チャレンジチームを含めることを目的としています。残念ながら、提案者のチャレンジには、提案がレビューされる前にチャレンジチームを完全に形成する時間がありませんでした。可能であれば、投票を開始する前にそのチームの編成を支援する予定です。&lt;/p>
+&lt;p>次の個人がチャレンジチームに参加することを申し出ました。&lt;/p>
+&lt;ul>
+&lt;li>Felix Weber (&lt;a href="https://cardano.ideascale.com/a/pmd/3077912-48088?">@felixweber&lt;/a>)&lt;/li>
+&lt;li>Robert O&amp;rsquo;Brien (&lt;a href="https://cardano.ideascale.com/a/pmd/3056857-48088?">@wolstaeb&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>チャレンジチームの役割は、Catalystでチャレンジを管理することです。つまり、チャレンジを提示し、進捗状況を追跡し、チャレンジが解決されたかどうかについての視点をコミュニティに報告します。&lt;/p>
+&lt;p>そのチームの一員になりたい場合は、コメントでお知らせください。&lt;/p>
+&lt;h2 id="謝辞">謝辞&lt;/h2>
+&lt;p>この提案は、@ grebelと@archangelbobによって提案された&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088">GrowAfrica 、Grow Cardano&lt;/a>のコピーであり、現在、多くの&lt;a href="https://cardano.ideascale.com/a/campaign-home/26108">Catalystチャレンジの&lt;/a>1つです。&lt;/p></description></item><item><title>Catalyst: 東アジアを育て、カルダノを育てる</title><link>/ja/catalyst/fund6/eth-proposals/grow-east-asia-grow-cardano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/eth-proposals/grow-east-asia-grow-cardano/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/CeZynbrO-ak" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>チャレンジ：&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/">ファンド7チャレンジ設定&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>要求額（USD）：&lt;/strong> $ 250,000&lt;/p>
+&lt;h2 id="チャレンジクエッション">チャレンジクエッション：&lt;/h2>
+&lt;p>包括的で多様かつサポーティブな方法で、東アジアのCardanoエコシステムをどのように成長させますか？私たちがアフリカで行うのと同じような、焦点を絞ったイニシアチブと実装です！&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>Cardanoコミュニティは、北米とヨーロッパに大きく拠点を置いています。他の場所で成長するには、コミュニティとしてのサポートとイニシアチブが必要です。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>私たちのエコシステムを成長させるために集まってチームを形成するアジアからの、またはアジアとのつながりを持つ幅広い人々。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>この課題の最後に、開発されたソリューションのクオリティに関するいくつかの指針となる問いを、自問します。&lt;/p>
+&lt;ul>
+&lt;li>ProjectCatalystの東アジアの参加者からの提案の数&lt;/li>
+&lt;li>東アジアのチームから発信された資金提供された提案の量と質。&lt;/li>
+&lt;li>資金提供されたプロジェクトの観察された影響（KPIを満たす）。&lt;/li>
+&lt;li>CardanoコミュニティとCatalystチームへの東アジア居住者の参加を増やしましたか？&lt;/li>
+&lt;li>勢いとエンゲージメントの代用手段として、デイリー/マンスリーアクティブウォレット（DAW / MAW）が増加しましたか？&lt;/li>
+&lt;li>東アジアに拠点を置くステークプールとステークプールオペレーターの数を増やしましたか？&lt;/li>
+&lt;/ul>
+&lt;p>また、提案の質について具体的な質問をします。&lt;/p>
+&lt;ul>
+&lt;li>東アジア全体にCardanoソリューションを展開する際の微妙な違いを理解するのに役立つ資金提供を受けたプロジェクトの進捗状況、失敗、または成功についての良いフィードバックはありますか？&lt;/li>
+&lt;li>ソリューションの新規性と適切性は何ですか？&lt;/li>
+&lt;li>東アジアでCardanoを使用している人々の生活を改善するために順調に進んでいますか？&lt;/li>
+&lt;li>提案のパフォーマンスを測定するために、社会的および環境的影響評価が使用されましたか？&lt;/li>
+&lt;li>Catalystの範囲を超えた提案の持続可能性とは何ですか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>アフリカと同様に、ブロックチェーンとCardanoネットワークに関する東アジアの一般の人々の意識レベルを高めることは、Catalystコミュニティの優先事項であるはずです。このチャレンジでは、Cardanoについて学んだ人々がコミュニティのサポートを活用し、Cardanoネットワークを構築または使用するための資金を提供します。&lt;/p>
+&lt;p>この課題に対する提案の性質は自由です。彼らの唯一の要件は、東アジアを起源とするか、それに焦点を合わせ、東アジアのチームメンバーを含めるか、東アジアの参加者に焦点を当てることです。&lt;/p>
+&lt;p>たとえば、ステークプールの圧倒的多数は北米とヨーロッパにあります。ステークプールが世界中に均等に分散されている場合、Cardanoネットワークはより回復力があります。 Catalystコミュニティは、ステップアップして意図的にそれを実現する必要があります。&lt;/p>
+&lt;p>Cardanoは東アジア（日本と香港）で始まり、Emurgoは東アジアに焦点を当てています。その上に構築しましょう。&lt;/p>
+&lt;h2 id="このプロジェクトは何ですか">このプロジェクトは何ですか？&lt;/h2>
+&lt;p>Cardanoコミュニティの認識能力を活性化し、世界をより良い場所にするための行動の呼びかけです。東アジアはカルダノを採用するための肥沃な土地です。若くて発展途上国のプロジェクトは経済的慣性に直面していないため、投資収益率（ROI）は高くなる可能性があります。&lt;/p>
+&lt;p>資金調達の課題を通じて世界のさまざまな地域に直接かつ意図的に取り組むことで、私たちのコミュニティはよりアクセスしやすくなります。それは私たちをより弾力的にします。それは私たちが私たちの生態系を構成するコミュニティのニーズを学び、理解するのに役立ちます。&lt;/p>
+&lt;p>成果を上げるための投票が必要なビジョンです。チャレンジが成功すると、受益者はCardanoコミュニティ全体になります。それは、私たちの偏見を塞ぎ、私たちの多くが生まれてきた恩恵を欠いている善良な人々に私たちの目、心を開き、特権的な状況が少ない他の人々が立ち上がって成功できるようにするための呼びかけです。&lt;/p>
+&lt;h2 id="チャレンジチーム">チャレンジチーム&lt;/h2>
+&lt;p>この提案は、チャレンジチームを含めることを目的としています。残念ながら、提案者のチャレンジには、提案がレビューされる前にチャレンジチームを完全に形成する時間がありませんでした。可能であれば、投票を開始する前にそのチームの編成を支援する予定です。&lt;/p>
+&lt;p>次の個人がチャレンジチームに参加することを申し出ました。&lt;/p>
+&lt;ul>
+&lt;li>Felix Weber (&lt;a href="https://cardano.ideascale.com/a/pmd/3077912-48088?">@felixweber&lt;/a>)&lt;/li>
+&lt;li>Robert O&amp;rsquo;Brien (&lt;a href="https://cardano.ideascale.com/a/pmd/3056857-48088?">@wolstaeb&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>チャレンジチームの役割は、Catalystでチャレンジを管理することです。つまり、チャレンジを提示し、進捗状況を追跡し、チャレンジが解決されたかどうかについての視点をコミュニティに報告します。&lt;/p>
+&lt;p>そのチームの一員になりたい場合は、コメントでお知らせください。&lt;/p>
+&lt;h2 id="謝辞">謝辞&lt;/h2>
+&lt;p>この提案は、@ grebelと@archangelbobによって提案された&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088">GrowAfrica 、Grow Cardano&lt;/a>のコピーであり、現在、多くの&lt;a href="https://cardano.ideascale.com/a/campaign-home/26108">Catalystチャレンジの&lt;/a>1つです。&lt;/p></description></item><item><title>Catalyst: Eastern Townhall Team Operation(東半球タウンホールチーム運営)</title><link>/ja/catalyst/fund6/eth-proposals/eastern-townhall-team-operation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/eth-proposals/eastern-townhall-team-operation/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/W49JvW0oIA4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>チャレンジ：&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/catalyst-value-onboarding/campaign-brief/">バリューオンボーディングチャレンジ&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>要求額（USD）：&lt;/strong> $ 10,000&lt;/p>
+&lt;h2 id="問題文">問題文&lt;/h2>
+&lt;p>東部時間帯に住んでいて、言語が英語でない場合、Catalystへの参加は困難です。&lt;/p>
+&lt;h2 id="問題の解決策を説明してください">問題の解決策を説明してください&lt;/h2>
+&lt;p>Eastern TownHallは、イベントやコンテンツの翻訳で東の国をサポートしています。目的は、各ファンドの参加者を20％増やすことです。&lt;/p>
+&lt;h2 id="関連する経験">関連する経験&lt;/h2>
+&lt;p>Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニアリング。東アジアと日本の教育者と会計士。&lt;/p>
+&lt;h2 id="詳細計画">詳細計画&lt;/h2>
+&lt;p>イースタンタウンホールは、東半球とアジア全体でカルダノを成長させるコミュニティ主導のイニシアチブです。私たちは真にグローバルな経済と社会を構築したいと考えています。私たちの焦点は、困難を可能にすることにあります。場所、時間、そして空間：&lt;/p>
+&lt;ul>
+&lt;li>私たちは知識を構築し、情報を共有し、相互につながり、サポートすることができます。&lt;/li>
+&lt;li>言語と文化は参加の障壁ではありません。&lt;/li>
+&lt;li>地域のニーズに対応するために、テクノロジーとコミュニティを適用する方法を学びます。&lt;/li>
+&lt;li>カルダノを使用して経済的幸福を高める方法を示します。&lt;/li>
+&lt;li>私たちのストーリー、エネルギー、そして視点でカルダノのエコシステムを豊かにしてください。&lt;/li>
+&lt;/ul>
+&lt;p>東半球、東および東南アジア地域は、文化的および言語的に多くの国々を結びつけています。 16億人以上の人口を抱える私たちの目標は、カルダノを成長させることです。&lt;/p>
+&lt;h3 id="現在の問題と制限">現在の問題と制限&lt;/h3>
+&lt;p>イースタンタウンホールは、個人とグループが協力して取り組んだ結果です。それぞれが独自の品質をもたらします。私たちはカルダノコミュニティ内およびその周辺で交流し、個人やプロジェクトをProjectCatalystにリンクすることに重点を置いています。しかし、これには時間と労力がかかり、費用がかかります。利用できる資金のプールがないため、達成できることは限られています。&lt;/p>
+&lt;h3 id="提案された解決策資金のプール">提案された解決策：資金のプール&lt;/h3>
+&lt;p>世界中の聴衆にリーチするということは、彼らがいる国、彼らの言語、そして彼らの文化で人々に会うことを意味します。&lt;/p>
+&lt;p>私たちはカルダノエコシステムの積極的な一部です。私たちの基本的なイベントは、毎週開催されるイースタンタウンホールです。しかし、私たちはもっと多くのことをしています。&lt;/p>
+&lt;ul>
+&lt;li>私たちは知識とコンテンツをできるだけ多くの文化にアクセスできるようにします。&lt;/li>
+&lt;li>コミュニティのメンバーが集まるさまざまなイベントを開催しています&lt;/li>
+&lt;li>過小評価グループへの架け橋&lt;/li>
+&lt;li>地域の視点を統合して、Catalystコミュニティを充実させます。と&lt;/li>
+&lt;li>私たちは聞きます！私たち全員が理解するのに役立つ意見やデータを収集します。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>私たちは翻訳を行い、コミュニティを構築し、知識を共有し、起業家を可能にし、カルダノを成長させています。&lt;/strong>&lt;/p>
+&lt;p>コストのかかるすべてのことを行うので、イースタンタウンホールの取り組みを維持するためには、すでに行っていることに余分な労力を加えない方法で資金を確保する必要があります。&lt;/p>
+&lt;p>この提案は、Eastern Townhall Trusted Seedによって管理される資金のプール（財務）を形成および維持することに関するものです。私たちの裁量で使う資金のプール。財務省は、経費を賄い、東部市庁舎の努力を成長させ、維持するために使用されます。翻訳賞金などの費用。コンテンツの制作; Zoom、Github、HackMD、Statbotなどのオンラインサービスサブスクリプションの支払い。東部市庁舎の組織化に関連する活動の支払い。&lt;/p>
+&lt;p>簡単に言えば、この提案はコミュニティグループを組織するための資金に関するものです。特定のCatalyst提案のオーバーヘッドなしに、オンデマンドで必要な資金を提供するリソースと分散サポート構造を確立します。&lt;/p>
+&lt;p>その見返りとして、私たちは私たちの活動と費用に関する財務諸表を報告することを約束します。協力者を見つけることができる限り多くの言語に翻訳されています。私たちの目的は、DAOの財務管理[3]レポートのパイオニアとプロトタイプを作成することです。それは小さな問題ではなく、資金の共有プールを管理することは、コンプライアンスの複雑さをたくさん伴います。報告の取り組みは、原則としてindex.coop [4]およびFWB [5]によって行われている作業と同様です。ほとんどのDAOはまだこれを理解しており、ベストプラクティスはドラフトでさえないので、これを解決するのを手伝ってください。&lt;/p>
+&lt;p>東部市庁舎がどのように支出し、資金を配分しているかを知ることは、将来の資金を引き付けるのに役立ちます。協力者が私たちと協力する機会を特定するのを手伝ってください。&lt;/p>
+&lt;p>東半球全体でより多くの人々に拡大し、リーチするのを手伝ってください。&lt;/p>
+&lt;h3 id="kpiの測定方法と目標">KPIの測定方法と目標&lt;/h3>
+&lt;p>対象国のコミュニティの&lt;strong>ファンド&lt;/strong>ごとに、提案者・有権者・顧問の数に関するアンケートを実施します。目標は、今後6か月で各ファンドの参加を20％増やすことです。ベースラインの例として、CatalystFund6提出フェーズ分析[6]に関する作業を参照してください。&lt;/p>
+&lt;h3 id="kpiに到達するためのアクティビティ">KPIに到達するためのアクティビティ&lt;/h3>
+&lt;p>&lt;strong>毎日&lt;/strong>：Catalystに関するコミュニティからの問い合わせには、メンバーがそれぞれの言語で回答します。 Catalystのコンテンツを翻訳し、Webサイトで公開します。&lt;/p>
+&lt;p>&lt;strong>毎週&lt;/strong>：毎週の計画イベントやミートアップを開催し、各コミュニティと活動に関する情報を共有しています。&lt;/p>
+&lt;p>&lt;strong>毎月&lt;/strong>：私たちの支出が報告されます。マルチシグウォレットを使用して、分散型の方法で財務を管理します。&lt;/p>
+&lt;p>&lt;strong>基金別&lt;/strong>：各地域の有権者、提案者、専門家の数を数えるために、各東部コミュニティで調査が実施されます。&lt;/p>
+&lt;h3 id="実装の詳細とコスト">実装の詳細とコスト&lt;/h3>
+&lt;h3 id="予算エリア">予算エリア&lt;/h3>
+&lt;ol>
+&lt;li>東半球を活性化する毎週のプロジェクト計画会議への出席：20人x2時間x4週間x6か月x $ 15： &lt;strong>$ 14,400&lt;/strong>&lt;/li>
+&lt;li>財務管理、進捗管理、監視および報告活動、その他の新会員勧誘活動など：$ 500 x6か月= &lt;strong>$ 3,000&lt;/strong>&lt;/li>
+&lt;li>一般的な費用：複数のプロジェクトで発生した費用（ドメイン名、ホスティング費用、ズーム）： &lt;strong>$ 1,000&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>合計：（1）＋（2）＋（3）：$ 18,400&lt;/p>
+&lt;p>▲割引：$ 8,400&lt;/p>
+&lt;p>請求：10,000ドル&lt;/p>
+&lt;p>東半球でのCataslytの成功をサポートするKPIを維持するには、将来の資金におけるさらなる資金調達要件が必要になります。&lt;/p>
+&lt;p>私たちはすでにこの活動を開始しており、この資金が調達されるかどうかに関係なく継続します.45.6％の割引を提供して、より広いプロジェクトのために資金を解放しました。&lt;/p>
+&lt;p>&lt;strong>注&lt;/strong>：東半球での東アジアの起業イベント、ミートアップ、翻訳活動、テーマの設定と管理など、各活動に直接必要な資金は、この提案に必要な資金のカテゴリには含まれません。&lt;/p>
+&lt;h3 id="知的財産">知的財産&lt;/h3>
+&lt;p>私たちのコミュニティへの参加は、&lt;a href="https://www.contributor-covenant.org/">貢献者規約&lt;/a>によってカバーされています。コントリビューターライセンスは、私たちのプロジェクトへのコントリビューションに付随しています。誰かの貢献の著作権は保持されます。この契約は、プロジェクトの一環として寄付を使用および再配布する許可を与えるだけです。&lt;/p>
+&lt;p>すべてのソースコードは、Apache License 2.0の下でライセンスされてい&lt;a href="https://github.com/c3eth/c3eth.github.io/main/LICENSE.md">ます。詳細については、LICENSE&lt;/a>ファイルを参照してください。&lt;/p>
+&lt;p>公開されたコンテンツは、&lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・アトリビューション-非営利-継承（CC BY-NC-SA）ライセンスv4.0の下でライセンスされています。&lt;/a>&lt;/p>
+&lt;h3 id="6ヶ月後">6ヶ月後&lt;/h3>
+&lt;p>私たちは、東半球および東アジア諸国でのCatalystの参加をファンドごとに20％増やす能力を実証しました。&lt;/p>
+&lt;h3 id="チーム">チーム&lt;/h3>
+&lt;p>共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> （@zicozibu）-インドネシア：暗号通貨を超えてインドネシア全体でブロックチェーン教育をリードしています。&lt;/p>
+&lt;p>&lt;strong>ティムオブライエン&lt;/strong>（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。&lt;/p>
+&lt;p>チームは、最初のイースタンタウンホールの&lt;strong>信頼できるシードを&lt;/strong>代表しています。役割もリーダーもありません。むしろ、人々は参加を通じて、時間をかけて自分自身を確立します。私たちは、Catalyst Swarm [1]、Catalyst School [2]、およびアジア全体の他のコミュニティグループと重複して協力しています。&lt;/p>
+&lt;h2 id="references">References&lt;/h2>
+&lt;p>[1] &lt;a href="http://catalystswarm.com/">Catalyst Swarm&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="https://linktr.ee/CatalystSchool">Catalyst School&lt;/a>&lt;/p>
+&lt;p>[3]&lt;a href="https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury">DAOが財務管理にどのように取り組むべきか&lt;/a>&lt;/p>
+&lt;p>[4] &lt;a href="https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629">Index CoopQ3財務レポート&lt;/a>&lt;/p>
+&lt;p>[5] &lt;a href="https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0">FWB DAO財務報告（PDF）&lt;/a>&lt;/p>
+&lt;p>[6] &lt;a href="https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711">CatalystFund6提出フェーズ分析&lt;/a>&lt;/p></description></item><item><title>Catalyst: Grow Social &amp; Environmental Finance(社会・環境の金融を育てよう)</title><link>/ja/catalyst/fund6/challenge-setting-proposals/grow-social-finance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenge-setting-proposals/grow-social-finance/</guid><description>
+&lt;p>&lt;strong>Challenge:&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/">Fund 7 Challenge Setting&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/SoFi-Social-Finance/368902-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Requested Amount (USD):&lt;/strong> $250,000&lt;/p>
+&lt;h2 id="チャレンジクエッション">チャレンジクエッション：&lt;/h2>
+&lt;p>社会的および環境的イノベーションに資金を提供するために、Cardano上にどのようなソリューションを構築できますか？&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>気候の緊急事態とそれに関連する経済的課題に対処するには、変化を推進するための回復力のある金融ソリューションを構築する必要があります。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>インパクト投資家、NGO、草の根コミュニティは、Cardanoを、最大のインパクトを透過的に提供できるデフォルトの選択肢にします。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>この課題の最後に、開発されたソリューションのクオリティに関するいくつかの指針となる問いを、自問します。&lt;/p>
+&lt;ul>
+&lt;li>それらを使用する人々の生活を改善するために順調に進んでいますか？&lt;/li>
+&lt;li>草の根のコミュニティの取り組みにどのくらいの資金が投入されていますか？&lt;/li>
+&lt;li>インパクト投資のバリューチェーンに沿っていくつのギャップが埋められますか？&lt;/li>
+&lt;li>現在のアプローチと比較して、資本効率を高め、資金調達コストを削減しましたか？&lt;/li>
+&lt;li>Cardanoの技術的機能を最大限に活用したソリューションはありますか？&lt;/li>
+&lt;li>チームは、信頼できるコードを開発するために、高保証のエンジニアリング手法を採用していますか？&lt;/li>
+&lt;li>ソリューションはどの程度分散化されており、制御のポイントはどこにありますか？&lt;/li>
+&lt;/ul>
+&lt;p>現時点では、Social＆Environmental Finance（SoFi）シナリオに対応する使用指標はほとんどありません。したがって、この課題は、分散型ファイナンス（DeFi）市場からのいくつかの指標をガイドとして採用します。&lt;/p>
+&lt;ul>
+&lt;li>日次/月次アクティブウォレット（DAW / MAW）-勢いとエンゲージメントの測定&lt;/li>
+&lt;li>平均注文額-サービスを使用しているユーザー、量、頻度を測定します。&lt;/li>
+&lt;li>Total Value Locked（TLV）-DeFi市場プロトコルの信頼度の尺度。&lt;/li>
+&lt;li>Take Rate（Rake）-効率の測定&lt;/li>
+&lt;li>Gross Merchandise Volume (GMV-取引されたサービスの合計値。&lt;/li>
+&lt;/ul>
+&lt;p>また、提案についていくつか具体的な質問をします。&lt;/p>
+&lt;ul>
+&lt;li>Catalystの範囲を超えた提案の持続可能性とは何ですか？&lt;/li>
+&lt;li>提案のパフォーマンスを測定するために、社会的および環境的影響評価が使用されましたか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>この課題は、Cardanoエコシステムを使用したインパクト投資に火をつける方法です。&lt;/p>
+&lt;p>インパクト投資は、経済的利益とともに、ポジティブで測定可能な社会的および環境的影響を生み出すことを目的として行われます。さまざまなプロジェクトがCardanoでのDeFiの採用を推進していますが、社会的利益の手段としてのDeFiメカニズムの可能性を市場にもたらすことができますか？&lt;/p>
+&lt;p>影響力のある結果を提供することは、たとえ小さな投資収益率であっても、単に投資収益率を提供することよりもはるかに困難です。 （世界経済フォーラムによると）インパクト投資は以下によって妨げられています：&lt;/p>
+&lt;ul>
+&lt;li>投資の社会的または環境的結果に関する信頼できるデータの欠如/高コスト。影響の信頼できる会計処理を困難にします。&lt;/li>
+&lt;li>影響の「帰属」に関する課題–投資家への影響関連の請求の割り当ては、「二重計算」のリスクを伴います。&lt;/li>
+&lt;li>影響を収益化する上での障害–非流動的な影響市場、不確実な収益、高い取引コスト。&lt;/li>
+&lt;/ul>
+&lt;p>市場ソリューション、財務メカニズム、または影響を測定する手段を提案します。これらを大規模に展開して、何百万もの人々にプラスの影響を与える方法を考えてください。提案の結果をさまざまな市場の状況に埋め込んだり再利用したり、既存のプロバイダーと統合したりする方法を考えてください。&lt;/p>
+&lt;p>Cardanoへのインパクト投資に火をつけることで、持続可能な農業、再生可能エネルギー、保全、マイクロファイナンス、住宅、ヘルスケア、教育などの手頃でアクセス可能な基本サービスなどの分野で世界で最も差し迫った課題に対処するための資本が提供されます。&lt;/p>
+&lt;p>インパクトを実現するには、協力とコラボレーションが必要です。これは、Cardanoが可能にするものです。世界の資源をより適切に管理するための答えは、政府や大規模な投資家ではなく、ピアツーピアの支援を強化するテクノロジーにあるのでしょうか？たとえば、コミュニティベースのファイナンスやデータ駆動型のクラウドファンディング。Cardanoエコシステムの素晴らしい力をどのように活用して、その触媒になることができますか？&lt;/p></description></item><item><title>Catalyst: Connect East Asian Entrepreneurs（東アジアの起業家を繋がろう）</title><link>/ja/catalyst/fund6/eth-proposals/connect-east-asian-entrepreneurs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/eth-proposals/connect-east-asian-entrepreneurs/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Ibm36IXxnYA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>Challenge:&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/proposer-outreach/campaign-brief/">Proposer Outreach&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>予算 (USD):&lt;/strong> $20,000&lt;/p>
+&lt;h2 id="問題点">問題点&lt;/h2>
+&lt;p>東アジアの起業家を現地の言語で引き付け、関与させるイニシアチブはありません。&lt;/p>
+&lt;h2 id="解決策">解決策&lt;/h2>
+&lt;p>東アジアの起業家のネットワークを確立し、サポートするために、Eastern Town Hallと対象を絞った仮想イベントを開催します。&lt;/p>
+&lt;h2 id="関連する経験">関連する経験&lt;/h2>
+&lt;p>Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニアリング。東アジアと日本の教育者と会計士。&lt;/p>
+&lt;h2 id="詳細計画">詳細計画&lt;/h2>
+&lt;p>私たちは、東アジアの起業家の未開拓の大きな可能性に到達したいと考えています。彼らがいる場所、彼らの国、彼らの言語、そして彼らの文化に会いましょう。Eastern Town Hallは、東アジアの起業家の成長するネットワークを確立したいと考えています。彼らが知識を構築し、情報を共有し、つながり、お互いをサポートできる場所です。グローバルに考え、ローカルに行動しましょう。&lt;/p>
+&lt;h3 id="現在の問題と制限">現在の問題と制限&lt;/h3>
+&lt;p>何かを突いたり、押したり、成形したりすると、反対側に新しくて面白いものが飛び出したことに気付いた瞬間を思い出してください。私たちは再びここに、そして今回は世界規模でここにいます。私たちCardanoCatalystコミュニティは、新しい考え方のパイオニアです。統治と資金調達の新しい方法。しかし、宇宙にへこみを作るには、起業家が必要です。人々はリスクを冒し、突く、押す、そして新しいやり方を形作ろうとしています。&lt;/p>
+&lt;p>言語や文化の障壁が存在する場合、起業家に到達することは困難です。地元でも、未開発のスタートアップ資金調達プログラムがあるかもしれません。これは、未実現のスタートアップ資金調達の機会をもたらす可能性があります。Cardanoの機会と技術的、経済的利益を認識している東アジアの起業家はほとんどいません。また、地元の市場機会に対処するためのコミュニティ内でCardano技術を適用する方法についての完全な理解もありません。私たちはそれを変えたいと思っています。&lt;/p>
+&lt;h3 id="提案されたソリューションcardano-startup-month">提案されたソリューション：Cardano StartUp Month&lt;/h3>
+&lt;p>この提案は、ベトナムとインドネシアで起業家を育成するために、2022年1月/ 2月に仮想イベントを開催することに関するものです。このイベントは、Cardanoに基づいた市場機会を開拓するために起業家をスキルアップすることを目的としています。&lt;/p>
+&lt;p>**このイベントの目的は、スタートアップの創設者と分散型自律組織（DAO）の協力者を育成することです。**スタートアップを構築するのではありません！目的は教育です。一般の人々がリスクなしに起業家精神とブロックチェーンテクノロジーにアクセスするためのソフトな方法を提供することにより、経験に基づく学習に焦点を当てています。&lt;/p>
+&lt;p>イベントは4週間にわたって行われます。&lt;/p>
+&lt;p>&lt;strong>仮想ネットワーキング（第1週と第2週）&lt;/strong>：イベントの最初の2週間は、ネットワーキングに関するものです。登録された参加者を互いに会わせ、彼らのアイデアや願望について話し合います。チュートリアルセッションは、ビジネスデザインツールのスキルアップと習熟を支援するために開催されます。&lt;/p>
+&lt;p>&lt;strong>ピッチとチームアップ（第3週の開始）&lt;/strong>：すべての参加者がオープニングイベントに集まり、個々の参加者が追求したいプロジェクトアイデアの60秒のピッチを与えることができます。人々はチーム参加の選択により、投票します。&lt;/p>
+&lt;p>&lt;strong>学び、働く（第3週と第4週）&lt;/strong> ：次の2週間で、チームは協力し始めます。メンターが割り当てられます。専門家による特別セッションが実施されます。チームは、潜在的な顧客とのアイデアを検証することをお勧めします。 2週間を通して、各チームは4回の30分のピッチセッションを行い、メンターのパネルがピッチとCatalystプロポーザルの改善を支援します。&lt;/p>
+&lt;p>&lt;strong>ピッチ（第4週の終わり）&lt;/strong> ：すべての参加者がクロージングイベントに集まります。ピッチ！各チームは、質問をするパネリストに市場の問題と解決策を提示するために5分間与えられます。提案するには、すべてのチームが提案をCatalystに提出している必要があります。すべてのプレゼンテーションが行われると、聴衆は優勝チームを選びます。賞品が授与されます。私たちは皆お祝いをします！FUND8の終わりに、Catalyst投票者は誰に資金を提供するかを選択します。&lt;/p>
+&lt;p>このイベントでは、Cardano Blockchainソリューションに焦点を当て、ビジネスモデル生成、顧客開発アプローチ、およびLean Startup、Platform Design Toolkit、WardleyMappingなどの分析ツールの使用に重点を置きます。&lt;/p>
+&lt;p>FUND8に提案が提出されるまでに、起業家チームが結成され、協力し、顧客テストを終了し、堅牢なビジネスモデルを開発します。&lt;/p>
+&lt;h3 id="成功したらどうなるか">成功したらどうなるか&lt;/h3>
+&lt;p>このイベントは、2022年2月のCatalystファンド8の第2週の終わりに終了する予定です。チームは、作業の一環として、Catalystファンド8に提案を提出します。&lt;/p>
+&lt;p>イベントの終わりに、少なくとも15チームがプロセスを完了し、Catalyst Fund 8に提案を提出します。個人は、カルダノの旅を続けるための新しいスキル、つながり、インスピレーションでイベントを完了します。&lt;/p>
+&lt;h4 id="主要業績評価指標">主要業績評価指標&lt;/h4>
+&lt;p>起業家スタートアップ月間、参加者：&lt;/p>
+&lt;ul>
+&lt;li>少なくとも20チームを形成する100人の個人に到達します。&lt;/li>
+&lt;li>少なくとも15チームが提案を提出します。&lt;/li>
+&lt;li>Catalyts Fund8 / 9で少なくとも3つの提案が資金提供されます。&lt;/li>
+&lt;/ul>
+&lt;p>イベントの終わりに：&lt;/p>
+&lt;ul>
+&lt;li>私たちはソーシャルメディアの存在感を1000人のフォロワーによって増やしました。&lt;/li>
+&lt;li>このイベントは、4つの主要なメディアによって取り上げられています。&lt;/li>
+&lt;/ul>
+&lt;h4 id="1か月後">1か月後：&lt;/h4>
+&lt;ul>
+&lt;li>イベントチームが結成され、プロジェクト計画と予算が確定しました。&lt;/li>
+&lt;li>イベントウェブサイトとソーシャルメディアアカウントが開設されました。&lt;/li>
+&lt;li>イベントオンライン登録の設定。&lt;/li>
+&lt;li>イベントプロモーションコンテンツ（ブログ/ビデオ）が開発されました。&lt;/li>
+&lt;li>イベントのPRとプロモーションが始まりました。&lt;/li>
+&lt;/ul>
+&lt;h4 id="2か月後">2か月後：&lt;/h4>
+&lt;ul>
+&lt;li>メンター、ジャッジ、登録はすべて確認されました。&lt;/li>
+&lt;li>イベントが進行中で、実行されています。&lt;/li>
+&lt;/ul>
+&lt;h4 id="6か月後">6か月後：&lt;/h4>
+&lt;ul>
+&lt;li>最初のイベントは正常に完了し、別の改善されたイベントを計画しています。&lt;/li>
+&lt;li>3つのチームが、Cardanoを積極的に構築している3つの資金提供を受けたプロジェクトになりました。&lt;/li>
+&lt;/ul>
+&lt;h4 id="12か月後">12か月後：&lt;/h4>
+&lt;ul>
+&lt;li>CardanoStartMonth/Weekは、アジアのCardanoカレンダーで確立されたイベントです。&lt;/li>
+&lt;/ul>
+&lt;h3 id="知的財産">知的財産&lt;/h3>
+&lt;p>すべてのソースコードは、Apache License 2.0の下でライセンスされています。詳細については、&lt;a href="https://github.com/c3eth/c3eth.github.io/main/LICENSE.md">LICENSE&lt;/a>ファイルを参照してください。公開されたコンテンツは、&lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.&lt;/a>の下でラインセンスされています。&lt;/p>
+&lt;h3 id="予算">予算&lt;/h3>
+&lt;p>計画された活動の詳細な予算内訳については、添付の提案計画を参照してください。&lt;/p>
+&lt;ul>
+&lt;li>コアチーム**$ 10,500 USD：**プロジェクト管理、コンテンツ制作、コミュニティ管理、および管理を含みます。&lt;/li>
+&lt;li>サポートチーム**$ 3,500 USD：**メンター、審査員、特別ゲスト。&lt;/li>
+&lt;li>マーケティングとコミュニケーション**$ 5000 USD：**メディア訪問、インフルエンサーコラボレーション、Google / IG広告&lt;/li>
+&lt;li>不測の事態（％5）： &lt;strong>$ 1,000 USD&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="チーム">チーム&lt;/h3>
+&lt;p>共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> （@zicozibu）-インドネシア：暗号通貨を超えてインドネシア全体でブロックチェーン教育をリードしています。&lt;/p>
+&lt;p>&lt;strong>ティムオブライエン&lt;/strong>（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。&lt;/p>
+&lt;p>We are working with Venture Centre[1], IdeaFest[2], and Catalyst School[3]; as part of the proposal, we aim to work with Enterprenerdy[4], Emurgo[5], local Universities, and IOG&amp;rsquo;s Catalyst Team.&lt;/p>
+&lt;h2 id="references">References&lt;/h2>
+&lt;p>[1] &lt;a href="https://www.venturecentre.nz/">Venture Centre&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021">IdeaFest&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://linktr.ee/CatalystSchool">Catalyst School&lt;/a>&lt;/p>
+&lt;p>[4] &lt;a href="https://entreprenerdy.com/">Enterprenerdy&lt;/a>&lt;/p>
+&lt;p>[5] &lt;a href="https://emurgo.io/">Emurgo&lt;/a>&lt;/p></description></item><item><title>Catalyst: Connecting Asian Voters and Proposers</title><link>/ja/catalyst/fund6/eth-proposals/connect-asian-voters-proposers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/eth-proposals/connect-asian-voters-proposers/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/BT2-0tnZnzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>Challenge:&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/distributed-decision/campaign-brief/">Distributed decision making&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>予算 (USD):&lt;/strong> $15,000&lt;/p>
+&lt;h2 id="問題点">問題点&lt;/h2>
+&lt;p>言語の違いや文化的独占性が原因で、投票に対する信頼できる情報が不足しているなどの障壁があります。&lt;/p>
+&lt;h2 id="解決策">解決策&lt;/h2>
+&lt;p>現地の言語と文化の場所で人々に会うことにで、信頼できる情報を提供します。&lt;/p>
+&lt;h2 id="関連する経験">関連する経験&lt;/h2>
+&lt;p>Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニアリング。東アジアと日本の教育者と会計士。&lt;/p>
+&lt;h2 id="詳細計画">詳細計画&lt;/h2>
+&lt;p>CatalystがFUNDをどのように使うかについての投票は、ADAに長期的な価値をもたらしますが、非常に多くの提案と非常に多くの新しい概念がある中で、どのように投票の決定を下すのでしょうか。あなたが英語を話せないなら、それがどれほど難しいか想像してみてください。より包括的で多様なガバナンスプロセスと戦略を開発すれば、すべてのAda保有者にメリットがあります。 Catalyst CommunityとAdaの所有者が私たちの集合的な認識をレベルアップしない限り、ランダムな投票戦略は十分に研究されたものと同じくらい有効です。&lt;/p>
+&lt;h3 id="現在の問題と制限">現在の問題と制限&lt;/h3>
+&lt;p>言語の違いと文化的独占性により、ガバナンスイニシアチブがグローバルに拡大することはできません。 Catalystの絶え間ない実験は、さまざまな言語や文化を含めるように注意する必要があることを意味します。1つの文化が支配することを避けます。&lt;/p>
+&lt;p>不整合なインセンティブ、詐欺、情報過多により、Ada保有者は投票できません。アジアやその他の英語を母国語としない文化では、言語の壁がこれを悪化させています。言語の壁は、Catalystのすべての段階で明らかです。調査結果によると、Catalyst投票の最大の問題は、日本のサポートの欠如（45.61％）でした。回答者の37％以上が、プロセスを理解する上でのこの問題を強調しました。「英語であるため意味がわからなかったので、ランダムに投票しました」。詐欺の疲れと提案と投票者の間の信頼の欠如も強調されました。別の16％は、インセンティブのミスアライメントの問題について言及しました。&lt;/p>
+&lt;h3 id="私たちのソリューションeastern-townhall-goverance-forum">私たちのソリューション：Eastern Townhall Goverance Forum&lt;/h3>
+&lt;p>私たちの目標は、投票者と提案者のオンボーディングのプロセス、形式、およびイベントの段階を確立することです。投票者、提案者、提案を近づけるため。それらの間の信頼を確立するため。焦点は、6つの相互に補強する領域にあります。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>コンテンツ制作&lt;/strong>：Adaの所有者が提案に投票することが重要である理由を理解するのに役立ちます。&lt;/li>
+&lt;li>&lt;strong>東半球のその言語固有イベント&lt;/strong>：投票者の教育と議論に焦点を当てています。&lt;/li>
+&lt;li>提案者がより広い東アジアに到達するのを支援する提案&lt;strong>言語翻訳パイプライン&lt;/strong>&lt;/li>
+&lt;li>投票者の認識、関与、信頼を構築するためのステージとしての&lt;strong>言語固有のCatalyst SwarmIdeafests&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>ソーシャルメディアマーケティング&lt;/strong>：ソーシャルメディアチャネル全体で投票者のコンテンツとメッセージングをソーシャル化します。そして、&lt;/li>
+&lt;li>&lt;strong>定期的な調査とユーザー調査&lt;/strong>を実施して、 Catalystと提案フォーマットに対する個々の態度を理解するのに役立てます。&lt;/li>
+&lt;/ol>
+&lt;p>この提案は、投票者と提案および提案者を結び付けるために特別に設計されたプログラムの開発を支援するための資金を求めています。&lt;/p>
+&lt;p>これらの活動が一緒になって、私たちが&lt;strong>Eastern Townhall Forum&lt;/strong>と呼ぶプログラムを形成します。私たちの基本的なイベントは、毎週開催されるEastern Townhall です。しかし、私たちはもっとやっています。私たちは翻訳を行い、コミュニティを構築し、知識を共有し、教育し、起業家を可能にし、Cardanoを成長させています。&lt;/p>
+&lt;p>Eastern Townhallの信頼できるシードは、Cardanoエコシステムのアクティブな部分です。コミュニティのメンバーに耳を傾け、関与します。私たちが学んだことを共有します。たとえば、 &lt;strong>Yuta&lt;/strong>は最近、この提案が利用している日本コミュニティ[1]に関する彼の多くの調査の1つを完了しました。私たちは、すべてのコミュニティでこれをさらに実行したいと考えています。投票者のユーザーエクスペリエンスの向上を支援したいと思います。集合的な洞察をProjectCatalystにフィードバックします。&lt;/p>
+&lt;p>Catalystの投票をより利用しやすくすることで、東半球全体の意思決定を改善するのに役立ちます。&lt;/p>
+&lt;h2 id="成功したらどうなるか">成功したらどうなるか&lt;/h2>
+&lt;p>Eastern Townhall イベントへの参加が増え、新しい定期的なコミュニティメンバーの活気が維持されています。より多くのCatalyst提案者がアジアのコミュニティと関わっています。それがアジア市場向けの提案、コンテンツ、またはDAppの単なる翻訳であるとしても。さらに、アジアの提案者は彼らの群衆を見つけます。 Catalystに参加しているアジアの投票者の強力な組織があるので、彼らは資金を調達することができます。調査結果は、提案者との投票者の関与、Catalystプロセス、および投票前の審議の増加を示しています。&lt;/p>
+&lt;h3 id="主要業績評価指標">主要業績評価指標&lt;/h3>
+&lt;p>パフォーマンスを測定するための主要なツールは、投票者調査です。これらはアジア諸国で定期的に実施していきます。ファンド中およびファンド後の調査に基づいて、次のことを期待しています。&lt;/p>
+&lt;ul>
+&lt;li>アジアの投票者の参加を以前のファンドから30％増やします。&lt;/li>
+&lt;li>Catalystへのアジアの参加を前のファンドから20％増やします。&lt;/li>
+&lt;li>Catalystと投票に関する不確実性は、前のファンドから25％減少します。&lt;/li>
+&lt;/ul>
+&lt;p>Eastern Townhall Meetup は、ADAの所有者やCardanoに興味のある人々がコミュニティのメンバーと会うことができる私たちの主要なステージです。そのプラットフォームとソーシャルメディアを通じて、人々はさらに進んでいくことを学び、快適さを感じます。したがって、主要なエンゲージメント指標は、投票者と提案者をつなぐことに成功したことを示しています。&lt;/p>
+&lt;ul>
+&lt;li>Eastern Townhall Meetup の平均週数は、ファンドごとに25％増加します。&lt;/li>
+&lt;li>*4つの言語（ID、JP、KR、VN）*で利用可能なCatalystプロポーザルは、ファンドごとに50％増加します。&lt;/li>
+&lt;li>Eastern Townhallソーシャルメディアアカウントは、6か月でフォロワーを1000人増やします。&lt;/li>
+&lt;/ul>
+&lt;h4 id="1か月後">1か月後：&lt;/h4>
+&lt;ul>
+&lt;li>*アジアの4か国（ID、JP、KR、VN）*で最初のアジア投票者調査を完了&lt;/li>
+&lt;li>言語固有のイベント–投票者の教育とCatalyst Swarm&lt;/li>
+&lt;/ul>
+&lt;h4 id="3か月後">3か月後：&lt;/h4>
+&lt;ul>
+&lt;li>投票者教育ビデオを制作&lt;/li>
+&lt;li>*4つのアジア言語（ID、JP、KR、VN）*で翻訳されたCatalyst投票者資料&lt;/li>
+&lt;li>Eastern Townhalに最初の固有の言語で行われるCatalystSwarmIdeaFestsを開催しました。 （すでにファンド6のテストランが行われています）&lt;/li>
+&lt;/ul>
+&lt;h4 id="6ヶ月後">6ヶ月後&lt;/h4>
+&lt;ul>
+&lt;li>*アジアの4か国（ID、JP、KR、VN）*で6つの有権者調査を完了しました&lt;/li>
+&lt;li>私たちの活動の回顧展を完了しました。&lt;/li>
+&lt;/ul>
+&lt;h4 id="12か月後">12か月後：&lt;/h4>
+&lt;ul>
+&lt;li>私たちは、アジアの投票者や提案者と関わるために必要なコンテンツと慣行を取り入れました。&lt;/li>
+&lt;li>私たちの毎月の調査は継続され、前向きな勢いを示しています。&lt;/li>
+&lt;li>私たちのコンテンツは、コミュニティのメンバーを引き付け続けています&lt;/li>
+&lt;li>コンテンツとCatalystの資料を、アジア全体でより多くの言語に翻訳しました。&lt;/li>
+&lt;/ul>
+&lt;h2 id="知的財産">知的財産&lt;/h2>
+&lt;p>すべてのソースコードは、Apache License 2.0の下でライセンスされています。詳細については、&lt;a href="https://github.com/c3eth/c3eth.github.io/main/LICENSE.md">LICENSE&lt;/a>ファイルを参照してください。&lt;/p>
+&lt;p>公開されたコンテンツは、&lt;a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.&lt;/a>の下でライセンスされています。&lt;/p>
+&lt;h2 id="予算">予算&lt;/h2>
+&lt;p>計画された活動の詳細な予算内訳については、添付の提案計画を参照してください。&lt;/p>
+&lt;ul>
+&lt;li>コアチーム**$ 4,000 USD：**プロジェクト管理と管理を含みます。&lt;/li>
+&lt;li>サポートチーム**$ 5,000 USD：**コミュニティマネージャー/リーダー、モデレーター、通訳&lt;/li>
+&lt;li>グラフィックおよびビデオコンテンツの制作**$ 4500 USD：**教育用ビデオ、ソーシャルメディアのポスター/ビデオ、および翻訳&lt;/li>
+&lt;li>不測の事態（％10）： &lt;strong>$ 1,500 USD&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>ベトナムとインドネシアでは人件費がはるかに低く、より多くのことができます。ただし、これらのコストは、親切な仕事/スキルのグローバル中央値に正規化する必要があります。誰もがベトナム/インドネシアに住んでいるわけではありません。&lt;/p>
+&lt;h3 id="チーム">チーム&lt;/h3>
+&lt;p>共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> (@zicozibu) - Indonesia: Leading blockchain education beyond cryptocurrencies and across Indonesia.&lt;/p>
+&lt;p>&lt;strong>ティムオブライエン&lt;/strong>（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。&lt;/p>
+&lt;p>チームは、最初のイースタンタウンホールの&lt;strong>信頼できるシードを&lt;/strong>代表しています。役割もリーダーもありません。むしろ、人々は参加を通じて、時間をかけて自分自身を確立します。私たちは、Catalyst Swarm [1]、Catalyst School [2]、およびアジア全体の他のコミュニティグループと重複して協力しています。&lt;/p>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;p>[1] &lt;a href="https://t.me/ProjectCatalystChat/53776">Japanese community Survey August 2021&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="http://catalystswarm.com/">Catalyst Swarm&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://linktr.ee/CatalystSchool">Catalyst School&lt;/a>&lt;/p></description></item><item><title>Catalyst: On-boarding East Asia Today!(東アジアの人々をCatalystに連れてこよう！)</title><link>/ja/catalyst/fund6/eth-proposals/on-board-east-asia-today/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/eth-proposals/on-board-east-asia-today/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/TR37P2F7QNk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>Challenge:&lt;/strong> &lt;a href="/ja/catalyst/fund6/challenges/multilingual-resources/campaign-brief/">Multilingual resources&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/On-boarding-East-Asia-Today!/368844-48088?">&lt;img src="https://img.shields.io/badge/Proposal-Catalyst-blue" alt="Catalyst Proposal Badge">&lt;/a>&lt;/p>
+&lt;p>&lt;strong>予算 (USD):&lt;/strong> $12,500&lt;/p>
+&lt;h2 id="問題点">問題点&lt;/h2>
+&lt;p>数十億の人口にもかかわらず、ローカライズされたコンテンツが不足しているため、Catalystでは東アジアでは過小評価されています。&lt;/p>
+&lt;h2 id="解決策">解決策&lt;/h2>
+&lt;p>東アジアのできるだけ多くの言語でCatalystのドキュメントと提案を翻訳する翻訳パイプラインを設定します。&lt;/p>
+&lt;h2 id="関連する経験">関連する経験&lt;/h2>
+&lt;p>Catalyst Swarm、Eastern Townhall、CatalystSchoolの共同創設者。 IT＆ソフトウェアエンジニア。東アジアと日本の教育者と会計士。&lt;/p>
+&lt;h2 id="詳細計画">詳細計画&lt;/h2>
+&lt;p>東アジアと東南アジア地域は、文化的および言語的に多様な国々を結びつけています。これらのコミュニティの人々は、Cardanoエコシステムに参加することに興奮しています。人口は16億人もいますが、Catalystは東アジアおよび東南アジア地域からの提案をほとんど見ていません。&lt;/p>
+&lt;h3 id="現在の問題と制限">現在の問題と制限&lt;/h3>
+&lt;p>東アジアと東南アジアの地域では、英語は日常的に話されておらず、地域の言語のウェブが使用されています[1]。&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/JFsp5WD.png" alt="English Proficiency Index: www.ef.com/epi">&lt;/p>
+&lt;p>言語の壁はCatalystへの参加を減らします。これは、この地域でのカルダノの採用と有用性の潜在的な成長を制限します。私たちはこれを経験し、私たちのコミュニティからこれを聞いています。Cardanoには、私たちのストーリー、エネルギー、そしてCardanoを使用して経済的幸福を高める方法についての見方が欠けていることを私たちは知っています。&lt;/p>
+&lt;h3 id="提案されたソリューション翻訳パイプラインと自動化">提案されたソリューション：翻訳パイプラインと自動化&lt;/h3>
+&lt;p>私たちの目的は、コンテンツ翻訳の合理化されたプロセスを構築および文書化し、ローカライズされたコンテンツの開発を開始することです。 Git、Hugo、GithubActionsを使用して簡単な翻訳パイプライン[2]をすでに設定しています。 Crowdin [3]、Lokalize [4]、PoEditor [5]、GitLozalise [6]などのいくつかの翻訳サービスをEasternTownhallでテストし、整理して経験を積むのに役立てています。&lt;/p>
+&lt;p>私たちの最初の目的は単純です。半自動システムを使用して、既存の多くのCardanoおよびCatalyst資料を東アジアおよび東南アジア地域の多くの言語に翻訳することです。経験を積み、コミュニティを構築する。私たちが何をどのように行うかを文書化します。&lt;/p>
+&lt;p>半自動システムとは、機械翻訳を意味するものではありません。機械翻訳は出発点として役立ちますが、専門用語が難しく、自然に読めません。人間による翻訳には常にわずかな利点があります。半自動化されたシステムとは、翻訳のために作品をキューに入れる機能を指します。これには、機械翻訳サービスを介した作品のフィード、誰かによる作業、レビュー、公開が含まれる場合があります。&lt;/p>
+&lt;p>Kubernetes SIG Docs group [7]によって確立された優れたローカリゼーションドキュメントプロセスを採用および拡張して、サポートを開始します。さまざまな技術スキルと私たちが取りたい将来の方向性に対応するためにプロセスを適応させます。&lt;/p>
+&lt;h3 id="ワークストリーム">ワークストリーム&lt;/h3>
+&lt;p>機能的で持続可能な翻訳パイプラインを確立するために、私たちはすでに開始した作業の開発を支援するための初期資金を求めています。資金は5つのワークストリームをカバーします：&lt;/p>
+&lt;ol>
+&lt;li>翻訳サービスの評価とそれらの統合：Git、Github、Ideascale、およびCardanoFoundationのMarkdownベースのドキュメント作成の取り組みとの統合。&lt;/li>
+&lt;li>翻訳パイプラインの設計、構成、テスト：目標は、追跡が容易で、最小限の監視しか必要としない小規模なプロセスを導入することです。&lt;/li>
+&lt;li>翻訳プロセスの文書化とチュートリアル資料の開発：Kubernettes SIG Doc [7]プロセスを採用および拡張して、私たち自身のニーズに対応します。将来の翻訳者をオンボードするためのローカライズされたチュートリアルコンテンツの開発。&lt;/li>
+&lt;li>トレーナーのトレーニング：Eastern Townhallメンバーとのトレーニングセッションを、他のメンバーをトレーニングできるように、プロセスの能力レベルまで実行します。&lt;/li>
+&lt;li>翻訳：ワークフローを理解するには、実践的な調整と経験が必要になります。私たちは、Catalystガイド、コミュニティアドバイザー、投票者教育、および私たち自身の資料を翻訳することを目指しています。それには、言語ごとに時間と労力がかかります。&lt;/li>
+&lt;/ol>
+&lt;h3 id="規模の拡大学ぶために稼ぐ">規模の拡大：学ぶために稼ぐ&lt;/h3>
+&lt;p>真の規模を実現するには、翻訳とローカリゼーションの標準、自動化、スキルを開発して、ローカリゼーションをより広いCardanoコミュニティにアウトソーシングできるようにする必要があります。翻訳とローカリゼーションを行うことは、Cardanoやさまざまなコミュニティにより深く関与する方法として機能します。翻訳とローカリゼーションの作業を行う、つまり学習と稼ぎです。翻訳とローカリゼーションの仕事をして評判を築き、ADAを獲得します。 Cardanoブロックチェーンでメタデータ、ネイティブアセット、非代替トークン（NFT）、機械学習、Atala Prismを活用して、言語と文化の到達範囲を提供する未来が見えます。ただし、最初はシンプルに開始めるだけです。&lt;/p>
+&lt;h3 id="コラボレーション">コラボレーション&lt;/h3>
+&lt;p>コンテンツの翻訳とローカリゼーションは、CardanoとCatalystで活動している多くのグループに共通する一般的な問題です。この作業を単独で、または排他的に行う予定はありません。Eastern Town Hallでは、私たちは多くの言語と文化を管理する最前線にいます。私たちの計画は、自身の目的のために実践と自動化されたプロセスを開発し、それらを広く共有することです。私たちが学び、行うことはすべて、Cardanoのエコシステム全体に情報を提供することを願っています。&lt;/p>
+&lt;h2 id="成功したらどうなるか">成功したらどうなるか&lt;/h2>
+&lt;p>短期的には、Eastern Townhallは、Catalystプロポーザルが完成したときに、それらを翻訳してホストすることができます。アジア地域の4つの初期言語に翻訳されています。資金提供を受けたプロジェクトレポートも統合され、翻訳されています。また、CardanoおよびCatalystの主要なドキュメントとガイドの翻訳をしています。&lt;/p>
+&lt;p>中期的には、翻訳言語を拡大したいと考えており、Cardanoエコシステム全体で他のグループと積極的に協力してこの作業を行っています。&lt;/p>
+&lt;p>長期的には、Cardanoネットワークを調整バックボーンとして使用して、ドキュメント、ビデオ、ポッドキャストなどの翻訳と解釈のための分散型ワークフロー全体を確立します。CardanoエコシステムシステムにADAを搭載して獲得する最も簡単な方法の1つは、資料の翻訳、転写、または解釈をサポートすることです（大きな夢を見ても害はありません！）。&lt;/p>
+&lt;h3 id="主要業績評価指標">主要業績評価指標&lt;/h3>
+&lt;p>Eastern Townhall の計画、編成、文書化にGitとGithubを使用しているため、指標はGithubのアクティビティとエンゲージメントから導き出されます。&lt;/p>
+&lt;p>&lt;strong>主要な指標&lt;/strong>：プロジェクト速度[8]。Githubから取得したコミットとプルリクエストの基本アクティビティ指標の組み合わせとして定義されます。&lt;/p>
+&lt;p>&lt;strong>アクティビティメトリクス&lt;/strong>：Githubにプロジェクトアクティビティとしてキャプチャされ、ケイデンスドキュメントが追加され、翻訳の速度が向上します。&lt;/p>
+&lt;p>&lt;strong>コミュニティメトリクス&lt;/strong>：Cardanoエコシステムで私たちの仕事がどのように広まり、使用されているかを測定するための、Eastern Townhall ウェブサイトの4つのカテゴリ[9]に分類されたエンゲージメント行動。&lt;/p>
+&lt;h3 id="1か月後">1か月後：&lt;/h3>
+&lt;ul>
+&lt;li>Eastern Townhall のウェブサイト情報アーキテクチャが開発されました。&lt;/li>
+&lt;li>最初のWebサイトの主要コンテンツが特定され、Markdownに移植されました。&lt;/li>
+&lt;li>Eastern Townhall のウェブサイト全体が翻訳されています。&lt;/li>
+&lt;/ul>
+&lt;h3 id="3か月後">3か月後：&lt;/h3>
+&lt;ul>
+&lt;li>GitPullリクエストによって駆動される半自動翻訳パイプラインを確立しました。&lt;/li>
+&lt;li>翻訳を簡素化する手段として、さまざまな翻訳サービスを評価およびテストしました。&lt;/li>
+&lt;li>最初の翻訳プロセスを文書化し、トレーナーをトレーニングしました。&lt;/li>
+&lt;li>ビデオ字幕を含むように翻訳のフォーマットを拡張しました。&lt;/li>
+&lt;li>スキル、言語、および帰属/貢献の追跡のためにNFTを発行します。&lt;/li>
+&lt;/ul>
+&lt;h3 id="6ヶ月後">6ヶ月後&lt;/h3>
+&lt;ul>
+&lt;li>翻訳を行うために、Cardanoコミュニティのより多くのメンバーをオンボーディングします。&lt;/li>
+&lt;li>コアセットにさらに2つの東半球の 言語を追加しました。&lt;/li>
+&lt;li>チュートリアル資料（ドキュメントとビデオ）は、新しい寄稿者と言語のオンボーディングを支援するために開発および翻訳されています。&lt;/li>
+&lt;/ul>
+&lt;h3 id="12か月後">12か月後：&lt;/h3>
+&lt;ul>
+&lt;li>すべてのCatalystプロポーザルと資金提供プロジェクトは、作成されてから数日以内に翻訳および公開されます。&lt;/li>
+&lt;li>コア言語セットを拡張して、東半球の10言語を含めました。&lt;/li>
+&lt;li>プロジェクト/チーム/企業は母国語で視聴者にリーチしたいので、翻訳プロジェクトは自立しています。&lt;/li>
+&lt;li>Cardanoエコシステムは、ドキュメント管理とその翻訳に関する同様の標準を中心に融合しています。&lt;/li>
+&lt;/ul>
+&lt;h3 id="ライセンス">ライセンス&lt;/h3>
+&lt;p>すべてのソースコードは、MITなどの無料のオープンソース（OSI）ライセンスの下でライセンスされ、寄稿は特許なしで寄稿する必要があります。コントリビューターは、コントリビューターカバーナント[10]に同意する必要があります。&lt;/p>
+&lt;p>公開されたコンテンツは、Creative Attribution-Non-Commercial-ShareAlike International (CC BY-NC-SA) License v4.0の下でライセンスされます。メタデータの仕様は、Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)ライセンスの下で公開されます。文書の識別と出所に関する該当するメタデータ仕様は、Cardano改善提案としていつどこで提出されます。&lt;/p>
+&lt;p>コード、ドキュメント、プロジェクトアクティビティは、Githubまたは将来的には同様のサービスで利用できるようになります。&lt;/p>
+&lt;h2 id="予算">予算&lt;/h2>
+&lt;p>要求されたファンド6の予算は、3か月と6か月の費用の賃金です。資金の50％は、私たちがすでに行っている作業と費用をカバーするために遡及的に使用されます。&lt;/p>
+&lt;ul>
+&lt;li>翻訳サービスの評価/統合：1200米ドル&lt;/li>
+&lt;li>ワークフローの自動化：3000米ドル&lt;/li>
+&lt;li>プロセスドキュメント： 2200 米ドル&lt;/li>
+&lt;li>トレーナーのトレーニング：850米ドル&lt;/li>
+&lt;li>翻訳：1250 米ドル&lt;/li>
+&lt;li>プロジェクト管理（％8）： 1000米ドル&lt;/li>
+&lt;li>ソフトウェアサービスとサーバー：3000米ドル&lt;/li>
+&lt;/ul>
+&lt;p>ソフトウェアサービスおよびサーバーの料金（$ 500 x6か月= $ 3,000）には、翻訳を合理化するために翻訳サービス（月額$ 140USDから$ 240USD）を使用する費用が含まれています。 Github;ウェブサイトホスティングと翻訳に必要なサーバー。&lt;/p>
+&lt;p>この資金は、翻訳パイプラインの設定とテストにのみ関係します。 CatalystまたはEasternTownhallの活動に資金を提供する他の手段のいずれかを通じて、3か月を超えて作業を継続するために追加の資金が要求されます。&lt;/p>
+&lt;h3 id="チーム">チーム&lt;/h3>
+&lt;p>共同作業により、チームはカルダノに豊富な文化的および技術的経験をもたらします。私たちは皆、Catalystや、エコシステム全体のコミュニティグループで非常に積極的に活動しています。私たちはカルダノの約束によって団結した多様な集団です：&lt;/p>
+&lt;p>&lt;strong>Yuta Yuta&lt;/strong> （@yutazz）-日本：カルダノオフィシャルアンバサダー、コミュニティ共同オーガナイザー、Catalyst Fund 2受領者、公認会計士。&lt;/p>
+&lt;p>&lt;strong>Yan Tirta&lt;/strong> （@yantirta）-インドネシア：カルダノインドネシアのコミュニティラングラーが、地元のコミュニティに教育と励ましを与えています。&lt;/p>
+&lt;p>&lt;strong>Mie Tran&lt;/strong> （@ mie.tran.0407）-ベトナム：英語および国際ビジネス専攻で、欧米のビジネスおよび翻訳の経験があります。&lt;/p>
+&lt;p>&lt;strong>Andy Sibuea&lt;/strong> （@zicozibu）-インドネシア：暗号通貨を超えてインドネシア全体でブロックチェーン教育をリードしています。&lt;/p>
+&lt;p>&lt;strong>ティムオブライエン&lt;/strong>（@tobrien）-ベトナム：ノーコードパイオニア。東アフリカ市庁舎（EATH）のファシリテーター。&lt;/p>
+&lt;p>&lt;strong>Greg Bell&lt;/strong> （@grebel）-オーストラリア：ITコンサルタント、CatalystChallengesの執筆。&lt;/p>
+&lt;p>&lt;strong>Seomon Blub&lt;/strong> （@seomon）-オーストリア：持続可能なコミュニティのためのピープルウェアインフラストラクチャに焦点を当てたITコンサルタント。&lt;/p>
+&lt;p>&lt;strong>Robert O&amp;rsquo;Brien&lt;/strong> （@wolstaeb）-ニュージーランド：金融システムソフトウェアエンジニア、コミュニティ共同オーガナイザー、起業家。&lt;/p>
+&lt;p>&lt;strong>Stephen Whitenstall&lt;/strong> （@swhitenstall）-イングランド：Catalystを追跡および文書化します。 CatalystCircleやCatalystSwarmなどのコミュニティの組織化を支援します。&lt;/p>
+&lt;p>&lt;strong>Felix Weber&lt;/strong> （@felixweber）-フランス：コミュニティマネージャーが人々の間に架け橋を築きます。 T＆M Catalyst Circle / Swarm / Schoolのメンバー。&lt;/p>
+&lt;p>チームは、最初のイースタンタウンホールの&lt;strong>信頼できるシードを&lt;/strong>代表しています。役割もリーダーもありません。むしろ、人々は参加を通じて、時間をかけて自分自身を確立します。私たちは、Catalyst Swarm [1]、Catalyst School [2]、およびアジア全体の他のコミュニティグループと重複して協力しています。&lt;/p>
+&lt;h2 id="references">References&lt;/h2>
+&lt;p>[1] &lt;a href="https://www.ef.com/wwen/epi/">English Proficiency Index&lt;/a>&lt;/p>
+&lt;p>[2] &lt;a href="https://c3eth.github.io/catalyst/fund6/">Eastern Townhall Catalyst Fund 6 Work&lt;/a>&lt;/p>
+&lt;p>[3] &lt;a href="https://crowdin.com/">Crowdin&lt;/a>&lt;/p>
+&lt;p>[4] &lt;a href="https://lokalise.com/">Lokalize&lt;/a>&lt;/p>
+&lt;p>[5] &lt;a href="https://poeditor.com/">PoEditor&lt;/a>&lt;/p>
+&lt;p>[6] &lt;a href="https://gitlocalize.com/">GitLozalise&lt;/a>&lt;/p>
+&lt;p>[7] &lt;a href="https://kubernetes.io/docs/contribute/localization/#minimum-required-content">Kubernetes SIG Docs group&lt;/a>&lt;/p>
+&lt;p>[8] &lt;a href="https://chaoss.community/metric-project-velocity/">Project Velocity&lt;/a>&lt;/p>
+&lt;p>[9] &lt;a href="https://communityroundtable.com/best-practices/thecrs-work-out-loud-framework/">Community Metrics&lt;/a>&lt;/p>
+&lt;p>[10] &lt;a href="https://www.contributor-covenant.org/">Contributor Covernant&lt;/a>&lt;/p></description></item><item><title>Catalyst: Catalyst Natives COTI：ADAプラグイン支払</title><link>/ja/catalyst/fund7/challenges/catalyst-native-coti/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/catalyst-native-coti/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 100,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26256">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26256/stage/unspecified">browse ideas&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>COTIは、Cardanoとの非常に生産的で成功したパートナーシップとともに、コミュニティ向けの非常にユーザーフレンドリーでスケーラブルなADA支払いソリューションを開発しました。その結果、ヨーロッパの小さなホテルからアジアの大きなeコマースWebサイトまで、さまざまなオンラインマーチャントが、ADA Payをサイトに統合するときに、数百または数千のADAトランザクションを簡単に受け入れることができます。&lt;/p>
+&lt;p>Catalystを使用すると、コミュニティに革新的な技術的課題を提供し、ShopifyやWooCommerceなどのプラットフォームを現在使用しているすべての中小企業がプラグインを追加することでシームレスに統合されたADAペイメントを彼らのサイトに簡単に受け入れることができるようにします。&lt;/p>
+&lt;p>一言で言えば、ADA Payは現在、各支払い試行に個別の支払い要求を送信する機能を提供し、マーチャントが注文を完了する前に顧客のIDを必要とせずに各クライアントを効果的に識別できるようにします。言い換えれば、ADA Payを統合している企業は、潜在的な顧客に一意のアドレスを送信し、Webhookを介して支払いプロセスのすべての段階で通知を受けることができます。さらに、クライアントのバックエンドに支払い要求を登録することにより、マーチャントは、クライアントの情報を第三者に開示することなく、誰が何に対して支払うかを知ることができます。&lt;/p>
+&lt;p>チャレンジを進めるチームには、ADA PayシステムへのAPIキーと、支払いソリューションの完全なAPIドキュメントが提供されます。 APIキーを使用すると、Cardanoテストネットを介してADAで支払いを送受信できます。 APIドキュメントには、支払い要求を作成し、資金を引き出すためのエンドポイントと、支払い要求に関する進行中のアクティビティを通知するためのWebhookも含まれています。&lt;/p>
+&lt;p>上記のツールを使用して、チャレンジに関与するチームから、現在のADA Payシステムと統合され、上記のさまざまなeコマースソフトウェアをすべてサポートする革新的なプラグインを作成することを期待しています（ShopifyおよびWooCommerce）。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>この課題の最後に、私たちは自分自身に問いかけます。さまざまなeコマースプラットフォームに統合する準備ができている、シンプルで完璧、そして統合が容易なADA Payプラグインソリューションはありますか？&lt;/p>
+&lt;p>プラグインのUIと支払いフローはユーザーフレンドリーですか？たとえば、顧客が商品をカートに追加してからトランザクションが完了するまでのプロセスはスムーズですか？&lt;/p>
+&lt;p>クリエイティブに;トランザクションを完了するために必要なクリック数が少ないほど、優れています。&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>新しいコンポーネントに統合できるeコマースプラットフォームの総数。&lt;/li>
+&lt;li>提案された支払いフローの有効性を測定する、合計トランザクション試行と完了したトランザクションの比率。&lt;/li>
+&lt;li>サービスの品質を損なうことなく、プラグインのスケーラビリティ。&lt;/li>
+&lt;li>プラグインと統合できるマーチャントの数。&lt;/li>
+&lt;/ul>
+&lt;h2 id="ガイドの質問">ガイドの質問：&lt;/h2>
+&lt;p>以下のことを考慮し、提案の中で計画されたアプローチについての理論的根拠を提供していただきたいと思います。&lt;/p>
+&lt;ul>
+&lt;li>プラグインの品質をどのようにテストし、ソフトウェアプラットフォームにプラグインを実装するのはどれほど簡単ですか？&lt;/li>
+&lt;li>プラグインは、さまざまなWebサイトからの1秒あたりの大量のトランザクションを問題なく処理できますか？&lt;/li>
+&lt;li>ユーザーのニーズに合わせて設計し、プラグインのパフォーマンスに関するマーチャントのフィードバックをどのように取り入れますか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="資金調達パラメータ">資金調達パラメータ&lt;/h2>
+&lt;p>COTIは、すべてのチャレンジ報酬に資金を提供しています。&lt;/p>
+&lt;p>提案者：成功した提案者はCOTIトークンで資金提供されます。 COTIトークンを受信できる有効なERC20アドレスを提供する責任があることに注意してください。申請する際は、提案提出のアドレス欄にERC20対応アドレスを明記してください。&lt;/p>
+&lt;p>コミュニティアドバイザー：対象となるVCAおよびCAリワードのCOTIを受け取り、指定されたERC20ウォレットアドレスに送信されます。&lt;/p>
+&lt;p>リファラー：指定されたERC20ウォレットアドレスに送信される適格なリファラー報酬のCOTIを受け取ります。 COTIチャレンジファンドの1％は、適格なリファラー間で共有されます。&lt;/p></description></item><item><title>Catalyst: Catalystアクセラレータとメンター</title><link>/ja/catalyst/fund7/challenges/catalyst-accelerator-mentors/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/catalyst-accelerator-mentors/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 500,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26255">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26255/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>スタートアップの革新と共創は、カルダノの生命線です。現在、多くの初期段階のベンチャーがカルダノエコシステムに参入しており、Catalystは多くの先駆的な成功を後押ししたいと考えています。&lt;/p>
+&lt;p>専門的なビジネスサポート、投資、およびメンタリングプログラムへの経路を提供することにより、Catalystが資金提供する最高のプロジェクトを加速するために、さらに多くのことを行う必要があります。&lt;/p>
+&lt;p>これはCatalystにとって重要です。優れたアイデアを育む必要があり、小規模なチームは社内にあるものを超えたタイムリーな専門知識とツールにアクセスする必要があるからです。&lt;/p>
+&lt;p>この課題は、Catalystを使用してベンチャー構築プログラムを強化、共同開発、および提供するためのプロフェッショナルグレードのアクセラレータープログラムとビジネスインキュベーターを求めています。目的は、Catalystが資金提供するプロジェクトの初期の成功を促進し、それらを投資性の高いベンチャーに変えることです。これは、コミュニティによって資金提供されたプロジェクトが、チームが現在の機能のギャップを埋めることによって貴重なノウハウと戦略を構築するのに役立つリソースと専門知識への迅速な追跡を取得するのに役立ちます。&lt;/p>
+&lt;p>この課題の鍵は、提案と課題の整合性です。そして、プロジェクトの範囲内およびそれ以降の成功はどのように測定されますか？&lt;/p>
+&lt;p>提案者は、彼らの経験と成功の歴史の証拠を提供することを強く考慮し、また、前述の目的を達成するためのプロジェクトの運用アプローチに関する情報をサポートするCatalystの有権者とレビューアを提供する必要があります。詳細が多いほど良いです。&lt;/p>
+&lt;p>この課題に対処する多くの提案がFund7で資金提供されることを期待しており、コミュニティがポートフォリオアプローチを採用して、世界のさまざまな地域からプロジェクトを選択したり、カルダノベースのプロジェクトの採用に関連するさまざまなテーマを採用したりすることを望んでいます。&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>知識は力であり、プロジェクトがプロのメンターとサポーターの分散ネットワークを利用できるようにすることで、ベンチャーはより強く、より速く成長することができます。 Catalystは、ビジネスのインキュベーションと加速の実績を持つ組織やグループに適用したいと考えています。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;ul>
+&lt;li>Catalystが資金提供するプロジェクトの成功を促進するための、財政的、人的、および知的資本へのアクセス&lt;/li>
+&lt;li>共創の精神を共有し、Catalyst、Cardanoの利害関係者、およびCatalystコホートで私たちと協力してくれるプログラム。&lt;/li>
+&lt;/ul>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>資金提供の範囲内で加速できるプロジェクトの数&lt;/li>
+&lt;li>エコシステムに参加できるメンターと投資家の数&lt;/li>
+&lt;li>さまざまな視聴者にサービスを提供するためのプログラムの世界中への配布&lt;/li>
+&lt;li>各アクセラレータプログラムがもたらす機会の質と強さ&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: A.I. ＆SingularityNetは$ 5Tの市場</title><link>/ja/catalyst/fund7/challenges/ai-singularitynet/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/ai-singularitynet/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われた$ 500,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26247">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-AI-SingularityNet">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>人工知能は今世紀の原動力となるでしょう。それは少なくとも暗号通貨やブロックチェーンと同じくらいの大きさになります。&lt;/p>
+&lt;p>Singularityコミュニティは、Cardanoに基づく新しいAGIトークンを発行し、EthereumからCardanoに迅速に移行することで、AGIトークンの価値を危険にさらすために圧倒的に投票することで、Cardanoに信頼を置いています。私たちはその信頼に報い、彼らと彼らの努力の分野にコミュニティの挑戦を捧げることによって彼らがとったリスクを認識することができます。&lt;/p>
+&lt;p>SingularityNetの可能性と組み合わされたCardanoの速度と効率は、両方のコミュニティを他の暗号通貨/トークンから際立たせ、巨大な成長と価値を推進する素晴らしいパートナーシップを作ります。&lt;/p>
+&lt;p>&lt;em>また…私は、人工知能の目標がカルダノの目標と同じくらい有益で倫理的である、私の子供とコミュニティのための世界を望んでいます。&lt;/em>&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>SingularityNet / Cardanoのパートナーシップは、人工知能における今世紀のイノベーションを推進する有益な原動力となる可能性があります&lt;/p>
+&lt;h2 id="マーケットプレイスニュース">マーケットプレイス/ニュース&lt;/h2>
+&lt;p>いくつかの事実：&lt;/p>
+&lt;h3 id="マイクロソフト">マイクロソフト&lt;/h3>
+&lt;ul>
+&lt;li>Nuanceを197億ドルで買収し、ヘルスケアやその他の業界に新しいクラウドとAI機能を提供します&lt;/li>
+&lt;/ul>
+&lt;h3 id="マッキンゼーはai技術には次のような可能性があると推定しています">&lt;strong>マッキンゼー&lt;/strong>は、AI技術には次のような可能性があると推定しています。&lt;/h3>
+&lt;ul>
+&lt;li>19の業界の9つのビジネス機能にわたって、年間3.5兆ドルから5.8兆ドルの価値を生み出します。&lt;/li>
+&lt;li>マーケティングと販売における2.6兆ドルの付加価値&lt;/li>
+&lt;li>サプライチェーンの管理と製造に2兆ドル。&lt;/li>
+&lt;li>価格設定とプロモーションの価値で2,000億ドル&lt;/li>
+&lt;li>小売業の顧客サービス管理に1,000億ドル。&lt;/li>
+&lt;li>旅行業界の収益に11.6％の影響を与える&lt;/li>
+&lt;li>ハイテクに10.2％の影響を与えます。&lt;/li>
+&lt;li>この調査のユースケースの69％で、AIとディープニューラルネットワークは、既存の分析手法が提供できる以上のパフォーマンスを向上させました&lt;/li>
+&lt;/ul>
+&lt;h3 id="singularitynetはaiの力を分配するという集合的な意志から生まれました">&lt;strong>SingularityNET&lt;/strong>は、AIの力を分配するという集合的な意志から生まれました。&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>分散型プロトコルと最初で唯一の分散型プラットフォームを搭載したフルスタックAIソリューションにより、&lt;/strong> AIが大規模に連携および調整できるようになり、今日のAIの成長を制限する主な要因の1つである相互運用性の欠如が解消され、個々のAIの長所と機能を活用します。 -&lt;strong>誰でもAIアルゴリズム、サービス、エージェントのグローバルネットワークを利用できるようにします。&lt;/strong> AIテクノロジーはもはやサイロに存在する必要はなく、特定の企業、インフラストラクチャ、または業界内でのみ運用できます。&lt;/li>
+&lt;li>&lt;strong>世界で最も表現力豊かなロボットであるソフィア&lt;/strong>は、私たちの最初のユースケースの1つです。&lt;/li>
+&lt;/ul>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;ul>
+&lt;li>SingularityNetのチームと個人は、提案と資金提供の可能性に熱狂しているCatalystに到着します。&lt;/li>
+&lt;li>Catalystユーザーは、SingularityNetのテクノロジーに触れ、その使用方法に興奮します。&lt;/li>
+&lt;li>チャレンジの前、最中、後に素晴らしいコラボレーションが行われます。&lt;/li>
+&lt;li>この課題は、2つの暗号コミュニティ間の素晴らしいパートナーシップの始まりの一部として振り返られます。&lt;/li>
+&lt;/ul>
+&lt;h2 id="ガイドの質問">ガイドの質問&lt;/h2>
+&lt;ul>
+&lt;li>SingularityNetのテクノロジーは何を可能にしますか？&lt;/li>
+&lt;li>AI +カルダノはどのようにそしてどこで社会に利益をもたらすことができますか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="考えられる方向">考えられる方向&lt;/h2>
+&lt;ul>
+&lt;li>プロジェクトCatalystを現在のサイズの何倍にも拡張できるようにするAIの改善&lt;/li>
+&lt;li>コミュニティの想像力と熱意を刺激するAIプロジェクト&lt;/li>
+&lt;li>ナレッジベースとドキュメント&lt;/li>
+&lt;li>サンプル、レシピ、テンプレート&lt;/li>
+&lt;li>ハッカソン&lt;/li>
+&lt;/ul>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>意図に戻る&lt;/li>
+&lt;li>提出された提案の数&lt;/li>
+&lt;li>CardanoとSingularityNetの両方のコミュニティメンバーで構成されるチームによる提案の数&lt;/li>
+&lt;li>新しく革新的なソリューションによる提案の数&lt;/li>
+&lt;li>進行中の開発が想定されている提案の数&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Accelerate Decentralized Identity（分散型IDの促進</title><link>/ja/catalyst/fund8/challenges/accelerate-decentralized-idenity/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/accelerate-decentralized-idenity/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/11-Accelerate-Decentralized-Identity-83a0b3.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383978">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/c/campaigns/26443/stage/all/ideas/unspecified">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="campaign-brief">Campaign Brief&lt;/h2>
+&lt;p>カルダノの急速な成長に最もプラスの影響と機会をもたらすために、AtalaPRISMを使用してどのようなソリューションを開発および実装できますか。&lt;/p>
+&lt;h3 id="why-is-it-important">Why is it important?&lt;/h3>
+&lt;p>価値の高い資格を特定することで、パイロットプログラムを立ち上げ、成長を促進するためのガバナンスフレームワークファウンドリを確立できます。&lt;/p>
+&lt;h3 id="what-does-success-look-like">What does success look like?&lt;/h3>
+&lt;p>Cardano分散型インフラストラクチャを活用する能力を解き放つ反復可能なパターンを発見してください。価値の高いクレデンシャルを特定します。&lt;/p>
+&lt;h3 id="key-metrics-to-measure">Key Metrics to measure&lt;/h3>
+&lt;ul>
+&lt;li>2022年に実現された生産パイロットまたはローンチの合計&lt;/li>
+&lt;li>ユースケースでの繰り返し可能なパターンの発見&lt;/li>
+&lt;li>発行者、保有者、検証者の数&lt;/li>
+&lt;li>本番環境でクレデンシャルに対して実行された検証の数&lt;/li>
+&lt;/ul>
+&lt;h2 id="challenge-brief">Challenge Brief&lt;/h2>
+&lt;p>私たちの課題は、資金調達ラウンド6からの大量分散型アイデンティティ（DID）採用の課題の進化であり、私たちが学んでいるすべてのものを最初のAtalaPRISMパイオニアプログラムコホートに接続します。&lt;/p>
+&lt;p>Atala PRISMパイオニアプログラムの2番目のコホートは、Catalyst Fund7が完了すると開始されます。その間、提案書を作成するように促されたCatalystコミュニティのメンバーは、CanvasのAtalaPRISMパイオニアプログラムの最初のコホートコースの資料にアクセスできます。 Canvasへの招待状を受け取るには、メールアドレスを含むIdeascaleで提案を送信してください。&lt;/p>
+&lt;p>このアクセスにより、成長するAtalaPRISMコミュニティに参加できます。 Atala PRISM製品チームとエンジニアは、専用のDiscordチャネルを介して利用できます。プロフェッショナルサービスグループのガバナンスフレームワークファウンドリに含まれています。 SSIスペースのトップリーダーへのアクセス。ここでは、トレンドやユースケースなどについて話し合います。さらに、価値の高いクレデンシャルの成長をサポートし、パートナーがコンセプトから開発、商品化に至るまでを可能にします。&lt;/p>
+&lt;h2 id="areas-of-focus">Areas of Focus&lt;/h2>
+&lt;h3 id="interoperability">Interoperability&lt;/h3>
+&lt;p>ドイツ、カナダ、英国の政府によって発行されたものを含め、ほとんどのデジタルクレデンシャルはHyperledgerIndy元帳にあります。&lt;/p>
+&lt;p>最高のパフォーマンスを発揮するプラットフォームは、最大の市場シェアを獲得します。多くの理由で、私たちは私たちのプラットフォームが優れていると信じています。したがって、CardanoとAtala PRISMには、市場シェアを最大化するためにこれらの他のエコシステムと相互作用する計画を含める必要があります。&lt;/p>
+&lt;p>完全な相互運用性を実現するために、Catalystの提案をお勧めします。成果物は、他のプラットフォームとの互換性を維持しながら、Atala PRISMクレデンシャルのユーザーエクスペリエンス（UX）を最適化する必要があります。&lt;/p>
+&lt;h3 id="新興コミュニティの自治">新興コミュニティの自治&lt;/h3>
+&lt;h5 id="daoガバナンスの実践">DAOガバナンスの実践&lt;/h5>
+&lt;p>ワイオミング州の新しい法律では、分散型自律組織（DAO）を州に登録することができます。私たちは、新しい法律の下でDAOを確立するようにコミュニティに挑戦します。 DAOが管理する共有共有リソースを使用して、影響または開発の目標を管理できます。&lt;/p>
+&lt;p>私たちのコミュニティがDAOを提案しているかどうかを知りたいと思っています。資金提供を受けた提案により、ワイオミング州の法律専門家への紹介を容易にすることができました。&lt;/p>
+&lt;p>提案では、DAOと法的文書を確立するために、法定費用のための資金を確保することを検討する必要があります。&lt;/p>
+&lt;h5 id="共通化のパターン">共通化のパターン&lt;/h5>
+&lt;p>Trust Over IP Foundationの活動と、「PatternsofCommoning」の原則からインスピレーションを得ています。私たちは、これらの原則の下でコミュニティを共通の利益と結びつけることにより、イノベーションの可能性を見出しています。&lt;/p>
+&lt;p>これらの原則は、他のコミュニティが指数関数的成長と採用を活用および解き放つことができる技術的プリミティブとして、どのようにしてプラグアンドプレイコードになることができますか？&lt;/p>
+&lt;p>私たちは、アイデアの豊富な遊び場を探索し、それらをCardanoおよびAtalaPRISMの実際の実装に持ち込むことに関心があります。&lt;/p>
+&lt;h5 id="教育キャリアおよび創発的な評判のプリミティブ">教育、キャリア、および創発的な評判のプリミティブ&lt;/h5>
+&lt;p>PioneerとCatalystが資金提供するプロジェクトの多くは、教育とキャリアプログラムをサポートしています。これらのアプローチの明確な特徴の1つは、認定された教育とキャリアパスに代わるものを作成することです。&lt;/p>
+&lt;p>ツールを提供することで新しい教育とキャリアパスを確立したいコミュニティをサポートするために、テクノロジーとガバナンスのプリミティブの開発についてコミュニティが考える必要があります。&lt;/p>
+&lt;ul>
+&lt;li>新しい専門家や教師のオンボーディング&lt;/li>
+&lt;li>コミュニティの人々が発展し成長するために&lt;/li>
+&lt;li>熟練者、労働者、コンサルタント、メンター、教師などとしての評判を維持する&lt;/li>
+&lt;/ul>
+&lt;p>レピュテーションの基準が変更された場合、悪意のある人物、有害な行動、または悪い結果を自己回復および自己監視する方法が必要です。&lt;/p>
+&lt;p>&lt;strong>循環サプライチェーン&lt;/strong>&lt;/p>
+&lt;p>グローバルサプライチェーンは、新しい経済インフラの構築に重点を置いています。目標は、記録管理、船荷証券、一元管理された記録システム、流通ネットワークなどのレガシーシステムを置き換えるか統合することです。中央集権化には多くの課題がありますが、その中で最も少ないのは、COVIDの時代に私たち全員が見てきたように、グローバルなサプライチェーンにおける回復力の欠如です。&lt;/p>
+&lt;p>サプライチェーンは分散型として開始する傾向があります。市場と貿易ルートは生産者市場の底から現れ、一元化されたサプライチェーンに集約され、最終的には消費者に到達します。ボトムアップのサプライチェーンにおける新しい商取引のパターンを探求したいと考えています。これにより、ローカルの評判ネットワークが開かれ、現在アクセスできない市場に拡大する可能性があります。&lt;/p>
+&lt;ul>
+&lt;li>再生農業&lt;/li>
+&lt;li>地元で制作されたアート&lt;/li>
+&lt;li>他の形態のローカルコマース&lt;/li>
+&lt;/ul>
+&lt;p>一方、流通または需要主導型の商取引は、コミュニティの声と経済力をデジタルで確立しなければ不可能な方法で産業のグローバルサプライチェーンに関与できるボトムアップから市場の力を構築する可能性があります。&lt;/p>
+&lt;p>サプライチェーンの課題については、次の2つの重要な課題に対処したいと考えています。&lt;/p>
+&lt;h5 id="小さな生産者の問題">小さな生産者の問題&lt;/h5>
+&lt;p>ボトムアッププロセスが工業化されたサプライチェーンに適合し、一元化された流通市場を切り抜け、消費者に直接つながるときに、どうすれば透明性を生み出すことができるでしょうか。&lt;/p>
+&lt;p>たとえば、ワイオミング州の家族牧場のような小規模生産者は、これらのグローバルな集約および流通ネットワークを通じて自社製品の価値に関する情報を入手する方法がありません。現在、BeefChainプロジェクトなどのソリューションは、小規模牧場主をサポートしています。&lt;/p>
+&lt;p>克服すべき問題は複数あります。たとえば、包装工場は集合体への入り口であるため、小規模生産者と取引するインセンティブはほとんどまたはまったくありません。私たちは、合意された基準に従ってコミュニティが自己組織化および自治生産を支援するための汎用ツールを構築することにより、この問題に対処したいと考えています。これらのコミュニティがつながり、成長できるのであれば、次のいずれかを行うことを提案します。&lt;/p>
+&lt;ul>
+&lt;li>産業サプライチェーンへの代替流通チャネルを通じて市場に到達する&lt;/li>
+&lt;li>コミュニティとしてより良い条件について交渉し、製品の価値を認識し、配布し、価値を維持して商業的および評判的に販売することができます。&lt;/li>
+&lt;/ul>
+&lt;h5 id="ラストワンマイルの問題">ラストワンマイルの問題&lt;/h5>
+&lt;p>ローカル市場のローカルディストリビューターは、どのようにしてグローバルな産業サプライチェーンと相互作用し、産業サプライチェーンに必要な規模で商品にアクセスするための経済的アイデンティティや資本が不足しているためにアクセスできない市場へのアクセスを許可できますか？&lt;/p>
+&lt;p>この課題は、市場の影響力がほとんどない、またはクレジットなどの金融ツールにアクセスして産業サプライチェーンと相互作用する必要のある製品を地域コミュニティに配布することを扱います。コミュニティのネットワークを確立するためのボトムアップツールを探しています。これらのコミュニティの代表者は、取引に必要な経済規模で産業サプライチェーンと対話するために必要な資金とクレジットにアクセスできます。&lt;/p>
+&lt;p>この問題の例は、農村部や発展途上国、経済に医療用品を届けることです。これらの医薬品には、ドナー、政府、その他の資金源からの資金が利用できます。ドナーは配達が確認された後にのみ資金を解放し、医療供給会社は支払いが受領された後にのみ商品を港に送ります。&lt;/p>
+&lt;p>ただし、地元の中小企業は、配達と受け取りの際に商品の透明性と監視を維持する必要があります。これらの企業には、港での医療用品の配達からそれらを必要とする病院や診療所への医療費を賄うための資金や資金を借りる能力がありません。&lt;/p>
+&lt;p>財政格差の課題に取り組むことは極めて重要です。このギャップを埋めるために、信頼できる個人や中小企業のボトムアップネットワークを構築する大きな可能性があると私たちは信じています。&lt;/p>
+&lt;h5 id="提案されたパターン言語の概要例">提案されたパターン言語の概要（例）&lt;/h5>
+&lt;p>&lt;strong>プリミティブ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>デジタルアイデンティティ&lt;/li>
+&lt;li>検証可能な資格情報（VC）&lt;/li>
+&lt;li>検証可能なプレゼンテーションリクエスト&lt;/li>
+&lt;li>検証可能なプレゼンテーション証明&lt;/li>
+&lt;li>暗号通貨&lt;/li>
+&lt;li>非代替トークン（NFT）&lt;/li>
+&lt;li>スマートコントラクト&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>パターン&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>トラストレジストリ&lt;/li>
+&lt;li>ガバナンスフレームワーク&lt;/li>
+&lt;li>トークンキュレーションレジストリ&lt;/li>
+&lt;li>コミュニティメンバーの認識とオンボーディングプロセス&lt;/li>
+&lt;li>個人の評判を確立する&lt;/li>
+&lt;li>グループ全体としてのコミュニティ外部関係者との相互作用&lt;/li>
+&lt;li>外部関係者との個別のやり取りとしてのコミュニティメンバー&lt;/li>
+&lt;li>取引所のコミュニティ媒体&lt;/li>
+&lt;li>外部の信頼レジストリの認識&lt;/li>
+&lt;li>外部ガバナンスフレームワークの認識&lt;/li>
+&lt;li>外部関係者によるガバナンスフレームワークの受け入れ&lt;/li>
+&lt;/ul>
+&lt;p>それを背景に、以下の3つの分野で提案を行っています。&lt;/p>
+&lt;ol>
+&lt;li>CardanoとIndyに固定されたDID / VC間の相互運用性。&lt;/li>
+&lt;li>新興コミュニティの自治&lt;/li>
+&lt;li>循環サプライチェーン&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Atala PRISM DID 大規模な採用</title><link>/ja/catalyst/fund6/challenges/atala-prism-did/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/atala-prism-did/campaign-brief/</guid><description>
+&lt;p>CardanoのDIDの大規模な採用を推進するには？&lt;/p>
+&lt;p>予算規模: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26116">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>Cardanoエコシステムへの使いやすいオンランプとして、DID (リリース時にはAtala PRISMが望ましい) 使用例の大規模な採用を促進する手段または方法を提案します。 これには、ユーザーまたはエンティティにデジタルの自分の権利確立を開始するためのDIDを提供するあらゆる方法が含まれます。 これがどのように大規模に実装されているかを考えてみてください。一度dApps、ツール、DeFiなどのサービスの顧客になれる、何百万人ものユーザーを引き込んでみましょう。&lt;/p>
+&lt;p>私たちは思考的指導者のコミュニティであり、行動で自分の考えを示す時です。 個人識別情報(PII)の自己の主権の存在と所有を確立するために、DIDを使用することで、制度の分散化が進み、個人や団体に利益をもたらします。&lt;/p>
+&lt;p>このチャレンジは、DIDをCardanoエコシステムに組み込むことで、PIIをDIDテクノロジーと標準で保護し制御することを要求する草の根活動で地面を変えていく小さな方法です。&lt;/p>
+&lt;p>Cardanoコミュニティが交換可能で相互運用可能な（WW DID標準による）DIDの大量採用を計画していることを&lt;strong>世界に知らせ、私たちの個人的なDIDの起源が私たちのホームブロックチェーンであるCardanoに結びつけることについて深く考慮します。&lt;/strong>&lt;/p>
+&lt;p>私たちはAtala PRISMのDIDのインスタンス化をサポートしたいです。 これは、Cardanoプラットフォームにユーザーを引き込むためにDIDを必要とするアイデアや概念を構築するということです。 そして、PRISMはオープンスタンダードで構築されているので、誰でも可能性を考え、提案することができます。&lt;/p>
+&lt;p>このチャレンジに対するコミュニティの反応をIOHKは見失いません。 IOHKは素晴らしいアイデアや提案の広がりを見ることで、計画されたPRISMコンポーネントのオープンソーシングのためのタイムラインの迅速化に役立ちます。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>Atala PRISM DIDはCardanoブロックチェーンとエコシステムへのゲートウェイです。 オンボードユーザーにとって不可欠である技術と市場を構築します。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>Cardanoのユーザーベース、ネットワークユーティリティ、ネットワーク価値 &amp;amp; ADA流動性を実質的に成長させることができる多くの高品質なアイデアが提案されます。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>定量化可能な方法でDIDの使用事例に直接対応する提案の数。&lt;/li>
+&lt;li>コミュニティの関心と関与によって測定された提案の質.&lt;/li>
+&lt;li>Fund7が資金を供給したプロジェクトの結果は、CardanoブロックチェーンでのDIDの大量採用とそのユーティリティーに大きな影響を与えます。&lt;/li>
+&lt;/ul>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Business Solutions (B2B &amp; B2C)（ビジネスソリューション（B2B＆B2C</title><link>/ja/catalyst/fund8/challenges/business-solutions-b2b-b2c/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/business-solutions-b2b-b2c/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/13-Business-Solutions-B2B--B2C-7b4b0f.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>1,000,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382660">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26445/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>Cardanoベースのソリューションは、実際のビジネスニーズを満たすのにどのように役立ち、その影響はどのようになりますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>企業はついにブロックチェーンテクノロジーの力を発見し、CardanoはエキサイティングなB2BおよびB2Cソリューションを搭載する準備ができています。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>効率性、透明性、および利害関係者の関与を高め、ビジネスを新しい分野に拡大する革新的な製品とサービス。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>ビジネスソリューションをサポートするカルダノdApp&lt;/li>
+&lt;li>カルダノベースのソリューションを提案している既存の企業&lt;/li>
+&lt;li>企業間で作成されたパートナーシップ/合弁事業&lt;/li>
+&lt;li>資金提供された提案のための他の資金源からの追加資金&lt;/li>
+&lt;li>予測されるコスト削減&lt;/li>
+&lt;li>予想される収益の増加&lt;/li>
+&lt;li>ビジネスソリューションによるメインネット/テストネットアクティビティの成長&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>何年もの間、ブロックチェーンは適切に満たされていない約束を果たしてきました。トレーサビリティ、サプライチェーン管理、識別、支払いなどのスポットソリューションは実装されていますが、この有望なテクノロジーの大規模なメリットはまだ見られていません。長年の厳格な研究開発に基づいて、カルダノはこの約束を果たすための最も真剣な候補の1つです。&lt;/p>
+&lt;p>Cardanoの最近および今後の技術開発（スマートコントラクト、Yoroi dAppコネクタ、より大きなブロックサイズ（より高いスループット）、サイドチェーン、ステートチャネルなど）は、2022年に大規模な採用に備えるためにCardanoを準備しています。&lt;/p>
+&lt;p>大企業、中小企業（SME）、プラットフォームビジネス、および高度にネットワーク化されたスタートアップには、非常に異なるタイプのニーズがあります。彼らの産業は、金融やハイテクから農業や建設、そして単純なサービスから知識集約型のビジネスまでさまざまです。それでも、結局のところ、彼らはすべて、使命を果たし続け、グローバルな競争に関連し続け、従業員に雇われたことを実行するための最良のツールを提供するための最新のツールを必要としています。どの企業も、パートナーや従業員と関わり、顧客により良いサービスを提供し、プロセスを改善し、コストを削減し、収益を増やし、新しいビジネス分野に拡大したいと考えています。&lt;/p>
+&lt;p>仲介者を排除し、プロセスを自動化することで、スマートコントラクトブロックチェーンソリューションは上記のすべてを推進できます。カルダノは、これらのニーズに少なくとも部分的に答えることができます。&lt;/p>
+&lt;p>&lt;strong>この課題では、提案されるソリューションは、ツール、サービス、製品、プロセスの改善、データ管理ソリューション（CRM、ERP、MES、DMPなど）、分散型クラウドソリューション、プライバシーとセキュリティ関連の製品、またはメタバース関連のソリューションです。&lt;/strong>&lt;/p>
+&lt;p>あなたの提案では、ソリューションの準備レベルの範囲、制限、範囲、およびそれが次のようなものであるかどうかを概説するとよいでしょう。&lt;/p>
+&lt;ul>
+&lt;li>実現可能性調査/概念実証/カルダノ上に構築できる最小実行可能製品。&lt;/li>
+&lt;li>Cardanoで実行するように変換できる既存のビジネス対応製品またはサービス。&lt;/li>
+&lt;li>ビジネス指向のトレーニングまたはコンサルティングサービス。&lt;/li>
+&lt;li>ビジネスニーズに対応するためにCardanoエコシステムに導入された既存のブロックチェーンソリューション。&lt;/li>
+&lt;li>運用環境でのプロトタイプまたはデモ&lt;/li>
+&lt;li>システムまたはサブシステムのモデルの作成&lt;/li>
+&lt;li>プロセスの改善&lt;/li>
+&lt;/ul>
+&lt;p>提案を提出する際には、長期的なビジョン、戦略、ロードマップ、および今後6〜9か月で達成可能な短期的な成果物を含めてください。視覚化とビデオ資料は、しばしば複雑なビジネスソリューションを説明するのに大歓迎です。&lt;/p></description></item><item><title>Catalyst: Cardano Scaling Solutions(カルダノスケーリングソリューション)</title><link>/ja/catalyst/fund8/challenges/cardano-scaling-solutions/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/cardano-scaling-solutions/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/05-Cardano-scaling-solutions-7a0e11.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>400,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383094">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26437/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>Cardanoのスケーラビリティを向上させるために、どのような調査とスケーリングの実装を導入できますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>HydraはCardanoのすべてのスケーリング問題を解決するわけではなく、代替手段としてより多くのスケーリングソリューションが必要です。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>Cardanoプロジェクトが使用を開始できるコミュニティによって導入および実装されたスケーリングソリューション。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>コミュニティがプロジェクト内で使用できるスケーリングソリューションの数&lt;/li>
+&lt;li>新しいスケーリングソリューションのいずれかで開始されたプロジェクトの数&lt;/li>
+&lt;li>さまざまなスケーリングアプローチの研究から生み出された斬新なアイデア&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>Cardanoがスマートコントラクトブロックチェーンとしてグローバルリーダーになるには、数億人のユーザーを処理するための要件を満たすように拡張する必要があります。&lt;/p>
+&lt;h3 id="現在のスケーリング状況">現在のスケーリング状況&lt;/h3>
+&lt;p>Hydraは、Cardanoがブロックチェーンを拡張するのを支援するためにIOGによって実行されている主要なプロジェクトです。&lt;/p>
+&lt;p>Hydraの最初のフェーズは2022年に利用可能になりますが、この最初の実装では、Cardanoのスケーリングに必要なすべての問題が解決されるわけではありません。&lt;/p>
+&lt;p>dcSparkのSebastienは最近、インタビューでロールアップと代替ソリューションの重要性について話しました-&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/4DslvkLop04" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h3 id="より多くのスケーリングオプションが必要">より多くのスケーリングオプションが必要&lt;/h3>
+&lt;p>真の分散化に到達するために、カルダノコミュニティは、将来に向けて現在のようにIOGからの入力に依存する必要はありません。&lt;/p>
+&lt;p>Hydraは、最初の実装のみを来年初めにリリースする予定です。 Cardanoは、DeFi、NFT、およびゲームの需要の高いプロトコルが開始され、リリースされ続けるにつれて、2022年に潜在的なスケーリングの問題に直面します。代替のスケーリングソリューションが導入されていない場合、メインチェーンの需要が過負荷になるリスクがあります。&lt;/p>
+&lt;h3 id="奨励される提案の種類">奨励される提案の種類&lt;/h3>
+&lt;p>提案者は、新しい斬新なアイデアや研究、Hydra機能の拡張、またはCardanoに適した他のブロックチェーンで使用されるソリューションへの移植を検討する必要があります。&lt;/p>
+&lt;p>提案者は、市場固有のスケーラビリティソリューションに焦点を当てることを歓迎します。たとえば、ソリューションは、特に分散型取引所（DEX）を重点分野として、または新しいスケーリングソリューションの恩恵を受ける可能性のあるその他の成長市場で、DeFiに焦点を当てることができます。&lt;/p>
+&lt;p>スケーラビリティのトピック領域：&lt;/p>
+&lt;ul>
+&lt;li>ロールアップ（例：ゼロ知識ロールアップ、最適ロールアップ）&lt;/li>
+&lt;li>シャーディング&lt;/li>
+&lt;li>サイドチェーン&lt;/li>
+&lt;li>ステートチャネル&lt;/li>
+&lt;/ul>
+&lt;h3 id="提案のサイズ">提案のサイズ&lt;/h3>
+&lt;p>スケーリングソリューションは本質的に複雑であり、多大なエンジニアリング作業が必要です。結果として、提案者は、チャレンジ予算の大部分を要求する提案をすることを思いとどまるべきではありません。単一の提案チームは、カルダノの成長に適したソリューションのスケーリングの課題に対処するための技術的専門知識を備えた明確な計画を示すことができれば、予算全体を要求することを歓迎し、奨励されます。&lt;/p>
+&lt;h3 id="予算の根拠">予算の根拠&lt;/h3>
+&lt;p>スケーラビリティソリューションには、高度な技術的専門知識が必要です。プロジェクトは、実行可能なソリューションを実装するために、おそらく何ヶ月ものエンジニアリング作業を必要とします。&lt;/p>
+&lt;h3 id="資金調達ラウンドをフォローする">資金調達ラウンドをフォローする&lt;/h3>
+&lt;p>このチャレンジ設定が投票され、提出された提案が影響を与える可能性がある兆候を示した場合、チームがさらにリクエストできるように、より大きなリクエストされた予算でファンド9のフォローアップチャレンジを提案します。&lt;/p></description></item><item><title>Catalyst: Cardanoコミュニティハブの拡大</title><link>/ja/catalyst/fund6/challenges/scaleup-community-hubs/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/scaleup-community-hubs/campaign-brief/</guid><description>
+&lt;p>今後6ヶ月間で、ローカル・コミュニティ・ハブがCardanoの採用と認知を促進するにはどうすればよいでしょうか?&lt;/p>
+&lt;p>予算規模: &lt;strong>$100,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26118">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26118/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>世界の約78億人の人口のうち、64.5億人は英語を話さない。&lt;/p>
+&lt;p>西洋社会に住んでいる私たちは、この事実を定期的に忘れています, そして私たちの多くは、それを考えたことがありません.&lt;/p>
+&lt;p>今それを考えてみましょう 真にグローバルなエコシステムを構築し 誰もが自分の能力を最大限に発揮できるようにしましょう&lt;/p>
+&lt;p>あなたが採用を現場レベルでドライブするとき、あなたは単に「クールな製品を構築する」以上のことをしています。 自分で想像もしなかった方法で人々の生活を変える力を与えているのです&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>ユーザーが地上にいない場合、ブロックチェーンの専門知識を持つ技術者を中心にサービスを提供するニッチな製品を構築することになります。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>平均的な人が自分の言語や文化的理解を持って参加できる世界中のローカルコミュニティハブ&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>今後6ヶ月間にいくつの新しいハブが立ち上げられましたか?&lt;/li>
+&lt;li>このコミュニティに焦点を当てたチャレンジは、Cardanoエコシステムにどれだけの開発者をもたらしましたか?&lt;/li>
+&lt;li>Cardanoの新しいユーザーは何人登録されましたか?&lt;/li>
+&lt;li>ハブの最初のマーケティングローンチの総範囲はどのようなものでしたか?&lt;/li>
+&lt;li>このコミュニティに焦点を当てたチャレンジは、Cardanoエコシステムにどれだけの外部組織をもたらしましたか?&lt;/li>
+&lt;/ul>
+&lt;h2 id="以前のチャレンジ">以前のチャレンジ&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25873">Fund4: ローカルコミュニティーセンター&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Cardanoの DeFi エコシステムの拡大</title><link>/ja/catalyst/fund6/challenges/scaleup-defi/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/scaleup-defi/campaign-brief/</guid><description>
+&lt;p>今後6ヶ月以内にCardanoにオープンファイナンスソリューションを構築/展開するように、DeFiチームに推奨するにはどうすればよいですか?&lt;/p>
+&lt;p>予算規模: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26109">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26109/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>現在、DeFi dappsと通貨フローの大部分はEthereumブロックチェーンで発生しますが、混雑と取引手数料の増加により、DeFiの使用はますますエリート化され、最も恩恵を受ける可能性のある人々が除外されています。 これから利益を得ます、銀行口座のない人々へです。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>重要なb / c Defi dAppsは、グローバルユーザーに金融サービスへの信頼できないオンデマンドアクセスを提供します。ロックされた合計値は250億ドルです。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>相互コラボレーションとプロトコル間の構成可能性の推進に重点を置いた、CardanoでのDeFiの競争環境。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>このDeFiに焦点を当てたコミュニティチャレンジから6ヶ月以内にCardanoメインネットでいくつプロトコルがローンチされましたか?&lt;/li>
+&lt;li>このコホートの中で、毎日のアクティブユーザーは何人いますか？&lt;/li>
+&lt;li>資金提供されたDeFiプロトコルは、Cardanoメインネットでリリース後1か月でキャプチャできるTotal Value Locked（TVL）の量はどれくらいですか？ (提案チャレンジの効果に関する完全な洞察を得るために、実施後3ヶ月、6ヶ月、1年で再度測定してください)&lt;/li>
+&lt;li>このコミュニティに焦点を当てた課題が、CardanoエコシステムにどれだけのDeFi開発者をもたらしましたか?&lt;/li>
+&lt;li>このコミュニティでは、何社のFinTech/DeFi開発会社がCardanoエコシステムに挑戦しましたか?&lt;/li>
+&lt;/ul>
+&lt;h2 id="以前のチャレンジ">以前のチャレンジ&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25948">Fund5:Cardanoの DeFi エコシステムの拡大&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-DeFi-Ecosystem/333399-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: CardanoのDeFiを後押し</title><link>/ja/catalyst/fund7/challenges/boost-cardanos-defi/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/boost-cardanos-defi/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われた$ 500,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26233">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26233/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Boosting-Cardanos-DeFi">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/boosting-cardanos-defi">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>前の課題（ScaleUP CardanoのDeFiエコシステム）は成功を示し、Liqwid Finance、Minswap、ErgoDEXなどの人気のあるDeFiプロジェクトが、ベンチャーキャピタルの参加なしに、コミュニティ/ユーザーベースの公正な立ち上げモデルで財務省から資金提供されることを可能にしました。&lt;/p>
+&lt;p>ERGODEXの提案が残余予算の中で2番目に投票された提案であったという事実は、Fund5で提示された提案の競争力を実証するための重要な指標です。&lt;/p>
+&lt;p>現在、DeFi dappsとアセットフローの大部分はEthereumブロックチェーンで発生しますが、混雑と取引手数料の増加により、DeFiの使用はますますエリート化され、DeFiから最も恩恵を受ける可能性のある人々、つまり銀行口座を持たない人々が除外されています。&lt;/p>
+&lt;p>過去1年間で、Binance Smart Chain、Polkadot、Cosmos、Solanaなど、いくつかのDeFiプロジェクトがよりスケーラブルなブロックチェーンに移行しています。イーサリアムのメインチェーンの代替として第2層のソリューションも使用されており、Polygonはその好例です。&lt;/p>
+&lt;p>この移行とブリッジの作成シナリオでは、一部のプロジェクトがCardanoを使用してDeFiプロジェクトを作成しています。&lt;/p>
+&lt;p>Cardanoはついにスマートコントラクトを提供し、それがDeFiの多くの革新への扉を開きます。近い将来、スケーラブルなブロックチェーンだけでなく、安全なブロックチェーンと集約されたガバナンスレイヤーも提供できるようになります。この一連の特徴により、カルダノは目立つ場所に配置され、市場シェアを獲得してユーザーベースを拡大する絶好の機会があります。&lt;/p>
+&lt;p>Catalystを使用すると、DeFiプロジェクトに資金を提供し、DeFiプロジェクトに不可欠な側面である分散化と回復力を高めることができます。多くのプロジェクトは、財源の不足のためにベンチャーキャピタルの参加を受け入れることになります。通常、VCがDeFiプロジェクトに参加すると、供給分配の大部分がVCに割り当てられ、分散化が損なわれ、その結果、これらのプロジェクトのセキュリティが損なわれます。&lt;/p>
+&lt;p>今日のDeFiエコシステムは、脆弱性に満ちたプロジェクトに引き継がれ、ハッキングは一定であり、経済モデルは他のプロジェクトからコピーされ、分散化はもはや優先事項ではなく、ユーザーのことを考えて経済モデル/結合曲線/アルゴリズムを作成することに専念しているプロジェクトはほとんどありません。ニーズ。&lt;/p>
+&lt;p>バグ、ハッキング、脆弱性はイーサリアムのスマートコントラクトに固有のものではないことが1年で明らかになりました。 Binance SmartChainとCosmosで実行されているDappも脆弱性に悩まされていました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains">ハッカーは、3つのチェーンにまたがるPolyエクスプロイトで少なくとも6億ドルを盗んだ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix">Thorchainは500万ドルのエクスプロイトに苦しんでおり、開発者は修正を出しました&lt;/a>&lt;/p>
+&lt;p>Cardanoは、このパラダイムを変更し、ユーザーにセキュリティをもたらすために到着しました。&lt;/p>
+&lt;p>プライバシーと検閲への抵抗も重要ですが、助成金（収量農業）を支持して見過ごされがちです。 DeFiプロジェクトに、レジリエンス、安全性、研究ベースの経済モデル、批判的思考を求めるように促すにはどうすればよいですか？&lt;/p>
+&lt;h2 id="考えられる方向">考えられる方向&lt;/h2>
+&lt;ul>
+&lt;li>DEX&lt;/li>
+&lt;li>オラクル&lt;/li>
+&lt;li>アルゴリズムの安定したコイン&lt;/li>
+&lt;li>dappsの借用/貸し出し&lt;/li>
+&lt;li>デリバティブ&lt;/li>
+&lt;li>オープンソースの新しい財務モデルの研究（結合曲線）&lt;/li>
+&lt;/ul>
+&lt;h2 id="予算配分の合理性">予算配分の合理性&lt;/h2>
+&lt;p>資金提供を受けたチームと提案の多様性を促進するために、各チームは合計$ 500,000USDの予算または$ 100,000 USDの最大20％を要求できます。&lt;/p>
+&lt;p>例-$ 50,000USDの2つの提案を持つチームA- $ 100,000USDの1つの提案を持つチームB- $ 80,000USDの1つの提案を持つチームC + $ 20,000USの1つの提案&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>Defi dAppsは、グローバルユーザーに金融サービスへの信頼できないオンデマンドアクセスを提供するため、これは重要です。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>クロスコラボレーションとプロトコル間での構成可能性の推進に重点を置いた、CardanoでのDeFiの競争環境。&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>資金提供後3、6、12か月以内にCardanoメインネットで起動されたDeFidappの数。&lt;/li>
+&lt;li>各dappが起動するのにかかる時間。&lt;/li>
+&lt;li>このコホートで資金提供されているDeFidappsは、毎日何人のアクティブユーザーを引き付けていますか。&lt;/li>
+&lt;li>資金提供されたDeFidappは、リリース後3、6、および12か月でキャプチャできるTotal Value Locked（TVL）の量を示します。&lt;/li>
+&lt;li>各dappで見つかったバグと脆弱性の数。&lt;/li>
+&lt;li>バグまたは脆弱性のために失われたリソースの量。&lt;/li>
+&lt;li>テストネットに参加しているユーザーの数。&lt;/li>
+&lt;li>トークンホルダー/一意のウォレットの数（dappにトークンがある場合）。&lt;/li>
+&lt;li>チームとコミュニティ間の供給の分配。&lt;/li>
+&lt;li>リストされたペアの数（DEXの場合）。&lt;/li>
+&lt;li>上場資産の数（ローン+貸付ダップ、デリバティブ、合成資産の場合）。&lt;/li>
+&lt;li>コミュニティに提供された記事とオープンソースの財務モデル研究の数。&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Cardanoの草の根DeFiのシード</title><link>/ja/catalyst/fund7/challenges/cardano-grassroots-defi/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/cardano-grassroots-defi/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 200,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26243">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26243/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>現在、DeFi dappsとアセットフローの大部分はEthereumブロックチェーンで発生しますが、混雑と取引手数料の増加により、DeFiの使用はますますエリート化され、DeFiから最も恩恵を受ける可能性のある人々、つまり銀行口座を持たない人々が除外されています。&lt;/p>
+&lt;p>過去1年間で、Binance Smart Chain、Polkadot、Cosmos、Solanaなど、いくつかのDeFiプロジェクトがよりスケーラブルなブロックチェーンに移行しています。イーサリアムのメインチェーンの代替として第2層のソリューションも使用されており、Polygonはその好例です。&lt;/p>
+&lt;p>この移行とブリッジの作成シナリオでは、一部のプロジェクトがCardanoを使用してDeFiプロジェクトを作成しています。&lt;/p>
+&lt;p>Cardanoはついにスマートコントラクトを提供し、それがDeFiの多くの革新への扉を開きます。近い将来、スケーラブルなブロックチェーンだけでなく、安全なブロックチェーンと集約されたガバナンスレイヤーも提供できるようになります。この一連の特徴により、カルダノは目立つ場所に配置され、市場シェアを獲得してユーザーベースを拡大する絶好の機会があります。&lt;/p>
+&lt;p>Catalystを使用すると、DeFiプロジェクトに資金を提供し、DeFiプロジェクトに不可欠な側面である分散化と回復力を高めることができます。多くのプロジェクトは、財源の不足のためにベンチャーキャピタルの参加を受け入れることになります。通常、VCがDeFiプロジェクトに参加すると、供給分配の大部分がVCに割り当てられ、分散化が損なわれ、その結果、これらのプロジェクトのセキュリティが損なわれます。&lt;/p>
+&lt;p>今日のDeFiエコシステムは、脆弱性に満ちたプロジェクトに引き継がれ、ハッキングは一定であり、経済モデルは他のプロジェクトからコピーされ、分散化はもはや優先事項ではなく、ユーザーのニーズのことを考えて経済モデル/結合曲線/アルゴリズムを作成することに専念しているプロジェクトはほとんどありません。&lt;/p>
+&lt;p>バグ、ハッキング、脆弱性はイーサリアムのスマートコントラクトに固有のものではないことが1年で明らかになりました。 Binance SmartChainとCosmosで実行されているDappも脆弱性に悩まされていました。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://cointelegraph.com/news/hackers-stole-at-least-600m-in-poly-exploit-across-three-chains">ハッカーは、3つのチェーンにまたがるPolyエクスプロイトで少なくとも6億ドルを盗んだ&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.theblockcrypto.com/post/111660/thorchain-suffers-5-million-exploit-developers-have-put-out-a-fix">Thorchainは500万ドルのエクスプロイトに苦しんでおり、開発者は修正を出しました&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Cardanoは、このパラダイムを変更し、ユーザーにセキュリティをもたらすために到着しました。&lt;/p>
+&lt;p>プライバシーと検閲への抵抗も重要ですが、助成金（収量農業）を支持して見過ごされがちです。 DeFiプロジェクトに、レジリエンス、安全性、研究ベースの経済モデル、批判的思考を求めるように促すにはどうすればよいですか？&lt;/p>
+&lt;h2 id="考えられる方向">考えられる方向&lt;/h2>
+&lt;ul>
+&lt;li>DEX&lt;/li>
+&lt;li>オラクル&lt;/li>
+&lt;li>アルゴリズムの安定したコイン&lt;/li>
+&lt;li>dappsの借用/貸し出し&lt;/li>
+&lt;li>デリバティブ&lt;/li>
+&lt;li>オープンソースの新しい財務モデルの研究（結合曲線）&lt;/li>
+&lt;/ul>
+&lt;h2 id="予算配分の合理性">予算配分の合理性&lt;/h2>
+&lt;p>新規またはあまり人気のないチームは、カルダノコミュニティの影響力のある人気のあるチームと競争するのが困難です。良いスコアを確保することでさえ、カルダノコミュニティの統合された影響力のあるチームと競争するために投票段階で関与することは困難です。&lt;/p>
+&lt;p>この課題は、Catalystから資金を受け取ったことがない新しいチームを蒔き、コミュニティに自分たちの価値を示す機会を与えることを目的としています。&lt;/p>
+&lt;p>新しい各チームは、合計$ 200,000 USDの予算の最大25％を要求できます。これは、$ 50,000USDです。&lt;/p>
+&lt;p>例えば&lt;/p>
+&lt;ul>
+&lt;li>25,000米ドルの2つの提案を持つチームA&lt;/li>
+&lt;li>10,000米ドルの5つの提案を持つチームB&lt;/li>
+&lt;li>50,000米ドルの提案を1つ持つチームC&lt;/li>
+&lt;li>15,000米ドルの提案1つと35,000米ドルの提案1つを持つチームD&lt;/li>
+&lt;/ul>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>新しいチームがICOやVCの割り当てに頼ることなく、プロジェクトを開始できるようにします。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>2022年にカルダノにDeFiDappsを導入する少なくとも4つの新しいチーム+競争力/持続可能性を獲得するためにコミュニティを形成するための管理&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>資金提供後3、6、12か月以内にCardanoメインネットで起動されたDeFidappの数。&lt;/li>
+&lt;li>このコホートで資金提供されているDeFidappsは、毎日何人のアクティブユーザーを引き付けていますか。&lt;/li>
+&lt;li>各dappが起動するのにかかる時間。&lt;/li>
+&lt;li>資金提供されたDeFidappは、リリース後3、6、および12か月でキャプチャできるTotal Value Locked（TVL）の量を示します。&lt;/li>
+&lt;li>各dappで見つかったバグと脆弱性の数。&lt;/li>
+&lt;li>バグまたは脆弱性のために失われたリソースの量。&lt;/li>
+&lt;li>テストネットに参加しているユーザーの数。&lt;/li>
+&lt;li>トークンホルダー/一意のウォレットの数（dappにトークンがある場合）。&lt;/li>
+&lt;li>チームとコミュニティ間の供給の分配。&lt;/li>
+&lt;li>リストされたペアの数（DEXの場合）。&lt;/li>
+&lt;li>上場資産の数（ローン+貸付ダップ、デリバティブ、合成資産の場合）。&lt;/li>
+&lt;li>コミュニティに提供された記事とオープンソースの財務モデル研究の数。&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Cardano新たな脅威のアラーム</title><link>/ja/catalyst/fund6/challenges/emerging-threats/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/emerging-threats/campaign-brief/</guid><description>
+&lt;h1 id="heading">&lt;/h1>
+&lt;p>脅威がシステムを壊す前に、ステークホルダーがCardanoブロックチェーンの深刻な脅威を特定するのをどのように支援できますか？&lt;/p>
+&lt;p>予算規模: &lt;strong>$50,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26110">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26110/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>ブロックチェーンシステムは、さまざまな地域や背景から多くの利害関係者によって頼られ、使用されている技術的、経済的、社会的要素の複雑な統合です。 これらのシステムは現実世界から隔離されておらず、ダイナミックな相互作用から予想外の脅威が生じる可能性があります。&lt;/p>
+&lt;p>Cardanoステークホルダー(ユーザー、SPO、DApp開発者、パートナー、交流、政府)。 企業) は、脅威を特定し、評価することができる強靭なシステムが必要です。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>分散化、ネイティブトークン、マルチアセットサポート、スマートコントラクト、新しいユーザーによってCardanoの複雑さが増します。 脅威が出現するでしょう。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>安定した進化。 Cardanoは正常に新しいユーザー、開発者、DApps、トークン、SPO、オラクル、企業をオンボード。 脅威が特定されます&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>この課題の終わりに、私たちは自分自身に問いかける必要があります。Cardanoエコシステムに対する新たな脅威を特定するためのシンプルなメカニズムを作成することができましたか？ 今、未来ることはできませんが、イベントが展開するにつれて、私たちの集合的な知恵と感覚を使用して、Cardanoブロックチェーンとその使用法の新しい危険性を検出できる可能性があります。&lt;/p>
+&lt;ul>
+&lt;li>送信された潜在的な脅威の数。&lt;/li>
+&lt;li>提出された脅威の緊急度による評価&lt;/li>
+&lt;li>深刻かつシステム的な脅威として識別された脅威の数。&lt;/li>
+&lt;li>より広い危険領域を決定するために、脅威源をカテゴリとタイプにグループ分けします&lt;/li>
+&lt;li>脅威アラートメカニズムと相互作用しているCardanoステークホルダーの数&lt;/li>
+&lt;li>その後の資金調達ラウンドで資金調達のために提出され、受け入れられたCatalyst 提案の数は、最も緊急に特定された脅威に直接対処します。&lt;/li>
+&lt;/ul>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Catalyst への価値のオンボーディング</title><link>/ja/catalyst/fund6/challenges/catalyst-value-onboarding/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/catalyst-value-onboarding/campaign-brief/</guid><description>
+&lt;p>次の2つのFUNDでコミュニティメンバーからのProject Catalystへの有意義な参加を促進するにはどうすればよいでしょうか?&lt;/p>
+&lt;p>予算規模: &lt;strong>$75,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26106">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>Cardanoの成長は、提案者、アドバイザー、および有権者からの有意義な参加に依存します。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>CatalystのROIを向上させる貢献を提供することに向けた、新しい参加者を動機づけ、知らせ、直接的にするための強力なファンネルがあります。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>このチャレンジのROIを評価するために、私たちは自問します:&lt;/p>
+&lt;p>私たちは、提案者、アドバイザー、投票者からの有意義な参加を増やすことができましたか?&lt;/p>
+&lt;p>新規参加者の合計数:&lt;/p>
+&lt;p>アクティブなコミュニティ・アドバイザーは何％ですか？&lt;/p>
+&lt;p>何％がタウンホールを見ていますか？&lt;/p>
+&lt;p>何％が投票していますか？&lt;/p>
+&lt;p>何％が提案していますか？&lt;/p>
+&lt;p>何％が紹介者になりましたか？&lt;/p>
+&lt;h2 id="ガイドの質問">ガイドの質問&lt;/h2>
+&lt;ul>
+&lt;li>提案者、アドバイザー、有権者からの有意義な参加をどのように増やすことができるでしょうか?&lt;/li>
+&lt;li>新しい人々はどのようにカタリストについて学ぶのでしょうか?&lt;/li>
+&lt;li>異なるフォーマット(テキスト、ビデオ、p2p)で絶えず更新される情報の中心的な情報源を提供するにはどうすればよいでしょうか。&lt;/li>
+&lt;/ul>
+&lt;h2 id="潜在的な方向性">潜在的な方向性&lt;/h2>
+&lt;ul>
+&lt;li>タイムリーな YouTube コンテンツを通じた教育とオンボーディング&lt;/li>
+&lt;li>ハードウェアウォレット、Daedalus、yoroiのサポート等でユーザーエクスペリエンスを向上させます。&lt;/li>
+&lt;li>Reddit プレゼンスは信頼性の高い情報を提供します。&lt;/li>
+&lt;li>ベテランと初心者をマッチングさせるメンタリングプログラム&lt;/li>
+&lt;/ul>
+&lt;h2 id="以前のチャレンジ">以前のチャレンジ&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25944">FUND5:Catalyst への価値のオンボーディング&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25872">FUND4:Catalyst への価値のオンボーディング&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Catalyst-迅速な資金調達メカニズム</title><link>/ja/catalyst/fund7/challenges/catalyst-rapid-funding/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/catalyst-rapid-funding/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 250,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26236">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26236/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Rapid-Funding-Mechanisms">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/catalyst-rapid-funding-mechanisms">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>重要なプロジェクトをボランティアから有給の専門家に迅速に移行させるには、資金調達のスピードを上げることが非常に重要です。ボランティア活動は私たちのコミュニティでは強力ですが（そして強み）、人々に時間の支払いをする能力は加速し、人々がCatalystに費やすことができる時間とエネルギーを劇的に改善します。&lt;/p>
+&lt;p>カルダノの生態系を成長させるために、財務を公平に配分する方法をスケーリングする別の方法を模索する必要があります。さまざまなモデルを並行して実験および試行し、それらを比較および対比することをいとわないはずです。私たちの成功にとって最も重要なのは、私たちのコミュニティがどのように機能するかを拡大し、私たちの財務の公正かつ公正な配分を決定し、その影響を測定し、継続的に進化し、改善することです。&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>Catalystは、コミュニティによる継続的な作業に依存して進歩と成長を遂げています。迅速な資金提供により、さまざまな作業と個人的なニーズをサポートできます。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>ProjectCatalystガイドラインの範囲内で提案者に持続可能な経済的価値を提供する迅速なCatalyst資金調達メカニズムを実装しました。&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>提出された資金調達メカニズムのソリューションは、Catalystよりも高速ですか？&lt;/li>
+&lt;li>この提案はどの程度スケーラブルですか？ 10倍にどのようにスケーリングしますか？ 100倍？ 1000倍？もっと？&lt;/li>
+&lt;li>この提案はどの程度透明ですか？それはオープンで監査可能であり、意思決定、資金調達、および結果の透明性を可能にしますか？&lt;/li>
+&lt;li>この提案はどの程度説明責任がありますか？レポート要件は何ですか？資金はパフォーマンスに基づいて時間の経過とともに支払われますか？&lt;/li>
+&lt;li>この提案はどの程度影響力がありますか？支払われた資金は正味のプラスの結果を生み出していますか？この提案では、Catalystと比較してより大きな意図の見返りが見られますか？&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Cross Chain-Collaboration(クロスチェーン-コラボレーション)</title><link>/ja/catalyst/fund8/challenges/cross-chain-collaboration/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/cross-chain-collaboration/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/04-Cross-Chain-Collaboration-eb2b89.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>400,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381705">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26436/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>今後6か月で、Cardanoと他のブロックチェーン間の接続とコラボレーションをどのように作成できるでしょうか。&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>ブロックチェーンとマルチチェーン認識の相互運用性は、全体として暗号経済の共有された成功を保証します。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>ProjectCatalystと他のコミュニティ間の協調的な価値創造。技術的イニシアチブと非技術的イニシアチブの両方を歓迎します。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>成功を測定するための客観的な指標：&lt;/p>
+&lt;ul>
+&lt;li>メインネットとテストネットのトランザクション量の増加&lt;/li>
+&lt;li>他のブロックチェーンコミュニティからの参加者を含む提案の数&lt;/li>
+&lt;li>Cardanoを他のブロックチェーンに接続する技術的な実装の数&lt;/li>
+&lt;li>Catalystによって実装された他のチェーンからのアイデア&lt;/li>
+&lt;li>Cardanoに実装された他のチェーンのプロジェクトとdApp&lt;/li>
+&lt;li>他のチェーン/コミュニティで採用されているCatalystで作成されたソリューション&lt;/li>
+&lt;li>他のコミュニティとアレンジされたイベント/ワークショップ/セッションの数&lt;/li>
+&lt;li>クロスチェーンチーム（異なるブロックチェーンコミュニティのメンバーが一緒にいる）による永続的なイニシアチブの数&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>ビットコインの成功は多くのオフシュート実験を生み出し、イーサリアムの到着は部族主義を増加させました。アルトコインの数が増えるにつれて、不健康な「過剰主義」が出現しました。ただし、将来はマルチチェーンであり、相互運用性とクロスチェーンコラボレーションが大切にされ、奨励されると、暗号経済は繁栄します。&lt;/p>
+&lt;p>熱心なサポーターの幹部、高度なスキルを持つ開発者、CardanoとProjectCatalystから学ぶことができる革新的なテクノロジーを備えた次世代のブロックチェーンが複数あります。また、その逆に、Catalystで開発されたグッドプラクティスを提供することで、他のネットワークの繁栄を支援できます。 IOGは最近UTXOアライアンスを結成し、COTIやSingularityNETなどの多数のパートナーとのコラボレーションを開始しました。これは良いスタートですが、ブロックチェーンコミュニティ間のコミュニケーション、調整、コラボレーションの欠如に対処するには、さらに多くのことが必要です。お互いの行動に対する認識が欠けていると、私たちは自分たちの努力を複製せざるを得なくなります。私たちが離れているとき、私たちはお互いの成果や失敗から学ぶことができません。&lt;/p>
+&lt;p>カルダノには強力でオープンで包括的なコミュニティがあります。これを真のスーパーパワーにして、強力な絆を築く最初のコミュニティになりましょう。さまざまなコミュニティの人々が共通の基盤を見つけ、知識、リソース、スキル、アイデア、ビジョンを互いに共有できる、豊かでオープンで安全な環境を作りましょう。そこに出て、サイロを壊し、私たちの間に橋と存在感を築きましょう。&lt;/p>
+&lt;p>&lt;strong>調査およびコラボレーションする可能性のあるDLT /ブロックチェーンエンティティ、コミュニティ、およびプロジェクトの例を次に示します。&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Cosmos&lt;/strong>は、それ自体をブロックチェーンのインターネットと呼んでおり、他のブロックチェーンがブロックチェーン間通信プロトコル（IBC）を介して簡単に接続できるようにします。 Binance Smart Chain、Terra、Thorchain、OasisNetworkなどの大規模なプロジェクトはCosmosSDK上に構築されています。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://tendermint.com/sdk/">TenderMint&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://v1.cosmos.network/intro">Cosmos Intro&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cosmos.network/ecosystem/apps">Cosmos Network&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://wiki.polkadot.network/docs/learn-video-tutorials">Polkadot&lt;/a> （およびそのカナリアネットワーク&lt;strong>Kusama&lt;/strong> ）は、リレーチェーンが共有セキュリティとクロスチェーン通信を提供し、接続されたパラチェーンがサービスの迅速な展開に集中できるようにする、軽量で迅速に更新可能な設計です。その独自のクラウドローンメカニズムにより、トークン所有者のコミュニティは、どのプロジェクトを最初に実装する必要があるかを表明することができます。ノミネートされたプルーフオブステークネットワークは、高度なガバナンスメカニズムも提供します。&lt;/p>
+&lt;p>学術的に印象的で技術的に健全な&lt;a href="https://www.algorand.com/technology">Algorand&lt;/a>には、独自のコンセンサスメカニズムであるPure Proof of Stakeがあり、そのガバナンスモデルから多くのことを学ぶことができます。&lt;/p>
+&lt;p>4,500 tpsを超えるスループットとほぼ瞬時のファイナリティを誇る、EVM互換のAvalancheは、すぐに複数のDeFiプロジェクトの頼りになる選択肢になりました。 DAGテクノロジーとブロックチェーンテクノロジーの両方を利用する革新的なマルチチェーンアーキテクチャを備えています。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.avax.network">Avax&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>他の例としては、 &lt;a href="https://fantom.foundation/intro-to-fantom">Fantom&lt;/a> 、 &lt;a href="https://solana.com/ecosystem">Solana&lt;/a> 、 &lt;a href="https://www.iota.org/">IOTA&lt;/a> 、 &lt;a href="https://polygon.technology/get-started">Polygon&lt;/a> 、 &lt;a href="https://www.nervos.org">Nervos&lt;/a> 、または&lt;strong>マルチチェーンリアリティの準備ができているコミュニティ&lt;/strong>などがあります。または、これらのいずれかに基づいて構築されたプロジェクト/ソリューションから提案を作成することもできます。&lt;/p>
+&lt;h3 id="このチャレンジに提出できる提案">このチャレンジに提出できる提案&lt;/h3>
+&lt;p>これは、クロスチェーンコラボレーション、共同イノベーション、相互運用性を対象とした提案を歓迎する、制限のない課題です。これらは、コミュニティ主導のプロジェクト、イニシアチブ、ソリューション、ツール、またはサービスであればどれでもかまいません。たとえば、次のことを意味します。&lt;/p>
+&lt;ul>
+&lt;li>Cardanoを他のブロックチェーンに接続する新しい技術的実装（SDK、API、ブリッジなど）&lt;/li>
+&lt;li>Voltaireロードマップの一部として実装された他のチェーンからのガバナンスのアイデア&lt;/li>
+&lt;li>他のチェーンからカルダノに拡大するすでに成功したプロジェクト&lt;/li>
+&lt;li>カルダノベースのプロジェクトを他のチェーンに拡大&lt;/li>
+&lt;li>クロスチェーンデータを解釈および操作するためのオラクルおよびその他のツール&lt;/li>
+&lt;li>他のチェーンやコミュニティで採用されているCatalystで作成されたソリューション&lt;/li>
+&lt;li>他のチェーンやコミュニティとの一般的な研究、教育、アウトリーチ、イノベーションプロジェクト（ポッドキャスト、ハッカソン、ウェビナー、コミュニケーションハブ、教育リソースなど）&lt;/li>
+&lt;/ul>
+&lt;h3 id="チャレンジチーム">チャレンジチーム&lt;/h3>
+&lt;p>私たちは経験豊富なCatalystコミュニティのメンバーであり、1つのチェーンがすべてを支配するべきだとは信じていない「相互運用性の最大主義者」です。&lt;/p>
+&lt;ul>
+&lt;li>FilipBlagojevićは、ファンド2、Plutus Pioneer、Atala Pioneer、およびEmurgoAcademyの研修生以来アクティブなProjectCatalystメンバーです。&lt;/li>
+&lt;li>Tomi Astikainenは、暗号通貨投資家になりたい人のために最近本を書いたベテランコミュニティアドバイザーです。彼はAcala / Karuraのシニアアンバサダーであり、フィンランドのPolkadot / Kusamaコミュニティのドライバーです。&lt;/li>
+&lt;li>Felix Weberは、アクティブなProject Catalystメンバーであり、Cardano Ambassadorであり、いくつかのコミュニティ主導のプロジェクトおよびイニシアチブのイニシエーター/リーダーです。&lt;/li>
+&lt;/ul>
+&lt;h3 id="この提案された課題の成熟度に関する私たちの評価">この提案された課題の成熟度に関する私たちの評価：&lt;/h3>
+&lt;p>Cardanoテクノロジースタックは、クロスチェーンコラボレーションと相互運用性の提案を募集し始めるのに十分成熟しています。私たちが提案する課題は、意図的に自由形式のままにしており、さまざまなソリューションを歓迎しています。このチャレンジで提出された価値のあるアイデアは、近い将来（次の6〜9か月）にカルダノとカタリストのコミュニティを成長させ、改善するのに役立つはずです。&lt;/p>
+&lt;p>したがって、この課題は、Fund8の戦略目標と一致しています。&lt;/p>
+&lt;ul>
+&lt;li>これは、人々がカルダノとカタリストのエコシステムに貢献する準備をするのに役立ちます。&lt;/li>
+&lt;li>これは、Cardanoを私たちのコミュニティを超えて認識されているオープンソースプロジェクトに変えるのに役立ちます。&lt;/li>
+&lt;li>残りのブロックチェーンスペースからの貢献を招待することで、開発者とアプリのエコシステムの成長と進化を加速します。&lt;/li>
+&lt;/ul>
+&lt;p>$ 400,000 USDの予算は、Fund8の総財務配分の適度な2.5％です。相互運用性とクロスチェーンコラボレーションイニシアチブを開始するには十分なはずですが、大規模なインフラストラクチャプロジェクトには不十分な場合があります。したがって、&lt;strong>長期的なビジョンとロードマップを含むが、当初は非常に範囲が狭い「最小実行可能」および「概念実証」の提案を提出することをお勧めします&lt;/strong>。&lt;/p></description></item><item><title>Catalyst: DAOs❤カルダノ</title><link>/ja/catalyst/fund7/challenges/daos-love-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/daos-love-cardano/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 500,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26237">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26237/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-DAOs-Love-Cardano">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/daos-love-cardano">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>現在、DAO（Cardanoを中心に製品やサービスを構築することを目的としたものでも）がDAOインフラストラクチャをセットアップしたい場合、現在のオプションはすべて、主にイーサリアムブロックチェーンに基づいています。&lt;/p>
+&lt;p>これらのdAppは、基本的な財務管理から、DAOでの意思決定、さらには分散型正義のようなサポートサービスにまで及びます。それらのいくつかは次のとおりです。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://aragon.org">https://aragon.org&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://daostack.io">https://daostack.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://colony.io">https://colony.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.molochdao.com">https://www.molochdao.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://abridged.io">https://abridged.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kleros.io">https://kleros.io&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="カルダノのニーズ">カルダノのニーズ：&lt;/h3>
+&lt;ol>
+&lt;li>他のチェーンに競争力のある代替手段を提供するための同様のツール。&lt;/li>
+&lt;li>新しいDAOがプラットフォームに使用するチェーンを評価する必要がある場合に、ブロックチェーンを有利にするための追加のまだ存在しないツール。&lt;/li>
+&lt;/ol>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>ブロックチェーンアプリケーションは、取引からDeFi、NFTに移行しました。 DAOは次のとおりです。カルダノはそれが起こったときに備えておく必要があります。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>カルダノを使用してDAOを管理するためのソリューションは、他のどのブロックチェーンよりも多く、優れています。&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>このチャレンジのソリューションが実装された後のDAOのトランザクション料金から発生するADAの量（&amp;gt;チャレンジの割り当てられた資金額よりも）&lt;/li>
+&lt;li>6か月間にCardanoをガバナンス/管理チェーンとして使用するDAOの数。&lt;/li>
+&lt;li>DAO Opsで使用可能なDAOツールセット/フレームワークの数（&amp;gt; 1）。&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: DApps &amp; 統合</title><link>/ja/catalyst/fund6/challenges/dapps-integrations/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/dapps-integrations/campaign-brief/</guid><description>
+&lt;p>どのアプリケーションが2021年にエンドユーザーに最も価値を提供するでしょうか?&lt;/p>
+&lt;p>予算規模: &lt;strong>$250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26103">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>質の高いDappsと統合は、ユーティリティ &amp;amp; Cardanoの採用を増加させます。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>素晴らしく実行可能なアプリケーションは、Cardanoのトップに構築されユーザーを引き付けます。 統合はより多くの採用を引き寄せ管理します。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>課題を評価するために私たち自身に問いかける: 私たちの努力は、プラットフォームにユーザーを引き付けることに成功しましたか? 私たちの努力はCardanoの上に構築された新しい実行可能なアプリケーションになりましたか?&lt;/p>
+&lt;p>&amp;ldquo;アプリケーション出力&amp;quot;と&amp;quot;アプリケーショントランザクション&amp;quot;をアプリケーションのスクリプトアドレスを使用する出力とトランザクションとします。 「アプリケーション・トークン」とは、アプリケーションが発行するトークンのこととします。&lt;/p>
+&lt;h2 id="チャレンジで開発されたアプリケーションの利用">チャレンジで開発されたアプリケーションの利用&lt;/h2>
+&lt;ul>
+&lt;li>アプリケーション出力の数/成長&lt;/li>
+&lt;li>アプリケーション・トランザクションの数/成長&lt;/li>
+&lt;li>アプリケーション・トランザクションに関与するAdaの合計量&lt;/li>
+&lt;li>アプリケーションによる資源使用量の合計/増加&lt;/li>
+&lt;li>アプリケーション・トランザクションに記載されている個別のアドレスの数/成長&lt;/li>
+&lt;li>アプリケーションがトークンを使用する場合:&lt;/li>
+&lt;li>アプリケーション・トークンの数/成長&lt;/li>
+&lt;li>アプリケーション・トークンを保持する個別のアドレスの数/成長&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジで開発されたアプリケーションの生存率">チャレンジで開発されたアプリケーションの生存率&lt;/h2>
+&lt;ul>
+&lt;li>2021年の終わりには、どのくらいのアプリケーションが開発されていますか?&lt;/li>
+&lt;li>どのくらいのアプリケーションがクリエイターに利益をもたらしましたか?&lt;/li>
+&lt;li>2021年にアプリケーションを構築したチームの数はどれくらいに増えたでしょうか?&lt;/li>
+&lt;li>アプリケーションを構築したチームで別のアプリケーションを構築する予定のチームはどれくらいですか?&lt;/li>
+&lt;/ul>
+&lt;h2 id="ガイドの質問">ガイドの質問&lt;/h2>
+&lt;p>他のプラットフォームのアプリケーションエコシステムを支える重要なアプリケーションは何ですか?&lt;/p>
+&lt;p>他のエコシステムで最も収益性の高いアプリケーションや最も使用されているアプリケーションは何ですか?&lt;/p>
+&lt;p>Cardanoのユーザーは、新しいアプリケーションで解決できるようにするには、何が必要ですか?&lt;/p>
+&lt;p>どのアプリケーションが、最も洗練された技術で最高の価値を提供しますか?&lt;/p>
+&lt;h2 id="潜在的な方向性">潜在的な方向性&lt;/h2>
+&lt;ul>
+&lt;li>スワップ、シンプルでファンシーなバリエーション（マルチパーティーなど）&lt;/li>
+&lt;li>エスクロー、シンプルでファンシーなバリエーション&lt;/li>
+&lt;li>既存の製品との統合&lt;/li>
+&lt;/ul>
+&lt;h2 id="以前のチャレンジ">以前のチャレンジ&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25941">Fund 5 DApps &amp;amp; 統合&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25869">Fund 4 DApps &amp;amp; 統合&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25797">Fund 3 DAppsの作成&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25652">Fund 2チャレンジ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25604">Fund 1チャレンジ&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: DApps and Integrations(DApps統合)</title><link>/ja/catalyst/fund8/challenges/dapps-and-integrations/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/dapps-and-integrations/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/06-Dapps--Integrations-d3b60a.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>2,500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383335">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26438/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>2022年にエンドユーザーに最大の価値を提供するアプリケーションはどれですか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>高品質のDappと統合により、Cardanoの有用性と採用が向上します。このような幅広い資金調達の課題は、より多くの提案を促します。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>斬新で実行可能なアプリケーションは、Cardanoの魅力的なユーザーの上に構築されます。統合により、より多くの採用を引き出すことができます。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>課題を評価するために、私たちは自分自身に問いかけます。私たちの努力は、ユーザーをプラットフォームに引き付けることに成功しましたか？私たちの努力の結果、Cardano上に構築された新しい実行可能なアプリケーションが生まれましたか？&lt;/p>
+&lt;p>「アプリケーション出力」と「アプリケーショントランザクション」をアプリケーションのスクリプトアドレスを使用する出力とトランザクションとし、「アプリケーショントークン」をアプリケーションによって発行されるトークンとします。&lt;/p>
+&lt;h3 id="チャレンジ中に開発されたアプリケーションの使用法">チャレンジ中に開発されたアプリケーションの使用法：&lt;/h3>
+&lt;ul>
+&lt;li>アプリケーション出力の数/成長&lt;/li>
+&lt;li>アプリケーショントランザクションの数/成長&lt;/li>
+&lt;li>アプリケーショントランザクションに関与するAdaの総量&lt;/li>
+&lt;li>アプリケーションによるリソース使用量の合計/増加&lt;/li>
+&lt;li>アプリケーショントランザクションで言及されている個別のアドレスの数/増加&lt;/li>
+&lt;/ul>
+&lt;h3 id="アプリケーションがトークンを使用する場合">アプリケーションがトークンを使用する場合：&lt;/h3>
+&lt;ul>
+&lt;li>アプリケーショントークンの数/成長&lt;/li>
+&lt;li>アプリケーショントークンを保持する個別のアドレスの数/増加&lt;/li>
+&lt;li>チャレンジ中に開発されたアプリケーションの実行可能性：&lt;/li>
+&lt;li>2022年の終わりにまだ開発中のアプリケーションはいくつありますか？&lt;/li>
+&lt;li>作成者に利益をもたらしたアプリケーションはいくつありますか？&lt;/li>
+&lt;li>アプリケーションを構築したチームのうち、2022年に成長したチームはいくつありますか？&lt;/li>
+&lt;li>アプリケーションを構築した（または構築を計画している）チームのうち、別のアプリケーションを構築したチームはいくつありますか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>カルダノは、その厳密な研究を通じて他とは一線を画し、物事を正しく行うよう努めるエコシステムです。資金提供を申請するすべてのdAppプロジェクトは、可能な限り最高レベルの認証を目指すことを期待しています。これが何を指し、実際に何を意味するのかを理解するには、このトピックに関するCharlesHoskinsonのビデオ「DApp認定とコミュニティキュレーション」をご覧ください。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Y7zcYSQarI0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>この課題は、組み込まれたテクノロジーやブロックチェーン企業、およびすでにMVPを展開している有能なチームを持つ大規模なプロジェクトに適しています。理想的には、これらは実績のあるユーザーベースを持つプロジェクトです。そのような基準を満たすプロジェクトは、それが正当化され、明確に予算が組まれている場合、100,000ドル以上を申請することを歓迎します。&lt;/p>
+&lt;p>実績のある能力、関連する経験、および提案を開始する方法を詳述したスケッチ/ホワイトペーパーを備えた技術スキルを備えた小規模なチーム（4〜5人）の場合、予算は通常40,000〜80,000ドルの範囲になります。&lt;/p>
+&lt;p>関連する経歴を持っているが、完全なチームがない、またはソリューションの詳細を説明するホワイトペーパーが完成していない場合、プロジェクトは研究段階のプロジェクトと見なす必要があり、予算は10,000ドル未満である必要があります。&lt;/p>
+&lt;h3 id="ガイドの質問">ガイドの質問&lt;/h3>
+&lt;ul>
+&lt;li>他のプラットフォームのアプリケーションエコシステムを支える主要なアプリケーションは何ですか？&lt;/li>
+&lt;li>他のエコシステムで最も収益性の高い、または最も使用されているアプリケーションは何ですか？&lt;/li>
+&lt;li>Cardanoのユーザーには、新しいアプリケーションで解決できるニーズは何ですか？&lt;/li>
+&lt;li>どのアプリケーションが、最小限の技術的洗練度で最高の価値を提供しますか？&lt;/li>
+&lt;/ul>
+&lt;h3 id="考えられる方向">考えられる方向&lt;/h3>
+&lt;ul>
+&lt;li>スワップ、シンプルなものと派手なものの両方（マルチパーティなど）&lt;/li>
+&lt;li>エスクロー、シンプルなものと派手なものの両方&lt;/li>
+&lt;li>既存製品との統合&lt;/li>
+&lt;li>NFTマーケットプレイスまたはファシリテーター&lt;/li>
+&lt;li>スマートコントラクトの力を活用したソリューション&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: DApps-統合</title><link>/ja/catalyst/fund7/challenges/dapps-intergration/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/dapps-intergration/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 250,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://github.com/Catalyst-Challenges/F7-DApps-and-Integrations">Campaign page&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/dapps-and-integrations">browse ideas&lt;/a>.&lt;/p>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>高品質のDappと統合により、Cardanoの有用性と採用が向上します。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>斬新で実行可能なアプリケーションは、Cardanoの魅力的なユーザーの上に構築されます。統合により、より多くの採用を引き出すことができます。&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;p>課題を評価するために、私たちは自分自身に問いかけます。私たちの努力は、ユーザーをプラットフォームに引き付けることに成功しましたか？私たちの努力の結果、Cardano上に構築された新しい実行可能なアプリケーションが生まれましたか？&lt;/p>
+&lt;p>「アプリケーション出力」と「アプリケーショントランザクション」を、アプリケーションのスクリプトアドレスを使用する出力とトランザクションとします。 「アプリケーショントークン」は、アプリケーションによって発行されるトークンです。&lt;/p>
+&lt;h3 id="チャレンジ中に開発されたアプリケーションの使用法">チャレンジ中に開発されたアプリケーションの使用法：&lt;/h3>
+&lt;ul>
+&lt;li>アプリケーション出力の数/成長&lt;/li>
+&lt;li>アプリケーショントランザクションの数/成長&lt;/li>
+&lt;li>アプリケーショントランザクションに関与するAdaの総量&lt;/li>
+&lt;li>アプリケーションによるリソース使用量の合計/増加&lt;/li>
+&lt;li>アプリケーショントランザクションで言及されている個別のアドレスの数/増加&lt;/li>
+&lt;/ul>
+&lt;p>アプリケーションがトークンを使用する場合：&lt;/p>
+&lt;ol>
+&lt;li>アプリケーショントークンの数/成長&lt;/li>
+&lt;li>アプリケーショントークンを保持する個別のアドレスの数/増加&lt;/li>
+&lt;/ol>
+&lt;h3 id="チャレンジ中に開発されたアプリケーションの実行可能性">チャレンジ中に開発されたアプリケーションの実行可能性：&lt;/h3>
+&lt;ul>
+&lt;li>2021年の終わりにまだ開発中のアプリケーションはいくつありますか？&lt;/li>
+&lt;li>作成者に利益をもたらしたアプリケーションはいくつありますか？&lt;/li>
+&lt;li>アプリケーションを構築したチームのうち、2021年に成長したチームはいくつですか？&lt;/li>
+&lt;li>アプリケーションを構築した（または構築を計画している）チームのうち、別のアプリケーションを構築したチームはいくつありますか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="ガイドの質問">ガイドの質問&lt;/h2>
+&lt;ul>
+&lt;li>他のプラットフォームのアプリケーションエコシステムを支える主要なアプリケーションは何ですか？&lt;/li>
+&lt;li>他のエコシステムで最も収益性の高い、または最も使用されているアプリケーションは何ですか？&lt;/li>
+&lt;li>Cardanoのユーザーには、新しいアプリケーションで解決できるニーズは何ですか？&lt;/li>
+&lt;li>どのアプリケーションが、最小限の技術的洗練度で最高の価値を提供しますか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="考えられる方向">考えられる方向&lt;/h2>
+&lt;ul>
+&lt;li>スワップ、シンプルなものと派手なものの両方（マルチパーティなど）&lt;/li>
+&lt;li>エスクロー、シンプルなものと派手なものの両方&lt;/li>
+&lt;li>既存製品との統合&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Develper Ecosystem(開発者エコシステム)</title><link>/ja/catalyst/fund8/challenges/developer-ecosystem/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/developer-ecosystem/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/01-Developer-Ecosystem-4d9cc4.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>1,000,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/384822">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26433/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>開発者が成功するアプリの構築に集中できるように、どうすれば前向きな開発者エクスペリエンスを作成できますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>開発者にインセンティブを与える素晴らしいエクスペリエンスを作成すると、開発者の採用、生産性、創造性が向上します。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>Cardanoには繁栄している開発エコシステムがあり、開発者は提供するサービスを収益化することでビジネスを拡大できます。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>測定する重要な指標&lt;/p>
+&lt;p>このチャレンジの最後に、私たちは自分自身に問いかけます。開発者がカルダノの上に構築するのを簡単にすることができましたか？&lt;/p>
+&lt;ul>
+&lt;li>探索段階で定義されたギャップを埋める&lt;/li>
+&lt;li>Cardanoの上に積極的に構築している開発者の数&lt;/li>
+&lt;li>ツールを使用したGithub上のリポジトリの数。 （月間増加）&lt;/li>
+&lt;li>開発者との未回答の通信の待機時間を24時間に短縮します&lt;/li>
+&lt;li>コミュニティと会話の感覚。周りに人と話をする&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;h4 id="ガイドの質問">ガイドの質問&lt;/h4>
+&lt;ul>
+&lt;li>最初に優先順位を付ける必要があるツールは何ですか&lt;/li>
+&lt;li>現在のコミュニティ外の開発者をCatalystに参加させるにはどうすればよいですか？&lt;/li>
+&lt;li>開発者は何を望んでおり、Cardano開発エコシステムからどのようにそれを取得しますか？&lt;/li>
+&lt;li>アプリの作成がどれほど困難であっても、開発者がドキュメントとコードを精査する意欲を高めるにはどうすればよいでしょうか。&lt;/li>
+&lt;li>エンタープライズプロジェクト（社内または商用）を構築できるようにするために、エンタープライズ開発マネージャーは何を求めていますか？&lt;/li>
+&lt;/ul>
+&lt;h4 id="潜在的な方向性">潜在的な方向性&lt;/h4>
+&lt;ul>
+&lt;li>開発者の生産性：IDE、自動化するスクリプト&lt;/li>
+&lt;li>ナレッジベースとドキュメント&lt;/li>
+&lt;li>展開、テスト、および監視のフレームワーク&lt;/li>
+&lt;li>サンプル、レシピ、テンプレート&lt;/li>
+&lt;li>ハッカソン&lt;/li>
+&lt;li>DEFIとトークン化&lt;/li>
+&lt;li>ダッシュボード&lt;/li>
+&lt;li>API、およびオラクル。&lt;/li>
+&lt;li>サポート構造&lt;/li>
+&lt;li>インセンティブ構造&lt;/li>
+&lt;/ul>
+&lt;h3 id="これはオープンソース開発エコシステムの課題とどのように比較されますか">これは、オープンソース開発エコシステムの課題とどのように比較されますか？&lt;/h3>
+&lt;p>違いはタイトルにあります。私たちはオープンソースを提唱していますが、すべてのチームがソリューションをオープンソース化できると感じているわけではないことを認識しています。一部のAPIは永久にクローズドソースである可能性がありますが、それでもCardanoエコシステムに全体的な正味のプラスを提供します。初日からオープンソースにオールインしている場合は、間違いなくオープンソース開発エコシステムチャレンジに参加してください（それがオプションの場合）。私たちはあなたを応援しています。ただし、現時点では両方の余地があると考えています。&lt;/p>
+&lt;p>2021年12月1日からのCatalystタウンホールには、この議論専用の小会議室がありました。利用可能になり次第、コメントとして添付します。&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088">https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088&lt;/a>&lt;/p></description></item><item><title>Catalyst: DLT起業ツールボックス</title><link>/ja/catalyst/fund6/challenges/dlt-enterpreneurship/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/dlt-enterpreneurship/campaign-brief/</guid><description>
+&lt;p>初期段階の起業家は、有権者/ステークホルダーがプロジェクトを評価するため、 偉大なアイデアを実行 &amp;amp; 伝達するスキルをどう開発できますか?&lt;/p>
+&lt;p>予算規模: &lt;strong>$150,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26113">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>あなたの背景が何であれ、自信を持って初期段階のベンチャーのすべての重要な要素を伝えることは、経験の浅い起業家にとって大変なことがあります。&lt;/p>
+&lt;p>さまざまな段階にある、ますます多様化するProject Catalyst起業家のグループとチームと利害関係者が協力して効果的にコミュニケーションできるようにするには、さらに多くのことを行う必要があります。&lt;/p>
+&lt;p>これはProjectCatalystにとって重要です。時間の経過とともに、最も強力なアイデアは、最も首尾一貫して伝達され、最終的に有権者、特に専門家の評価者と明確に共鳴するアイデアになるからです。&lt;/p>
+&lt;p>このチャレンジは、経験の浅い起業家が重要な起業家精神のスキルを学び、適用して、有意義なCatalystプロジェクトでチームや利害関係者と協力できるようにすることを目的としています。 これはまた、持続可能な影響を確保し、投資と意思に対し利益になることを助けます。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>起業家の強みは野心とビジョンですが、投票者の心を射止めるのに十分な明確なアイデアを伝えるための構造を欠いていることが多いです&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>Catalystに提出された提案の質が高く、起業家はプロジェクトの原則、USP、戦略、目標を自信を持って提示するようになります。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>ツールを使用しているユーザー数&lt;/li>
+&lt;li>ツールボックスを使った提案者のスコアと、ツールボックスを使わない提案者のスコアの違い。&lt;/li>
+&lt;li>構想の開始からプロジェクトの実施まで、プロジェクトチームの起業家スキルの基本的なギャップがありません。&lt;/li>
+&lt;li>Catalyst開発プロジェクトの範囲を超えたベンチャー計画の持続可能性。&lt;/li>
+&lt;/ul>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/DLT-Entrepreneurship-Toolbox/341809-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Film + Media (FAM) creatives unite!(映画+メディア（FAM）のクリエイティブが団結！)</title><link>/ja/catalyst/fund8/challenges/film-and-media-creatives-unite/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/film-and-media-creatives-unite/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/20-Film--Media-FAM-creatives-unite-4e9e0a.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>150,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383633">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26452/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>世界のエンターテインメント+メディア市場= 2兆ドル。高品質のカルダノコミュニティメディアを作成するための分散型FAMネットワークは不可欠ですが、存在しません。&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>クリエイティブのチャレンジカテゴリはこれまでありませんでした。芸術における多様性+人間の創造性は、カルダノの生態系を豊かにすることができます&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>包括的で高品質のマルチメディアコンテンツを作成するために公平に協力するチーム+プラットフォーム=知識の増加+カルダノの採用&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>生態系の健全性の尺度として：&lt;/p>
+&lt;ul>
+&lt;li>マルチメディアプロジェクトの&lt;/li>
+&lt;li>マルチメディアプラットフォームの&lt;/li>
+&lt;li>多言語チームの&lt;/li>
+&lt;li>分散型映画クルーの&lt;/li>
+&lt;li>分散型ニュースチームの&lt;/li>
+&lt;li>分散型コンテンツ作成チームの&lt;/li>
+&lt;li>リソース（RAWフッテージなど）を共有する分散型マルチメディアプロジェクトを活用して、現場でフッテージを撮影するために移動することによる不要なコストとCO2排出を回避します。&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>&lt;strong>クリエイティブ、作家、アーティスト、映画製作者、写真家などが公平に協力することで、文化の多様性でエコシステムを豊かにすることができます。&lt;/strong>&lt;/p>
+&lt;p>カルダノには強力なYouTubeコミュニティがありますが、明らかにYouTubeがすべてではなく、多くの観点で好評を得ていません。 YouTube、従来のメディア、テレビ、映画の間の架け橋が必要です。メディアに対して明確なメッセージを伝える必要があります。&lt;/p>
+&lt;p>全国のメディアやテレビ局が日常の番組で喜んで使用する教育的で刺激的なコンテンツを作成することが重要です。&lt;/p>
+&lt;p>この初期段階では、YouTuberとTV＆Filmの専門家の間の協力は歓迎されるだけでなく、必要とされています。このための特定の課題を作成することは、教育とインスピレーションの両方の門を開くはずです。&lt;/p>
+&lt;p>Film and Media（FAM）チャレンジは、次のことを可能にすることで、世界中の視聴者にカルダノの知識と採用を促進することを目的としています。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>専門家やクリエイティブがつながり、コラボレーションし、調整するのを容易にするためのチャレンジプラットフォーム&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>カルダノエコシステム内の多数のストーリーにスポットライトを当てるプロジェクトの立ち上げ&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>カルダノのブロックチェーンが、気候緊急事態へのソリューションを必要とする世界で「グリーンブロックチェーン」ソリューションである方法を示すマルチメディアプロジェクト&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>このクリエイティブグループが触媒となるアイデアをプラットフォーム化するための専用のチャレンジカテゴリは、これまで存在していませんでした。これにより、影響力のある可能性のあるプロジェクトが、「適切」ではないチャレンジカテゴリでの位置を見つけるのに苦労しています。 FAMチャレンジカテゴリは、高品質で教育的で刺激的な多言語マルチメディアコンテンツをもたらすアイデアや提案の提出の流れを解き放つことができます。&lt;/p>
+&lt;p>カルダノエコシステム内およびマルチセクターエコシステム間でグローバルにブリッジを構築するのに役立つコンテンツ。そのため、世界中のFAMクリエイティブがステップアップします。あなたは私たちが待ち望んでいたものです。&lt;/p></description></item><item><title>Catalyst: Fund7 チャレンジ設定</title><link>/ja/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/fund7-challenge-setting/campaign-brief/</guid><description>
+&lt;p>コミュニティは、Fund7でどのような課題を優先すべきでしょうか?&lt;/p>
+&lt;p>予算規模: &lt;strong>$5,400,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26120">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>コミュニティ定義の課題は、Cardanoコミュニティの自己ガバナンスにとって重要であり、Cardanoの使命を達成するための独自の方法を生み出します。&lt;/p>
+&lt;p>チャレンジの設定は、通常のチャレンジがチャレンジに対処するためのイニシアチブの提案であるかどうかにかかわらず、新しいチャレンジの提案に関するものであるため、他のチャレンジとは異なります。&lt;/p>
+&lt;p>コミュニティが提案を受け入れると、次の条件が満たされた場合、提案チームは2,500ドル相当のadaの「チャレンジチーム」インセンティブを受け取る機会があります。&lt;/p>
+&lt;ul>
+&lt;li>チャレンジチームは、次のファンドの開始時にコミュニティにチャレンジを提示します。&lt;/li>
+&lt;li>チャレンジチームは、タウンホール後の1つでチャレンジに焦点を当てたブレイクアウトセッションを促進します。&lt;/li>
+&lt;li>チャレンジチームは次のファンドの「振り返り週間」でチャレンジレトロスペクティブセッションをリードしています。&lt;/li>
+&lt;li>チャレンジチームは、チャレンジのための資金を受け取った提案チームとのセッションを促進します。&lt;/li>
+&lt;li>チャレンジチームは、資金提供された提案によって報告される主要な指標を追跡します 資金を受けてから3ヶ月後、チャレンジが対応されているかどうかを反省し、彼らのアプローチで重要な進歩を遂げているチームを強調表示します。&lt;/li>
+&lt;/ul>
+&lt;p>これらの活動は複雑に見えるかもしれませんが、Catalystチームとコミュニティからガイドライン、トレーニング、サポートを受けることができます。 あなたが必要とするのは、公正でバランスのとれた方法で挑戦を表現する意欲と参加したいという願望だけです。 条件が満たされると、あなたのチームは報酬を受け取る資格があります。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>コミュニティは、影響力のある独創的な提案を刺激する重要で魅力的なチャレンジが含まれるように投票します。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;p>このチャレンジのROIを評価するために、私たちは自問します:&lt;/p>
+&lt;ul>
+&lt;li>選択された課題は、提案の質とコミュニティのエンゲージメントという点でどの程度うまく機能しましたか?&lt;/li>
+&lt;li>上位10%の提案チャレンジに対するコミュニティアドバイザーの平均スコアは何ですか?&lt;/li>
+&lt;li>チャレンジに対処するために作成された上位10%の提案について、コミュニティアドバイザーの平均スコアは何ですか?&lt;/li>
+&lt;li>このチャレンジはどのくらいの投票者のエンゲージメントを生み出しましたか?&lt;/li>
+&lt;li>チャレンジの全体的な予算と比較して、どのくらいの提案がコミュニティによって承認されましたか? (超過したチャレンジ)&lt;/li>
+&lt;/ul>
+&lt;h2 id="ガイドの質問">ガイドの質問&lt;/h2>
+&lt;ul>
+&lt;li>最も多くの有権者が関与することとなるチャレンジは何でしょうか?&lt;/li>
+&lt;li>どのチャレンジに対処すれば、Cardanoの採用のためのスプリングボードになりますか?&lt;/li>
+&lt;li>どのチャレンジに対処すれば、Cardanoのミッションを前進させるでしょうか?&lt;/li>
+&lt;/ul>
+&lt;h2 id="以前のチャレンジ">以前のチャレンジ&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25946">Fund 5:Fund6チャレンジ設定&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25874">Fund 4:Fund 5チャレンジ設定&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25800">Fund 3:F3:コミュニティの選択&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Fund8チャレンジ設定</title><link>/ja/catalyst/fund7/challenges/fund8-challenge-settting/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/fund8-challenge-settting/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ：&lt;strong>ADAで支払われる$ 12,800,000米ドル&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26257">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26257/stage/unspecified">browse ideas&lt;/a> and &lt;a href="https://github.com/Catalyst-Challenges/F7-Fund8-challenge-setting">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/f7-fund8-challenge-setting">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>コミュニティ定義の課題は、カルダノコミュニティの自治にとって重要であり、カルダノの使命を達成するための独自の方法を生み出します。&lt;/p>
+&lt;p>課題の設定は、通常の課題が課題に対処するためのイニシアチブを提案することであるかどうかにかかわらず、新しい課題を提案することに関するものであるため、他の課題とは異なります。&lt;/p>
+&lt;p>提案がコミュニティに受け入れられると、次の条件が満たされた場合、提案チームは2,500ドル相当のadaの「チャレンジチーム」インセンティブを受け取る機会があります。&lt;/p>
+&lt;ul>
+&lt;li>チャレンジチームは、次の基金の開始時にコミュニティにチャレンジを提示します。&lt;/li>
+&lt;li>チャレンジチームは、アフタータウンホールの1つでチャレンジに焦点を当てたブレイクアウトセッションを促進します。&lt;/li>
+&lt;li>チャレンジチームは、次のファンドの「回顧週間」中にチャレンジ回顧セッションを主導します。&lt;/li>
+&lt;li>チャレンジチームは、チャレンジの資金を受け取った提案チームとのセッションを促進します。&lt;/li>
+&lt;/ul>
+&lt;p>チャレンジチームは、資金提供を受けてから3か月後に、資金提供された提案によって報告された主要な指標を追跡し、チャレンジが解決されているかどうかについての考察を示し、アプローチで大きな前進を遂げているチームを強調します。&lt;/p>
+&lt;p>これらのアクティビティは複雑に見えるかもしれませんが、Catalystチームとコミュニティからガイドライン、トレーニング、サポートを受けられます。必要なのは、公平でバランスの取れた方法で挑戦を表現する意欲と参加したいという願望だけです。条件が満たされると、チームは報酬を受け取る資格があります。&lt;/p>
+&lt;h2 id="ガイドの質問">ガイドの質問&lt;/h2>
+&lt;ul>
+&lt;li>最も多くの有権者を引き付ける課題は何ですか？&lt;/li>
+&lt;li>対処した場合、どの課題がカルダノ採用の出発点になりますか？&lt;/li>
+&lt;li>対処された場合、どの課題がカルダノの使命を前進させるでしょうか？&lt;/li>
+&lt;/ul>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>コミュニティは、影響力のある独創的な提案を刺激する重要で魅力的な課題を含めることに投票します。&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;p>この課題のROIを評価するために、次のことを自問します。&lt;/p>
+&lt;ul>
+&lt;li>選択した課題は、提案の質とコミュニティの関与の観点からどの程度うまく機能しましたか？&lt;/li>
+&lt;li>提案された上位10％のチャレンジのコミュニティアドバイザーの平均スコアはどれくらいですか？&lt;/li>
+&lt;li>課題に対処するために生成された上位10％の提案の平均コミュニティアドバイザースコアはどれくらいですか？&lt;/li>
+&lt;li>チャレンジはどのくらいの投票者の関与を生み出しましたか？&lt;/li>
+&lt;li>チャレンジの全体的な予算と比較して、チャレンジで承認された提案はいくつありますか？ （チャレンジオーバーエイジ）&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Gamers On - Chained（ゲーマーオン-チェーン</title><link>/ja/catalyst/fund8/challenges/gamers-on-chained/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/gamers-on-chained/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/08-Gamers-On-Chained-82871b.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381329">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26440/stage/all/ideas/unspecifiedf">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>Cardanoの大量採用を実現するには、どのブロックチェーンゲームアプリケーションを開発する必要がありますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>ゲーマーは暗号に入る準備ができています。参加するには、楽しいアプリケーションを備えた明確なブロックチェーンが必要です。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>Cardanoは、その高品質のツールと幅広いゲーマー中心のユーザーベースにより、ゲームアプリケーションを開発するためのブロックチェーンになります。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>測定する主要な指標&lt;/p>
+&lt;ul>
+&lt;li>Cardano上に構築されたゲームベースのアプリケーションの総ユーザー&lt;/li>
+&lt;li>Cardano上に構築/構築されたゲームベースのアプリケーションの数&lt;/li>
+&lt;li>Play-to-Earnアプリケーションでゲーマーが生み出す価値の量&lt;/li>
+&lt;li>ゲーム専用に作成されたCNFTの数&lt;/li>
+&lt;li>ゲーム用に特別に作成された代替可能なトークンの数&lt;/li>
+&lt;li>カルダノに来たゲームベースのコンテンツクリエーターの数&lt;/li>
+&lt;li>Cardanoネイティブアセットでホストされているゲームトーナメントの数&lt;/li>
+&lt;li>このチャレンジに提出された提案の数&lt;/li>
+&lt;li>提出された提案に与えられたコメントと称賛の量&lt;/li>
+&lt;li>このチャレンジの提案に投票したADAの量&lt;/li>
+&lt;li>このチャレンジの提案に投票したウォレットの数&lt;/li>
+&lt;li>ゲームベースのトークンとウォレットの量と進化&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>起業家のゲームコミュニティでCatalystのブランド認知度を高め、ゲーマーが大好きなゲームを通じてCardanoエコシステムに参加する方法を提案する必要があります。これらの提案は、Cardanoベースのゲーム、Cardanoベースのゲーム開発用の開発ツールまたはSDK、既存のゲームと統合するブロックチェーンレイヤー、またはゲーマーやゲーム開発者をエンドユーザーとして優先するその他のものを構築するという形をとることができます。&lt;/p>
+&lt;p>そこには25億人のゲーマーがいます。これらのゲーマーは、楽しくやりがいのある方法で暗号通貨への道を探しています。選択できるゲームと統合のライブラリを提供し、ゲームのブロックチェーンへの移行としてカルダノを固めましょう。&lt;/p>
+&lt;p>これらのゲーマーをオンチェーンさせましょう。&lt;/p></description></item><item><title>Catalyst: Grow Africa, Grow Cardano</title><link>/ja/catalyst/fund6/challenges/grow-africa/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/grow-africa/campaign-brief/</guid><description>
+&lt;p>アフリカでCardanoをどのように育てるのか？&lt;/p>
+&lt;p>予算規模: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26108">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26108/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;h3 id="アフリカはcardanoの採用にとって肥沃な土地である">アフリカはCardanoの採用にとって肥沃な土地である。&lt;/h3>
+&lt;p>アフリカに焦点を当てた資金調達ラウンドを持つことは勝利のシナリオです。 アフリカはサポートされれば勝利します。 すでにアフリカが勝利を収めている商業プロジェクトは、彼らが私たちのコミュニティからサポートのシグナルを得ています。 Cardanoホルダーは、大量採用のための奨励環境があれば、勝利します。&lt;/p>
+&lt;p>アフリカに焦点を当てることはしばしば促進され、IOGとチャールズ・ホスキンソンによって公然と追求されている戦略です。&lt;/p>
+&lt;p>コミュニティが後援するプロジェクトは若い発展途上国でよりよく実行されるため、ROIは高くなる可能性があります。&lt;/p>
+&lt;h2 id="このプロジェクトは何ですか">このプロジェクトは何ですか？&lt;/h2>
+&lt;p>世界をより良い場所にするために、この機会を認識し、リスクを冒し、報酬を与えるCardanoコミュニティの能力を活性化するための呼びかけです。&lt;/p>
+&lt;h2 id="このプロジェクトはこうではありません">このプロジェクトはこうではありません。&lt;/h2>
+&lt;p>これは提案者によって積極的な仕事を必要とする提案ではありません、それは達成に至るための投票を必要とするビジョンです。 それが成功した場合は、受益者はCardano全体のコミュニティです。 それは私たちの偏見をやめ、私たちの多くが生まれてきた環境上の利益を欠いている善良な人々に私たちの目、心、そして心を開くための呼びかけです。 勝利し成功するためには、慈善団体が必要ではないことを示す機会となります。 必要なのは、他の多くの人が享受している成功または失敗の機会均等ですが、障害やハードルが軽減され、選択肢は自分たちの手に委ねられていることも必要です。&lt;/p>
+&lt;h2 id="成功するか失敗するかにかかわらず">成功するか失敗するかにかかわらず:&lt;/h2>
+&lt;p>私は目を開け、アフリカの可能性について考えを変えました。 西部のアフリカの銀行家から、ビジョンと心を持った出稼ぎの人々、情熱を持った若者、私の仮定とCardanoコミュニティのメンバーに多くのことを与えることに挑戦したドキュメンタリーです。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>グローバルで採用されるとCardanoは輝きます。 アフリカには現在若い起業家がおり、大きな成長や政府との契約の可能性があります。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;ul>
+&lt;li>Cardanoはアフリカで最高のパブリックブロックチェーンと見なされています&lt;/li>
+&lt;li>アフリカのCardanoプロジェクトは孤立しておらず、ネットワーク化され、成長しています&lt;/li>
+&lt;/ul>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>アフリカ人参加者数&lt;/li>
+&lt;li>アフリカ以外の参加者の数とアフリカの住民との重要なパートナーシップの数&lt;/li>
+&lt;li>失敗や成功に関係なく、成功した提案からの進捗に関するフィードバック&lt;/li>
+&lt;li>新規性とソリューションの妥当性（定量化が難しく、見やすい）&lt;/li>
+&lt;li>運営を続けるためにさらに資金を必要としないアフリカのFund5の提案数&lt;/li>
+&lt;/ul>
+&lt;h2 id="以前のチャレンジ">以前のチャレンジ&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/campaign-home/25947">Fund5：アフリカを育て、Cardanoを育てる&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: アフリカを育て、カルダノを育てる</title><link>/ja/catalyst/fund8/challenges/grow-africa-grow-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/grow-africa-grow-cardano/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/10-Grow-Africa-Grow-Cardano-1daa76.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>250,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/384227">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26442/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>2022年にアフリカでカルダノの種をまき、育て続けるにはどうすればよいでしょうか。&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>「GrowAfrica」チャレンジは、カルダノの主要なイニシアチブの中心であり、アフリカに拡大しています。 Catalystがこのドライブもサポートできるようにします。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>カルダノは、2023年までにアフリカで選択されるブロックチェーンです。&lt;/p>
+&lt;p>アフリカのプロジェクトと開発者は孤立するのではなく、ネットワーク化されて成長します。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>2022年にシードされた新しいアフリカのプロジェクトの数&lt;/li>
+&lt;li>提案は、Cardanotechのユースケースソリューションを明確に示しています&lt;/li>
+&lt;li>2022年に採用されたアフリカの開発者の数&lt;/li>
+&lt;li>ローカルへの影響（ユーザーのアクティビティとリーチを通じて測定可能）&lt;/li>
+&lt;li>形成された地域のパートナーシップ（機関の規模+影響力）&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>*「アフリカに焦点を当てた資金調達ラウンドを持つことは、勝利、勝利、勝利のシナリオです。アフリカはいくつかの支援を得ることで勝利します。すでにアフリカで構築されている商業プロジェクトは、コミュニティからのサポートのシグナルを受け取るため、勝利します。カルダノ保有者アフリカに焦点を当てることは、IOGとCharles Hoskinsonによって頻繁に推進され、公然と追求されてきた戦略です。コミュニティが後援するプロジェクトは若い世代でより適切に実行されるため、ROIは高くなる可能性があります。と発展途上の経済。」&lt;strong>グレッグベル; （Grow Cardanoシリーズの創始者）&lt;/strong>&lt;/p>
+&lt;p>人類の歴史と文明を通して、数世紀ごとに、要因の合流が私たちを開発のある段階から別の段階に移行させるために整列している。第一次産業革命と第二次産業革命はその代表的な例です。現在、私たちはWeb2革命からかろうじて抜け出しており、4番目の産業革命またはWeb3が私たちに迫っています。&lt;/p>
+&lt;p>アフリカは、第1、第2、または第3の産業革命において重要な役割を果たしていませんでしたが、Web 3.0テクノロジーのリーダーになる態勢が整っており、先見の明のある人々は戦略的に位置付けています。&lt;/p>
+&lt;p>カルダノコミュニティは、これらの先見の明のある人の1人になることができます。重要な新興市場の大きなシェアを獲得するために、アフリカでの長期プロジェクトのシードに真剣に取り組みましょう。&lt;/p>
+&lt;h3 id="予算の根拠">予算の根拠&lt;/h3>
+&lt;p>ここで率直にしましょう。アフリカでカルダノの種まきを続けるには、25万人以上が必要です。 Catalystの投票パターンのため、この金額を求めています。その点で、25万ドルは0ドルよりも優れており、WADAとパートナーは他のチャレンジカテゴリを利用して、アフリカでカルダノを拡大するのに役立てることができます。&lt;/p></description></item><item><title>Catalyst: Grow East Asia, Grow Cardano（東アジアを育て、カルダノを育てる</title><link>/ja/catalyst/fund8/challenges/grow-east-asia-grow-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/grow-east-asia-grow-cardano/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/12-Grow-East-Asia-Grow-Cardano-c2a227.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>150,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382067">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26444/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>東アジアのカルダノ生態系を包括的かつ支援的な方法でどのように成長させるのでしょうか？私たちがアフリカで行うのと同じように、焦点を絞ったイニシアチブ！&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>カルダノコミュニティは、北米とヨーロッパに大きく傾いています。他の場所で成長するには、コミュニティとしてのサポートとイニシアチブが必要です。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>アジア全体でアジアにつながり、私たちのエコシステムを成長させるために集まってチームを形成する幅広い人々。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>このチャレンジの最後に、参加の質についていくつか質問します。&lt;/p>
+&lt;p>ProjectCatalystの東アジアの参加者からの提案の数&lt;/p>
+&lt;p>東アジアのチームから発信された資金提供された提案の量と質。&lt;/p>
+&lt;p>資金提供されたプロジェクトの観察された影響（KPIを満たす）。&lt;/p>
+&lt;p>東アジアの住民とのカルダノコミュニティとCatalystチームの参加を増やしましたか？&lt;/p>
+&lt;p>勢いとエンゲージメントの代理指標として、デイリー/マンスリーアクティブウォレット（DAW / MAW）が増加しましたか？&lt;/p>
+&lt;p>東アジアに拠点を置くステークプールとステークプールオペレーターの数を増やしましたか？&lt;/p>
+&lt;p>また、提案の質についていくつか具体的な質問をします。&lt;/p>
+&lt;p>資金提供を受けたプロジェクトの進捗状況、失敗、成功について、東アジア全体にカルダノソリューションを展開する際のニュアンスを理解するのに役立つ良いフィードバックはありますか？&lt;/p>
+&lt;p>ソリューションの新規性と適切性は何ですか？&lt;/p>
+&lt;p>私たちは東アジアでカルダノを使用している人々の生活を改善するために順調に進んでいますか？&lt;/p>
+&lt;p>提案のパフォーマンスを測定するために、社会的および環境的影響評価が使用されましたか？&lt;/p>
+&lt;p>Catalystの範囲を超えた提案の持続可能性とは何ですか？&lt;/p>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>アフリカと同様に、ブロックチェーンとカルダノネットワークに関する東アジアの一般の人々の意識レベルを高めることは、Catalystコミュニティの優先事項であるはずです。このチャレンジでは、カルダノについて学んだ人々がコミュニティのサポートを活用し、カルダノネットワークを構築または使用するための資金を提供します。&lt;/p>
+&lt;p>この課題の提案の性質は制限がありません。彼らの唯一の要件は、東アジアを起源とするか、それに焦点を合わせ、東アジアのチームメンバーを含めるか、東アジアの参加者に焦点を当てることです。&lt;/p>
+&lt;p>たとえば、ステークプールの圧倒的多数は北米とヨーロッパにあります。ステークプールが世界中に均等に分散されている場合、カルダノネットワークはより回復力があります。 Catalystコミュニティは、ステップアップして意図的にそれを実現する必要があります。&lt;/p>
+&lt;p>カルダノは東アジア（日本と香港）で始まり、エムルゴは東アジアに焦点を当てています。その上に構築しましょう。&lt;/p>
+&lt;p>これは何ですか：&lt;/p>
+&lt;p>行動の呼びかけ。カルダノコミュニティの認識能力を活性化し、世界をより良い場所にする機会に報いる。東アジアは、カルダノを採用するための肥沃な土地です。若くて発展途上国のプロジェクトは経済的慣性に直面していないため、意図収益率（ROI）は高くなる可能性があります。&lt;/p>
+&lt;p>資金調達の課題を通じて世界のさまざまな地域に直接かつ意図的に取り組むことで、私たちのコミュニティはよりアクセスしやすくなります。それは私たちをより弾力的にします。それは私たちが私たちの生態系を構成するコミュニティのニーズを学び、理解するのに役立ちます。&lt;/p>
+&lt;p>成果を上げるには投票が必要なビジョンです。チャレンジが成功すると、受益者はカルダノコミュニティ全体になります。それは、私たちの偏見を閉じ、私たちの多くが生まれた恩恵を欠いている善良な人々に私たちの目、心、心を開き、特権的な状況が少ない他の人々が立ち上がって成功できるようにするための呼びかけです。&lt;/p></description></item><item><title>Catalyst: Grow India, Grow Cardano(インドを育て、カルダノを育てる)</title><link>/ja/catalyst/fund8/challenges/grow-india-grow-cardano/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/grow-india-grow-cardano/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/22-Grow-India-Grow-Cardano-82a925.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>150,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381216">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26454/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>インドでカルダノの開発と採用をどのように成長させることができますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>14億人。 30歳未満の55％（2016年推定）&lt;/p>
+&lt;p>地元の問題を解決するために必要な地元のカルダノ開発者/企業。&lt;/p>
+&lt;p>重大な貧困/銀行口座のない&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>成功は、インドに焦点を当てたプロジェクトのためのCatalyst Fund8の複数の提出があり、実際のプロジェクトが資金提供されて構築されています。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>全体的な主要な指標は次のとおりです。&lt;/p>
+&lt;ul>
+&lt;li>Catalystとインドに焦点を当てたプロジェクト間の相互作用の増加&lt;/li>
+&lt;li>インドに焦点を当てたCatalystの提出数&lt;/li>
+&lt;li>実際に構築されたインドに焦点を当てたdapps /サービスの数&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>アフリカだけでなく、インド国内のカルダノにも重点を置くべきだと思います。&lt;/p>
+&lt;p>インドの人口は14億人と膨大です。&lt;/p>
+&lt;p>55％は30歳未満です（Wikipedia、2016年推定）銀行口座を持たない/地方の人々のかなりの割合がありますworldpoverty.ioは1億人のインド人（7％）が極度の貧困に住んでいると述べています指紋を使用した商品については、https：//www.payaadharを参照してください。 2019年）。したがって、これをすぐに深刻な市場にするのに十分なインフラストラクチャと消費者向けデバイスが整っています。&lt;/p>
+&lt;p>インドに焦点を当てたCatalystチャレンジ/資金を持つことは、チームやアイデアを集め、インドでカルダノボールを転がすのに非常に役立ちます。私はインド人ではなく、インドとは関係がありませんが、カルダノは彼らが直面している問題を解決し、カルダノの生態系を成長させるのに役立つと思います。&lt;/p>
+&lt;p>表面的には、インドの問題はアフリカや南アメリカに似ているように見えるかもしれず、いくつかの重複がありますが、理想的には、地元の人々が地元の問題を特定して解決するのが最善です。&lt;/p>
+&lt;p>エムルゴはインドに事務所を持っていますが、彼らが何をしているのかわかりません。インドのITは十分に確立されており、豊富な人材とスキルを利用できます。カルダノとCatalystの資金調達について知らせる必要があります。この提案は、Fund8チャレンジ内でインドに焦点を当てることを目的としており、そのチャレンジは、開発者と教育者のコミュニティを成長させるための実用的な提案を引き付けます。&lt;/p>
+&lt;p>そのFund8チャレンジのいくつかの提案は次のとおりです。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>定期的なキャッチアップのためのローカルカルダノハブのセットアップ（仮想または実世界）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>カルダノとCatalystをハイレベルで説明するために開発者/起業家を引き付けるために設定された現地語のウェブサイト/ソーシャル/ YT&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>dappに資金を提供し、認識された複雑さを教育して軽減するためのウォークスルーとして、現地の言語でハウツービデオを作成します&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dappアイデアのコンテスト/ピッチフェストを実行し、上位10のアイデアに資金を提供してMVPを作成します&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>大学やトレーニングセンターとつながる&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>新しく確立されたインドのYouTubeチャンネルに接続して、Cardanoの技術、開発者のアイデア、ビジネスチャンスなどについて話し、Catalystの資金調達について話題を呼びましょう。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>カルダノとCatalystの資金提供の認知度を定期的に高めて、人々をスペースに呼び込みます。たとえば、12か月のキャンペーン&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>これは、回転するのに多くのエネルギーを必要とする大きな重いホイールのようなものですが、動き始めると、（うまくいけば）必要なエネルギーが少なくなり続けます。&lt;/p>
+&lt;p>この提案にはどのくらいのADA / USDが利用可能である必要がありますか？&lt;/p>
+&lt;p>インドでカルダノへの関心を高めるには、Catalystラウンドが数回かかると思います。したがって、Fund8での最初の投資ラウンドは15万ドルになるはずです。その後の資金調達ラウンドは、その時点で決定され、コミュニティによって投票されます。&lt;/p></description></item><item><title>Catalyst: Improve and Grow Auditability(監査可能性の向上と成長)</title><link>/ja/catalyst/fund8/challenges/improve-and-grow-auditbility/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/improve-and-grow-auditbility/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/15-Improve-and-Grow-Auditability-5955cb.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383480">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26447/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>資金提供された提案の監査プロセスを効率的、分散的、透明にする方法は？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>資金提供された提案が、彼らの使命で確立されたものを提供しているかどうかを確認するために評価されることが重要です。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>資金提供された提案を評価し、プロジェクトの開発と実施に関するレポート、記事、指標を提供するいくつかのプロジェクト。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>監査された資金提供された提案の数&lt;/li>
+&lt;li>さまざまな課題での提案の作成について監査および報告することが目的であることを考えると、各課題に関連して成功指標を検討することが重要です。&lt;/li>
+&lt;li>上のレポート、記事、ビデオ/ポッドキャストの数：&lt;/li>
+&lt;li>パフォーマンス&lt;/li>
+&lt;li>実績&lt;/li>
+&lt;li>財務&lt;/li>
+&lt;li>オンボーディングされた開発者の数。&lt;/li>
+&lt;li>資金提供されたプロポーザルリポジトリ（Github）のコミット数&lt;/li>
+&lt;li>指標：dappsと相互作用するトランザクション、ボリューム、および固有のウォレット。&lt;/li>
+&lt;li>監査されたスマートコントラクトの数。&lt;/li>
+&lt;li>ソーシャルメディアエンゲージメント指標。&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>Fund7が発生すると、300近くの資金提供された提案があります。これらの提案が提供されているかどうか、およびROIが最初に確立されたものと一致しているかどうかを確認するために、これらの提案を評価/監査することが非常に重要です。&lt;/p>
+&lt;p>現在、IOGはこれらの資金提供された提案の開発を監視していますが、資金提供された提案が何百もある場合、これはIOGにとって圧倒的な作業になります。&lt;/p>
+&lt;p>監査可能性の課題は、カルダノの財務リソースの使用における透明性を確保することを目的としています。これにより、カルダノコミュニティは、チェックアンドバランスシステムを通じて資金提供された提案の開発に関するより多くの情報を得ることができます。&lt;/p></description></item><item><title>Catalyst: Lobbying for favorable legislation(有利な立法のためのロビー活動)</title><link>/ja/catalyst/fund8/challenges/lobbying-for-favorable-legislation/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/lobbying-for-favorable-legislation/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/14-Lobbying-for-favorable-legislation-38d3c1.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>300,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381094">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26446/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>政府による攻撃や、継続的な法律や不公正な税制の妥協から身を守るにはどうすればよいでしょうか。&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>そのため、私たちは有利な法律、プライバシー、減税、そして暗号通貨の大量採用のための前向きな環境を持っています。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>私たちは、暗号の採用を危うくし、Coincenterのような地域コミュニティや組織をサポートする法律を遅らせるか逆転させることができました&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>ロビー活動を通じて支持された管轄区域の数&lt;/li>
+&lt;li>変更された法律の数&lt;/li>
+&lt;li>規制の専門家、弁護士、その他の関係者の数&lt;/li>
+&lt;li>同じ目的で活動する組織や非営利団体とのパートナーシップやコラボレーションの数&lt;/li>
+&lt;li>関与した政治家の投票数&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>この課題の背後にある考え方は、PoSとカルダノの特殊性に焦点を当てて、暗号空間に有利または害の少ない法律環境の構築を促進できる規制の専門家、弁護士、および政治家に資金を提供することです。&lt;/p>
+&lt;p>このチャレンジを通じて、エルサルバドルのビットコインで最近起こったように、特定の法域でカルダノの採用を求める提案に資金を提供することができます。&lt;/p>
+&lt;p>&lt;a href="https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first">https://www.coindesk.com/policy/2021/09/07/bitcoin-now-legal-tender-in-el-salvador-marking-world-first&lt;/a>&lt;/p>
+&lt;p>課税、暗号通貨の使用、および暗号通貨ユーザーのプライバシーの向上に関するより有利なルールの作成を求めることができるように、合理的な政治家に働きかけ、教育します。&lt;/p>
+&lt;p>2021年8月、米国上院は暗号エコシステムに関する容赦のない法律に投票しました。政治のクラスで私たちのコミュニティを守るための声はほとんどありません。コインセンターのようなイニシアチブは、私たちのコミュニティを守るために重要です。権威主義的な政府による攻撃や妥協的な法律からどのように身を守ることができるでしょうか。&lt;/p>
+&lt;p>&lt;a href="https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what">https://www.vice.com/en/article/4avpp3/cryptocurrency-lost-big-in-senate-infrastructure-bill-provision-now-what&lt;/a>&lt;/p></description></item><item><title>Catalyst: Miscellaneous Challenge(その他の課題)</title><link>/ja/catalyst/fund8/challenges/miscellaneous-challenge/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/miscellaneous-challenge/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/09-Miscellaneous-Challenge-db88cb.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381326">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26441/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>他の現在の課題のいずれにも適合しないアイデアやプロジェクトのためのスペースをどのように作成しますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>その他のチャレンジを作成すると、他のチャレンジに適合しない場合でも、特定のファンドで優れたアイデアに資金を提供できるようになります。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>他のチャレンジではカバーされない問題に焦点を当てた素晴らしいアイデアに資金を提供します。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>このチャレンジの最後に、私たちは自分自身に問いかけます。このチャレンジはコミュニティにとって価値があったのでしょうか？&lt;/p>
+&lt;ul>
+&lt;li>コミュニティによって承認された、他の課題にうまく適合しない提案にうまく資金を提供します。&lt;/li>
+&lt;li>その他のチャレンジで提出された提案に基づいて、以下の基金で提案される可能性のある特定されたチャレンジの数。&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>この課題は、現在他の課題に適合していない、興味深く価値のあるプロジェクトをキャプチャするように設計されています。&lt;/p>
+&lt;p>このチャレンジで提案を提出するための唯一の制約は、提案が何らかの形でカルダノに関連している必要があるということです。&lt;/p>
+&lt;h3 id="チャレンジアラインメントの定義">チャレンジアラインメントの定義&lt;/h3>
+&lt;p>評価段階で、コミュニティアドバイザーは、このチャレンジで提出された提案が他の既存のチャレンジのいずれかに適しているかどうかを評価する必要があります。&lt;/p>
+&lt;p>これが当てはまる場合、つまり、提案がチャレンジの目標と十分に一致している別のチャレンジがある場合、この提案は「その他のチャレンジ」とあまり一致していません。&lt;/p></description></item><item><title>Catalyst: Nation Building Dapps(国家建設Dapps)</title><link>/ja/catalyst/fund8/challenges/nation-buidling-daaps/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/nation-buidling-daaps/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/03-Nation-Building-Dapps-b80970.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>800,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383828">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26435/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>発展途上国で獲得した広範なユーザーに提供できるコアNationBuilding Dappソリューションは何ですか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>基本的な基盤のない貧しい国々にとって、Nation Building Dappソリューションは、持続可能な繁栄を可能にするビルディングブロックになります。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>カルダノローカルコミュニティセンターおよび国際パートナーシップと協力して、発展途上国でのDappの使用を増やし、人々にサービスを提供する&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>提案数&lt;/li>
+&lt;li>提案CAの評価&lt;/li>
+&lt;li>Dappのユースケースの多様性&lt;/li>
+&lt;li>提案者の商業的アプローチとさまざまな政府との交渉戦略&lt;/li>
+&lt;li>カルダノのローカルコミュニティセンターの参加&lt;/li>
+&lt;li>他の国際機関への参加および/またはパートナーシップ&lt;/li>
+&lt;li>対象国の数、署名された契約&lt;/li>
+&lt;li>Dappユーザー、レジストリアカウント、トランザクションボリュームの数&lt;/li>
+&lt;li>提案者は、フィールド調査、Dappの開発、および実装に時間を費やします&lt;/li>
+&lt;li>Dappsは社会的/金融包摂に影響を与えます&lt;/li>
+&lt;li>Dappsは経済発展に影響を与えます&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>基盤のない貧しい国々にとって、Nation Building Dappソリューションは、持続可能な繁栄を可能にするビルディングブロックになります。 2017年のFindexレポートによると、銀行口座を持たない成人の約4分の1が、自国の最も貧しい20％の世帯に住んでいます。 Nation Building Dappsの提案は、これらの人々にデジタルIDを提供し、貧困から抜け出すのに役立つでしょう。単一障害点を排除し、国、企業、個人のデータ、資産、資産を保護することで、インフラストラクチャに分散型ソリューションを提供できるCardanoブロックチェーンソリューションを奨励したいと考えています。&lt;/p>
+&lt;p>&lt;a href="https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf">https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf&lt;/a>&lt;/p>
+&lt;p>Dappの提案は、基本的なレジストリソリューションをカバーする必要があります。&lt;/p>
+&lt;p>国民IDと市民登録、財産登録、医療と予防接種、教育センサス、歳入サービス、企業法人、選挙投票、税関と国境管理、刑事記録、雇用センサス、車両登録、ライセンスと認証。&lt;/p>
+&lt;p>提案者は、IOHK / EMURGO Atala Prismソリューションを、富裕国全体で現在実装されている統合レジストリシステムアプリケーションのリファレンスユースケースとともに事前に確認します。&lt;/p>
+&lt;p>さらに、エコノミストのエルナンド・デ・ソトが第三世界の国々の貧困の「不可思議な」原因を解明するために過去30年間に行われた研究に関する知識ベースを取得することを提案者に勧めます。添付の本「TheMysteryof Capital」は、この課題の提案の作成に携わるすべての人にとって、コンテキストを理解するための優れた参考資料です。&lt;/p>
+&lt;p>****注：***政府は、人々から、人々のために、そして人々によってと考えてください。&lt;/p>
+&lt;h4 id="紹介ビデオ">紹介ビデオ&lt;/h4>
+&lt;p>{{&amp;lt;youtubeWaDP0n4pV84&amp;gt;}}&lt;/p></description></item><item><title>Catalyst: New Member Onboarding(新メンバーオンボーディング)</title><link>/ja/catalyst/fund8/challenges/new-member-onboarding/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/new-member-onboarding/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/18-New-Member-Onboarding-16fc23.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382639">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26450/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>2022年に新しいCatalystメンバーが適切な役割と責任を引き受けることをより速く、より簡単にするにはどうすればよいでしょうか。&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>Catalystの成功は、品質チャレンジチーム、提案者、アドバイザー、メンター、および有権者の可用性に依存します。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>人々が彼らにとって意味があり、共有された成功に貢献する役割を果たしている、潤滑なオープンイノベーションプラットフォーム。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>メトリックは2つのセクションに分けることができます。一般的なオンボーディングとは、人々を引き込み、単なる潜入者から有権者や潜在的な提案者に変えることを指します。イノベーションプロセスの指標は、提案とその周辺の活動の量と質を指します。&lt;/p>
+&lt;h4 id="一般的なオンボーディング">一般的なオンボーディング&lt;/h4>
+&lt;ul>
+&lt;li>CardanoIdeascaleへの毎週のサインアップ&lt;/li>
+&lt;li>タウンホール出席&lt;/li>
+&lt;li>カタリストスクールセッションへの出席&lt;/li>
+&lt;li>スウォームセッションへの参加&lt;/li>
+&lt;li>リーダーシップへの応用（例：サークル）&lt;/li>
+&lt;/ul>
+&lt;h4 id="イノベーションプロセス">イノベーションプロセス&lt;/h4>
+&lt;ul>
+&lt;li>リファラーの数&lt;/li>
+&lt;li>準備ができていない提案の数の削減&lt;/li>
+&lt;li>4〜5つ星の提案の数で成長&lt;/li>
+&lt;li>コミュニティアドバイザーとベテランコミュニティアドバイザーの数の増加&lt;/li>
+&lt;li>優れた評価のある提案の割合&lt;/li>
+&lt;li>有権者数の増加&lt;/li>
+&lt;li>与えられた投票の総数の増加&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>Project Catalystの成長は、彼らの役割を果たし、彼らの責任を理解することに熱心で能力のある提案者、アドバイザー、メンター、および有権者からの有意義な参加に依存しています。&lt;/p>
+&lt;h3 id="ガイドの質問">ガイドの質問&lt;/h3>
+&lt;ul>
+&lt;li>パッシブADAホルダーをアクティブCatalystメンバーに変換するにはどうすればよいですか？&lt;/li>
+&lt;li>最もアクティブなオープンイノベーションプラットフォームとしてのProjectCatalystの認知度をどのように高めることができるでしょうか。&lt;/li>
+&lt;li>チャレンジチーム、提案者、アドバイザー、メンター、有権者からのより有意義な参加をどのように増やすことができるでしょうか。どのような追加の役割が必要ですか？&lt;/li>
+&lt;li>オンボーディングに利用できるツールとサービスを利用するように、新しいメンバーをどのように奨励できますか？&lt;/li>
+&lt;li>既存のテキスト、ビデオ、およびオーディオ資料の使用をどのように改善できるでしょうか。&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: NFT ビジネス モデル</title><link>/ja/catalyst/fund6/challenges/nft-business-models/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/nft-business-models/campaign-brief/</guid><description>
+&lt;p>NFTのアート以外のユースケースで、CardanoをNFTベースのビジネスに最適なブロックチェーンとして区別できるものはどれですか？&lt;/p>
+&lt;p>予算規模: &lt;strong>$200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26115">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26115/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>NFTをコアコンポーネントとして使用し、Cardanoエコシステムへのオンランプとして機能するCardanoでビジネスユースケースを推進する手段や方法を提案します。 これは、NFTに基づく任意のビジネスモデルを含むことができます。 これがどのように大規模に実装されているかを考えてみてください。dApps、ツール、DeFiなどのサービスの顧客として何百万人ものユーザーを引き込んでみましょう。&lt;/p>
+&lt;p>このチャレンジは、CardanoエコシステムにNFTを組み込んだ継続的なビジネスを構築することです。 Cardanoで流通しているNFTの種類が増えれば、CardanoとADAの有用性も高まります。&lt;/p>
+&lt;h2 id="何を提案すべきか">何を提案すべきか?&lt;/h2>
+&lt;p>提案は特定のユースケースに向けて組み立てられる必要があり、コミュニティはNFTを使用してさまざまな問題を解決できる特定のケースを知ることができます。 一般にNFTに焦点を当てることは最も生産的であり、ほとんどのトランザクションのコアコンポーネントとしてNFTに依存するビジネスモデルに重点を置いています。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>NFTは、Cardanoブロックチェーンの使用率を高めるNFTの使用要件が繰り返し発生するビジネスを生み出す可能性があります。&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>Cardanoのユーザーベース、ネットワークユーティリティ、ネットワーク価値 &amp;amp; ADA流動性を実質的に成長させることができる多くの高品質なアイデアが提案されます。&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>定量化可能な方法でNFTのユースケースに直接対応する提案の数。&lt;/li>
+&lt;li>コミュニティの関心と関与によって測定された提案の質.&lt;/li>
+&lt;li>Fund7が資金を供給したプロジェクトの結果は、CardanoブロックチェーンでのNFTユーティリティーに大きな影響を与えます。&lt;/li>
+&lt;/ul>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/NFT-Business-models/352815-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/334524-48088">Fund4 チャレンジ設定の提案&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title>Catalyst: Open Source Development Ecosystem（オープンソース開発エコシステム</title><link>/ja/catalyst/fund8/challenges/open-source-development-ecosystem/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/open-source-development-ecosystem/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/02-OS-Developer-Ecosystem-603bcd.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>1,200,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382213">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26434/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>Cardanoエコシステムが、コミュニティが所有し、すべての人が平等にアクセスできるフレームワーク上に構築されていることをどのように確認できますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>現在のIOGチームと一緒にカルダノ/触媒の基盤を構築および維持するには、専門家のエコシステム全体を成長させる必要があります&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>ますます多くの専門家が力を合わせて、コミュニティが所有するインフラストラクチャ、ツール、標準、ライブラリ、ドキュメントを共同で構築しています&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>Cardanoオープンソースプロジェクトの数と質を高める&lt;/li>
+&lt;li>寄稿者の数を増やす&lt;/li>
+&lt;li>コミュニティのためのコミュニティからのオープンソースツールとフレームワークの増加（ドッグフーディング）&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>最初の反復では、CatalystはCatalystチームによって提案されたチャレンジとして開始されました。当初、その予算の大部分は開発者エコシステムに向けられていました。たとえば、ファンド6では、開発者エコシステムに1ミルが割り当てられました。米ドル、それは合計400万の25％でした。基金に利用可能。&lt;/p>
+&lt;p>基金7では、Catalystは予算の管理をコミュニティに解放し、コミュニティは投票を通じて資金提供先を選択することができました。残念ながら、F7に提案されたDeveloper Ecosystemチャレンジは、十分な票を獲得できなかったため却下されました。これにより、カルダノテクノロジーの開発に使用できたはずの重要なリソースストリームが不足していました。&lt;/p>
+&lt;h3 id="オープンソース開発エコシステムの課題">オープンソース開発エコシステムの課題&lt;/h3>
+&lt;p>OSDEの課題は、オープンソースプロジェクト、オープンソースフレームワーク、およびアクセス可能な知識に関する取り組みの一部を共有することにより、プロジェクトを開発し、コミュニティに貢献したいチームに一連のリソースを提供することを目的としています。&lt;/p>
+&lt;p>主なアイデアは、コミュニティによって資金提供されたプロジェクトは、チームが保持するビジネス価値を生み出すと同時に、エコシステム自体を改善することによってコミュニティに貢献できるということです。&lt;/p>
+&lt;p>たとえば、プロジェクトを開発するためにチームに資金を提供することができます。有益なアイデアを活用してビジネス価値を生み出し、知識の共有やフレームワークやプロジェクトの構築という観点から、業務の非中核事業部分を他のチームと共有します。これにより、心を合わせて複雑な問題を解決することができます。異なるチーム間で作業を分割します。&lt;/p>
+&lt;h3 id="動機">動機&lt;/h3>
+&lt;p>Catalystは、Cardano：Voltaireのロードマップの最終段階に向けて徐々に機能するために存在します。まだ開発中のテクノロジーに加えて、新しい形式のガバナンスとコラボレーションをサポートするツールを構築しています。この技術の開発自体は、最終的には、これと同じプロセスの一部になる必要があります。このような複雑で困難な作業では、さまざまな分野の専門家が共通の目標に沿って作業する必要があります。&lt;/p>
+&lt;h4 id="ガイドの質問">ガイドの質問&lt;/h4>
+&lt;ul>
+&lt;li>今日資金提供されている作業から将来の努力が利益を得るようにするにはどうすればよいでしょうか。&lt;/li>
+&lt;li>さまざまなオープンソースコミュニティの取り組みをどのように調整しますか？&lt;/li>
+&lt;li>IOG開発をコミュニティと融合させるための次のステップは何ですか？&lt;/li>
+&lt;li>専門家が協力して知識と仕事を共有することをどのように奨励できますか？&lt;/li>
+&lt;li>知識と努力を共有しながら、どうすれば持続可能なエコシステムを開発できますか？&lt;/li>
+&lt;/ul>
+&lt;h4 id="可能な方向">可能な方向&lt;/h4>
+&lt;ul>
+&lt;li>Cardano＆Catalystエコシステムの開発のための教育&lt;/li>
+&lt;li>共通のツール、フレームワーク、コアインフラストラクチャ、または概念実証の開発&lt;/li>
+&lt;li>開発とホスティングのためのインセンティブシステム&lt;/li>
+&lt;li>一般的な監査済みリポジトリと既存のソリューションの概要&lt;/li>
+&lt;li>開発エコシステムをまとめるためのイベントの開催&lt;/li>
+&lt;li>エコシステム内の相互運用性を改善するためのコラボレーション&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Open Standards &amp; Interoperability（オープンスタンダードと相互運用性</title><link>/ja/catalyst/fund8/challenges/open-standards-and-interoperability/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/open-standards-and-interoperability/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/17-Open-Standards--Interoperability-ea2841.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>500,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/383619">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26449/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>成長を促進し、すべての人に平等な機会を与え、カルダノプロジェクト全体の相乗効果を高めるためのオープンエコシステムを構築できますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>ID、プラクティス、およびソフトウェアコンポーネント/サービスを共有することにより、複雑なソフトウェアを提供し、コラボレーションを推進し、イノベーションを加速します。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>ベンダーに中立なエコシステム&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>成長、認識、発見可能性を促進する&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>商業的採用を増やす&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>必要なインフラストラクチャを提供する&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;p>カルダノプロジェクトでは、&lt;strong>オープンスタンダード&lt;/strong>の採用が増えるはずです。長期的には、コミュニティが資金提供するすべてのプロジェクトは、共通の基準に従うことにより、オープンで透明性のあるものでなければなりません。&lt;/p>
+&lt;p>目に&lt;strong>見える改善&lt;/strong>があるはずです。プロジェクトの発見とプロジェクトリソースの検索がより簡単で、プロジェクトのナレッジベース（ドキュメント、ハウツーなど）へのアクセスがより直感的で、プロジェクトメンバーの検索と連絡が簡単です。&lt;/p>
+&lt;p>プロジェクト間の単純なコミュニケーション、知識の共有、および既存のコンポーネント/サービスの再利用を可能にすることで、&lt;strong>プロジェクトの相乗効果&lt;/strong>を実現できるはずです。&lt;/p>
+&lt;p>さまざまなプロジェクトへ&lt;strong>のオープンソースの貢献の増加&lt;/strong>を観察する必要があります：新しい参加者とすでにカルダノコミュニティにいる他の人々の両方から&lt;/p>
+&lt;p>Cardanoオープンソースプロジェクトの評判の&lt;strong>向上&lt;/strong>を観察する必要があります。この対策は、さまざまなオープンソースコミュニティのメディアコミュニケーションを調べることで実行できます。&lt;/p>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>&lt;strong>オープン性、透明性、コンセンサスの原則に基づいて構築されたオープンスタンダード&lt;/strong>は、革新、成長、公正な競争の基礎を築きます。&lt;em>&lt;strong>オープンスタンダードはオープンソースと同義ではありません。&lt;/strong>&lt;/em> [OPSTD]&lt;/p>
+&lt;p>オープンソースは、さまざまなテクノロジーやアプリケーション間の相互運用性を実現するための最良の方法であると考えています。しかし、カルダノエコシステムには、基本的なプロジェクト間の統合の基準がない一連のオープンソースプロジェクトがあります。たとえば、プロジェクトの文書化、設定、および貢献の方法に関する基準はありません。さらに、プロジェクトが問題を追跡し、コミュニティによって資金提供されたプロジェクトに関する基本的な公開情報を公開するために使用できる共通のインフラストラクチャはありません。&lt;/p>
+&lt;p>Cardanoオープンソースプロジェクトで使用する一連の標準、プロセス、およびインフラストラクチャが必要であるとアドバイスします。これにより、（1）さまざまなOSプロジェクトのチームが簡単にコラボレーションできるようになります。 （2）新規参加者は、既存のOSプロジェクトを簡単に発見、理解、テスト、および貢献できます。 （3）Cardano OSプロジェクトは、必要な基本的なインフラストラクチャとツールのプールにアクセスできます。&lt;/p>
+&lt;h3 id="動機">動機&lt;/h3>
+&lt;p>Charles Hoskinsonが述べたように、「Cardanoコードはオープンソースですが、Linuxや他のOSプロジェクトのような真のオープンソースプロジェクトのように管理する必要があります」。&lt;/p>
+&lt;p>{{&amp;lt;youtubeT88_XKzi8ms&amp;gt;}}&lt;/p>
+&lt;p>この方向に進むためには、真のベンダー中立のオープンソースおよびオープンスタンダードエコシステムに対するガバナンスとしてCatalystを使用する必要があります。それを達成するために、プロセス（たとえば、プロジェクトチームがどのように動作し、エコシステムに参加する必要があるか）とインフラストラクチャ（たとえば、VCS、CMS、Wiki、フォーラムなど）が不足しています。&lt;/p>
+&lt;h3 id="ガイドの質問">ガイドの質問&lt;/h3>
+&lt;ul>
+&lt;li>ベンダーニュートラルエコシステムの成長をどのように導くことができますか？&lt;/li>
+&lt;li>どうすれば共通のアイデンティティを構築し、カルダノプロジェクトの認知度を高めることができますか？&lt;/li>
+&lt;li>プロジェクトの発見可能性と商業的採用をどのように高めることができますか？&lt;/li>
+&lt;li>さまざまなプロジェクト間でのコラボレーションの度合いをどのように高めることができますか？&lt;/li>
+&lt;li>どうすれば障壁を下げ、生態系へのオープンな参加を増やすことができますか？&lt;/li>
+&lt;li>サイズに関係なく、どのようにしてすべてのプロジェクトに平等な機会を提供できますか？&lt;/li>
+&lt;/ul>
+&lt;h3 id="考えられる方向">考えられる方向&lt;/h3>
+&lt;ul>
+&lt;li>複雑な問題を解決するためにプロジェクト間のコラボレーションを奨励する&lt;/li>
+&lt;li>共通の標準とプロセスを導入し、プロジェクト全体でそれらの採用を奨励します&lt;/li>
+&lt;li>調整に必要なプロジェクト間のインフラストラクチャとツールを提供する&lt;/li>
+&lt;li>一貫性のある知識ベースの存在を確認する&lt;/li>
+&lt;li>プロのテクノロジーアンバサダーのネットワークをサポートする&lt;/li>
+&lt;/ul>
+&lt;h4 id="ノート">ノート&lt;/h4>
+&lt;p>この課題は、既存のF7オープンソース開発者エコシステムの上に構築されており、F8オープンソース開発エコシステム（https://cardano.ideascale.com/a/dtd/Open-Source-Development-Ecosystem/382213-48088）と大まかに関連しています。&lt;/p>
+&lt;p>実際、この課題は、標準、プロセスの確立、およびOSプロジェクト間の相互運用性の促進に関するものですが、「オープンソース」の課題は、将来の課題に向けてオープンソースプロジェクトに資金を提供することにより、OSエコシステムの成長に重点を置いています。&lt;/p>
+&lt;p>簡単に言うと、この課題は、コミュニティが資金提供するオープンソースプロジェクト全体のオープンネス、標準化、相互運用性に関するものですが、「オープンソース」の課題は、プロジェクトの数/質を高めることです。&lt;/p>
+&lt;h4 id="参考文献">参考文献&lt;/h4>
+&lt;p>&lt;code>OPSTD&lt;/code>アルメイダ、フェルナンド＆ホセ、オリベイラ＆ホセ、クルス。 （2011）。オープンスタンダードとオープンソース：相互運用性の実現。ソフトウェアエンジニアリングとアプリケーションの国際ジャーナル。 2. 10.5121 /ijsea.2011.2101。&lt;/p></description></item><item><title>Catalyst: Scale-UP Cardano's Community Hubs（スケールアップカルダノのコミュニティハブ</title><link>/ja/catalyst/fund8/challenges/scale-up-cardanos-community-hubs/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/scale-up-cardanos-community-hubs/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/07-Scale-UP-Cardanos-Community-Hubs-f2a538.png" style="width:500px;height500px">
+&lt;p>Fund Size: 500,000 USD paid in Ada&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/381022">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26439/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>2022年にカルダノの採用と認識を促進するように地域コミュニティハブをどのように奨励しますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>ユーザーがいなくても、ブロックチェーンの専門知識を持つ技術者を中心にサービスを提供するニッチな製品を構築しています。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>平均的な人が自分の言語で自分の文化的理解を持って参加できる世界中の地域コミュニティハブ&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>2022年にいくつの新しいハブが立ち上げられましたか？&lt;/li>
+&lt;li>このコミュニティに焦点を当てた課題は、何人の開発者をカルダノエコシステムにもたらしましたか？&lt;/li>
+&lt;li>カルダノの新規ユーザーは何人参加しましたか？&lt;/li>
+&lt;li>ハブの最初のマーケティング立ち上げの総リーチはどれくらいでしたか？&lt;/li>
+&lt;li>このコミュニティに焦点を当てた課題は、カルダノのエコシステムにいくつの外部組織をもたらしましたか？&lt;/li>
+&lt;/ul>
+&lt;h3 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h3>
+&lt;p>&lt;em>&lt;strong>チャレンジアップデート&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>提出数による&lt;strong>ファンド7のトップ3チャレンジカテゴリー&lt;/strong>（添付を参照）。&lt;/p>
+&lt;p>&lt;strong>2x資金提供チャレンジ設定提案&lt;/strong>（資金5および資金6）&lt;/p>
+&lt;p>&lt;u>過去に資金提供された「スケールアップハブ」の選択：&lt;/u>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/367891-48088">Homeless Hubs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/367936-48088">Cardano in South L.A&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/367293-48088">Cardano in Buenos Aires&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/368369-48088">Salmon Nation Hub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="what-this-means">What this means&lt;/h4>
+&lt;ol>
+&lt;li>このカテゴリーの需要は高まっており、私たちはカルダノハブのネットワークで世界的に可能なことの始まりに過ぎません。ネットワーク効果はある時点で定着します。定着したら、新しいCardano Community Hub（CCH）の作成と維持に関するテンプレート、ガイド、および資料を用意する必要があります。&lt;/li>
+&lt;li>影響は現実のものであり、ROIは満たされています。このカテゴリーを通じて、実際の生活は影響を受け、改善されています。これにより、私たちが提供するソリューションからより多くの人々が恩恵を受け、世界中でこれらのサービスに対する需要がさらに高まるにつれて、双方にメリットのある正のフィードバックループが生まれます。&lt;/li>
+&lt;/ol>
+&lt;h4 id="ファンド8のチャレンジが異なる場合はどうなりますか">ファンド8のチャレンジが異なる場合はどうなりますか？&lt;/h4>
+&lt;p>需要の高まりはニーズがあることを示していますが、次の課題に焦点を当てるのはコインの裏側です。&lt;strong>資本供給。&lt;/strong>&lt;/p>
+&lt;p>事実はコミュニティハブの課題の必要性を証明していますが、ファンド8での地位を争う重要な課題は他にもたくさんあるので、それに応じて行動する必要があります。チャレンジ自体の中で、他の人がエコシステム内で、マクロ、Catalyst、マイクロの両方の&lt;strong>目標を追求できるように、予算を要求する必要があります&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>コミュニティハブをスケールアップ&lt;/strong>している間、&lt;strong>個々の資本支出をスケールダウン&lt;/strong>して、可能な限り迅速に拡散できるようにする必要があります。そのため、私たちは第一原理から取り組んでいます。&lt;/p>
+&lt;ol>
+&lt;li>他の方法ではアクセスできない人々に情報を提供します。&lt;/li>
+&lt;li>そのコミュニティ内での回復力と自立を確保する。情報配信ノードのレンズからハブにアプローチする場合、ニーズインパクトマトリックス内にハブ分類法を構築し、各場所で最も資本効率の高いモデルを見つけることができます。&lt;/li>
+&lt;/ol>
+&lt;p>簡単に言えば、ハブが存在する理由を、その場所、インフラストラクチャへのアクセス、およびコミュニティの準備状況のコンテキストで検討してください。次に、これらの要因に従ってハブを設計します。従来の実店舗（CTH）は、地域コミュニティ内の多くの潜在的な情報配信システムの1つにすぎません。&lt;/p>
+&lt;p>&lt;strong>このラウンドでは、ハブの最小有効ユニットである「最小実行可能ハブ」（MVH）にさらに焦点を当て&lt;/strong>、このユニットを特定することで、CCHのスケーリングをより迅速に開始できます。&lt;/p>
+&lt;p>&lt;em>&lt;strong>追加の成功指標：&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>ハブのファンド8の提案は、MVHの原則に沿っていますか？&lt;/li>
+&lt;li>彼らは彼らのターゲットオーディエンスを理解していますか？&lt;/li>
+&lt;li>最初の3、6、12か月で、リーチ（物理的およびオンライン）を正確に予測できますか？&lt;/li>
+&lt;li>3、6、12か月で、オンボーディングされたメンバーの数をハブに正確に予測できますか？&lt;/li>
+&lt;li>彼らは財政的持続可能性モデルの兆候を示しましたか？&lt;/li>
+&lt;li>彼らは予算コスト対「立ち上げコスト」の指標を与えましたか？ （たとえば、CTHは、Catalyst資金を取得するという需要圧力のために、立ち上げにかかるコストの1/5しか適用できない場合があります）&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>&lt;strong>CAと有権者による評価は、以下を支持する必要があります。&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>予算：ローンチに対するコストの比率が1〜1.5のプロポーザル。&lt;/li>
+&lt;li>チャレンジ予算全体の5％を超えない提案。&lt;/li>
+&lt;li>地域のニーズとインフラストラクチャの懸念を説明する提案。&lt;/li>
+&lt;li>ハブの設計と情報配信に関する創造性と創意工夫を示す提案。&lt;/li>
+&lt;li>地元のリサイクル可能な材料を使用し、持続可能性の実践に取り組んでいる提案。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>真にグローバルなエコシステムを構築して、どのレベルから始めても、誰もが自分の能力を最大限に発揮できるようにしましょう&lt;/strong>。&lt;/p>
+&lt;p>&lt;strong>実際の採用を推進&lt;/strong>するとき、あなたは単に「クールな製品を構築する」以上のことをしている&lt;strong>ので、人々が自分たちでは想像もできなかった方法で人生を変える&lt;/strong>ことができるようになります。&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/bZQvrLI.jpeg" alt="">&lt;/p>
+&lt;p>&lt;img src="https://i.imgur.com/MWddZex.gif" alt="">&lt;/p>
+&lt;h4 id="追加の読書私たちが行くところ">追加の読書（私たちが行くところ）：&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.gov.uk/government/news/sellafield-invests-26m-to-create-cumbria-business-hub">Cumbria, UK Business Hub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://techcrunch.com/2021/12/03/norrsken-foundations-hub-opens-in-rwanda-to-house-1000-entrepreneurs-by-next-year">Rwanda Business Hub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="過去の資金による課題">過去の資金による課題：&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/369413-48088">Scale-UP Community Hubs (F6)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088">Scale-UP Community Hubs (F6)&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: Self-Sovereign Identity（自己主権型アイデンティティ</title><link>/ja/catalyst/fund8/challenges/self-sovereign-identity/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/self-sovereign-identity/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/19-Self-Sovereign-Identity-b0f073.png" style="width:500px;height500px">
+&lt;p>Fund Size: &lt;strong>400,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/380986">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26451/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>自己主権型アイデンティティの原則をサポートするために、どのように次のステップを踏むことができますか？&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>私たちはSSIエコシステムのリーダーになる可能性があり、信頼を保証し、個人がデジタルIDを制御できるようにします。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>高品質のプロジェクトを受け入れる。 SSIディスカッションへの参加の増加。エコシステム、ガバナンス、ワーキンググループとの提携&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>定量化可能な方法でSSIに直接対処する提案の数&lt;/li>
+&lt;li>コミュニティの関心と関与によって測定される提案の質&lt;/li>
+&lt;li>SSIコミュニティ、ワーキンググループ、ガバナンスエンティティ内のカルダノの認識&lt;/li>
+&lt;/ul>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>ファンド6およびファンド7によるCatalystプロジェクトは、分散型IDおよびAtala PrismSDKの採用を推進するプロジェクトを推進しています。さらに、最初のコホートはAtala PRISMパイオニアプログラムの一部であり、2番目のコホートは開始する準備ができています。&lt;/p>
+&lt;p>これまでに提案されたプロジェクトの量と質、および分散型アイデンティティの問題へのコミュニティの関与は、&lt;strong>カルダノが自己主権型アイデンティティエコシステムのすべての側面に対処するための大きな動きをする準備ができていることを明確に示しています。&lt;/strong>&lt;/p>
+&lt;p>この課題は、カルダノをSSI分野のリーダーの1人として位置付けるのに役立つプロジェクトを探しています。過去の課題よりも広い範囲で、これがTrust over IPFoundationによって定義されたすべてのレイヤーに取り組むことを期待しています。&lt;/p>
+&lt;h4 id="プロジェクトがとることができるいくつかの方向性は次のとおりです">プロジェクトがとることができるいくつかの方向性は次のとおりです。&lt;/h4>
+&lt;ul>
+&lt;li>参加と採用の成長&lt;/li>
+&lt;li>移植性&lt;/li>
+&lt;li>使いやすさとアクセシビリティ&lt;/li>
+&lt;li>ガバナンスフレームワーク&lt;/li>
+&lt;li>相互運用性&lt;/li>
+&lt;li>プライバシーと最小限の開示（ゼロ知識証明）&lt;/li>
+&lt;li>安全&lt;/li>
+&lt;li>規制&lt;/li>
+&lt;li>ビジネスモデル&lt;/li>
+&lt;li>NFTとスマートコントラクトの統合&lt;/li>
+&lt;li>トラストレジストリ&lt;/li>
+&lt;li>エクイティとインクルージョン&lt;/li>
+&lt;li>哲学的な意味&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: SPOのグローバルな持続可能な独立</title><link>/ja/catalyst/fund7/challenges/glob-sus-inde-spos/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund7/challenges/glob-sus-inde-spos/campaign-brief/</guid><description>
+&lt;p>ファンドサイズ： &lt;strong>Adaで支払われる$ 100,000 USD&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26246">Campaign page&lt;/a> and &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26246/stage/unspecified">browse ideas&lt;/a>and &lt;a href="https://github.com/Catalyst-Challenges/F7-Global-Sustainable-Independent-SPOs">Git Repository&lt;/a> and &lt;a href="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/global-sustainable-indep.-spos">Git Book&lt;/a>&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>ネットワークのセキュリティは、SPOの分散型プールに依存して実行されます。適切なサポートがなければ、小規模なSPOは、大企業が市場シェアの過半数を獲得するまで、大企業が参入したり押し出したりするのに苦労します。これらの組織がすべてのインフラストラクチャに同じホスティングプロバイダーを使用している場合、これは追加のリスクを追加します。&lt;/p>
+&lt;p>一方、ノードを実行してネットワークに参加することは、コミュニティのイニシアチブがプロジェクトをサポートするための優れた方法になる可能性があります。小規模なミッションに焦点を当てたSPOをサポートおよび促進することにより、ネットワーク全体のセキュリティが向上します。大規模なホスティングプロバイダーは、環境フットプリントをほとんど気にしないことでも有名です。持続可能なエネルギー源で稼働するSPOを推進することにより、2つの目標を達成しています。1つはカルダノネットワークのエコロジカルフットプリントの削減、もう1つは使用するインフラストラクチャの観点からのより分散した安全なネットワークです。&lt;/p>
+&lt;h2 id="ガイドの質問">ガイドの質問：&lt;/h2>
+&lt;p>シングルステークプールオペレーターに関しては、コミュニティプロジェクトに接続されたステークプールと公共の目的に利益をもたらすステークプール。&lt;/p>
+&lt;ul>
+&lt;li>ステーキングを通じてこれらのステークプールをサポートするためにコミュニティ資金を使用できるようにする&lt;/li>
+&lt;li>ステークプールを選択する際にADA保有者が正しい決定を下せるように支援する&lt;/li>
+&lt;li>世界中のステークプールの分散型で多様な配布を促進する&lt;/li>
+&lt;/ul>
+&lt;h2 id="考えられる方向">考えられる方向：&lt;/h2>
+&lt;ul>
+&lt;li>コミュニティ資金を使用してステーキングによってステークプールをサポートするモデル/スマートコントラクトを設計する&lt;/li>
+&lt;li>独立したSPOの正当性の促進と証明を支援するプラットフォーム/組織&lt;/li>
+&lt;li>SPOインフラストラクチャ/ホスティングの監査システム&lt;/li>
+&lt;li>ステークプールをセルフホスティング/管理するためのガイド/ツール&lt;/li>
+&lt;li>プールの分散/分散ホスティングを促進するためのトポロジモデル/プロトコルを開発する&lt;/li>
+&lt;/ul>
+&lt;h2 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h2>
+&lt;p>グローバルに分散された自立型ネットワークは、ネットワークに対する多くの主要な脅威に対する最善の防御策です。&lt;/p>
+&lt;h2 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h2>
+&lt;p>世界中のステークプールオペレーターの多様で健全なエコシステムが、多数のインフラストラクチャ上でネットワークを集合的に実行しています&lt;/p>
+&lt;h2 id="測定する主要な指標">測定する主要な指標&lt;/h2>
+&lt;ul>
+&lt;li>世界中のステークプールの分散&lt;/li>
+&lt;li>プロジェクト/ NGOベースのSPOに賭けられたadaのコミュニティ資金の量&lt;/li>
+&lt;li>SPOに使用される検証済みの一意のホスティングプロバイダー/セルフホストインフラストラクチャの数&lt;/li>
+&lt;li>主にグリーンエネルギーを使用するステークプールの数&lt;/li>
+&lt;/ul></description></item><item><title>Catalyst: The Great Migration (from Ethereum)（イーサリアムからの大移行</title><link>/ja/catalyst/fund8/challenges/the-great-migration-from-ethereum/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund8/challenges/the-great-migration-from-ethereum/campaign-brief/</guid><description>
+&lt;img src="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/16-The-Great-Migration-from-Ethereum-76ace0.png" style="width:500px;height500px">
+&lt;p>Fund Size: 500,000 USD paid in Ada&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/c/idea/382642">キャンペーンページ&lt;/a>と&lt;a href="https://cardano.ideascale.com/c/campaigns/26448/stage/all/ideas/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="キャンペーン概要">キャンペーン概要&lt;/h2>
+&lt;p>dAppやその他のプロジェクトをイーサリアムからカルダノに簡単かつ迅速に拡張または完全に移行するにはどうすればよいでしょうか。&lt;/p>
+&lt;h3 id="どうしてそれが重要ですか">どうしてそれが重要ですか？&lt;/h3>
+&lt;p>多くのプロジェクトはイーサリアムのようなEVMベースのブロックチェーンに固執しており、脱出を模索しています。カルダノは、より速く、より安価に使用できます。&lt;/p>
+&lt;h3 id="成功はどのように見えますか">成功はどのように見えますか？&lt;/h3>
+&lt;p>EVMベースのブロックチェーンでの立ち上げを計画していた、または立ち上げたプロジェクトは、Cardanoエコシステムに展開され、簡単に実行できます。&lt;/p>
+&lt;h3 id="測定する主要な指標">測定する主要な指標&lt;/h3>
+&lt;ul>
+&lt;li>移行するプロジェクトの数&lt;/li>
+&lt;li>カルダノエコシステムに移行した後のこれらのスマートコントラクトのユーザー数&lt;/li>
+&lt;/ul>
+&lt;p>（メトリックは、何かを直接展開するプロジェクト、または展開を容易にするツールの構築を支援するプロジェクトに資金を提供することによって改善できます）&lt;/p>
+&lt;h2 id="チャレンジブリーフ">チャレンジブリーフ&lt;/h2>
+&lt;p>Cardanoエコシステムは、Haskellで記述されているにもかかわらず、EVMベースのブロックチェーン（Ethereumなど）にデプロイされたプロジェクトがCardanoエコシステムに移行するためのパスを提供する計画を常に持っていました。さらに、（UTXOではなく）アカウントスタイルの方法により適したプロジェクトも存在し、これらのプロジェクトをCardanoエコシステムからも使用できるようにしたいと考えています。&lt;/p>
+&lt;p>ロードマップのこの部分を達成するために、KEVM、IELE、ERC20 Converter、Milkomedaなどの多くの取り組みが現在進行中です。これらのプロジェクトは、人々がそれらを使用して展開したり、ツールを構築したりするのに十分成熟した段階に達しているので、Cardanoへのプロジェクトの歓迎を開始する時が来ました。&lt;/p>
+&lt;p>チャールズが彼のビデオ「島、海、池」でこれの重要性について話しているのを聞くことができます&lt;/p>
+&lt;p>{{&amp;lt;youtubek8a6tX53YPs&amp;gt;}}&lt;/p></description></item><item><title>Catalyst: アフリカのためのDeFiとマイクロレンディング</title><link>/ja/catalyst/fund6/challenges/defi-microlending/campaign-brief/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/catalyst/fund6/challenges/defi-microlending/campaign-brief/</guid><description>
+&lt;p>予算規模: &lt;strong>$90,000 USD paid in Ada&lt;/strong>&lt;/p>
+&lt;p>アフリカに合ったマイクロレンディングとDefi dAppソリューションの作成を可能にするにはどうすればよいでしょうか?&lt;/p>
+&lt;p>&lt;a href="https://cardano.ideascale.com/a/campaign-home/26112">キャンペーンページ&lt;/a> と &lt;a href="https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26112/stage/unspecified">アイデアの閲覧&lt;/a>。&lt;/p>
+&lt;h2 id="なぜ重要なのか">なぜ重要なのか？&lt;/h2>
+&lt;p>歴史的文化に基づいて、アフリカのコンテキスト &amp;amp; に特化したマイクロレンディングとDeFiのdAppsは、ユーザーの採用を加速します&lt;/p>
+&lt;h2 id="成功するとどのような未来が見えますか">成功するとどのような未来が見えますか？&lt;/h2>
+&lt;p>企業は、アフリカのマイクロレンディングとDefiの文脈に対処する、よく研究された提案を提出することを確信しています&lt;/p>
+&lt;h2 id="測定する主要なメトリック">測定する主要なメトリック&lt;/h2>
+&lt;ul>
+&lt;li>提出された提案はよく研究され、実行可能であり、伝統的なアフリカの金融文化の規範と実践に対処します&lt;/li>
+&lt;li>3つ以上の資金調達に成功し、次の3ラウンド以内に開始されたマイクロレンディングとDefi dAppに資金を供給しました。&lt;/li>
+&lt;li>2年以内に提案のターゲットの市場でユーザーが最低の50%に採用される&lt;/li>
+&lt;/ul>
+&lt;h2 id="参照">参照&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088">オリジナルのチャレンジ設定提案&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>
